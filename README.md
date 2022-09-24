@@ -539,6 +539,7 @@
 
 ## Dockerfile 
 
+- [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [PeterDaveHello/ipinfo.tw](https://github.com/PeterDaveHello/ipinfo.tw) - 🐳 A self-host  🙅 non-tracking, AD-🆓 ➕ 🍪-🆓 solution to show your IP ℹ️ Super small (🤏10MB)
 - [eirslett/chrome-karma-docker](https://github.com/eirslett/chrome-karma-docker) - Boilerplate project for running karma with Google Chrome inside a Docker container
 - [Urigo/angular-meteor](https://github.com/Urigo/angular-meteor) - Angular and Meteor - The perfect stack
@@ -714,6 +715,7 @@
 
 ## HTML 
 
+- [knrdl/bicimon](https://github.com/knrdl/bicimon) - Bike Speedometer
 - [jgamblin/nmaptable](https://github.com/jgamblin/nmaptable) - Transform NMap Scans to an D3.js HTML Table
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [ziplokk1/incapsula-cracker-py3](https://github.com/ziplokk1/incapsula-cracker-py3) - Python3 compatible way to bypass sites guarded with Incapsula
@@ -3439,7 +3441,7 @@
 - [Quartz/presidents-economy](https://github.com/Quartz/presidents-economy) - Tracking Trump's economic promises
 - [twitterdev/postman-twitter-ads-api](https://github.com/twitterdev/postman-twitter-ads-api) - Postman collection for the Twitter Ads API
 - [hhsnopek/tomify](https://github.com/hhsnopek/tomify) - Replace faces in image(s) with Tom wiggle or your own Gif!
-- [jawnyawns/make_rap](https://github.com/jawnyawns/make_rap) - Twitter bot 🤖 that turns your tweets into 🔥 raps!
+- [jawnyawns/make_rap](https://github.com/jawnyawns/make_rap) - Tweet → Rap
 - [ghosh/awesome-podcasts](https://github.com/ghosh/awesome-podcasts) - 🎙 Curated podcasts for designers, developers, product managers, entrepreneurs and hustlers
 - [ghosh/cssFilters](https://github.com/ghosh/cssFilters) - 🌄 Custom and Instagram like photo filter playground for CSS built with React
 - [rezaaa/movie-story-generator](https://github.com/rezaaa/movie-story-generator) - Generates an image for your searched movie or tv show with your rating to share on Instagram, twitter and...
@@ -3640,7 +3642,7 @@
 - [jamstack/jamstack.org](https://github.com/jamstack/jamstack.org) - The official Jamstack site
 - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 - [GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev) - The frontend, backend, and content source code for web.dev
-- [simplabs/mainmatter.com](https://github.com/simplabs/mainmatter.com) - The source code for https://simplabs.com
+- [mainmatter/mainmatter.com](https://github.com/mainmatter/mainmatter.com) - The source code for https://mainmatter.com
 - [a11yproject/a11yproject.com](https://github.com/a11yproject/a11yproject.com) - The A11Y Project is a community-driven effort to make digital accessibility easier.
 
 ## OCaml 
@@ -4127,6 +4129,7 @@
 
 ## Python 
 
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [LegitCamper/Selenium-Web-Clicker](https://github.com/LegitCamper/Selenium-Web-Clicker) - A Web-Scraper running in docker that utilizes the Mysterium Network to click ads while being undetected
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
@@ -4216,7 +4219,7 @@
 - [mwsoverdick/Working-Hours](https://github.com/mwsoverdick/Working-Hours) - A python script that parses a Google Maps takeout to log the amount of hours you spend near a specific GPS coordinate.
 - [LeanVel/TakeoutsTimelining](https://github.com/LeanVel/TakeoutsTimelining) - Project to perform a forensics analysis on the Google Takeout by doing timelining
 - [cujanovic/Content-Bruteforcing-Wordlist](https://github.com/cujanovic/Content-Bruteforcing-Wordlist) - Wordlist for content(directory) bruteforce discovering with Burp or dirsearch
-- [tropicoo/hikvision-camera-bot](https://github.com/tropicoo/hikvision-camera-bot) - HikVision Telegram Camera Bot
+- [tropicoo/hikvision-camera-bot](https://github.com/tropicoo/hikvision-camera-bot) - HikVision Telegram Camera Bot 🇺🇦
 - [bkbilly/AlarmPI](https://github.com/bkbilly/AlarmPI) - 🚨 Home Security Intrusion Detection for Raspberry PI or any other linux OS
 - [MissiaL/hikvision-client](https://github.com/MissiaL/hikvision-client) - Client for Hikvision devices
 - [ArchiveTeam/grab-site](https://github.com/ArchiveTeam/grab-site) - The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns
@@ -5109,6 +5112,7 @@
 
 ## Shell 
 
+- [eficode/wait-for](https://github.com/eficode/wait-for) - ./wait-for is a script to wait for another service to become available.
 - [azinchen/nordvpn](https://github.com/azinchen/nordvpn) - NordVPN Docker Client
 - [datacharmer/test_db](https://github.com/datacharmer/test_db) - A sample MySQL database with an integrated test suite, used to test your applications and database servers
 - [ethannam/git-privatize](https://github.com/ethannam/git-privatize) - A bash script for bulk privatization of GitHub repositories
