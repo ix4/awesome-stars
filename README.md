@@ -625,7 +625,7 @@
 - [oschwald/geoip2-golang](https://github.com/oschwald/geoip2-golang) - Unofficial MaxMind GeoIP2 Reader for Go
 - [xorilog/twitter-action](https://github.com/xorilog/twitter-action) - Post tweet using this action !
 - [sselph/scraper](https://github.com/sselph/scraper) - A scraper for EmulationStation written in Go using hashing
-- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 |
+- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 | #golang
 - [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List
 - [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
 - [boombuler/barcode](https://github.com/boombuler/barcode) - a barcode creation lib for golang
@@ -2644,6 +2644,7 @@
 - [jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://g
 - [CSAILVision/LabelMeAnnotationTool](https://github.com/CSAILVision/LabelMeAnnotationTool) - Source code for the LabelMe annotation tool.
 - [reactjs/reactjs.org-translation](https://github.com/reactjs/reactjs.org-translation) - Nexus of resources and tools for translating the React docs.
+- [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
 - [weareoutman/markdoc](https://github.com/weareoutman/markdoc) - An online markdown editor
 - [weareoutman/clockpicker](https://github.com/weareoutman/clockpicker) - A clock-style timepicker for Bootstrap (or jQuery). Sorry but no longer maintained.
@@ -3441,7 +3442,6 @@
 - [Quartz/presidents-economy](https://github.com/Quartz/presidents-economy) - Tracking Trump's economic promises
 - [twitterdev/postman-twitter-ads-api](https://github.com/twitterdev/postman-twitter-ads-api) - Postman collection for the Twitter Ads API
 - [hhsnopek/tomify](https://github.com/hhsnopek/tomify) - Replace faces in image(s) with Tom wiggle or your own Gif!
-- [jawnyawns/make_rap](https://github.com/jawnyawns/make_rap) - Tweet → Rap
 - [ghosh/awesome-podcasts](https://github.com/ghosh/awesome-podcasts) - 🎙 Curated podcasts for designers, developers, product managers, entrepreneurs and hustlers
 - [ghosh/cssFilters](https://github.com/ghosh/cssFilters) - 🌄 Custom and Instagram like photo filter playground for CSS built with React
 - [rezaaa/movie-story-generator](https://github.com/rezaaa/movie-story-generator) - Generates an image for your searched movie or tv show with your rating to share on Instagram, twitter and...
@@ -4780,6 +4780,7 @@
 - [ardubs/goggles](https://github.com/ardubs/goggles) - twitter exploration script, written in python
 - [google/gif-for-cli](https://github.com/google/gif-for-cli) - 
 - [LindseyB/not-pepe](https://github.com/LindseyB/not-pepe) - Basic Pepe/Not-pepe image classifier
+- [jawnyawns/make_rap](https://github.com/jawnyawns/make_rap) - Under Construction 🛠️
 - [ecthros/labelReader](https://github.com/ecthros/labelReader) - Programmatically find and read labels using Machine Learning
 - [ecthros/uncaptcha2](https://github.com/ecthros/uncaptcha2) - defeating the latest version of ReCaptcha with 91% accuracy
 - [amitt001/pygmy](https://github.com/amitt001/pygmy) - An open-source, feature rich & extensible url-shortener + analytics written in Python :cookie:
@@ -5060,7 +5061,7 @@
 - [bullgit/bullgit.github.io](https://github.com/bullgit/bullgit.github.io) - The amazing bullgit homepage
 - [GSA/resources.data.gov](https://github.com/GSA/resources.data.gov) - Resources for open data and enterprise data inventory management
 - [mmistakes/jekyll-theme-basically-basic](https://github.com/mmistakes/jekyll-theme-basically-basic) - Your new Jekyll default theme
-- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
+- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, easily build with widgets! 创建在线课程，学术简历或初创网站。#OpenScience
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [twitter/opensource-website](https://github.com/twitter/opensource-website) - Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
 - [atom/flight-manual.atom.io](https://github.com/atom/flight-manual.atom.io) - 📖 Documentation for Atom, generated by nanoc, hosted by GitHub Pages
@@ -5541,7 +5542,6 @@
 - [fb55/domhandler](https://github.com/fb55/domhandler) - Handler for htmlparser2, to get a DOM
 - [fb55/htmlparser2](https://github.com/fb55/htmlparser2) - The fast & forgiving HTML and XML parser
 - [udacity/cloudflare-typescript-workers](https://github.com/udacity/cloudflare-typescript-workers) - Types and mocks for building a tested Typescript Cloudflare Worker, generates three NPM packages
-- [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
 - [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
 - [GoogleChromeLabs/proxx](https://github.com/GoogleChromeLabs/proxx) - A game of proximity
 - [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
