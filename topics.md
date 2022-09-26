@@ -240,7 +240,6 @@
 - [microsoft/ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
 - [javierbyte/clashjs](https://github.com/javierbyte/clashjs) - Javascript AI battle game. Create your own battleship.
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Vector database for scalable similarity search and AI applications.
 - [adblockradio/adblockradio](https://github.com/adblockradio/adblockradio) - An adblocker for live radio streams and podcasts. Machine learning meets Shazam.
 - [onmyway133/awesome-machine-learning](https://github.com/onmyway133/awesome-machine-learning) - 🎰 A curated list of machine learning resources, preferably CoreML
 - [archilogic-com/3dio-js](https://github.com/archilogic-com/3dio-js) - JavaScript toolkit for interior apps
@@ -766,7 +765,6 @@
 - [kalliope-project/kalliope](https://github.com/kalliope-project/kalliope) - Kalliope is a framework that will help you to create your own personal assistant.
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [weimer-coders/is-this-true-bot](https://github.com/weimer-coders/is-this-true-bot) - A simple bot that responds to Tweets with potential fact checks.
-- [jawnyawns/make_rap](https://github.com/jawnyawns/make_rap) - Tweet → Rap
 
 ## c 
 
@@ -1187,7 +1185,7 @@
 - [MiteshPuthran/Speech-Emotion-Analyzer](https://github.com/MiteshPuthran/Speech-Emotion-Analyzer) - The neural network model is capable of detecting five different male/female emotions from audio speeches. (Deep Learning, NLP, Python)
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
-- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
+- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, easily build with widgets! 创建在线课程，学术简历或初创网站。#OpenScience
 - [Chicago/food-inspections-evaluation](https://github.com/Chicago/food-inspections-evaluation) - This repository contains the code to generate predictions of critical violations at food establishments in Chicago. It also contains the results of an evaluation of the effectiveness of those predicti
 - [plotly/dash-oil-and-gas-demo](https://github.com/plotly/dash-oil-and-gas-demo) - Dash Demo App - New York Oil and Gas
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
@@ -1375,7 +1373,7 @@
 - [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste) - The Django project driving dpaste.org
 - [cfpb/consumerfinance.gov](https://github.com/cfpb/consumerfinance.gov) - Django project protecting American consumers
 - [laws-africa/indigo](https://github.com/laws-africa/indigo) - Indigo Platform for publishing beautiful legislation.
-- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 |
+- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern, easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 | #golang
 - [MuckRock/muckrock](https://github.com/MuckRock/muckrock) - MuckRock's source code - Please report bugs, issues and feature requests to info@muckrock.com
 - [NeuroVault/NeuroVault](https://github.com/NeuroVault/NeuroVault) - Easy to use web database for statistical maps.
 - [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
@@ -1885,7 +1883,7 @@
 - [mholt/archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
 - [oschwald/geoip2-golang](https://github.com/oschwald/geoip2-golang) - Unofficial MaxMind GeoIP2 Reader for Go
 - [xorilog/twitter-action](https://github.com/xorilog/twitter-action) - Post tweet using this action !
-- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 |
+- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern, easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 | #golang
 - [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
 - [boombuler/barcode](https://github.com/boombuler/barcode) - a barcode creation lib for golang
 - [buger/jsonparser](https://github.com/buger/jsonparser) - One of the fastest alternative JSON parser for Go that does not require schema
@@ -1933,7 +1931,7 @@
 - [owenthereal/jqplay](https://github.com/owenthereal/jqplay) - A playground for jq, written in Go
 - [apex/up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
 - [xorilog/twitter-action](https://github.com/xorilog/twitter-action) - Post tweet using this action !
-- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 |
+- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern, easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 | #golang
 - [boombuler/barcode](https://github.com/boombuler/barcode) - a barcode creation lib for golang
 - [tpaschalis/gophersub](https://github.com/tpaschalis/gophersub) - (Rough, WIP) Go library and command-line utility to work with subtitle files.
 - [asticode/go-astisub](https://github.com/asticode/go-astisub) - Manipulate subtitles in GO (.srt, .ssa/.ass, .stl, .ttml, .vtt (webvtt), teletext, etc.)
@@ -2205,7 +2203,6 @@
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
 - [nasa-gibs/worldview](https://github.com/nasa-gibs/worldview) - Interactive interface for browsing global, full-resolution satellite imagery
 - [bauripalash/fossurl](https://github.com/bauripalash/fossurl) - Your Own Url Shortner Without any fancy server side processing and support for custom url , which can even be hosted on GitHub Pages
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Vector database for scalable similarity search and AI applications.
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [canvg/canvg](https://github.com/canvg/canvg) - JavaScript SVG parser and renderer on Canvas
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
@@ -3994,7 +3991,6 @@
 - [tungs/timecut](https://github.com/tungs/timecut) - Node.js program to record smooth movies of web pages with JavaScript animations
 - [edgi-govdata-archiving/web-monitoring-versionista-scraper](https://github.com/edgi-govdata-archiving/web-monitoring-versionista-scraper) - Quick and dirty, but fast, Node.js scraper for Versionista data used by EDGI
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
-- [jawnyawns/make_rap](https://github.com/jawnyawns/make_rap) - Tweet → Rap
 - [saadq/resumake.io](https://github.com/saadq/resumake.io) - 📝 A website for automatically generating elegant LaTeX resumes.
 - [matteocontrini/node-bypasser](https://github.com/matteocontrini/node-bypasser) - Bypass URL shortener websites
 - [vladocar/screenshoteer](https://github.com/vladocar/screenshoteer) - Make website screenshots and mobile emulations from the command line.
@@ -7135,6 +7131,7 @@
 - [buzzfeed-openlab/real-senate-floor](https://github.com/buzzfeed-openlab/real-senate-floor) - a twitter bot that generates fake pics of the senate floor
 - [buzzfeed-openlab/twitter-pruner](https://github.com/buzzfeed-openlab/twitter-pruner) - identify who's hogging too much space in your twitter feed
 - [ardubs/goggles](https://github.com/ardubs/goggles) - twitter exploration script, written in python
+- [jawnyawns/make_rap](https://github.com/jawnyawns/make_rap) - Under Construction 🛠️
 - [ecthros/uncaptcha2](https://github.com/ecthros/uncaptcha2) - defeating the latest version of ReCaptcha with 91% accuracy
 - [rezaaa/movie-story-generator](https://github.com/rezaaa/movie-story-generator) - Generates an image for your searched movie or tv show with your rating to share on Instagram, twitter and...
 - [azgs/geologic-map-of-arizona](https://github.com/azgs/geologic-map-of-arizona) - The Geologic Map of Arizona at 1:1,000,000-scale.
@@ -7673,7 +7670,7 @@
 - [rte-antares-rpackage/leaflet.minicharts](https://github.com/rte-antares-rpackage/leaflet.minicharts) - Minicharts for dynamic leaflet maps
 - [daattali/shinyjs](https://github.com/daattali/shinyjs) - 💡 Easily improve the user experience of your Shiny apps in seconds
 - [datamapio/story](https://github.com/datamapio/story) - Cheatsheets, Tutorials, Articles etc.
-- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
+- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, easily build with widgets! 创建在线课程，学术简历或初创网站。#OpenScience
 - [jbkunst/highcharter](https://github.com/jbkunst/highcharter) - R wrapper for highcharts
 - [dreamRs/apexcharter](https://github.com/dreamRs/apexcharter) - :bar_chart: R Htmlwidget for ApexCharts.js
 - [evanodell/parlitools](https://github.com/evanodell/parlitools) - A collection of useful tools for UK politics
