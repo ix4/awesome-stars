@@ -596,7 +596,6 @@
 - [schollz/find3](https://github.com/schollz/find3) - High-precision indoor positioning framework, version 3.
 - [schollz/find](https://github.com/schollz/find) - High-precision indoor positioning framework for most wifi-enabled devices.
 - [schollz/find-lf](https://github.com/schollz/find-lf) - Track the location of every Wi-Fi device (:iphone:) in your house using Raspberry Pis and FIND
-- [duo-labs/webauthn.io](https://github.com/duo-labs/webauthn.io) - The source code for webauthn.io, a demonstration of WebAuthn.
 - [tnychn/torrodle](https://github.com/tnychn/torrodle) - ⚡️ A magnet link scraper for streaming videos (movies, tv shows, anime, porn) along with subtitles.
 - [caddyserver/certmagic](https://github.com/caddyserver/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
 - [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server,
@@ -4240,6 +4239,7 @@
 - [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
 - [jefferyto/gedit-control-your-tabs](https://github.com/jefferyto/gedit-control-your-tabs) - A gedit plugin to switch between document tabs using Ctrl+Tab / Ctrl+Shift+Tab (most recently used order or tab row order) and Ctrl+PageUp / Ctrl+PageDown (tab row order)
 - [OnionIoT/Onion-Docs](https://github.com/OnionIoT/Onion-Docs) - Documentation for all things Onion
+- [duo-labs/webauthn.io](https://github.com/duo-labs/webauthn.io) - The source code for webauthn.io, a demonstration of WebAuthn.
 - [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - Use Database URLs in your Django Application.
 - [propublica/django-collaborative](https://github.com/propublica/django-collaborative) - ProPublica's collaborative tip-gathering framework. Import and manage CSV, Google Sheets and Screendoor data with ease.
 - [hodgesmr/django-ohio-voter-file](https://github.com/hodgesmr/django-ohio-voter-file) - Load the Ohio voter file into PostgreSQL with the Django ORM
@@ -4779,7 +4779,7 @@
 - [ardubs/goggles](https://github.com/ardubs/goggles) - twitter exploration script, written in python
 - [google/gif-for-cli](https://github.com/google/gif-for-cli) - 
 - [LindseyB/not-pepe](https://github.com/LindseyB/not-pepe) - Basic Pepe/Not-pepe image classifier
-- [jawnyawns/make_rap](https://github.com/jawnyawns/make_rap) - Under Construction 🛠️
+- [jawnyawns/make_rap](https://github.com/jawnyawns/make_rap) - Tweet → Rap
 - [ecthros/labelReader](https://github.com/ecthros/labelReader) - Programmatically find and read labels using Machine Learning
 - [ecthros/uncaptcha2](https://github.com/ecthros/uncaptcha2) - defeating the latest version of ReCaptcha with 91% accuracy
 - [amitt001/pygmy](https://github.com/amitt001/pygmy) - An open-source, feature rich & extensible url-shortener + analytics written in Python :cookie:
@@ -5112,6 +5112,7 @@
 
 ## Shell 
 
+- [jeffreytse/jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) - 🪂 A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
 - [eficode/wait-for](https://github.com/eficode/wait-for) - ./wait-for is a script to wait for another service to become available.
 - [azinchen/nordvpn](https://github.com/azinchen/nordvpn) - NordVPN Docker Client
 - [datacharmer/test_db](https://github.com/datacharmer/test_db) - A sample MySQL database with an integrated test suite, used to test your applications and database servers
