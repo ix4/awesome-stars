@@ -483,6 +483,7 @@
 
 ## awesome 
 
+- [jeffreytse/jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) - 🪂 A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
@@ -1309,6 +1310,7 @@
 
 ## deployment 
 
+- [jeffreytse/jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) - 🪂 A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
 - [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example) - 💬 A Step-by-Step Beginners Tutorial for Building, Testing & Deploying a Chat app in Phoenix 1.6.11 🚀
 - [nielsenramon/kickster](https://github.com/nielsenramon/kickster) - Worry-free deploying to GitHub Pages using Jekyll
 - [apex/up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
@@ -1922,7 +1924,6 @@
 - [eleboucher/berlin-vaccine-alert](https://github.com/eleboucher/berlin-vaccine-alert) - Telegram bot to get information on vaccine availabilities.
 - [mxpv/podsync](https://github.com/mxpv/podsync) - Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
 - [appleboy/gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
-- [duo-labs/webauthn.io](https://github.com/duo-labs/webauthn.io) - The source code for webauthn.io, a demonstration of WebAuthn.
 - [tnychn/torrodle](https://github.com/tnychn/torrodle) - ⚡️ A magnet link scraper for streaming videos (movies, tv shows, anime, porn) along with subtitles.
 - [caddyserver/certmagic](https://github.com/caddyserver/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
 - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
@@ -2067,6 +2068,7 @@
 - [PeterDaveHello/ipinfo.tw](https://github.com/PeterDaveHello/ipinfo.tw) - 🐳 A self-host  🙅 non-tracking, AD-🆓 ➕ 🍪-🆓 solution to show your IP ℹ️ Super small (🤏10MB)
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [pi-hole/AdminLTE](https://github.com/pi-hole/AdminLTE) - Pi-hole Dashboard for stats and more
+- [RandomCoderOrg/ubuntu-on-android](https://github.com/RandomCoderOrg/ubuntu-on-android) - Run Ubuntu with pre-installed Desktop Environments in android/termux with ease! Everything is preinstalled so just download install and done🚀🚀
 - [SoftCreatR/JSONPath](https://github.com/SoftCreatR/JSONPath) - JSONPath implementation for PHP.
 - [fcnoronha/WordArtBot](https://github.com/fcnoronha/WordArtBot) - 🎨 The WordArt generator bot for Telegram @bestWordArtBot
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
@@ -2102,6 +2104,7 @@
 - [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation) - Mattermost developer documentation.
 - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
+- [dart-lang/site-www](https://github.com/dart-lang/site-www) - Source for Dart website
 - [cfpb/wagtail-flags](https://github.com/cfpb/wagtail-flags) - Feature flags for Wagtail sites
 - [cfpb/wagtail-regulations](https://github.com/cfpb/wagtail-regulations) - Building blocks for interactive regulations in Wagtail
 - [PX4/PX4-Devguide](https://github.com/PX4/PX4-Devguide) - PX4 Devguide GitBook
@@ -2208,6 +2211,7 @@
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy) - A full fledged GUI integration for the award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
 - [nextcloud/spreed](https://github.com/nextcloud/spreed) - 🗨️ Nextcloud Talk – chat, video & audio calls for Nextcloud
+- [rust-lang/crates.io](https://github.com/rust-lang/crates.io) - Source code for crates.io
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [consul/consul](https://github.com/consul/consul) - Consul - Open Government and E-Participation Web Software
 - [styfle/packagephobia](https://github.com/styfle/packagephobia) - ⚖️ Find the cost of adding a new dependency to your project
@@ -3063,6 +3067,7 @@
 
 ## jekyll 
 
+- [jeffreytse/jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) - 🪂 A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
 - [Drassil/git-wiki-theme](https://github.com/Drassil/git-wiki-theme) - A revolutionary full-featured wiki for github pages and jekyll. You don't need to compile it!
 - [CDCgov/opencdc](https://github.com/CDCgov/opencdc) - This is the repository for the openCDC web site. Entire site is generated from data files describing CDC Open Technology types for data, api, code, and events. All CDC programs are welcome to submit p
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
@@ -5061,7 +5066,6 @@
 - [contributorpw/google-apps-script-snippets](https://github.com/contributorpw/google-apps-script-snippets) - Google Apps Script snippets
 - [googleworkspace/apps-script-oauth2](https://github.com/googleworkspace/apps-script-oauth2) - An OAuth2 library for Google Apps Script.
 - [wikimedia/WhoWroteThat](https://github.com/wikimedia/WhoWroteThat) - A Wikipedia gadget to a browser extension to display article contribution information. Powered by WikiWho.
-- [wikimedia/mediawiki](https://github.com/wikimedia/mediawiki) - 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing.
 - [edublancas/song-lyrics](https://github.com/edublancas/song-lyrics) - Exploratory Analysis of 200K+ song lyrics from the 1 million songs dataset
 - [NelsonMinar/vector-river-map](https://github.com/NelsonMinar/vector-river-map) - Tutorial project demonstrating making a web map with vector tiles
 - [angristan/nginx-autoinstall](https://github.com/angristan/nginx-autoinstall) - Compile NGINX from source with custom modules and patches on Debian and Ubuntu
@@ -6183,7 +6187,6 @@
 - [Yale-LILY/Awesome-NLP-Research](https://github.com/Yale-LILY/Awesome-NLP-Research) - 
 - [kiali/kiali.io](https://github.com/kiali/kiali.io) - Source code for www.kiali.io
 - [hershic/ee445m-labs](https://github.com/hershic/ee445m-labs) - EE445M Labs
-- [rust-lang/crates.io](https://github.com/rust-lang/crates.io) - Source code for crates.io
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [mermaidjs/mermaidjs.github.io](https://github.com/mermaidjs/mermaidjs.github.io) - Documentation has been moved to docs in https://github.com/mermaid-js/mermaid
 - [mozilla-mobile/firefox-tv](https://github.com/mozilla-mobile/firefox-tv) - Firefox for Amazon's Fire TV
@@ -7131,7 +7134,6 @@
 - [buzzfeed-openlab/real-senate-floor](https://github.com/buzzfeed-openlab/real-senate-floor) - a twitter bot that generates fake pics of the senate floor
 - [buzzfeed-openlab/twitter-pruner](https://github.com/buzzfeed-openlab/twitter-pruner) - identify who's hogging too much space in your twitter feed
 - [ardubs/goggles](https://github.com/ardubs/goggles) - twitter exploration script, written in python
-- [jawnyawns/make_rap](https://github.com/jawnyawns/make_rap) - Under Construction 🛠️
 - [ecthros/uncaptcha2](https://github.com/ecthros/uncaptcha2) - defeating the latest version of ReCaptcha with 91% accuracy
 - [rezaaa/movie-story-generator](https://github.com/rezaaa/movie-story-generator) - Generates an image for your searched movie or tv show with your rating to share on Instagram, twitter and...
 - [azgs/geologic-map-of-arizona](https://github.com/azgs/geologic-map-of-arizona) - The Geologic Map of Arizona at 1:1,000,000-scale.
@@ -7248,6 +7250,7 @@
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine
 - [sebastianfeldmann/phpbu](https://github.com/sebastianfeldmann/phpbu) - PHP Backup Utility - Creates and encrypts database and file backups, syncs your backups to other servers or cloud services and assists you monitor your backup process
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
+- [wikimedia/mediawiki](https://github.com/wikimedia/mediawiki) - 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing.
 - [GetDKAN/dkan](https://github.com/GetDKAN/dkan) - DKAN Open Data Portal
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [GaneshKandu/Palette](https://github.com/GaneshKandu/Palette) - :art: Palette is a freehand CMS which allows to construct websites directly in a web-browser. It uses flat files for storage and provides an intuitive GUI
@@ -7408,6 +7411,7 @@
 - [egbertbouman/youtube-comment-downloader](https://github.com/egbertbouman/youtube-comment-downloader) - Simple script for downloading Youtube comments without using the Youtube API
 - [dddat1017/Scraping-Youtube-Comments](https://github.com/dddat1017/Scraping-Youtube-Comments) - Scrape comments from any Youtube video
 - [SkypLabs/probequest](https://github.com/SkypLabs/probequest) - Toolkit for Playing with Wi-Fi Probe Requests
+- [duo-labs/webauthn.io](https://github.com/duo-labs/webauthn.io) - The source code for webauthn.io, a demonstration of WebAuthn.
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [github/covid19-dashboard](https://github.com/github/covid19-dashboard) - A site that displays up to date COVID-19 stats, powered by fastpages.
 - [geopy/geopy](https://github.com/geopy/geopy) - Geocoding library for Python.
@@ -8497,6 +8501,7 @@
 - [jessepinho/trumpymctweetface.com](https://github.com/jessepinho/trumpymctweetface.com) - Trump's face gets more orange when his tweets are louder. That's about it.
 - [0x263b/Otherside](https://github.com/0x263b/Otherside) - Create a Twitter List of the accounts someone follows, and see Twitter from their perspective
 - [twitterdev/postman-twitter-ads-api](https://github.com/twitterdev/postman-twitter-ads-api) - Postman collection for the Twitter Ads API
+- [jawnyawns/make_rap](https://github.com/jawnyawns/make_rap) - Tweet → Rap
 - [ellisonleao/sharer.js](https://github.com/ellisonleao/sharer.js) - :on: :bookmark: Create your own social share buttons. No jquery.
 - [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 - [producthunt/ShareMeow](https://github.com/producthunt/ShareMeow) - :heart_eyes_cat: text shots service
