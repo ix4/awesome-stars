@@ -1447,7 +1447,7 @@
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
 - [lsegal/yard](https://github.com/lsegal/yard) - YARD is a Ruby Documentation tool. The Y stands for "Yay!"
 - [plotly/graphing-library-docs](https://github.com/plotly/graphing-library-docs) - Plotly's graphing libraries documentation.
-- [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - Main repository for the Sphinx documentation builder
+- [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - The Sphinx documentation generator
 - [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation) - Mattermost developer documentation.
 - [nextbitlabs/Rapido](https://github.com/nextbitlabs/Rapido) - Write your blog posts with semantic HTML.
 - [middleman/middlemanapp.com](https://github.com/middleman/middlemanapp.com) - Documentation for Middleman
@@ -2134,6 +2134,7 @@
 - [NiallEccles/Hacktoberfest-animations](https://github.com/NiallEccles/Hacktoberfest-animations) - Small animation selector for Hacktoberfest
 - [airform/airform](https://github.com/airform/airform) - Functional HTML forms for Front-End Developers.
 - [mgechev/javascript-algorithms](https://github.com/mgechev/javascript-algorithms) - 💻 JavaScript implementations of computer science algorithms
+- [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript. We're hiring https://boards.greenhouse.io/sentry
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
 - [allejo/jekyll-docs-theme](https://github.com/allejo/jekyll-docs-theme) - A mediocre Jekyll theme for writing documentation websites based Bootstrap's old website design
@@ -2575,7 +2576,7 @@
 - [RadLikeWhoa/Countable](https://github.com/RadLikeWhoa/Countable) - Add live paragraph-, word- and character-counting to an HTML element.
 - [chancejs/chancejs](https://github.com/chancejs/chancejs) - Chance - Random generator helper for JavaScript
 - [kevinschaich/mintable](https://github.com/kevinschaich/mintable) - 🍃 Automate your personal finances – for free, with no ads, and no data collection.
-- [mengshukeji/Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
+- [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [Keyang/node-csvtojson](https://github.com/Keyang/node-csvtojson) - Blazing fast and Comprehensive CSV Parser for Node.JS / Browser / Command Line.
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
@@ -3576,6 +3577,7 @@
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [mrzool/letter-boilerplate](https://github.com/mrzool/letter-boilerplate) - Finest letter typesetting from the command line
 - [rstudio/rmarkdown](https://github.com/rstudio/rmarkdown) - Dynamic Documents for R
+- [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - The Sphinx documentation generator
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 - [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions) - Extensions for Python Markdown
 - [vHanda/google-keep-exporter](https://github.com/vHanda/google-keep-exporter) - Export google keep notes to markdown
@@ -5243,7 +5245,7 @@
 - [arve0/markdown-it-attrs](https://github.com/arve0/markdown-it-attrs) - Add classes, identifiers and attributes to your markdown with {} curly brackets, similar to pandoc's header attributes
 - [zotero/zotero-google-docs-integration](https://github.com/zotero/zotero-google-docs-integration) - 
 - [Juris-M/bluebook-signals-for-zotero](https://github.com/Juris-M/bluebook-signals-for-zotero) - A simple plugin that adds a menu of standard Bluebook signals to the Prefix field of the Zotero/MLZ work procesor plugins.
-- [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker's Documentation
+- [docker/docs](https://github.com/docker/docs) - Source repo for Docker's Documentation
 - [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 - [jrjml/jrjml.github.io](https://github.com/jrjml/jrjml.github.io) - JRJML Policy and Procedures Manual
 - [broccolini/dark-mode](https://github.com/broccolini/dark-mode) - Prototype for dark mode with a GitHub profile
@@ -7424,7 +7426,7 @@
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [open-notify/Open-Notify-API](https://github.com/open-notify/Open-Notify-API) - Source code for api.open-notify.org
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
-- [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - Main repository for the Sphinx documentation builder
+- [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - The Sphinx documentation generator
 - [nasa/api-docs](https://github.com/nasa/api-docs) - api.nasa.gov
 - [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions) - Extensions for Python Markdown
 - [cfpb/wagtail-flags](https://github.com/cfpb/wagtail-flags) - Feature flags for Wagtail sites
