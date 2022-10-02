@@ -3541,7 +3541,7 @@
 - [usnistgov/pfhub](https://github.com/usnistgov/pfhub) - The CHiMaD Phase Field Community Website
 - [datawrapper/snippets](https://github.com/datawrapper/snippets) - ✂ Small but useful code snippets from folks who work at Datawrapper
 - [google/patents-public-data](https://github.com/google/patents-public-data) - Patent analysis using the Google Patents Public Datasets on BigQuery
-- [iwantooxxoox/Keras-OpenFace](https://github.com/iwantooxxoox/Keras-OpenFace) - Keras-OpenFace is a project converting OpenFace from Torch implementation to a Keras version
+- [vsyw/Keras-OpenFace](https://github.com/vsyw/Keras-OpenFace) - Keras-OpenFace is a project converting OpenFace from Torch implementation to a Keras version
 - [archivesunleashed/auk-notebooks](https://github.com/archivesunleashed/auk-notebooks) - Jupyter notebooks to assist in creating additional analysis and visualizations of Archives Unleashed Cloud derivatives.
 - [binder-examples/jupyterlab](https://github.com/binder-examples/jupyterlab) - Demonstrating how to get JupyterLab working with Binder
 - [edsu/spn](https://github.com/edsu/spn) - Playing around with SavePageNow data.
