@@ -2068,12 +2068,14 @@
 - [PeterDaveHello/ipinfo.tw](https://github.com/PeterDaveHello/ipinfo.tw) - 🐳 A self-host  🙅 non-tracking, AD-🆓 ➕ 🍪-🆓 solution to show your IP ℹ️ Super small (🤏10MB)
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [pi-hole/AdminLTE](https://github.com/pi-hole/AdminLTE) - Pi-hole Dashboard for stats and more
+- [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [RandomCoderOrg/ubuntu-on-android](https://github.com/RandomCoderOrg/ubuntu-on-android) - Run Ubuntu with pre-installed Desktop Environments in android/termux with ease! Everything is preinstalled so just download install and done🚀🚀
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [SoftCreatR/JSONPath](https://github.com/SoftCreatR/JSONPath) - JSONPath implementation for PHP.
 - [fcnoronha/WordArtBot](https://github.com/fcnoronha/WordArtBot) - 🎨 The WordArt generator bot for Telegram @bestWordArtBot
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
+- [termux/termux-packages](https://github.com/termux/termux-packages) - A build system and primary set of packages for Termux.
 - [davidteather/TikTok-Api](https://github.com/davidteather/TikTok-Api) - The Unofficial TikTok API Wrapper In Python
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
@@ -2119,6 +2121,7 @@
 - [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [cfpb/consumerfinance.gov](https://github.com/cfpb/consumerfinance.gov) - Django project protecting American consumers
 - [cfpb/design-system](https://github.com/cfpb/design-system) - CFPB's work-in-progress design system
+- [w3c/respec](https://github.com/w3c/respec) - A tool for creating technical documents and web standards
 - [vsoch/docsy-jekyll](https://github.com/vsoch/docsy-jekyll) - A Jekyll version of the beautiful Docsy!
 - [rubygems/bundler-site](https://github.com/rubygems/bundler-site) - The Bundler documentation website
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
@@ -2225,6 +2228,7 @@
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
 - [ioquake/ioq3](https://github.com/ioquake/ioq3) - The ioquake3 community effort to continue supporting/developing id's Quake III Arena
+- [Radarr/Radarr](https://github.com/Radarr/Radarr) - A fork of Sonarr to work with movies à la Couchpotato.
 - [linuxserver/docker-radarr](https://github.com/linuxserver/docker-radarr) - 
 - [calvinmetcalf/shapefile-js](https://github.com/calvinmetcalf/shapefile-js) - Convert a Shapefile to GeoJSON. Not many caveats.
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
@@ -2234,6 +2238,7 @@
 - [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
 - [PJijin/Cover-Image-Generator](https://github.com/PJijin/Cover-Image-Generator) - 📕 Generate a cover image for your blog post 📝 https://blogcover.now.sh/
 - [kevinzg/facebook-scraper](https://github.com/kevinzg/facebook-scraper) - Scrape Facebook public pages without an API key
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
@@ -6273,7 +6278,7 @@
 - [ChanChiChoi/awesome-Face_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition) - papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Debl
 - [eduardolundgren/trackingjs.com](https://github.com/eduardolundgren/trackingjs.com) - Website of tracking.js library
 - [eduardolundgren/tracking.js](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web
-- [iwantooxxoox/Keras-OpenFace](https://github.com/iwantooxxoox/Keras-OpenFace) - Keras-OpenFace is a project converting OpenFace from Torch implementation to a Keras version
+- [vsyw/Keras-OpenFace](https://github.com/vsyw/Keras-OpenFace) - Keras-OpenFace is a project converting OpenFace from Torch implementation to a Keras version
 - [ariya/kinetic](https://github.com/ariya/kinetic) - Kinetic Scrolling with JavaScript
 - [major/icanhaz](https://github.com/major/icanhaz) - The code behind icanhaz 2.0
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
@@ -6324,7 +6329,6 @@
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - This is a full computer management web site. With MeshCentral, you can run your own web server and it to remotely manage and control computers on a local network or anywhere on the internet. Once you 
 - [inolen/quakejs](https://github.com/inolen/quakejs) - 
 - [mdn/dom-examples](https://github.com/mdn/dom-examples) - Code examples that accompany various MDN DOM and Web API documentation pages
-- [Radarr/Radarr](https://github.com/Radarr/Radarr) - A fork of Sonarr to work with movies à la Couchpotato.
 - [ReallyGood/js-motion-detection](https://github.com/ReallyGood/js-motion-detection) - A basic starting point for motion-detection apps using WebRTC & Canvas, refactored out of the Magic Xylophone by @soundstep
 - [webrtcHacks/adapter](https://github.com/webrtcHacks/adapter) - Shim to insulate apps from spec changes and prefix differences. Latest adapter.js release:
 - [meetecho/janus-gateway](https://github.com/meetecho/janus-gateway) - Janus WebRTC Server
@@ -7400,6 +7404,7 @@
 - [pndurette/gTTS](https://github.com/pndurette/gTTS) - Python library and CLI tool to interface with Google Translate's text-to-speech API
 - [ziplokk1/incapsula-cracker-py3](https://github.com/ziplokk1/incapsula-cracker-py3) - Python3 compatible way to bypass sites guarded with Incapsula
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
+- [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [nithinmurali/pygsheets](https://github.com/nithinmurali/pygsheets) - Google Sheets Python API v4
 - [hhatto/autopep8](https://github.com/hhatto/autopep8) - A tool that automatically formats Python code to conform to the PEP 8 style guide.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
@@ -7559,6 +7564,7 @@
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [bl4de/security-tools](https://github.com/bl4de/security-tools) - My collection of various security tools created mostly in Python and Bash. For CTFs and Bug Bounty.
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
 - [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
