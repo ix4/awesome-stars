@@ -809,6 +809,7 @@
 - [opensiddur/opensiddur](https://github.com/opensiddur/opensiddur) - The Open Siddur Project aims to produce a free software toolkit for making high-quality custom Jewish liturgical books such as haggadot, siddurim, and bentchers that can be displayed on screen or prin
 - [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
 - [cheeaun/life](https://github.com/cheeaun/life) - Life - a timeline of important events in my life
+- [Codepoints/Codepoints.net](https://github.com/Codepoints/Codepoints.net) - A visual guide to the wonders of Unicode
 - [hyperhype/hyperscript](https://github.com/hyperhype/hyperscript) - Create HyperText with JavaScript.
 - [themefisher/educenter-hugo](https://github.com/themefisher/educenter-hugo) - Educenter is an educational website template powered by Hugo. It can be used as an online teaching platform, school and university website.
 - [google/docsy-example](https://github.com/google/docsy-example) - An example documentation site using the Docsy Hugo theme
@@ -929,7 +930,7 @@
 - [yyx990803/build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) - Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.
 - [GoogleWebComponents/google-map](https://github.com/GoogleWebComponents/google-map) - Google Maps web components
 - [mdn/learning-area](https://github.com/mdn/learning-area) - Github repo for the MDN Learning Area.
-- [mdn/webaudio-examples](https://github.com/mdn/webaudio-examples) - Code examples that accompany the MDN Web Audio documentation
+- [mdn/webaudio-examples](https://github.com/mdn/webaudio-examples) - Code examples that accompany the MDN Web Docs pages relating to Web Audio.
 - [mdn/kumascript](https://github.com/mdn/kumascript) - Bringing scripting to the wiki bears.
 - [kristoferjoseph/flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid) - Grid based on CSS3 flexbox
 - [fontforge/designwithfontforge.com](https://github.com/fontforge/designwithfontforge.com) - A book about how to design new typefaces with FontForge
@@ -2136,7 +2137,7 @@
 - [PButcher/a-million-times](https://github.com/PButcher/a-million-times) - A digital analogue clock
 - [Yakubovich/descendant_tree](https://github.com/Yakubovich/descendant_tree) - Uses d3.js to draw a descendant family tree
 - [StartBootstrap/startbootstrap-stylish-portfolio](https://github.com/StartBootstrap/startbootstrap-stylish-portfolio) - A stylish, one page, Bootstrap portfolio theme created by Start Bootstrap
-- [jgraph/drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
+- [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
 - [GermaVinsmoke/bmi-calculator](https://github.com/GermaVinsmoke/bmi-calculator) - React Hooks app for calculating BMI
 - [KarthikeyanRanasthala/react-todo-list](https://github.com/KarthikeyanRanasthala/react-todo-list) - https://karthikeyanranasthala.github.io/react-todo-list/
 - [KarthikeyanRanasthala/react-unit-converter](https://github.com/KarthikeyanRanasthala/react-unit-converter) - 
@@ -3506,6 +3507,7 @@
 - [plotly/graphing-library-docs](https://github.com/plotly/graphing-library-docs) - Plotly's graphing libraries documentation.
 - [NUKnightLab/studio-documenters](https://github.com/NUKnightLab/studio-documenters) - Explorations for the Documenters.org project
 - [andrewray/iocaml](https://github.com/andrewray/iocaml) - An OCaml kernel for the IPython notebook
+- [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic) - 🎓 Hugo Academic Theme 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo, GitHub, and Netlify.
 - [PAIR-code/facets](https://github.com/PAIR-code/facets) - Visualizations for machine learning datasets
 - [cs231n/cs231n.github.io](https://github.com/cs231n/cs231n.github.io) - Public facing notes page
 - [sphinxteam/mlcourse_2019](https://github.com/sphinxteam/mlcourse_2019) - INTRODUCTION TO MACHINE LEARNING: An introductory practical course by Florent Krzakala and Antoine Baker
@@ -3977,7 +3979,6 @@
 - [erusev/parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP
 - [michelf/php-markdown](https://github.com/michelf/php-markdown) - Parser for Markdown and Markdown Extra derived from the original Markdown.pl by John Gruber.
 - [michelf/php-smartypants](https://github.com/michelf/php-smartypants) - Web typography prettifyier tools derived from the original SmartyPants.pl by John Gruber.
-- [Codepoints/Codepoints.net](https://github.com/Codepoints/Codepoints.net) - A visual guide to the wonders of Unicode
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine
 - [sebastianfeldmann/phpbu](https://github.com/sebastianfeldmann/phpbu) - PHP Backup Utility - Creates and encrypts database and file backups, syncs your backups to other servers or cloud services and assists you monitor your backup process
 - [krusynth/govify](https://github.com/krusynth/govify) - Govify.Cloud project - making open data less open, one document at a time.
@@ -5300,7 +5301,6 @@
 - [latex3/iftex](https://github.com/latex3/iftex) - tex engine detection
 - [PX4/PX4-Devguide](https://github.com/PX4/PX4-Devguide) - PX4 Devguide GitBook
 - [Tufte-LaTeX/tufte-latex](https://github.com/Tufte-LaTeX/tufte-latex) - A Tufte-inspired LaTeX class for producing handouts, papers, and books
-- [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic) - 🎓 Hugo Academic Theme 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo, GitHub, and Netlify.
 - [yaronf/bibtex2rfc](https://github.com/yaronf/bibtex2rfc) - Convert bibtex citations into bibxml references for use in Internet Drafts and RFCs
 - [pablooliveira/bibjekyll](https://github.com/pablooliveira/bibjekyll) - A bibtex plugin for Jekyll (based on bibtex2html)
 - [jez/pandoc-starter](https://github.com/jez/pandoc-starter) - 📄 My pandoc markdown templates and makefiles
