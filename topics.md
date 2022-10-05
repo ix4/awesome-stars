@@ -791,6 +791,7 @@
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [berstend/puppeteer-extra](https://github.com/berstend/puppeteer-extra) - 💯  Teach puppeteer new tricks through plugins.
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
+- [jnmcfly/awesome-startpage](https://github.com/jnmcfly/awesome-startpage) - This is a carefully compiled list of remarkable projects with the focus on startpages.
 - [z0ccc/Upvote-Anywhere](https://github.com/z0ccc/Upvote-Anywhere) - Upvote Anywhere Browser Extension
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
 - [domoritz/himawari-8-chrome](https://github.com/domoritz/himawari-8-chrome) - 🛰 Experience the latest image from the Himawari, GOES, Meteosat, and DSCOVR satellites
@@ -1518,6 +1519,7 @@
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
 - [uswds/uswds-site](https://github.com/uswds/uswds-site) - USWDS website and documentation
 - [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [probot/probot.github.io](https://github.com/probot/probot.github.io) - This is the home of probot documentation, apps, how-to guides and more.
@@ -1677,6 +1679,7 @@
 
 ## firefox 
 
+- [jnmcfly/awesome-startpage](https://github.com/jnmcfly/awesome-startpage) - This is a carefully compiled list of remarkable projects with the focus on startpages.
 - [z0ccc/Upvote-Anywhere](https://github.com/z0ccc/Upvote-Anywhere) - Upvote Anywhere Browser Extension
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
 - [domoritz/himawari-8-chrome](https://github.com/domoritz/himawari-8-chrome) - 🛰 Experience the latest image from the Himawari, GOES, Meteosat, and DSCOVR satellites
@@ -2076,10 +2079,12 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A build system and primary set of packages for Termux.
+- [jnmcfly/awesome-startpage](https://github.com/jnmcfly/awesome-startpage) - This is a carefully compiled list of remarkable projects with the focus on startpages.
 - [davidteather/TikTok-Api](https://github.com/davidteather/TikTok-Api) - The Unofficial TikTok API Wrapper In Python
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
 - [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
+- [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv) - :necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!
 - [joshdk/tty-qlock](https://github.com/joshdk/tty-qlock) - A minimal, curses-based clock for your terminal
 - [LibreELEC/LibreELEC.tv](https://github.com/LibreELEC/LibreELEC.tv) - Just enough OS for KODI
 - [matomo-org/device-detector](https://github.com/matomo-org/device-detector) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
@@ -2116,6 +2121,7 @@
 - [openshift/openshift-docs](https://github.com/openshift/openshift-docs) - OpenShift 3 and 4 product and community documentation
 - [prometheus/docs](https://github.com/prometheus/docs) - Prometheus documentation: content and static site generator
 - [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
+- [midzer/tobii](https://github.com/midzer/tobii) - An accessible, open-source lightbox with no dependencies
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
 - [refinery/refinerycms](https://github.com/refinery/refinerycms) - An extendable Ruby on Rails CMS that supports Rails 6.0+
 - [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
@@ -2147,7 +2153,6 @@
 - [OpenArchive/Save-app-android](https://github.com/OpenArchive/Save-app-android) - This is the Save app for Android
 - [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :koala: - PouchDB is a pocket-sized database.
 - [chinchang/web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend playground
-- [chinchang/hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
 - [xbmc/repo-scripts](https://github.com/xbmc/repo-scripts) - Official source repository for Kodi script add-ons
 - [xbmc/repo-plugins](https://github.com/xbmc/repo-plugins) - Official source repository for Kodi plugin add-ons
 - [ZEISS/precise-ui](https://github.com/ZEISS/precise-ui) - :triangular_ruler: React UI Component Library powered by ZEISS.
@@ -2163,6 +2168,7 @@
 - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
 - [danog/MadelineProto](https://github.com/danog/MadelineProto) - Async PHP client/server API for the telegram MTProto protocol
+- [php-telegram-bot/core](https://github.com/php-telegram-bot/core) - PHP Telegram Bot based on the official Telegram Bot API
 - [muety/telepush](https://github.com/muety/telepush) - 🤖 A simple bot to translate JSON HTTP requests into Telegram push messages
 - [googlemaps/google-maps-services-js](https://github.com/googlemaps/google-maps-services-js) - Node.js client library for Google Maps API Web Services
 - [amitmerchant1990/notepad](https://github.com/amitmerchant1990/notepad) - :ledger: An offline capable Notepad PWA powered by ServiceWorker
@@ -2203,6 +2209,7 @@
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [openbenches/openbenches.org](https://github.com/openbenches/openbenches.org) - OpenBenches.org - an open data repository for memorial benches
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS
 - [nextcloud/maps](https://github.com/nextcloud/maps) - 🌍🌏🌎 The whole world fits inside your cloud!
 - [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
@@ -2212,10 +2219,12 @@
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
 - [hotosm/tasking-manager](https://github.com/hotosm/tasking-manager) - Tasking Manager - The tool to team up for mapping in OpenStreetMap
+- [openstates/people](https://github.com/openstates/people) - Curated information on all state legislators & governors.
 - [nasa-gibs/worldview](https://github.com/nasa-gibs/worldview) - Interactive interface for browsing global, full-resolution satellite imagery
 - [bauripalash/fossurl](https://github.com/bauripalash/fossurl) - Your Own Url Shortner Without any fancy server side processing and support for custom url , which can even be hosted on GitHub Pages
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [canvg/canvg](https://github.com/canvg/canvg) - JavaScript SVG parser and renderer on Canvas
+- [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Navigable waveform built on Web Audio and Canvas
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy) - A full fledged GUI integration for the award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
 - [nextcloud/spreed](https://github.com/nextcloud/spreed) - 🗨️ Nextcloud Talk – chat, video & audio calls for Nextcloud
@@ -2244,6 +2253,7 @@
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 - [daviddarnes/alembic](https://github.com/daviddarnes/alembic) - ⚗️ A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
 - [heiswayi/the-plain](https://github.com/heiswayi/the-plain) - A minimalist Jekyll theme, ideally designed for your personal blog use.
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [amplitude/Amplitude-Android](https://github.com/amplitude/Amplitude-Android) - Native Android SDK for Amplitude
 - [10up/ElasticPress](https://github.com/10up/ElasticPress) - A fast and flexible search and query engine for WordPress.
 - [creativecommons/legaldb](https://github.com/creativecommons/legaldb) - CC Legal Database: curated repository of Case Law and Scholarship data from around the world in a Django based website.
@@ -2257,6 +2267,7 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, collect and analyse network intelligenc
 - [juliuste/parliament-svg](https://github.com/juliuste/parliament-svg) - Generate parliament charts as virtual-dom SVG
+- [smeijer/leaflet-geosearch](https://github.com/smeijer/leaflet-geosearch) - A geocoding/address-lookup library supporting various api providers.
 - [alltheplaces/alltheplaces](https://github.com/alltheplaces/alltheplaces) - A set of spiders and scrapers to extract location information from places that post their location on the internet.
 - [geosolutions-it/MapStore2](https://github.com/geosolutions-it/MapStore2) - Modern webmapping with OpenLayers, Leaflet and React
 - [openwisp/django-rest-framework-gis](https://github.com/openwisp/django-rest-framework-gis) - Geographic add-ons for Django REST Framework. Maintained by the OpenWISP Project.
@@ -2270,6 +2281,7 @@
 - [asciidoctor/asciidoctor.js](https://github.com/asciidoctor/asciidoctor.js) - :scroll: A JavaScript port of Asciidoctor, a modern implementation of AsciiDoc
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) - Shaming sites with dumb password rules.
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
@@ -2757,6 +2769,7 @@
 - [mburakerman/hrjs](https://github.com/mburakerman/hrjs) - 🔄 Tiny JavaScript plugin for highlighting and replacing text in the DOM
 - [csaladenes/csaladenes.github.io](https://github.com/csaladenes/csaladenes.github.io) - Code behind my personal website (Dénes Csala)
 - [googlemaps/google-maps-services-js](https://github.com/googlemaps/google-maps-services-js) - Node.js client library for Google Maps API Web Services
+- [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
 - [GermaVinsmoke/bmi-calculator](https://github.com/GermaVinsmoke/bmi-calculator) - React Hooks app for calculating BMI
 - [vuestorefront/storefront-ui](https://github.com/vuestorefront/storefront-ui) - Customization-first, performance-oriented and elegant UI framework for eCommerce (and not only) based on Vue.js and Google Retail UX Playbook. Made with 💚 by Vue Storefront team and contributors.
 - [jeffersonRibeiro/react-shopping-cart](https://github.com/jeffersonRibeiro/react-shopping-cart) - 🛍️ Simple ecommerce cart application built with Typescript and React
@@ -2982,6 +2995,7 @@
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [christian-fei/Simple-Jekyll-Search](https://github.com/christian-fei/Simple-Jekyll-Search) - A JavaScript library to add search functionality to any Jekyll blog.
 - [redsolution/xabber-web](https://github.com/redsolution/xabber-web) - Open source XMPP client for Web
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [jessepollak/payment](https://github.com/jessepollak/payment) - :moneybag: A jQuery-free general purpose library for building credit card forms, validating inputs and formatting numbers.
 - [jessepollak/card](https://github.com/jessepollak/card) - :credit_card: make your credit card form better in one line of code
@@ -5404,7 +5418,6 @@
 - [PButcher/flipdown](https://github.com/PButcher/flipdown) - ⏰ A lightweight and performant flip styled countdown clock
 - [Yakubovich/descendant_tree](https://github.com/Yakubovich/descendant_tree) - Uses d3.js to draw a descendant family tree
 - [posm/OpenMapKit](https://github.com/posm/OpenMapKit) - Master Directory for OpenMapKit
-- [jgraph/drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
 - [dielduarte/awesome-microfronts](https://github.com/dielduarte/awesome-microfronts) - A curated list about Micro Fronts architecture and its implementations.
 - [KarthikeyanRanasthala/react-todo-list](https://github.com/KarthikeyanRanasthala/react-todo-list) - https://karthikeyanranasthala.github.io/react-todo-list/
 - [KarthikeyanRanasthala/react-unit-converter](https://github.com/KarthikeyanRanasthala/react-unit-converter) - 
@@ -5440,7 +5453,7 @@
 - [mccutchen/strftime.org](https://github.com/mccutchen/strftime.org) - A single-serving-site that provides a reference for Python's strftime formatting options
 - [fraziern/schedule](https://github.com/fraziern/schedule) - React/Redux-based volunteer scheduling web app.
 - [tanyuan/metamorphosis](https://github.com/tanyuan/metamorphosis) - 🐛 js13kGames 2017 (A-Frame) Entry by Steff & Tanyuan
-- [mdn/webaudio-examples](https://github.com/mdn/webaudio-examples) - Code examples that accompany the MDN Web Audio documentation
+- [mdn/webaudio-examples](https://github.com/mdn/webaudio-examples) - Code examples that accompany the MDN Web Docs pages relating to Web Audio.
 - [mdn/kumascript](https://github.com/mdn/kumascript) - Bringing scripting to the wiki bears.
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [mdn/django-locallibrary-tutorial](https://github.com/mdn/django-locallibrary-tutorial) - Local Library website written in Django; example for the MDN server-side development Django module: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django.
@@ -6635,7 +6648,6 @@
 - [compwright/exif-geojson](https://github.com/compwright/exif-geojson) - Generate a GeoJSON Point from EXIF GPS data
 - [mermaidjs/mermaid-live-editor](https://github.com/mermaidjs/mermaid-live-editor) - Location has moved to https://github.com/mermaid-js/mermaid-live-editor
 - [TeamWin/twrpme](https://github.com/TeamWin/twrpme) - TeamWin Website
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [levelup/palabre-extensions](https://github.com/levelup/palabre-extensions) - 
 - [jekyll/jemoji](https://github.com/jekyll/jemoji) - GitHub-flavored emoji plugin for Jekyll
 - [merlos/jekyll-auto-image](https://github.com/merlos/jekyll-auto-image) - jekyll plugin that makes available the first image of a post in the template
@@ -8584,6 +8596,7 @@
 - [justadudewhohacks/face-recognition.js](https://github.com/justadudewhohacks/face-recognition.js) - Simple Node.js package for robust face detection and face recognition. JavaScript and TypeScript API.
 - [postlight/secretmsg](https://github.com/postlight/secretmsg) - 🕵 Encrypt messages for easy sharing
 - [darekkay/dashboard](https://github.com/darekkay/dashboard) - Customizable personal dashboard and startpage
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [onsip/SIP.js](https://github.com/onsip/SIP.js) - A simple, intuitive, and powerful JavaScript signaling library
 - [aws-samples/aws-serverless-airline-booking](https://github.com/aws-samples/aws-serverless-airline-booking) - Airline Booking is a sample web application that provides Flight Search, Flight Payment, Flight Booking and Loyalty points including end-to-end testing, GraphQL and CI/CD. This web application was the
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
