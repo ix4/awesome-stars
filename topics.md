@@ -2191,6 +2191,7 @@
 - [swimlane/pyattck](https://github.com/swimlane/pyattck) - A Python package to interact with the Mitre ATT&CK Framework
 - [swimlane/ngx-datatable](https://github.com/swimlane/ngx-datatable) - ✨  A feature-rich yet lightweight data-table crafted for Angular
 - [swimlane/ngx-charts](https://github.com/swimlane/ngx-charts) - :bar_chart: Declarative Charting Framework for Angular
+- [codyogden/killedbygoogle](https://github.com/codyogden/killedbygoogle) - Part guillotine, part graveyard for Google's doomed apps, services, and hardware.
 - [IonicaBizau/text-to-speech-js](https://github.com/IonicaBizau/text-to-speech-js) - :v: A small JavaScript library that provides a text to speech conversion using tts-api.com service.
 - [IonicaBizau/videomost](https://github.com/IonicaBizau/videomost) - Watch YouTube and Vimeo videos in a floating window.
 - [IonicaBizau/WebpAgent](https://github.com/IonicaBizau/WebpAgent) - :open_file_folder: A web page live loader.
@@ -2205,6 +2206,7 @@
 - [Bloggify/Bloggify](https://github.com/Bloggify/Bloggify) - 📝 We make publishing easy.
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, realtime, feature rich, and markdown compatible.
+- [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [faker-ruby/faker](https://github.com/faker-ruby/faker) - A library for generating fake data such as names, addresses, and phone numbers.
@@ -2255,6 +2257,7 @@
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
+- [telegraf/telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node.js
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 - [daviddarnes/alembic](https://github.com/daviddarnes/alembic) - ⚗️ A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
 - [heiswayi/the-plain](https://github.com/heiswayi/the-plain) - A minimalist Jekyll theme, ideally designed for your personal blog use.
