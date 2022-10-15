@@ -4918,7 +4918,7 @@
 - [airbnb/nerve](https://github.com/airbnb/nerve) - A service registration daemon that performs health checks; companion to airbnb/synapse
 - [RaspberryPiFoundation/kramdown_rpf](https://github.com/RaspberryPiFoundation/kramdown_rpf) - An extension to Kramdown to add special markup for the RPF's learning platform
 - [git/git-scm.com](https://github.com/git/git-scm.com) - The git-scm.com website. Note that this repository is only for the website; issues with git itself should go to https://git-scm.com/community.
-- [gjtorikian/graphql-docs](https://github.com/gjtorikian/graphql-docs) - Easily generate beautiful documentation from your GraphQL schema.
+- [brettchalupa/graphql-docs](https://github.com/brettchalupa/graphql-docs) - Easily generate beautiful documentation from your GraphQL schema.
 - [gjtorikian/jekyll-last-modified-at](https://github.com/gjtorikian/jekyll-last-modified-at) - A Jekyll plugin to show the last_modified_at time of a post.
 - [asciidoctor/asciidoctor-pdf](https://github.com/asciidoctor/asciidoctor-pdf) - :page_with_curl: Asciidoctor PDF: A native PDF converter for AsciiDoc based on Asciidoctor and Prawn, written entirely in Ruby.
 - [houndci/hound](https://github.com/houndci/hound) - Automated code review for GitHub pull requests.
@@ -5114,6 +5114,7 @@
 
 ## Shell 
 
+- [nelbren/npres](https://github.com/nelbren/npres) - npres core support
 - [jeffreytse/jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) - 🪂 A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
 - [eficode/wait-for](https://github.com/eficode/wait-for) - ./wait-for is a script to wait for another service to become available.
 - [azinchen/nordvpn](https://github.com/azinchen/nordvpn) - NordVPN Docker Client
