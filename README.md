@@ -4253,6 +4253,7 @@
 - [ExpDev07/coronavirus-tracker-api](https://github.com/ExpDev07/coronavirus-tracker-api) - 🦠 A simple and fast (&lt; 200ms) API for tracking the global coronavirus (COVID-19, SARS-CoV-2) outbreak. It's written in python using the 🔥 FastAPI framework. Supports multiple sources!
 - [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2020, WikiTeam has preserved more than 250,000 wikis.
 - [nickspaargaren/no-amazon](https://github.com/nickspaargaren/no-amazon) - Completely block Amazon and its services
+- [nickspaargaren/no-google](https://github.com/nickspaargaren/no-google) - Completely block Google and its services
 - [mendhak/SeenFromSpace](https://github.com/mendhak/SeenFromSpace) - A 'live' earth wallpaper which includes day/night phases, night lights, clouds and satellites in different projections
 - [rorasa/pyVideoSheet](https://github.com/rorasa/pyVideoSheet) - Python-based command-line movie thumbnail creator – designed for efficiency and simplicity
 - [COVID19Tracking/covid-tracking-dash](https://github.com/COVID19Tracking/covid-tracking-dash) - Dash app for COVID Tracking Project (https://covidtracking.com/)
@@ -5165,7 +5166,6 @@
 - [PanJiaChen/vue-element-admin-site](https://github.com/PanJiaChen/vue-element-admin-site) - :pencil: The documentation source of vue-element-admin https://panjiachen.github.io/vue-element-admin-site
 - [whiteinge/ok.sh](https://github.com/whiteinge/ok.sh) - A Bourne shell GitHub API client library focused on interfacing with shell scripts
 - [mwarning/zerotier-openwrt](https://github.com/mwarning/zerotier-openwrt) - A OpenWrt package for ZeroTier One - Pull requests are welcome!
-- [nickspaargaren/no-google](https://github.com/nickspaargaren/no-google) - Completely block Google and its services
 - [jorgebucaran/spark.fish](https://github.com/jorgebucaran/spark.fish) - ▁▂▄▆▇█▇▆▄▂▁
 - [holman/spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
 - [nielsenramon/kickster](https://github.com/nielsenramon/kickster) - Worry-free deploying to GitHub Pages using Jekyll
