@@ -2146,6 +2146,7 @@
 - [rbenv/ruby-build](https://github.com/rbenv/ruby-build) - Compile and install Ruby
 - [guess-js/guess](https://github.com/guess-js/guess) - 🔮 Libraries & tools for enabling Machine Learning driven user-experiences on the web
 - [sebastianfeldmann/phpbu](https://github.com/sebastianfeldmann/phpbu) - PHP Backup Utility - Creates and encrypts database and file backups, syncs your backups to other servers or cloud services and assists you monitor your backup process
+- [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 - [Modernizr/Modernizr](https://github.com/Modernizr/Modernizr) - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [styleguidist/react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
@@ -2852,7 +2853,7 @@
 - [codyogden/burrito](https://github.com/codyogden/burrito) - Your Trello card assignments wrapped up in a nice, warm shell.
 - [mdaines/grammophone](https://github.com/mdaines/grammophone) - A tool for analyzing and transforming context-free grammars.
 - [magjac/graphviz-visual-editor](https://github.com/magjac/graphviz-visual-editor) - A web application for interactive visual editing of Graphviz graphs described in the DOT language.
-- [mourner/projects](https://github.com/mourner/projects) - A list of awesome open source projects Vladimir Agafonkin is involved in.
+- [mourner/projects](https://github.com/mourner/projects) - A list of awesome open source projects Volodymyr Agafonkin is involved in.
 - [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
 - [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
@@ -7452,7 +7453,7 @@
 - [LoveBootCaptain/WeatherPi_TFT](https://github.com/LoveBootCaptain/WeatherPi_TFT) - a weather display for a raspberry pi and a TFT display written in python3 and pygame
 - [davidteather/TikTok-Api](https://github.com/davidteather/TikTok-Api) - The Unofficial TikTok API Wrapper In Python
 - [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework
-- [tropicoo/hikvision-camera-bot](https://github.com/tropicoo/hikvision-camera-bot) - HikVision Telegram Camera Bot 🇺🇦
+- [tropicoo/hikvision-camera-bot](https://github.com/tropicoo/hikvision-camera-bot) - Hikvision Telegram Camera Bot 🇺🇦
 - [bkbilly/AlarmPI](https://github.com/bkbilly/AlarmPI) - 🚨 Home Security Intrusion Detection for Raspberry PI or any other linux OS
 - [MissiaL/hikvision-client](https://github.com/MissiaL/hikvision-client) - Client for Hikvision devices
 - [egbertbouman/youtube-comment-downloader](https://github.com/egbertbouman/youtube-comment-downloader) - Simple script for downloading Youtube comments without using the Youtube API
@@ -8404,7 +8405,7 @@
 - [eleboucher/berlin-vaccine-alert](https://github.com/eleboucher/berlin-vaccine-alert) - Telegram bot to get information on vaccine availabilities.
 - [Moldoteck/Beautifier](https://github.com/Moldoteck/Beautifier) - Bot that creates clean Telegraph pages from any link
 - [Yoctol/bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
-- [tropicoo/hikvision-camera-bot](https://github.com/tropicoo/hikvision-camera-bot) - HikVision Telegram Camera Bot 🇺🇦
+- [tropicoo/hikvision-camera-bot](https://github.com/tropicoo/hikvision-camera-bot) - Hikvision Telegram Camera Bot 🇺🇦
 - [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
 - [narbehaj/telegram-audio-download](https://github.com/narbehaj/telegram-audio-download) - Download forwarded audio files to your bot from Telegram and store them in their related directory.
 - [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
