@@ -3814,7 +3814,7 @@
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [zenorocha/alfred-workflows](https://github.com/zenorocha/alfred-workflows) - :metal: A collection of Alfred 3 and 4 workflows that will rock your world
 - [christiannaths/redacted-font](https://github.com/christiannaths/redacted-font) - Keep your wireframes free of distracting Lorem Ipsum.
-- [mourner/projects](https://github.com/mourner/projects) - A list of awesome open source projects Vladimir Agafonkin is involved in.
+- [mourner/projects](https://github.com/mourner/projects) - A list of awesome open source projects Volodymyr Agafonkin is involved in.
 - [art-dot-git/80x40](https://github.com/art-dot-git/80x40) - 80 by 40 canvas that anyone can draw on.
 - [lisacharlotterost/tool-skills-for-data-journalism](https://github.com/lisacharlotterost/tool-skills-for-data-journalism) - Cheat sheets for analyzing data and building visualizations with R, dplyr, ggplot2, mapbox, qgis, d3.js, google refine and the terminal.
 - [gilbarbara/logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos
@@ -4220,7 +4220,7 @@
 - [mwsoverdick/Working-Hours](https://github.com/mwsoverdick/Working-Hours) - A python script that parses a Google Maps takeout to log the amount of hours you spend near a specific GPS coordinate.
 - [LeanVel/TakeoutsTimelining](https://github.com/LeanVel/TakeoutsTimelining) - Project to perform a forensics analysis on the Google Takeout by doing timelining
 - [cujanovic/Content-Bruteforcing-Wordlist](https://github.com/cujanovic/Content-Bruteforcing-Wordlist) - Wordlist for content(directory) bruteforce discovering with Burp or dirsearch
-- [tropicoo/hikvision-camera-bot](https://github.com/tropicoo/hikvision-camera-bot) - HikVision Telegram Camera Bot 🇺🇦
+- [tropicoo/hikvision-camera-bot](https://github.com/tropicoo/hikvision-camera-bot) - Hikvision Telegram Camera Bot 🇺🇦
 - [bkbilly/AlarmPI](https://github.com/bkbilly/AlarmPI) - 🚨 Home Security Intrusion Detection for Raspberry PI or any other linux OS
 - [MissiaL/hikvision-client](https://github.com/MissiaL/hikvision-client) - Client for Hikvision devices
 - [ArchiveTeam/grab-site](https://github.com/ArchiveTeam/grab-site) - The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns
