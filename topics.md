@@ -821,7 +821,7 @@
 
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
 - [z0ccc/Upvote-Anywhere](https://github.com/z0ccc/Upvote-Anywhere) - Upvote Anywhere Browser Extension
-- [code-for-charity/YouTube-Extension](https://github.com/code-for-charity/YouTube-Extension) - YouTube Extension [80+Lean🧰Features]📌[Longest-standing©️2012]📌[485 000+Users👨‍👩‍👧‍👧][Guide/Wiki:missing!] - ⚙️⋮[🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪][Player: Repeat Screenshot Rotate][Hide related video distraction][Always
+- [code-for-charity/ImprovedTube-for-YouTube](https://github.com/code-for-charity/ImprovedTube-for-YouTube) - YouTube Extension [80+Lean🧰Features]📌[Longest-standing©️2012]📌[485 000+Users👨‍👩‍👧‍👧][Guide/Wiki:missing!] - ⚙️⋮[🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪][Player: Repeat Screenshot Rotate][Hide related video distraction][Always
 - [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
 - [VerifiedJoseph/Save-to-the-Wayback-Machine](https://github.com/VerifiedJoseph/Save-to-the-Wayback-Machine) - Browser extension for quickly saving web pages to the Internet Archive's Wayback Machine.
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
@@ -1007,7 +1007,7 @@
 ## css 
 
 - [ffoodd/a11y.css](https://github.com/ffoodd/a11y.css) - This CSS file intends to warn developers about possible risks and mistakes that exist in HTML code. It can also be used to roughly evaluate a site's quality by simply including it as an external style
-- [code-for-charity/YouTube-Extension](https://github.com/code-for-charity/YouTube-Extension) - YouTube Extension [80+Lean🧰Features]📌[Longest-standing©️2012]📌[485 000+Users👨‍👩‍👧‍👧][Guide/Wiki:missing!] - ⚙️⋮[🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪][Player: Repeat Screenshot Rotate][Hide related video distraction][Always
+- [code-for-charity/ImprovedTube-for-YouTube](https://github.com/code-for-charity/ImprovedTube-for-YouTube) - YouTube Extension [80+Lean🧰Features]📌[Longest-standing©️2012]📌[485 000+Users👨‍👩‍👧‍👧][Guide/Wiki:missing!] - ⚙️⋮[🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪][Player: Repeat Screenshot Rotate][Hide related video distraction][Always
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [styled-components/awesome-styled-components](https://github.com/styled-components/awesome-styled-components) - A curated list of awesome styled-components resources 💅
 - [egoist/snackbar](https://github.com/egoist/snackbar) - A tiny browser library for showing a brief message at the bottom of the screen (1kB gzipped).
@@ -1413,7 +1413,7 @@
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server) - Outline Manager, developed by Jigsaw. The Outline Manager application creates and manages Outline servers, powered by Shadowsocks. It uses the Electron framework to offer support for Windows, macOS an
 - [QuickCorp/QCObjects](https://github.com/QuickCorp/QCObjects) - Full Stack Javascript Framework for Modern Software Development
-- [balenalabs-incubator/boombeastic](https://github.com/balenalabs-incubator/boombeastic) - A Raspberry Pi based smart connected speaker with support for airplay, spotify, mpd and local playback
+- [balena-io-experimental/boombeastic](https://github.com/balena-io-experimental/boombeastic) - A Raspberry Pi based smart connected speaker with support for airplay, spotify, mpd and local playback
 - [balena-io/open-balena](https://github.com/balena-io/open-balena) - Open source software to manage connected IoT devices at scale
 - [fedspendingtransparency/usaspending-api](https://github.com/fedspendingtransparency/usaspending-api) - Server application to serve U.S. federal spending data via a RESTful API
 - [bitnami/minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
@@ -1980,7 +1980,7 @@
 - [spatie/laravel-google-calendar](https://github.com/spatie/laravel-google-calendar) - Manage events on a Google Calendar
 - [googleapis/google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client) - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
 - [nickspaargaren/no-google](https://github.com/nickspaargaren/no-google) - Completely block Google and its services
-- [balenalabs-incubator/boombeastic](https://github.com/balenalabs-incubator/boombeastic) - A Raspberry Pi based smart connected speaker with support for airplay, spotify, mpd and local playback
+- [balena-io-experimental/boombeastic](https://github.com/balena-io-experimental/boombeastic) - A Raspberry Pi based smart connected speaker with support for airplay, spotify, mpd and local playback
 - [google/yapf](https://github.com/google/yapf) - A formatter for Python files
 - [teracow/googliser](https://github.com/teracow/googliser) - a fast BASH multiple-image downloader
 - [crow-translate/crow-translate](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator that allows you to translate and speak text using Google, Yandex Bing, LibreTranslate and Lingva.
@@ -2161,6 +2161,7 @@
 - [allejo/jekyll-docs-theme](https://github.com/allejo/jekyll-docs-theme) - A mediocre Jekyll theme for writing documentation websites based Bootstrap's old website design
 - [drvy/minimal-block](https://github.com/drvy/minimal-block) - A minimalistic, responsive and friendly Jekyllrb theme.
 - [yishn/tikzcd-editor](https://github.com/yishn/tikzcd-editor) - A simple visual editor for creating commutative diagrams.
+- [obsproject/obs-websocket](https://github.com/obsproject/obs-websocket) - Remote-control of OBS Studio through WebSocket
 - [OpenArchive/Save-app-android](https://github.com/OpenArchive/Save-app-android) - This is the Save app for Android
 - [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :koala: - PouchDB is a pocket-sized database.
 - [chinchang/web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend playground
@@ -2174,7 +2175,6 @@
 - [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [imsky/quickstart](https://github.com/imsky/quickstart) - :coffee: Useful files for your next project.
-- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [brettchalupa/graphql-docs](https://github.com/brettchalupa/graphql-docs) - Easily generate beautiful documentation from your GraphQL schema.
@@ -2218,6 +2218,7 @@
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
+- [nexB/vulnerablecode](https://github.com/nexB/vulnerablecode) - A free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these vulnerabilities. Sponsored by NLnet https://nlnet.nl/project/vulnerabilitydatabase
 - [faker-ruby/faker](https://github.com/faker-ruby/faker) - A library for generating fake data such as names, addresses, and phone numbers.
 - [imsky/holder](https://github.com/imsky/holder) - :city_sunrise: Client-side image placeholders.
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
@@ -2662,7 +2663,7 @@
 - [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
 - [bcgov/business-create-ui](https://github.com/bcgov/business-create-ui) - BC Registry Services - Legal Entities - Create Incorporation Application
 - [APIDevTools/openapi-schemas](https://github.com/APIDevTools/openapi-schemas) - JSON Schemas for every version of the OpenAPI Specification
-- [balenalabs-incubator/balena-wpe](https://github.com/balenalabs-incubator/balena-wpe) - Fullscreen WebKit browser with hardware accelerated CSS, WebGL, and HTML5 video for the RaspberryPi 3.
+- [balena-io-experimental/balena-wpe](https://github.com/balena-io-experimental/balena-wpe) - Fullscreen WebKit browser with hardware accelerated CSS, WebGL, and HTML5 video for the RaspberryPi 3.
 - [google/closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
 - [ChromeDevTools/devtools-frontend](https://github.com/ChromeDevTools/devtools-frontend) - The Chrome DevTools UI
 - [ramda/ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
@@ -5200,7 +5201,6 @@
 - [t2t2/obs-tablet-remote](https://github.com/t2t2/obs-tablet-remote) - Tablet optimised OBS Remote
 - [sourcey/webrtc-builds](https://github.com/sourcey/webrtc-builds) - Automated WebRTC build scripts for Linux, Windows, Mac, Android and iOS.
 - [moul/docker-icecast](https://github.com/moul/docker-icecast) - :radio: Icecast 2 in Dockerfile (Docker container, compatible with liquidsoap)
-- [obsproject/obs-websocket](https://github.com/obsproject/obs-websocket) - Remote-control of OBS Studio through WebSocket
 - [mjradwin/geonames-sqlite](https://github.com/mjradwin/geonames-sqlite) - Import GeoNames.org data into a SQLite database for full-text search and autocomplete
 - [netdata/dashboard](https://github.com/netdata/dashboard) - UI for Netdata Agent
 - [FiloSottile/whoami.filippo.io](https://github.com/FiloSottile/whoami.filippo.io) - A ssh server that knows who you are. $ ssh whoami.filippo.io
@@ -7768,8 +7768,8 @@
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - [RetroPie/RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup) - Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores
 - [nymea/berrylan](https://github.com/nymea/berrylan) - Raspberry Pi WiFi setup
-- [balenalabs-incubator/boombeastic](https://github.com/balenalabs-incubator/boombeastic) - A Raspberry Pi based smart connected speaker with support for airplay, spotify, mpd and local playback
-- [balenalabs-incubator/balena-wpe](https://github.com/balenalabs-incubator/balena-wpe) - Fullscreen WebKit browser with hardware accelerated CSS, WebGL, and HTML5 video for the RaspberryPi 3.
+- [balena-io-experimental/boombeastic](https://github.com/balena-io-experimental/boombeastic) - A Raspberry Pi based smart connected speaker with support for airplay, spotify, mpd and local playback
+- [balena-io-experimental/balena-wpe](https://github.com/balena-io-experimental/balena-wpe) - Fullscreen WebKit browser with hardware accelerated CSS, WebGL, and HTML5 video for the RaspberryPi 3.
 - [wb2osz/direwolf](https://github.com/wb2osz/direwolf) - Dire Wolf is a software "soundcard" AX.25 packet modem/TNC and APRS encoder/decoder. It can be used stand-alone to observe APRS traffic, as a tracker, digipeater, APRStt gateway, or Internet Gateway (
 - [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 - [hybridgroup/gobot](https://github.com/hybridgroup/gobot) - Golang framework for robotics, drones, and the Internet of Things (IoT)
