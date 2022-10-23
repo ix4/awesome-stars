@@ -1414,7 +1414,7 @@
 - [stephenquan/AAMVAtoJSON](https://github.com/stephenquan/AAMVAtoJSON) - Converts AAMVA DL/ID format to JSON
 - [kikiklang/pomme-page](https://github.com/kikiklang/pomme-page) - Big buttons with easy click startpage for a browser.
 - [deep5050/memes-on-issues-action](https://github.com/deep5050/memes-on-issues-action) - greet the issue raiser with a custom message and a bonus programming meme :smile:
-- [code-for-charity/YouTube-Extension](https://github.com/code-for-charity/YouTube-Extension) - YouTube Extension [80+Lean🧰Features]📌[Longest-standing©️2012]📌[485 000+Users👨‍👩‍👧‍👧][Guide/Wiki:missing!] - ⚙️⋮[🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪][Player: Repeat Screenshot Rotate][Hide related video distraction][Always
+- [code-for-charity/ImprovedTube-for-YouTube](https://github.com/code-for-charity/ImprovedTube-for-YouTube) - YouTube Extension [80+Lean🧰Features]📌[Longest-standing©️2012]📌[485 000+Users👨‍👩‍👧‍👧][Guide/Wiki:missing!] - ⚙️⋮[🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪][Player: Repeat Screenshot Rotate][Hide related video distraction][Always
 - [ubershmekel/redditp](https://github.com/ubershmekel/redditp) - Convert any reddit page to a presentation or slide show
 - [jiangts/JS-OTP](https://github.com/jiangts/JS-OTP) - 100% Javascript Implementation of HOTP and TOTP for Two-Factor Authentication.
 - [w3irdrobot/interactive-menu](https://github.com/w3irdrobot/interactive-menu) - Building an Interactive Menu in Vanilla JavaScript
@@ -1588,7 +1588,7 @@
 - [bcgov/jag-ecrc](https://github.com/bcgov/jag-ecrc) - Ministry of Attorney General - eCRC
 - [ministryofjustice/hmpps-book-secure-move-frontend](https://github.com/ministryofjustice/hmpps-book-secure-move-frontend) - Rendering layer for the Book a secure move platform
 - [APIDevTools/openapi-schemas](https://github.com/APIDevTools/openapi-schemas) - JSON Schemas for every version of the OpenAPI Specification
-- [balenalabs-incubator/boombeastic](https://github.com/balenalabs-incubator/boombeastic) - A Raspberry Pi based smart connected speaker with support for airplay, spotify, mpd and local playback
+- [balena-io-experimental/boombeastic](https://github.com/balena-io-experimental/boombeastic) - A Raspberry Pi based smart connected speaker with support for airplay, spotify, mpd and local playback
 - [foundation/inky](https://github.com/foundation/inky) - Convert a simple HTML syntax into tables compatible with Foundation for Emails.
 - [ricealexander/emoji-list](https://github.com/ricealexander/emoji-list) - A dynamically-generated list of GitHub emoji markup, adapted from work by rxaviers
 - [dart-lang/site-www](https://github.com/dart-lang/site-www) - Source for Dart website
@@ -5172,7 +5172,7 @@
 - [okitavera/dotfiles](https://github.com/okitavera/dotfiles) - All of my configuration files that currently used includes zsh, urxvt, awesomewm, and others
 - [mattermost/mattermost-heroku](https://github.com/mattermost/mattermost-heroku) - Run Mattermost on Heroku
 - [ministryofjustice/hmpps-digital-tech-radar](https://github.com/ministryofjustice/hmpps-digital-tech-radar) - Visualizing HMPPS Digital's technology choices
-- [balenalabs-incubator/balena-wpe](https://github.com/balenalabs-incubator/balena-wpe) - Fullscreen WebKit browser with hardware accelerated CSS, WebGL, and HTML5 video for the RaspberryPi 3.
+- [balena-io-experimental/balena-wpe](https://github.com/balena-io-experimental/balena-wpe) - Fullscreen WebKit browser with hardware accelerated CSS, WebGL, and HTML5 video for the RaspberryPi 3.
 - [balena-io/open-balena](https://github.com/balena-io/open-balena) - Open source software to manage connected IoT devices at scale
 - [bitnami/minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
 - [bitnami/bitnami-docker-wordpress](https://github.com/bitnami/bitnami-docker-wordpress) - Bitnami Docker Image for WordPress
@@ -5522,7 +5522,7 @@
 - [zakjan/leaflet-lasso](https://github.com/zakjan/leaflet-lasso) - Lasso selection plugin for Leaflet
 - [alkihis/twitter-archive-reader](https://github.com/alkihis/twitter-archive-reader) - Full featured TypeScript Twitter archive reader and browser
 - [camjc/keep-to-markdown](https://github.com/camjc/keep-to-markdown) - Google Keep Takeout files to markdown (.md) file exporter
-- [emilyskidsister/hacklily](https://github.com/emilyskidsister/hacklily) - A web-based sheet music editor and publishing platform.
+- [jocelyn-stericker/hacklily](https://github.com/jocelyn-stericker/hacklily) - A web-based sheet music editor and publishing platform.
 - [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built by Salesforce.
 - [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
