@@ -2116,6 +2116,7 @@
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
 - [salesagility/SuiteDocs](https://github.com/salesagility/SuiteDocs) - SuiteCRM - Open source CRM for the world
 - [salesagility/SuiteCRM](https://github.com/salesagility/SuiteCRM) - SuiteCRM - Open source CRM for the world
+- [department-of-veterans-affairs/vets-website](https://github.com/department-of-veterans-affairs/vets-website) - Frontend for VA.gov
 - [department-of-veterans-affairs/vets-api](https://github.com/department-of-veterans-affairs/vets-api) - API powering VA.gov
 - [mattermost/mattermost-heroku](https://github.com/mattermost/mattermost-heroku) - Run Mattermost on Heroku
 - [mattermost/desktop](https://github.com/mattermost/desktop) - Mattermost Desktop application for Windows, Mac and Linux
@@ -2308,6 +2309,7 @@
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [MapStory/mapstory](https://github.com/MapStory/mapstory) - MapStory is the free atlas of change that everyone can edit
+- [select2/select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
 - [openaddresses/openaddresses](https://github.com/openaddresses/openaddresses) - A repository of global open address data.
 - [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
@@ -4191,6 +4193,7 @@
 
 ## others 
 
+- [veelenga/rblist.info](https://github.com/veelenga/rblist.info) - Russia Ban List
 - [nelbren/npres](https://github.com/nelbren/npres) - npres core support
 - [azmatt/chasing_your_tail](https://github.com/azmatt/chasing_your_tail) - Tool for using wireless signals to see if you're being followed.
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
@@ -4619,7 +4622,6 @@
 - [leny/kouto-swiss](https://github.com/leny/kouto-swiss) - A complete CSS framework for Stylus
 - [department-of-veterans-affairs/vets-json-schema](https://github.com/department-of-veterans-affairs/vets-json-schema) - JSON Schema for all Vets.gov projects
 - [department-of-veterans-affairs/vets-design-system-documentation](https://github.com/department-of-veterans-affairs/vets-design-system-documentation) - Repository for design.va.gov website
-- [department-of-veterans-affairs/vets-website](https://github.com/department-of-veterans-affairs/vets-website) - Frontend for VA.gov
 - [alphagov/govuk-prototype-kit](https://github.com/alphagov/govuk-prototype-kit) - Rapidly create HTML prototypes of GOV.UK services
 - [alphagov/fourth-wall](https://github.com/alphagov/fourth-wall) - Retired pull request and build status monitor
 - [alphagov/gds-way](https://github.com/alphagov/gds-way) - How we build and operate products at GDS
