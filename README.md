@@ -1536,7 +1536,7 @@
 - [cdrini/wikidata-timeline](https://github.com/cdrini/wikidata-timeline) - web app for visualizing Wikidata items on a timeline
 - [kazysmaster/gnome-shell-extension-lockkeys](https://github.com/kazysmaster/gnome-shell-extension-lockkeys) - Numlock and Capslock indicator for gnome-shell
 - [TarikHuber/react-most-wanted](https://github.com/TarikHuber/react-most-wanted) - React starter kit with "Most Wanted" application features
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [kriasoft/react-firebase-starter](https://github.com/kriasoft/react-firebase-starter) - Boilerplate (seed) project for creating web apps with React.js, GraphQL.js and Relay
 - [johnkorzhuk/grabient](https://github.com/johnkorzhuk/grabient) - UI to generate linear-gradients
 - [windycom/leaflet-kml](https://github.com/windycom/leaflet-kml) - 🌎Leaflet KML layer plugin
