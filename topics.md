@@ -275,6 +275,7 @@
 - [termux/termux-api](https://github.com/termux/termux-api) - Termux add-on app which exposes device functionality as API to command line programs.
 - [adi1090x/termux-desktop](https://github.com/adi1090x/termux-desktop) - Setup A Beautiful Desktop/GUI In Termux
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A build system and primary set of packages for Termux.
+- [4f77616973/Wristkey](https://github.com/4f77616973/Wristkey) - A free and open-source offline authenticator app for Wear OS.
 - [rortegat/android-gps-mqtt](https://github.com/rortegat/android-gps-mqtt) - Retrieves GPS location and publishes longitude and latitude to MQTT broker
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
 - [appleboy/gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
@@ -784,6 +785,7 @@
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [arkime/arkime](https://github.com/arkime/arkime) - Arkime (formerly Moloch) is an open source, large scale, full packet capturing, indexing, and database system.
 - [MapServer/MapServer](https://github.com/MapServer/MapServer) - Source code of the MapServer project.  Please submit pull requests to the 'main' branch.
+- [USEPA/Stormwater-Management-Model](https://github.com/USEPA/Stormwater-Management-Model) - Dynamic hydrology-hydraulic water quality simulation model
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [Yelp/dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
 - [google/open-location-code](https://github.com/google/open-location-code) - Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist.
@@ -1904,7 +1906,7 @@
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [mholt/curl-to-go](https://github.com/mholt/curl-to-go) - Convert curl commands to Go code in your browser
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
@@ -1946,7 +1948,7 @@
 - [gorilla/websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go.
 - [mccutchen/go-httpbin](https://github.com/mccutchen/go-httpbin) - A reasonably complete and well-tested golang port of httpbin, with zero dependencies outside the go stdlib.
 - [itsjavi/mediatidy](https://github.com/itsjavi/mediatidy) - 🗂 Command-line tool to organize large directories of media files recursively by date, detecting duplicates.
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [mholt/curl-to-go](https://github.com/mholt/curl-to-go) - Convert curl commands to Go code in your browser
 - [hootsuite/healthchecks](https://github.com/hootsuite/healthchecks) - A go implementation of the Health Checks API used for microservice exploration, documentation and monitoring.
 - [flutter-webrtc/flutter-webrtc-server](https://github.com/flutter-webrtc/flutter-webrtc-server) - A simple WebRTC signaling server for flutter-webrtc.
@@ -2091,6 +2093,7 @@
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
 - [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
+- [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv) - :necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!
 - [joshdk/tty-qlock](https://github.com/joshdk/tty-qlock) - A minimal, curses-based clock for your terminal
 - [LibreELEC/LibreELEC.tv](https://github.com/LibreELEC/LibreELEC.tv) - Just enough OS for KODI
@@ -2105,7 +2108,7 @@
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [disease-sh/API](https://github.com/disease-sh/API) - API for Current cases and more stuff about COVID-19 and Influenza
 - [TarikHuber/react-most-wanted](https://github.com/TarikHuber/react-most-wanted) - React starter kit with "Most Wanted" application features
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [gavinr/geojson-viewer](https://github.com/gavinr/geojson-viewer) - View GeoJSON from a URL (with permalinks)
 - [gavinr/stl-live-crime](https://github.com/gavinr/stl-live-crime) - A live map of crime in the city of St. Louis, MO
 - [gavinr/city-flags-map](https://github.com/gavinr/city-flags-map) - Map of city flags.
@@ -2123,7 +2126,6 @@
 - [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation) - Mattermost developer documentation.
 - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
-- [dart-lang/site-www](https://github.com/dart-lang/site-www) - Source for Dart website
 - [cfpb/wagtail-flags](https://github.com/cfpb/wagtail-flags) - Feature flags for Wagtail sites
 - [cfpb/wagtail-regulations](https://github.com/cfpb/wagtail-regulations) - Building blocks for interactive regulations in Wagtail
 - [PX4/PX4-Devguide](https://github.com/PX4/PX4-Devguide) - PX4 Devguide GitBook
@@ -2164,6 +2166,7 @@
 - [drvy/minimal-block](https://github.com/drvy/minimal-block) - A minimalistic, responsive and friendly Jekyllrb theme.
 - [yishn/tikzcd-editor](https://github.com/yishn/tikzcd-editor) - A simple visual editor for creating commutative diagrams.
 - [obsproject/obs-websocket](https://github.com/obsproject/obs-websocket) - Remote-control of OBS Studio through WebSocket
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [OpenArchive/Save-app-android](https://github.com/OpenArchive/Save-app-android) - This is the Save app for Android
 - [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :koala: - PouchDB is a pocket-sized database.
 - [chinchang/web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend playground
@@ -2208,6 +2211,7 @@
 - [IonicaBizau/WebpAgent](https://github.com/IonicaBizau/WebpAgent) - :open_file_folder: A web page live loader.
 - [IonicaBizau/ghcal](https://github.com/IonicaBizau/ghcal) - :calendar: See the GitHub contributions calendar of a user in the command line.
 - [IonicaBizau/cli-gh-cal](https://github.com/IonicaBizau/cli-gh-cal) - :chart_with_upwards_trend: GitHub like calendar graphs in command line.
+- [FrancesCoronel/hire-me](https://github.com/FrancesCoronel/hire-me) - A path to getting an awesome tech gig 💼
 - [IonicaBizau/medium-editor-markdown](https://github.com/IonicaBizau/medium-editor-markdown) - :pencil: A Medium Editor extension to add markdown support.
 - [IonicaBizau/github-contributions](https://github.com/IonicaBizau/github-contributions) - :octocat: A tool that generates a repository which being pushed into your GitHub account creates a nice contributions calendar.
 - [IonicaBizau/csv-it](https://github.com/IonicaBizau/csv-it) - 📃 Simple and useful tools to work with CSV files.
@@ -2228,7 +2232,7 @@
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [openbenches/openbenches.org](https://github.com/openbenches/openbenches.org) - OpenBenches.org - an open data repository for memorial benches
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [nextcloud/maps](https://github.com/nextcloud/maps) - 🌍🌏🌎 The whole world fits inside your cloud!
 - [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
@@ -2304,7 +2308,6 @@
 - [asciidoctor/asciidoctor.js](https://github.com/asciidoctor/asciidoctor.js) - :scroll: A JavaScript port of Asciidoctor, a modern implementation of AsciiDoc
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) - Shaming sites with dumb password rules.
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
@@ -2482,7 +2485,7 @@
 - [apex/up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [mccutchen/go-httpbin](https://github.com/mccutchen/go-httpbin) - A reasonably complete and well-tested golang port of httpbin, with zero dependencies outside the go stdlib.
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [gajus/global-agent](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent configurable using environment variables.
 - [kevva/url-regex](https://github.com/kevva/url-regex) - Regular expression for matching URLs
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
@@ -2650,7 +2653,7 @@
 - [codedawi/covid19-badges](https://github.com/codedawi/covid19-badges) - 🦠 SVG badges displaying cases and deaths of COVID-19
 - [expressjs/expressjs.com](https://github.com/expressjs/expressjs.com) - 
 - [patrickhulce/third-party-web](https://github.com/patrickhulce/third-party-web) - Data on third party entities and their impact on the web.
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [kriasoft/react-firebase-starter](https://github.com/kriasoft/react-firebase-starter) - Boilerplate (seed) project for creating web apps with React.js, GraphQL.js and Relay
 - [gavinr/geojson-viewer](https://github.com/gavinr/geojson-viewer) - View GeoJSON from a URL (with permalinks)
 - [gavinr/csv-to-geojson](https://github.com/gavinr/csv-to-geojson) - Convert a CSV to GeoJSON
@@ -3362,7 +3365,7 @@
 
 - [dart-lang/site-www](https://github.com/dart-lang/site-www) - Source for Dart website
 - [messageformat/messageformat](https://github.com/messageformat/messageformat) - ICU MessageFormat for Javascript - i18n Plural and Gender Capable Messages
-- [words/syllable](https://github.com/words/syllable) - Syllable count in JavaScript
+- [words/syllable](https://github.com/words/syllable) - Count syllables in an English word
 - [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [GaneshKandu/Palette](https://github.com/GaneshKandu/Palette) - :art: Palette is a freehand CMS which allows to construct websites directly in a web-browser. It uses flat files for storage and provides an intuitive GUI
@@ -3513,6 +3516,7 @@
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [pandorafms/pandorafms](https://github.com/pandorafms/pandorafms) - Pandora FMS is a flexible and highly scalable monitoring system ready for big environments. It uses agents (Linux, Windows, AIX, HP-UX, Solaris and BSD systems) and can do both local and remote networ
 - [OSGeo/OSGeoLive](https://github.com/OSGeo/OSGeoLive) - OSGeo-Live is a self-contained bootable DVD, USB thumb drive or Virtual Machine based on LUbuntu, that allows you to try a wide variety of open source geospatial software without installing anything. 
+- [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger) - Small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface.
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
 - [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy) - A full fledged GUI integration for the award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
@@ -3718,7 +3722,7 @@
 
 - [jakubgarfield/expenses](https://github.com/jakubgarfield/expenses) - 💰Expense tracker using Google Sheets 📉 as a storage written in React
 - [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒7000+ Material Design Icons from the Community
 - [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 - [dbtek/paper](https://github.com/dbtek/paper) - A gentle theme for Jekyll utilising material design.
@@ -4168,7 +4172,7 @@
 
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
-- [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering & OSINT framework for phone numbers
+- [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers
 - [EdOverflow/contact.sh](https://github.com/EdOverflow/contact.sh) - An OSINT tool to find contacts in order to report security vulnerabilities.
 - [alephdata/aleph](https://github.com/alephdata/aleph) - Search and browse documents and data; find the people and companies you look for.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
@@ -4237,7 +4241,7 @@
 - [lachenmayer/graphql-scraper](https://github.com/lachenmayer/graphql-scraper) - Extract structured data from the web using GraphQL.
 - [lachenmayer/graphql-scraper-server](https://github.com/lachenmayer/graphql-scraper-server) - Instantly spin up a graphql-scraper server (with 1-click deploy!)
 - [standard/semistandard](https://github.com/standard/semistandard) - :icecream: All the goodness of `standard/standard` with semicolons sprinkled on top.
-- [llacb47/miscfilters](https://github.com/llacb47/miscfilters) - 
+- [liamengland1/miscfilters](https://github.com/liamengland1/miscfilters) - 
 - [anbuksv/avantation](https://github.com/anbuksv/avantation) - Build OpenAPI3.0 specification from HAR.
 - [SabreDevStudio/postman-collections](https://github.com/SabreDevStudio/postman-collections) - Postman files demonstrating how to call and use APIs found in the Sabre Dev Studio portfolio.
 - [labnol/unsubscribe-gmail](https://github.com/labnol/unsubscribe-gmail) - Gmail Unsubscriber is a Google Apps Script for unsubscribing from unwanted newsletters and other bulk emails.
@@ -4414,7 +4418,7 @@
 - [s0md3v/Arjun](https://github.com/s0md3v/Arjun) - HTTP parameter discovery suite.
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [s0md3v/Striker](https://github.com/s0md3v/Striker) - Striker is an offensive information and vulnerability scanner.
-- [kimocoder/wifite2](https://github.com/kimocoder/wifite2) - Rewrite of the popular wireless network auditor, "wifite" - original source by @derv82 right over
+- [kimocoder/wifite2](https://github.com/kimocoder/wifite2) - Rewrite of the popular wireless network auditor, "wifite" - original source by @derv82 right over at
 - [Re4son/RPi-Tweaks](https://github.com/Re4son/RPi-Tweaks) - 
 - [UCSB-dataScience-ProjectGroup/youtube](https://github.com/UCSB-dataScience-ProjectGroup/youtube) - We are analyzing Youtube trends and comments to ultimately discover how youtubers become famous.
 - [philbot9/youtube-comment-scraper-cli](https://github.com/philbot9/youtube-comment-scraper-cli) - Command line utility for scraping YouTube comments.
@@ -5548,7 +5552,6 @@
 - [akiran/react-highlight](https://github.com/akiran/react-highlight) - React component for syntax highlighting
 - [kunukn/cube-two](https://github.com/kunukn/cube-two) - Rubiks Cube 2x2 on web platform
 - [FIGLAB/ubicoustics](https://github.com/FIGLAB/ubicoustics) - Accompanying repository for Ubicoustics: Plug-and-Play Acoustic Activity Recognition
-- [FrancesCoronel/hire-me](https://github.com/FrancesCoronel/hire-me) - A path to getting an awesome tech gig 💼
 - [showdownjs/cdnjs](https://github.com/showdownjs/cdnjs) - Open Source Web front-end resource CDN for free, managed by @PeterDaveHello
 - [showdownjs/demo](https://github.com/showdownjs/demo) - Showdown demo
 - [showdownjs/code-style](https://github.com/showdownjs/code-style) - Code-style and Orientations for showdown and related projects
@@ -5585,7 +5588,7 @@
 - [oliviale/CSS-Progress-Pie](https://github.com/oliviale/CSS-Progress-Pie) - A pure CSS progress pie chart
 - [developit/stockroom](https://github.com/developit/stockroom) - 🗃 Offload your store management to a worker easily.
 - [developit/greenlet](https://github.com/developit/greenlet) - 🦎 Move an async function into its own thread.
-- [nexB/scancode-toolkit](https://github.com/nexB/scancode-toolkit) - :mag_right: ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code ... to discover and inventory open source and third-party packages used in your code.
+- [nexB/scancode-toolkit](https://github.com/nexB/scancode-toolkit) - :mag_right: ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code ... to discover and inventory open source and third-party packages used in your code. This
 - [zpnk/apex-lambda-url-shortener](https://github.com/zpnk/apex-lambda-url-shortener) - A url shortener build on top of AWS Lambda, RDS and API Gateway. Deployed with Apex.
 - [zpnk/deploy.now](https://github.com/zpnk/deploy.now) - One click deploys to △ now
 - [tefter/tefter](https://github.com/tefter/tefter) - The social bookmarking app for individuals and teams
@@ -6055,7 +6058,6 @@
 - [CityOfNewYork/nyc-planimetrics](https://github.com/CityOfNewYork/nyc-planimetrics) - New York City Planimetrics Data
 - [kalmecak/moment-business-days](https://github.com/kalmecak/moment-business-days) - This is a momentJS plugin that allows you to use only business days (Monday to Friday)
 - [carvin/sf-election-results](https://github.com/carvin/sf-election-results) - 
-- [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger) - Small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface.
 - [topojson/us-atlas](https://github.com/topojson/us-atlas) - Pre-built TopoJSON from the U.S. Census Bureau.
 - [enjalot/blockbuilder](https://github.com/enjalot/blockbuilder) - Create, fork and edit d3.js code snippets for use with bl.ocks.org right in the browser, no terminal required.
 - [finallyayo/realtime-d3-graph](https://github.com/finallyayo/realtime-d3-graph) - 
@@ -6126,7 +6128,6 @@
 - [speedtracker/speedtracker](https://github.com/speedtracker/speedtracker) - 📉 Visualisation layer and data store for SpeedTracker
 - [mozilla/mozjpeg](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder.
 - [OpenWaterAnalytics/Stormwater-Management-Model](https://github.com/OpenWaterAnalytics/Stormwater-Management-Model) - Open Water Analytics Stormwater Management Model repository
-- [USEPA/Stormwater-Management-Model](https://github.com/USEPA/Stormwater-Management-Model) - Dynamic hydrology-hydraulic water quality simulation model
 - [algolia/autocomplete](https://github.com/algolia/autocomplete) - 🔮 Fast and full-featured autocomplete library
 - [codewithkristian/bytesized](https://github.com/codewithkristian/bytesized) - 🧠 The brains of the whole operation
 - [codewithkristian/workers-qr-code-generator](https://github.com/codewithkristian/workers-qr-code-generator) - 
@@ -7678,6 +7679,7 @@
 - [ahawker/krustofsky](https://github.com/ahawker/krustofsky) - Convert social security popular baby names dataset to SQLite
 - [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
 - [openwpm/OpenWPM](https://github.com/openwpm/OpenWPM) - A web privacy measurement framework
+- [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger) - Small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface.
 - [ThoughtfulDev/SupergirlOnCrypt](https://github.com/ThoughtfulDev/SupergirlOnCrypt) - CryptoTrojan in Python (For educational purpose ONLY)
 - [ThoughtfulDev/EagleEye](https://github.com/ThoughtfulDev/EagleEye) - Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search.
 - [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy) - A full fledged GUI integration for the award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
@@ -7808,7 +7810,7 @@
 - [egoist/poi](https://github.com/egoist/poi) - ⚡A zero-config bundler for JavaScript applications.
 - [microsoft/chart-parts](https://github.com/microsoft/chart-parts) - A flexible, React-friendly, Grammar of Graphics for data visualization
 - [TarikHuber/react-most-wanted](https://github.com/TarikHuber/react-most-wanted) - React starter kit with "Most Wanted" application features
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [kriasoft/react-firebase-starter](https://github.com/kriasoft/react-firebase-starter) - Boilerplate (seed) project for creating web apps with React.js, GraphQL.js and Relay
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
@@ -8228,7 +8230,7 @@
 - [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 - [chromium/hstspreload.org](https://github.com/chromium/hstspreload.org) - :lock: Chromium's HSTS preload list submission website.
 - [chromium/badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
 - [arkime/arkime](https://github.com/arkime/arkime) - Arkime (formerly Moloch) is an open source, large scale, full packet capturing, indexing, and database system.
 - [securityfirst/Umbrella_content](https://github.com/securityfirst/Umbrella_content) - Open source Android, iOS and Web app for learning about and managing digital and physical security. From how to send a secure message to dealing with a kidnap. Umbrella has best practice guides in ove
@@ -8575,7 +8577,7 @@
 - [akveo/nebular](https://github.com/akveo/nebular) - :boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode
 - [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
 - [prisma/prisma-examples](https://github.com/prisma/prisma-examples) - 🚀 Ready-to-run Prisma example projects
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [Shopify/polaris](https://github.com/Shopify/polaris) - Shopify’s design system to help us work together to build a great experience for all of our merchants.
 - [bcgov/namerequest](https://github.com/bcgov/namerequest) - Public Front End for the Name Request System
 - [bcgov/business-create-ui](https://github.com/bcgov/business-create-ui) - BC Registry Services - Legal Entities - Create Incorporation Application
