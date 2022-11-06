@@ -1335,6 +1335,7 @@
 - [googlesamples/sceneform-samples](https://github.com/googlesamples/sceneform-samples) - Sceneform samples for 3D rendering for ARCore in Java.
 - [oduwsdl/MobileMink](https://github.com/oduwsdl/MobileMink) - An Android Application for the viewing and creating of archived verisons of mobile and desktop pages using the Memento Framework.
 - [iipc/openwayback](https://github.com/iipc/openwayback) - The OpenWayback Development
+- [datamade/chi-councilmatic](https://github.com/datamade/chi-councilmatic) - :eyes: keep tabs on Chicago city council
 - [kristerkari/react-native-svg-example](https://github.com/kristerkari/react-native-svg-example) - A simple example app that shows how you can use SVG files in React Native
 - [oblador/react-native-keychain](https://github.com/oblador/react-native-keychain) - :key: Keychain Access for React Native
 - [zsajjad/react-native-text-detector](https://github.com/zsajjad/react-native-text-detector) - Text Detector from image for react native using firebase MLKit on android and Tesseract on iOS
@@ -4439,7 +4440,7 @@
 - [graphite-project/whisper](https://github.com/graphite-project/whisper) - Whisper is a file-based time-series database format for Graphite.
 - [graphite-project/carbon](https://github.com/graphite-project/carbon) - Carbon is one of the components of Graphite, and is responsible for receiving metrics over the network and writing them down to disk using a storage backend.
 - [nexB/vulnerablecode](https://github.com/nexB/vulnerablecode) - A free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these vulnerabilities. Sponsored by NLnet https://nlnet.nl/project/vulnerabilitydatabase
-- [nexB/scancode-toolkit](https://github.com/nexB/scancode-toolkit) - :mag_right: ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code ... to discover and inventory open source and third-party packages used in your code. This
+- [nexB/scancode-toolkit](https://github.com/nexB/scancode-toolkit) - :mag_right: ScanCode detects licenses, copyrights, dependencies by "scanning code" ... to discover and inventory open source and third-party packages used in your code. Sponsored by NLnet project http
 - [ichernev/gdrive-exporter](https://github.com/ichernev/gdrive-exporter) - Export google drive converting gdocs to portable formats
 - [bmander/busbuzzard](https://github.com/bmander/busbuzzard) - Inference of probabilistic schedules from empirical data about transit vehicles.
 - [graphserver/graphserver](https://github.com/graphserver/graphserver) - An open source multimodal trip planning engine
@@ -4574,7 +4575,6 @@
 - [DNSCrypt/dnscrypt-resolvers](https://github.com/DNSCrypt/dnscrypt-resolvers) - Lists of public DNSCrypt / DoH DNS servers and DNS relays
 - [eregs/regulations-site](https://github.com/eregs/regulations-site) - Web interface for viewing U.S. federal regulations and other regulatory information
 - [datamade/probablepeople](https://github.com/datamade/probablepeople) - :family: a python library for parsing unstructured western names into name components.
-- [datamade/chi-councilmatic](https://github.com/datamade/chi-councilmatic) - :eyes: keep tabs on Chicago city council
 - [openstates/openstates-scrapers](https://github.com/openstates/openstates-scrapers) - source for Open States scrapers
 - [harvard-lil/h2o](https://github.com/harvard-lil/h2o) - H2O is a web app for creating and reading open educational resources, primarily in the legal field
 - [harvard-lil/webrecorder](https://github.com/harvard-lil/webrecorder) - Web Archiving For All!
@@ -5536,7 +5536,7 @@
 - [visgl/react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
 - [elastic/ems-client](https://github.com/elastic/ems-client) - JavaScript Client library for Elastic Maps Service
 - [subfuzion/appmesh.dev](https://github.com/subfuzion/appmesh.dev) - Orientation guide with examples for using App Mesh to control and monitor your microservice applications on AWS.
-- [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank) - 🕷️Github 中国和全球用户排名，全球仓库 Star 最多排名(Github Action自动日更)。
+- [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank) - 🕷️Github China/Global User Ranking, Global Warehouse Star Ranking (Github Action is automatically updated daily).
 - [beaugunderson/ip-address](https://github.com/beaugunderson/ip-address) - 💻 a library for parsing and manipulating IPv4 and IPv6 addresses in JavaScript
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-styled editor with clean JSON output
 - [fengyuanchen/vue-countdown](https://github.com/fengyuanchen/vue-countdown) - Countdown component for Vue.js.
