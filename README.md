@@ -1075,7 +1075,7 @@
 - [mrdoob/svg-editor](https://github.com/mrdoob/svg-editor) - SVG Editor
 - [una/CSSgram](https://github.com/una/CSSgram) - CSS library for Instagram filters
 - [neocities/neocities](https://github.com/neocities/neocities) - Neocities.org - the web site. The entire thing. Yep, we're completely open source.
-- [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - This is a full computer management web site. With MeshCentral, you can run your own web server and it to remotely manage and control computers on a local network or anywhere on the internet. Once you 
+- [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
 - [AnthumChris/fetch-progress-indicators](https://github.com/AnthumChris/fetch-progress-indicators) - Progress indicators/bars using Streams, Service Workers, and Fetch APIs
 - [annevk/live-url-viewer](https://github.com/annevk/live-url-viewer) - Live URL Viewer
 - [samdutton/simpl](https://github.com/samdutton/simpl) - Simplest possible examples of HTML, CSS and Javascript:
@@ -1711,7 +1711,7 @@
 - [google/docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
 - [retextjs/retext](https://github.com/retextjs/retext) - natural language processor powered by plugins part of the @unifiedjs collective
 - [remarkjs/remark-man](https://github.com/remarkjs/remark-man) - plugin to compile markdown to man pages
-- [words/emoji-emotion](https://github.com/words/emoji-emotion) - List of emoji rated for valence in JSON
+- [words/emoji-emotion](https://github.com/words/emoji-emotion) - List of emoji rated for valence
 - [words/dale-chall](https://github.com/words/dale-chall) - List of easy American-English words: The New Dale-Chall (1995)
 - [words/subtlex-word-frequencies](https://github.com/words/subtlex-word-frequencies) - A list of words from the SUBTLEX movie subtitles corpus, sorted by frequency.
 - [stackbit/jamstackthemes](https://github.com/stackbit/jamstackthemes) - A list of themes and starters for JAMstack sites.
@@ -3418,7 +3418,7 @@
 - [RandomEtc/random-point-in-city](https://github.com/RandomEtc/random-point-in-city) - Generate a random point in a city! Why not!
 - [consbio/Leaflet.Geonames](https://github.com/consbio/Leaflet.Geonames) - A GeoNames powered search control for Leaflet
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
-- [mapbox/geojson.io](https://github.com/mapbox/geojson.io) - fast, simple spatial data creation
+- [mapbox/geojson.io](https://github.com/mapbox/geojson.io) - A quick, simple tool for creating, viewing, and sharing spatial data
 - [jlord/sheetsee-calendar](https://github.com/jlord/sheetsee-calendar) - Website with calendar of events from a Google Spreadsheet
 - [jlord/hack-spots](https://github.com/jlord/hack-spots) - Using Sheetsee.js and power of collaboration to collect the best places to get your hack on.
 - [jlord/sheetsee-maps](https://github.com/jlord/sheetsee-maps) - Module for adding maps to sheetsee.js
@@ -4998,7 +4998,7 @@
 - [Miserlou/Loop](https://github.com/Miserlou/Loop) - UNIX's missing `loop` command
 - [mozilla/application-services](https://github.com/mozilla/application-services) - Firefox Application Services
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
-- [rust-lang/crates.io](https://github.com/rust-lang/crates.io) - Source code for crates.io
+- [rust-lang/crates.io](https://github.com/rust-lang/crates.io) - The Rust package registry
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [13rac1/file-vis](https://github.com/13rac1/file-vis) - Visualizing binary file formats to make deterministic art https://13rac1.github.io/file-vis/
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
