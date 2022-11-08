@@ -650,6 +650,7 @@
 - [pforret/bash-boilerplate](https://github.com/pforret/bash-boilerplate) - Bash script template // archived, please use https://github.com/pforret/bashew
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
+- [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
 - [X1011/git-directory-deploy](https://github.com/X1011/git-directory-deploy) - deploy a directory as a git branch
 - [teracow/googliser](https://github.com/teracow/googliser) - a fast BASH multiple-image downloader
 - [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-stag
@@ -1595,7 +1596,7 @@
 ## emoji 
 
 - [github/gemoji](https://github.com/github/gemoji) - Emoji images and names.
-- [words/emoji-emotion](https://github.com/words/emoji-emotion) - List of emoji rated for valence in JSON
+- [words/emoji-emotion](https://github.com/words/emoji-emotion) - List of emoji rated for valence
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [labnol/pixel-art](https://github.com/labnol/pixel-art) - Make pixel paintings with Google Spreadsheets
 - [mburakerman/clap-emoji-generator](https://github.com/mburakerman/clap-emoji-generator) - Don't 👏 stop 👏🏻 emphasizing 👏🏼 your 👏🏽 point 👏🏾 by 👏🏿 putting 👏 clap 👏🏻 emojis 👏🏼 after 👏🏽 every 👏🏾 word
@@ -1831,7 +1832,7 @@
 - [netlify/netlify-cms](https://github.com/netlify/netlify-cms) - A Git-based CMS for Static Site Generators
 - [nicoespeon/gitgraph.js](https://github.com/nicoespeon/gitgraph.js) - 👋 [Looking for maintainers] - A JavaScript library to draw pretty git graphs in the browser
 - [tomgi/git_stats](https://github.com/tomgi/git_stats) - GitStats is a git repository statistics generator.
-- [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank) - 🕷️Github 中国和全球用户排名，全球仓库 Star 最多排名(Github Action自动日更)。
+- [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank) - 🕷️Github China/Global User Ranking, Global Warehouse Star Ranking (Github Action is automatically updated daily).
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
@@ -1860,7 +1861,7 @@
 - [netlify/netlify-cms](https://github.com/netlify/netlify-cms) - A Git-based CMS for Static Site Generators
 - [glitch-tools/sync-glitch-cli](https://github.com/glitch-tools/sync-glitch-cli) - :flags: Sync changes in your GitHub repository to glitch.com
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
-- [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank) - 🕷️Github 中国和全球用户排名，全球仓库 Star 最多排名(Github Action自动日更)。
+- [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank) - 🕷️Github China/Global User Ranking, Global Warehouse Star Ranking (Github Action is automatically updated daily).
 - [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [thundergolfer/automated-github-organization-invites](https://github.com/thundergolfer/automated-github-organization-invites) - Quickly host a webpage allowing people to click and receive an invite to your Github Organization.
@@ -1877,7 +1878,7 @@
 - [whiteinge/ok.sh](https://github.com/whiteinge/ok.sh) - A Bourne shell GitHub API client library focused on interfacing with shell scripts
 - [himynameisdave/git-labelmaker](https://github.com/himynameisdave/git-labelmaker) - :flags: Manage your GitHub labels from the command line!
 - [huchenme/github-trending-api](https://github.com/huchenme/github-trending-api) - :octocat: The missing APIs for GitHub trending projects and developers 📈
-- [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank) - 🕷️Github 中国和全球用户排名，全球仓库 Star 最多排名(Github Action自动日更)。
+- [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank) - 🕷️Github China/Global User Ranking, Global Warehouse Star Ranking (Github Action is automatically updated daily).
 - [thundergolfer/automated-github-organization-invites](https://github.com/thundergolfer/automated-github-organization-invites) - Quickly host a webpage allowing people to click and receive an invite to your Github Organization.
 - [michenriksen/gitrob](https://github.com/michenriksen/gitrob) - Reconnaissance tool for GitHub organizations
 - [aashutoshrathi/git-profiler-bot](https://github.com/aashutoshrathi/git-profiler-bot) - Telegram bot which fetches GitHub Profiles.
@@ -2153,7 +2154,6 @@
 - [Modernizr/Modernizr](https://github.com/Modernizr/Modernizr) - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [styleguidist/react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
-- [cheat/cheatsheets](https://github.com/cheat/cheatsheets) - Community-sourced cheatsheets
 - [internetarchive/bookreader](https://github.com/internetarchive/bookreader) - The Internet Archive BookReader
 - [NiallEccles/Hacktoberfest-animations](https://github.com/NiallEccles/Hacktoberfest-animations) - Small animation selector for Hacktoberfest
 - [airform/airform](https://github.com/airform/airform) - Functional HTML forms for Front-End Developers.
@@ -2173,7 +2173,6 @@
 - [xbmc/repo-scripts](https://github.com/xbmc/repo-scripts) - Official source repository for Kodi script add-ons
 - [xbmc/repo-plugins](https://github.com/xbmc/repo-plugins) - Official source repository for Kodi plugin add-ons
 - [ZEISS/precise-ui](https://github.com/ZEISS/precise-ui) - :triangular_ruler: React UI Component Library powered by ZEISS.
-- [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
@@ -2221,7 +2220,6 @@
 - [Bloggify/Bloggify](https://github.com/Bloggify/Bloggify) - 📝 We make publishing easy.
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, realtime, feature rich, and markdown compatible.
-- [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [nexB/vulnerablecode](https://github.com/nexB/vulnerablecode) - A free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these vulnerabilities. Sponsored by NLnet https://nlnet.nl/project/vulnerabilitydatabase
@@ -2241,7 +2239,6 @@
 - [wo-ist-markt/wo-ist-markt.github.io](https://github.com/wo-ist-markt/wo-ist-markt.github.io) - A map visualization of periodic markets in different cities.
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
-- [hotosm/tasking-manager](https://github.com/hotosm/tasking-manager) - Tasking Manager - The tool to team up for mapping in OpenStreetMap
 - [openstates/people](https://github.com/openstates/people) - Curated information on all state legislators & governors.
 - [nasa-gibs/worldview](https://github.com/nasa-gibs/worldview) - Interactive interface for browsing global, full-resolution satellite imagery
 - [bauripalash/fossurl](https://github.com/bauripalash/fossurl) - Your Own Url Shortner Without any fancy server side processing and support for custom url , which can even be hosted on GitHub Pages
@@ -2251,7 +2248,6 @@
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy) - A full fledged GUI integration for the award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
 - [nextcloud/spreed](https://github.com/nextcloud/spreed) - 🗨️ Nextcloud Talk – chat, video & audio calls for Nextcloud
-- [rust-lang/crates.io](https://github.com/rust-lang/crates.io) - Source code for crates.io
 - [badboy/whatrustisit](https://github.com/badboy/whatrustisit) - What Rust is it?
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [consul/consul](https://github.com/consul/consul) - Consul - Open Government and E-Participation Web Software
@@ -5050,6 +5046,7 @@
 - [gregsexton/gitv](https://github.com/gregsexton/gitv) - gitk for Vim.
 - [alexlafroscia/tldr-alfred](https://github.com/alexlafroscia/tldr-alfred) - Alfred workflow for TLDR
 - [srsudar/eg](https://github.com/srsudar/eg) - Useful examples at the command line.
+- [cheat/cheatsheets](https://github.com/cheat/cheatsheets) - Community-sourced cheatsheets
 - [senchalabs/jsduck](https://github.com/senchalabs/jsduck) - Simple JavaScript Duckumentation generator.
 - [nevir/groc](https://github.com/nevir/groc) - Documentation generation, in the spirit of literate programming.
 - [browserslist/browserslist](https://github.com/browserslist/browserslist) - 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
@@ -5588,7 +5585,7 @@
 - [oliviale/CSS-Progress-Pie](https://github.com/oliviale/CSS-Progress-Pie) - A pure CSS progress pie chart
 - [developit/stockroom](https://github.com/developit/stockroom) - 🗃 Offload your store management to a worker easily.
 - [developit/greenlet](https://github.com/developit/greenlet) - 🦎 Move an async function into its own thread.
-- [nexB/scancode-toolkit](https://github.com/nexB/scancode-toolkit) - :mag_right: ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code ... to discover and inventory open source and third-party packages used in your code. This
+- [nexB/scancode-toolkit](https://github.com/nexB/scancode-toolkit) - :mag_right: ScanCode detects licenses, copyrights, dependencies by "scanning code" ... to discover and inventory open source and third-party packages used in your code. Sponsored by NLnet project http
 - [zpnk/apex-lambda-url-shortener](https://github.com/zpnk/apex-lambda-url-shortener) - A url shortener build on top of AWS Lambda, RDS and API Gateway. Deployed with Apex.
 - [zpnk/deploy.now](https://github.com/zpnk/deploy.now) - One click deploys to △ now
 - [tefter/tefter](https://github.com/tefter/tefter) - The social bookmarking app for individuals and teams
@@ -6367,7 +6364,7 @@
 - [neocities/neocities](https://github.com/neocities/neocities) - Neocities.org - the web site. The entire thing. Yep, we're completely open source.
 - [mozilla/Spoke](https://github.com/mozilla/Spoke) - Easily create custom 3D environments
 - [mozilla/hubs](https://github.com/mozilla/hubs) - Duck-themed multi-user virtual spaces in WebVR. Built with A-Frame.
-- [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - This is a full computer management web site. With MeshCentral, you can run your own web server and it to remotely manage and control computers on a local network or anywhere on the internet. Once you 
+- [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
 - [inolen/quakejs](https://github.com/inolen/quakejs) - 
 - [mdn/dom-examples](https://github.com/mdn/dom-examples) - Code examples that accompany various MDN DOM and Web API documentation pages
 - [ReallyGood/js-motion-detection](https://github.com/ReallyGood/js-motion-detection) - A basic starting point for motion-detection apps using WebRTC & Canvas, refactored out of the Magic Xylophone by @soundstep
@@ -7143,7 +7140,7 @@
 - [ServerKite/bench.sh](https://github.com/ServerKite/bench.sh) - Server Benchmarking Script
 - [datadesk/copyboy](https://github.com/datadesk/copyboy) - Copyboy is our fork of GitHub's Campfire bot, hubot. He is aware of all Internet traditions.
 - [googleapis/google-api-php-client](https://github.com/googleapis/google-api-php-client) - A PHP client library for accessing Google APIs
-- [mapbox/geojson.io](https://github.com/mapbox/geojson.io) - fast, simple spatial data creation
+- [mapbox/geojson.io](https://github.com/mapbox/geojson.io) - A quick, simple tool for creating, viewing, and sharing spatial data
 - [dthpham/butterflow](https://github.com/dthpham/butterflow) - Make motion interpolated and fluid slow motion videos from the command line.
 - [codefordc/housing-insights](https://github.com/codefordc/housing-insights) - Bringing open data to affordable housing decision makers in Washington DC. A D3/Javascript based website to visualize data related to affordable housing in Washington DC. Data processing with Python.
 - [opensavannah/flood-map](https://github.com/opensavannah/flood-map) - A simple web map to visualize flood information on maps
@@ -8161,6 +8158,7 @@
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [propublica/facebook-political-ads](https://github.com/propublica/facebook-political-ads) - Monitoring Facebook Political Ads
+- [rust-lang/crates.io](https://github.com/rust-lang/crates.io) - The Rust package registry
 - [badboy/whatrustisit](https://github.com/badboy/whatrustisit) - What Rust is it?
 - [13rac1/file-vis](https://github.com/13rac1/file-vis) - Visualizing binary file formats to make deterministic art https://13rac1.github.io/file-vis/
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
