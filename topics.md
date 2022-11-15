@@ -15,6 +15,7 @@
 - [ansible](#ansible)
 - [api](#api)
 - [arduino](#arduino)
+- [artificial-intelligence](#artificial-intelligence)
 - [atom](#atom)
 - [automation](#automation)
 - [awesome](#awesome)
@@ -441,6 +442,16 @@
 - [rwaldron/johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework, developed at Bocoup.
 - [1technophile/OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - MQTT gateway for ESP8266, ESP32, Sonoff RF Bridge or Arduino with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, Bluetooth, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC,
 
+## artificial-intelligence 
+
+- [aichaos/rivescript-js](https://github.com/aichaos/rivescript-js) - A RiveScript interpreter for JavaScript. RiveScript is a scripting language for chatterbots.
+- [lucidrains/stylegan2-pytorch](https://github.com/lucidrains/stylegan2-pytorch) - Simplest working implementation of Stylegan2, state of the art generative adversarial network, in Pytorch. Enabling everyone to experience disentanglement
+- [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
+- [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
+- [tensorlayer/TensorLayer](https://github.com/tensorlayer/TensorLayer) - Deep Learning and Reinforcement Learning Library for Scientists and Engineers
+- [becauseofAI/MobileFace](https://github.com/becauseofAI/MobileFace) - A face recognition solution on mobile device.
+- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
+
 ## atom 
 
 - [Glavin001/atom-beautify](https://github.com/Glavin001/atom-beautify) - :mega: Help Wanted - Looking for Maintainer: https://github.com/Glavin001/atom-beautify/issues/2572 | :lipstick: Universal beautification package for Atom editor (:warning: Currently migrating to http
@@ -496,7 +507,6 @@
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - [styled-components/awesome-styled-components](https://github.com/styled-components/awesome-styled-components) - A curated list of awesome styled-components resources 💅
-- [humanetech-community/awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech) - Promoting Solutions that Improve Wellbeing, Freedom and Society
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [JStumpp/awesome-android](https://github.com/JStumpp/awesome-android) - A curated list of awesome Android packages and resources.
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
@@ -522,7 +532,6 @@
 - [mourner/geokdbush](https://github.com/mourner/geokdbush) - The fastest spatial index for geographic locations in JavaScript
 - [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
 - [machawk1/awesome-memento](https://github.com/machawk1/awesome-memento) - A list of things related to software, literature, and other content for 🕣 Memento
-- [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [therebelrobot/awesome-bootstrap](https://github.com/therebelrobot/awesome-bootstrap) - ✨  Awesome - A curated list of amazing Bootstrap tools and themes.
 - [etewiah/awesome-real-estate](https://github.com/etewiah/awesome-real-estate) - A curated list of awesome real estate related resources and projects
 - [marcosValle/awesome-windows-red-team](https://github.com/marcosValle/awesome-windows-red-team) - A curated list of awesome Windows frameworks, libraries, software and resources for Red Teams
@@ -572,7 +581,6 @@
 - [briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) - A curated list of awesome network analysis resources.
 - [machawk1/awesome-memento](https://github.com/machawk1/awesome-memento) - A list of things related to software, literature, and other content for 🕣 Memento
 - [postlight/awesome-cms](https://github.com/postlight/awesome-cms) - 📚 A collection of open and closed source Content Management Systems (CMS) for your perusal.
-- [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [therebelrobot/awesome-bootstrap](https://github.com/therebelrobot/awesome-bootstrap) - ✨  Awesome - A curated list of amazing Bootstrap tools and themes.
 - [etewiah/awesome-real-estate](https://github.com/etewiah/awesome-real-estate) - A curated list of awesome real estate related resources and projects
 - [v2-dev/awesome-social-engineering](https://github.com/v2-dev/awesome-social-engineering) - A curated list of awesome social engineering resources.
@@ -803,7 +811,7 @@
 - [domoritz/himawari-8-chrome](https://github.com/domoritz/himawari-8-chrome) - 🛰 Experience the latest image from the Himawari, GOES, Meteosat, and DSCOVR satellites
 - [ChromeDevTools/devtools-frontend](https://github.com/ChromeDevTools/devtools-frontend) - The Chrome DevTools UI
 - [casesandberg/react-color](https://github.com/casesandberg/react-color) - :art: Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of an entire web page in a single HTML file
 - [imfunniee/gitark](https://github.com/imfunniee/gitark) - :octocat: Dark theme for Github
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
@@ -829,7 +837,7 @@
 - [VerifiedJoseph/Save-to-the-Wayback-Machine](https://github.com/VerifiedJoseph/Save-to-the-Wayback-Machine) - Browser extension for quickly saving web pages to the Internet Archive's Wayback Machine.
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block invisible trackers.
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of an entire web page in a single HTML file
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [chinchang/web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend playground
 - [igniterealtime/pade](https://github.com/igniterealtime/pade) - Pàdé (Yoruba word for Meet) is a browser extension (Chrome/Edge) based unified communications desktop client for Openfire.
@@ -865,11 +873,11 @@
 - [mingrammer/awesome-finder](https://github.com/mingrammer/awesome-finder) - :sunglasses: Search the awesome curated list without browser
 - [getmoro/moro](https://github.com/getmoro/moro) - Simple CLI tool for tracking work hours. Note: Heavy changes are happening in this repository. Docs might not be up to date, and things might be broken. Only the released NPM version is stable.
 - [wustho/epr](https://github.com/wustho/epr) - CLI Epub Reader
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of an entire web page in a single HTML file
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [MaartenDesnouck/google-apps-script](https://github.com/MaartenDesnouck/google-apps-script) - 🛠  Manage and deploy your Google Apps Script projects using the command line
 - [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-stag
-- [blurdylan/manifesto-cli](https://github.com/blurdylan/manifesto-cli) - A CLI app that helps generate a manifest file for your PWA.
+- [dylantientcheu/manifesto-cli](https://github.com/dylantientcheu/manifesto-cli) - A CLI app that helps generate a manifest file for your PWA.
 - [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
 - [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
@@ -931,7 +939,7 @@
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 
@@ -1689,7 +1697,7 @@
 - [z0ccc/Upvote-Anywhere](https://github.com/z0ccc/Upvote-Anywhere) - Upvote Anywhere Browser Extension
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
 - [domoritz/himawari-8-chrome](https://github.com/domoritz/himawari-8-chrome) - 🛰 Experience the latest image from the Himawari, GOES, Meteosat, and DSCOVR satellites
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of an entire web page in a single HTML file
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [mozilla/application-services](https://github.com/mozilla/application-services) - Firefox Application Services
 - [openwpm/OpenWPM](https://github.com/openwpm/OpenWPM) - A web privacy measurement framework
@@ -1914,7 +1922,6 @@
 - [nytimes/gizmo](https://github.com/nytimes/gizmo) - A Microservice Toolkit from The New York Times
 - [mholt/json-to-go](https://github.com/mholt/json-to-go) - Translates JSON into a Go type in your browser instantly (original)
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
-- [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [tellytv/telly](https://github.com/tellytv/telly) - An IPTV proxy
 - [omniscale/imposm3](https://github.com/omniscale/imposm3) - Imposm imports OpenStreetMap data into PostGIS
 - [fiorix/freegeoip](https://github.com/fiorix/freegeoip) - IP geolocation web server
@@ -1957,7 +1964,6 @@
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [mholt/json-to-go](https://github.com/mholt/json-to-go) - Translates JSON into a Go type in your browser instantly (original)
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
-- [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [tellytv/telly](https://github.com/tellytv/telly) - An IPTV proxy
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [maxmcd/webtty](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC
@@ -2028,7 +2034,7 @@
 - [withspectrum/spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [postmanlabs/graphql-to-postman](https://github.com/postmanlabs/graphql-to-postman) - Plugin for converting GraphQL to the Postman Collection (v2) format
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [graphql/graphql.github.io](https://github.com/graphql/graphql.github.io) - GraphQL Documentation at graphql.org
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
@@ -2083,7 +2089,6 @@
 - [pi-hole/AdminLTE](https://github.com/pi-hole/AdminLTE) - Pi-hole Dashboard for stats and more
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [RandomCoderOrg/ubuntu-on-android](https://github.com/RandomCoderOrg/ubuntu-on-android) - Run Ubuntu with pre-installed Desktop Environments in android/termux with ease! Everything is preinstalled so just download install and done🚀🚀
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [SoftCreatR/JSONPath](https://github.com/SoftCreatR/JSONPath) - JSONPath implementation for PHP.
 - [fcnoronha/WordArtBot](https://github.com/fcnoronha/WordArtBot) - 🎨 The WordArt generator bot for Telegram @bestWordArtBot
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
@@ -2223,7 +2228,6 @@
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [nexB/vulnerablecode](https://github.com/nexB/vulnerablecode) - A free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these vulnerabilities. Sponsored by NLnet https://nlnet.nl/project/vulnerabilitydatabase
-- [faker-ruby/faker](https://github.com/faker-ruby/faker) - A library for generating fake data such as names, addresses, and phone numbers.
 - [imsky/holder](https://github.com/imsky/holder) - :city_sunrise: Client-side image placeholders.
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
@@ -2587,7 +2591,6 @@
 - [mapsforge/mapsforge](https://github.com/mapsforge/mapsforge) - Vector map library and writer - running on Android and Desktop.
 - [ShailuJain/DeskViewer](https://github.com/ShailuJain/DeskViewer) - A Java Project for screen sharing based on TCP protocol. Like TeamViewer
 - [mapbox/mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) - Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL
-- [archivesunleashed/aut](https://github.com/archivesunleashed/aut) - The Archives Unleashed Toolkit is an open-source toolkit for analyzing web archives.
 - [android/tv-samples](https://github.com/android/tv-samples) - Multiple samples showing best practices in app development on Android TV.
 - [google-ar/sceneform-android-sdk](https://github.com/google-ar/sceneform-android-sdk) - Sceneform SDK for Android
 - [googlesamples/sceneform-samples](https://github.com/googlesamples/sceneform-samples) - Sceneform samples for 3D rendering for ARCore in Java.
@@ -2716,7 +2719,7 @@
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [julmot/mark.js](https://github.com/julmot/mark.js) - JavaScript keyword highlighting. Mark text with with options that fit every application. Also available as jQuery plugin.
 - [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block invisible trackers.
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of an entire web page in a single HTML file
 - [enginkizil/FeedEk](https://github.com/enginkizil/FeedEk) - FeedEk jQuery RSS/ATOM Feed Plugin
 - [VAGAScom/react-describe](https://github.com/VAGAScom/react-describe) - An accessible React playground on top of react-docgen
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
@@ -3014,7 +3017,6 @@
 - [the-crib/thread-unroll](https://github.com/the-crib/thread-unroll) - Unrolls twitter thread and sends it as a DM to anyone that mentions the bot on the thread.
 - [gdad-s-river/create-twitter-thread](https://github.com/gdad-s-river/create-twitter-thread) - Turn a long string into twitter thread with tweets' length (&lt;= 280 chars) stored in an array of strings 🎉🎊
 - [rahiel/archiveror](https://github.com/rahiel/archiveror) - Archiveror will help you preserve the webpages you love. 💾
-- [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [oduwsdl/tweetedat](https://github.com/oduwsdl/tweetedat) - TweetedAt tells the time of a tweet based on its tweet id
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [christian-fei/Simple-Jekyll-Search](https://github.com/christian-fei/Simple-Jekyll-Search) - A JavaScript library to add search functionality to any Jekyll blog.
@@ -3942,7 +3944,7 @@
 - [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-stag
 - [jonschlinkert/template-helpers](https://github.com/jonschlinkert/template-helpers) - Generic JavaScript helpers that can be used with any template engine. Handlebars, Lo-Dash, Underscore, or any engine that supports helper functions.
 - [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript
-- [blurdylan/manifesto-cli](https://github.com/blurdylan/manifesto-cli) - A CLI app that helps generate a manifest file for your PWA.
+- [dylantientcheu/manifesto-cli](https://github.com/dylantientcheu/manifesto-cli) - A CLI app that helps generate a manifest file for your PWA.
 - [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli) - 🖌 docsify cli tool - A magical documentation generator.
 - [obs-websocket-community-projects/obs-websocket-js](https://github.com/obs-websocket-community-projects/obs-websocket-js) - Consumes https://github.com/obsproject/obs-websocket
 - [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
@@ -4171,7 +4173,7 @@
 - [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers
 - [EdOverflow/contact.sh](https://github.com/EdOverflow/contact.sh) - An OSINT tool to find contacts in order to report security vulnerabilities.
 - [alephdata/aleph](https://github.com/alephdata/aleph) - Search and browse documents and data; find the people and companies you look for.
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of an entire web page in a single HTML file
 - [Te-k/harpoon](https://github.com/Te-k/harpoon) - CLI tool for open source and threat intelligence
 - [evilsocket/xray](https://github.com/evilsocket/xray) - XRay is a tool for recon, mapping and OSINT gathering from public networks.
 - [si9int/cc.py](https://github.com/si9int/cc.py) - Extracting URLs of a specific target based on the results of "commoncrawl.org"
@@ -4292,7 +4294,7 @@
 - [goodtft/LCD-show](https://github.com/goodtft/LCD-show) - 2.4" 2.8"3.2" 3.5" 5.0" 7.0" TFT LCD driver for the Raspberry PI 3B+/A/A+/B/B+/PI2/ PI3/ZERO/ZERO W
 - [kikiklang/pomme-page](https://github.com/kikiklang/pomme-page) - Big buttons with easy click startpage for a browser.
 - [Movixme/Movix](https://github.com/Movixme/Movix) - 
-- [cliegargo/pwy](https://github.com/cliegargo/pwy) - :partly_sunny: A simple weather information tool.
+- [cegargo/pwy](https://github.com/cegargo/pwy) - :partly_sunny: A simple weather information tool.
 - [ltpitt/python-simple-notifications](https://github.com/ltpitt/python-simple-notifications) - A Python module to send out email (also with attachment) and push notifications (using pushbullet or pushover) from your applications
 - [DIGITALCRIMINAL/OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans) - Scrape all the media from an OnlyFans account - Updated regularly
 - [tgalal/yowsup](https://github.com/tgalal/yowsup) - The WhatsApp lib
@@ -4410,7 +4412,7 @@
 - [ArchiveTeam/grab-site](https://github.com/ArchiveTeam/grab-site) - The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [nathanwilthomas/tomtom_live_traffic_scrape](https://github.com/nathanwilthomas/tomtom_live_traffic_scrape) - This code retrieves the live traffic json file from TomTom, and cleans this data to replicate the live chart shown on the webpage.
-- [offensive-security/exploitdb](https://github.com/offensive-security/exploitdb) - The official Exploit Database repository
+- [offensive-security/exploitdb](https://github.com/offensive-security/exploitdb) - The legacy Exploit Database repository - New repo located at https://gitlab.com/exploit-database/exploitdb
 - [s0md3v/Arjun](https://github.com/s0md3v/Arjun) - HTTP parameter discovery suite.
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [s0md3v/Striker](https://github.com/s0md3v/Striker) - Striker is an offensive information and vulnerability scanner.
@@ -5277,7 +5279,7 @@
 - [chinchang/superplaceholder.js](https://github.com/chinchang/superplaceholder.js) - ⚡Super charge your input placeholders
 - [chinchang/super-search](https://github.com/chinchang/super-search) - Easy to add search for your blog
 - [vega/vega](https://github.com/vega/vega) - A visualization grammar.
-- [antvis/G2](https://github.com/antvis/G2) - 📊 A visualization grammar for dashboard building, data exploration and storytelling.
+- [antvis/G2](https://github.com/antvis/G2) - 📊 A concise and progressive visualization grammar.
 - [yui/yuidoc](https://github.com/yui/yuidoc) - YUI Javascript Documentation Tool
 - [kittykatattack/learningPixi](https://github.com/kittykatattack/learningPixi) - A step-by-step introduction to making games and interactive media with the Pixi.js rendering engine.
 - [tinavanschelt/recycled-login-flow](https://github.com/tinavanschelt/recycled-login-flow) - React/Redux login flow built with redux-saga and a fake json server.
@@ -6637,6 +6639,7 @@
 - [christopherkade/banner-generator](https://github.com/christopherkade/banner-generator) - :speech_balloon: Easily generate banners for your articles on dev.to
 - [roth-a/Bash-Scripts](https://github.com/roth-a/Bash-Scripts) - Bash scripts, including an incremental backup script using rsync. Also a script to convert many videos using ffmpeg
 - [guardianproject/proofmode-android](https://github.com/guardianproject/proofmode-android) - THIS REPOSITORY IS MIGRATING TO: https://gitlab.com/guardianproject/proofmode/proofmode-android
+- [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [oduwsdl/raintale](https://github.com/oduwsdl/raintale) - A Python utility for publishing a social media story built from archived web pages to multiple services.
 - [oduwsdl/archivenow](https://github.com/oduwsdl/archivenow) - A Tool To Push Web Resources Into Web Archives
 - [janodvarko/harviewer](https://github.com/janodvarko/harviewer) - HAR Viewer is a web application that allows visualizing  HTTP Archive logs (HARs)
@@ -7054,7 +7057,7 @@
 - [igrigorik/gharchive.org](https://github.com/igrigorik/gharchive.org) - GH Archive is a project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis.
 - [htmlpreview/htmlpreview.github.com](https://github.com/htmlpreview/htmlpreview.github.com) - HTML Preview for GitHub Repositories
 - [mikemaccana/whois-json](https://github.com/mikemaccana/whois-json) - Whois with results in actual, structured, camelCased JavaScript!
-- [IMSGlobal/openbadges-specification](https://github.com/IMSGlobal/openbadges-specification) - Specs related to Open Badges
+- [1EdTech/openbadges-specification](https://github.com/1EdTech/openbadges-specification) - Specs related to Open Badges
 - [louh/weekender](https://github.com/louh/weekender) - Unofficial proof-of-concept modern update for MTA's Weekender.
 - [louh/mta-subway-bullets](https://github.com/louh/mta-subway-bullets) - SVG icons for the NYC MTA subway lines
 - [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
@@ -7320,7 +7323,6 @@
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [google/php-photoslibrary](https://github.com/google/php-photoslibrary) - PHP client library for the Google Photos Library API
 - [botman/botman](https://github.com/botman/botman) - A framework agnostic PHP library to build chat bots
-- [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [pvtl/voyager-page-blocks](https://github.com/pvtl/voyager-page-blocks) - A module to provide page blocks for Voyager 📝
 - [xtrime-ru/TelegramApiServer](https://github.com/xtrime-ru/TelegramApiServer) - Fast, simple, async php telegram api server: MadelineProto + Amp HTTP Server
 - [xtrime-ru/TelegramRSS](https://github.com/xtrime-ru/TelegramRSS) - Convert telegram posts to RSS or json in swoole server
@@ -7403,8 +7405,8 @@
 - [sandoche/Jekyll-webpack-boilerplate](https://github.com/sandoche/Jekyll-webpack-boilerplate) - ⚡️ A boilerplate with Jekyll and Webpack to make the most performant static websites
 - [mckeever02/mailtolink](https://github.com/mckeever02/mailtolink) - A quick and easy way to generate markup for mailto links without having to worry about the annoying formatting.
 - [souldanger/jekyll-pwa-workbox](https://github.com/souldanger/jekyll-pwa-workbox) - A Jekyll plugin using Workbox to make your PWA / Website available offline.
-- [blurdylan/manifesto-cli](https://github.com/blurdylan/manifesto-cli) - A CLI app that helps generate a manifest file for your PWA.
-- [blurdylan/manifesto](https://github.com/blurdylan/manifesto) - A Vue PWA that helps generate a manifest for your own PWA
+- [dylantientcheu/manifesto-cli](https://github.com/dylantientcheu/manifesto-cli) - A CLI app that helps generate a manifest file for your PWA.
+- [dylantientcheu/manifesto](https://github.com/dylantientcheu/manifesto) - A Vue PWA that helps generate a manifest for your own PWA
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [pankajladhar/speedy-math](https://github.com/pankajladhar/speedy-math) - An application which allows user (small kids) to practice basic Mathematics operations
 - [vuestorefront/storefront-ui](https://github.com/vuestorefront/storefront-ui) - Customization-first, performance-oriented and elegant UI framework for eCommerce (and not only) based on Vue.js and Google Retail UX Playbook. Made with 💚 by Vue Storefront team and contributors.
@@ -7579,7 +7581,6 @@
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [Rhizome-Conifer/conifer](https://github.com/Rhizome-Conifer/conifer) - Collect and revisit web pages.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-- [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [palewire/storytracker](https://github.com/palewire/storytracker) - Tools for tracking stories on news homepages
 - [palewire/savemy.news](https://github.com/palewire/savemy.news) - Save My News: A personal, permanent clipping service
 - [palewire/savepagenow](https://github.com/palewire/savepagenow) - A simple Python wrapper and command-line interface for archive.org’s "Save Page Now" capturing service
@@ -7920,7 +7921,7 @@
 - [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
 - [daneden/photos.daneden.me](https://github.com/daneden/photos.daneden.me) - 📸 A React.js-based gallery of some of my favorite photos
 - [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
 - [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch) - ⚡️ Lightning-fast search for React and React Native applications, by Algolia.
 - [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [avkonst/hookstate](https://github.com/avkonst/hookstate) - The simple but very powerful and incredibly fast state management for React that is based on hooks
@@ -8131,7 +8132,6 @@
 - [philnash/pwned](https://github.com/philnash/pwned) - 😱 An easy, Ruby way to use the Pwned Passwords API.
 - [rbuchberger/jekyll_picture_tag](https://github.com/rbuchberger/jekyll_picture_tag) - Easy responsive images for Jekyll.
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
-- [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [github/pages-gem](https://github.com/github/pages-gem) - A simple Ruby Gem to bootstrap dependencies for setting up and maintaining a local Jekyll environment in sync with GitHub Pages
 - [benbalter/jekyll-readme-index](https://github.com/benbalter/jekyll-readme-index) - A Jekyll plugin to render a project's README as the site's index.
 - [RealEstateWebTools/property_web_scraper](https://github.com/RealEstateWebTools/property_web_scraper) - Web based UI to make scraping data from real estate websites super simple
@@ -8702,7 +8702,7 @@
 - [apertureless/vue-chartjs](https://github.com/apertureless/vue-chartjs) - 📊  Vue.js wrapper for Chart.js
 - [gwenaelp/vue-diagrams](https://github.com/gwenaelp/vue-diagrams) - Diagram component for vue.js, inspired by react-diagrams
 - [nuxt/vue-meta](https://github.com/nuxt/vue-meta) - Manage HTML metadata in Vue.js components with SSR support
-- [blurdylan/manifesto](https://github.com/blurdylan/manifesto) - A Vue PWA that helps generate a manifest for your own PWA
+- [dylantientcheu/manifesto](https://github.com/dylantientcheu/manifesto) - A Vue PWA that helps generate a manifest for your own PWA
 - [lusaxweb/vue-share](https://github.com/lusaxweb/vue-share) - Vuejs News Links
 - [lusaxweb/vuesax](https://github.com/lusaxweb/vuesax) - New Framework Components for Vue.js 2
 - [lusaxweb/vuenut](https://github.com/lusaxweb/vuenut) - ⚙️ Developer tools for vue js (Vuex)
