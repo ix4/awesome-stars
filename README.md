@@ -148,7 +148,6 @@
 - [royhills/arp-scan](https://github.com/royhills/arp-scan) - The ARP Scanner
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
-- [offensive-security/exploitdb](https://github.com/offensive-security/exploitdb) - The official Exploit Database repository
 - [seemoo-lab/nexmon](https://github.com/seemoo-lab/nexmon) - The C-based Firmware Patching Framework for Broadcom/Cypress WiFi Chips that enables Monitor Mode, Frame Injection and much more
 - [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
@@ -286,6 +285,7 @@
 - [cnr-isti-vclab/meshlab](https://github.com/cnr-isti-vclab/meshlab) - The open source mesh processing system
 - [seetaface/SeetaFaceEngine](https://github.com/seetaface/SeetaFaceEngine) - 
 - [mpromonet/webrtc-streamer](https://github.com/mpromonet/webrtc-streamer) - WebRTC streamer for V4L2 capture devices, RTSP sources and Screen Capture
+- [flutter-webrtc/flutter-webrtc](https://github.com/flutter-webrtc/flutter-webrtc) - WebRTC plugin for Flutter Mobile/Desktop/Web
 - [raboof/nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
 - [BVLC/raptor](https://github.com/BVLC/raptor) - Code basis for the Realtime adAPtative detecTOR (first published and referred to at IEEE ICRA 2014)
 - [webcamoid/webcamoid](https://github.com/webcamoid/webcamoid) - Webcamoid is a full featured and multiplatform webcam suite.
@@ -1197,7 +1197,7 @@
 - [lipis/bootstrap-social](https://github.com/lipis/bootstrap-social) - :couple: Social Sign-In Buttons for Bootstrap
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [JackDougherty/bikemapcode](https://github.com/JackDougherty/bikemapcode) - mobile-friendly bicycle map tool with open-source code, designed for cycling groups to customize and host on their own sites
-- [IMSGlobal/openbadges-specification](https://github.com/IMSGlobal/openbadges-specification) - Specs related to Open Badges
+- [1EdTech/openbadges-specification](https://github.com/1EdTech/openbadges-specification) - Specs related to Open Badges
 - [axismaps/riskier-future](https://github.com/axismaps/riskier-future) - 
 - [awoodruff/sketchy-hachures](https://github.com/awoodruff/sketchy-hachures) - Render vaguely hachure-like relief maps on canvas
 - [awoodruff/canvas-shaded-relief](https://github.com/awoodruff/canvas-shaded-relief) - Demo of simple shaded relief with javascript and canvas.
@@ -1321,7 +1321,6 @@
 - [geonetwork/core-geonetwork](https://github.com/geonetwork/core-geonetwork) - GeoNetwork is a catalog application to manage spatially referenced resources. It provides powerful metadata editing and search functions as well as an interactive web map viewer. It is currently used 
 - [modesty/pdf2json](https://github.com/modesty/pdf2json) - A PDF file parser that converts PDF binaries to text based JSON, powered by a fork of PDF.JS
 - [ddssingsong/webrtc_android](https://github.com/ddssingsong/webrtc_android) - webrtc VideoCall VideoConference  视频通话 视频会议
-- [flutter-webrtc/flutter-webrtc](https://github.com/flutter-webrtc/flutter-webrtc) - WebRTC plugin for Flutter Mobile/Desktop/Web
 - [ShailuJain/DeskViewer](https://github.com/ShailuJain/DeskViewer) - A Java Project for screen sharing based on TCP protocol. Like TeamViewer
 - [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - Stanford CoreNLP: A Java suite of core NLP tools.
 - [SaraTorrey/women-coders-bot](https://github.com/SaraTorrey/women-coders-bot) - A Twitter bot written in Java that retweets all things women who code.
@@ -1850,7 +1849,7 @@
 - [Juris-M/legal-resource-registry](https://github.com/Juris-M/legal-resource-registry) - Jurisdiction ID and abbreviation data files for using with Jurism and other projects.
 - [sunlightlabs/spooky_sounds](https://github.com/sunlightlabs/spooky_sounds) - This is a small Flask app that uses websockets and webcam motion detection to trigger sounds using say from OSX.
 - [apertureless/vue-cookie-law](https://github.com/apertureless/vue-cookie-law) - 🍪 👮 Hackable EU Cookie Law Plugin for Vue.js
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of an entire web page in a single HTML file
 - [gchq/iris-schedule-viewer](https://github.com/gchq/iris-schedule-viewer) - An IRIS component for displaying gantt-style categorised data over time.
 - [gchq/iris-timeline-viewer](https://github.com/gchq/iris-timeline-viewer) - An IRIS component for navigating and interacting with time based data.
 - [gchq/CyberChef-server](https://github.com/gchq/CyberChef-server) - A server providing RESTful access to CyberChef
@@ -1953,7 +1952,7 @@
 - [FormidableLabs/react-live](https://github.com/FormidableLabs/react-live) - A flexible playground for live editing React components
 - [jhildenbiddle/docsify-tabs](https://github.com/jhildenbiddle/docsify-tabs) - A docsify.js plugin for rendering tabbed content from markdown
 - [nuxt/vue-meta](https://github.com/nuxt/vue-meta) - Manage HTML metadata in Vue.js components with SSR support
-- [blurdylan/manifesto-cli](https://github.com/blurdylan/manifesto-cli) - A CLI app that helps generate a manifest file for your PWA.
+- [dylantientcheu/manifesto-cli](https://github.com/dylantientcheu/manifesto-cli) - A CLI app that helps generate a manifest file for your PWA.
 - [angular/angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
@@ -2646,7 +2645,7 @@
 - [jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://g
 - [CSAILVision/LabelMeAnnotationTool](https://github.com/CSAILVision/LabelMeAnnotationTool) - Source code for the LabelMe annotation tool.
 - [reactjs/reactjs.org-translation](https://github.com/reactjs/reactjs.org-translation) - Nexus of resources and tools for translating the React docs.
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
 - [weareoutman/markdoc](https://github.com/weareoutman/markdoc) - An online markdown editor
 - [weareoutman/clockpicker](https://github.com/weareoutman/clockpicker) - A clock-style timepicker for Bootstrap (or jQuery). Sorry but no longer maintained.
 - [objectivehtml/FlipClock](https://github.com/objectivehtml/FlipClock) - 
@@ -3157,7 +3156,6 @@
 - [elavoie/webrtc-bootstrap](https://github.com/elavoie/webrtc-bootstrap) - 
 - [feross/simple-peer](https://github.com/feross/simple-peer) - 📡 Simple WebRTC video, voice, and data channels
 - [moose-team/friends](https://github.com/moose-team/friends) - :tv: P2P chat powered by the web.
-- [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [webtorrent/instant.io](https://github.com/webtorrent/instant.io) - 🚀 Streaming file transfer over WebTorrent (torrents on the web)
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
@@ -3691,6 +3689,7 @@
 - [atc1441/DaFlasherFiles](https://github.com/atc1441/DaFlasherFiles) - Additional files for the DaFlasher App and the ATCwatch Firmware for the P8 Smartwatch
 - [slacka/WoeUSB](https://github.com/slacka/WoeUSB) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
 - [EdOverflow/bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet) - A list of interesting payloads, tips and tricks for bug bounty hunters.
+- [offensive-security/exploitdb](https://github.com/offensive-security/exploitdb) - The legacy Exploit Database repository - New repo located at https://gitlab.com/exploit-database/exploitdb
 - [0xjmux/InsanelyCheapElectronics](https://github.com/0xjmux/InsanelyCheapElectronics) - A compilation of links relating to electronics me and my friends have bought from China. It is online as a resource for others just starting out in electronics, and are looking for projects to do.
 - [ianramzy/decentralized-video-chat](https://github.com/ianramzy/decentralized-video-chat) - 🚀 Zipcall- Acquired @ 250k users 🚀 Peer to peer browser video calling platform with unmatched video quality and latency.
 - [newjersey/join](https://github.com/newjersey/join) - 
@@ -4183,7 +4182,7 @@
 - [rbischoff/pyweather](https://github.com/rbischoff/pyweather) - Python based weather app.  Serves up Wunderground info and eventually local sensor data.
 - [LoveBootCaptain/WeatherPi_TFT](https://github.com/LoveBootCaptain/WeatherPi_TFT) - a weather display for a raspberry pi and a TFT display written in python3 and pygame
 - [Movixme/Movix](https://github.com/Movixme/Movix) - 
-- [cliegargo/pwy](https://github.com/cliegargo/pwy) - :partly_sunny: A simple weather information tool.
+- [cegargo/pwy](https://github.com/cegargo/pwy) - :partly_sunny: A simple weather information tool.
 - [ltpitt/python-simple-notifications](https://github.com/ltpitt/python-simple-notifications) - A Python module to send out email (also with attachment) and push notifications (using pushbullet or pushover) from your applications
 - [DIGITALCRIMINAL/OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans) - Scrape all the media from an OnlyFans account - Updated regularly
 - [tgalal/yowsup](https://github.com/tgalal/yowsup) - The WhatsApp lib
@@ -5437,7 +5436,7 @@
 - [fangpenlin/avataaars](https://github.com/fangpenlin/avataaars) - React component for avataaars
 - [fangpenlin/avataaars-generator](https://github.com/fangpenlin/avataaars-generator) - Simple generator React app for avataaars
 - [ivanvanderbyl/flight-aware-api](https://github.com/ivanvanderbyl/flight-aware-api) - NodeJS & Browser API for FlightAware
-- [antvis/G2](https://github.com/antvis/G2) - 📊 A visualization grammar for dashboard building, data exploration and storytelling.
+- [antvis/G2](https://github.com/antvis/G2) - 📊 A concise and progressive visualization grammar.
 - [rough-stuff/wired-elements](https://github.com/rough-stuff/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [airbnb/react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
@@ -5620,6 +5619,7 @@
 - [onsip/SIP.js](https://github.com/onsip/SIP.js) - A simple, intuitive, and powerful JavaScript signaling library
 - [natzcam/firepeer](https://github.com/natzcam/firepeer) - secure p2p signalling and authentication for simple-peer using firebase realtime database
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
+- [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [GoogleChrome/rendertron](https://github.com/GoogleChrome/rendertron) - A Headless Chrome rendering solution
@@ -5692,7 +5692,7 @@
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [forestryio/portfolio-vuepress](https://github.com/forestryio/portfolio-vuepress) - Vuepress portfolio
 - [gwenaelp/vue-diagrams](https://github.com/gwenaelp/vue-diagrams) - Diagram component for vue.js, inspired by react-diagrams
-- [blurdylan/manifesto](https://github.com/blurdylan/manifesto) - A Vue PWA that helps generate a manifest for your own PWA
+- [dylantientcheu/manifesto](https://github.com/dylantientcheu/manifesto) - A Vue PWA that helps generate a manifest for your own PWA
 - [lusaxweb/vue-share](https://github.com/lusaxweb/vue-share) - Vuejs News Links
 - [lusaxweb/vuesax](https://github.com/lusaxweb/vuesax) - New Framework Components for Vue.js 2
 - [lusaxweb/vuenut](https://github.com/lusaxweb/vuenut) - ⚙️ Developer tools for vue js (Vuex)
