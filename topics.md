@@ -276,7 +276,7 @@
 - [termux/termux-api](https://github.com/termux/termux-api) - Termux add-on app which exposes device functionality as API to command line programs.
 - [adi1090x/termux-desktop](https://github.com/adi1090x/termux-desktop) - Setup A Beautiful Desktop/GUI In Termux
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A build system and primary set of packages for Termux.
-- [4f77616973/Wristkey](https://github.com/4f77616973/Wristkey) - A free and open-source offline authenticator app for Wear OS.
+- [4f77616973/Wristkey](https://github.com/4f77616973/Wristkey) - A free and open-source 2FA app for smartwatches.
 - [rortegat/android-gps-mqtt](https://github.com/rortegat/android-gps-mqtt) - Retrieves GPS location and publishes longitude and latitude to MQTT broker
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
 - [appleboy/gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
@@ -841,7 +841,7 @@
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [chinchang/web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend playground
 - [igniterealtime/pade](https://github.com/igniterealtime/pade) - Pàdé (Yoruba word for Meet) is a browser extension (Chrome/Edge) based unified communications desktop client for Openfire.
-- [privacypass/challenge-bypass-extension](https://github.com/privacypass/challenge-bypass-extension) - Privacy Pass: a privacy-enhancing protocol and browser extension.
+- [privacypass/challenge-bypass-extension](https://github.com/privacypass/challenge-bypass-extension) - Client for Privacy Pass protocol providing unlinkable cryptographic tokens
 - [rahiel/archiveror](https://github.com/rahiel/archiveror) - Archiveror will help you preserve the webpages you love. 💾
 - [fregante/GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
@@ -1432,7 +1432,7 @@
 - [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste) - The Django project driving dpaste.org
 - [google/docsy-example](https://github.com/google/docsy-example) - An example documentation site using the Docsy Hugo theme
 - [grebtsew/FloorplanToBlender3d](https://github.com/grebtsew/FloorplanToBlender3d) - Create 3d rooms in blender from floorplans.
-- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, realtime, feature rich, and markdown compatible.
+- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [dockersamples/example-voting-app](https://github.com/dockersamples/example-voting-app) - Example Docker Compose app
@@ -1532,7 +1532,7 @@
 - [documentationjs/documentation](https://github.com/documentationjs/documentation) - :book: documentation for modern JavaScript
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
 - [uswds/uswds-site](https://github.com/uswds/uswds-site) - USWDS website and documentation
-- [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.
+- [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
@@ -1985,7 +1985,7 @@
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) - Google Sheets API (v4) wrapper for Node.js
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
-- [4f77616973/Wristkey](https://github.com/4f77616973/Wristkey) - A free and open-source offline authenticator app for Wear OS.
+- [4f77616973/Wristkey](https://github.com/4f77616973/Wristkey) - A free and open-source 2FA app for smartwatches.
 - [spatie/laravel-google-calendar](https://github.com/spatie/laravel-google-calendar) - Manage events on a Google Calendar
 - [googleapis/google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client) - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
 - [nickspaargaren/no-google](https://github.com/nickspaargaren/no-google) - Completely block Google and its services
@@ -2163,7 +2163,6 @@
 - [NiallEccles/Hacktoberfest-animations](https://github.com/NiallEccles/Hacktoberfest-animations) - Small animation selector for Hacktoberfest
 - [airform/airform](https://github.com/airform/airform) - Functional HTML forms for Front-End Developers.
 - [mgechev/javascript-algorithms](https://github.com/mgechev/javascript-algorithms) - 💻 JavaScript implementations of computer science algorithms
-- [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript. We're hiring https://boards.greenhouse.io/sentry
 - [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
@@ -2224,7 +2223,7 @@
 - [Bloggify/sunset](https://github.com/Bloggify/sunset) - 🌅 Get sunset times.
 - [Bloggify/Bloggify](https://github.com/Bloggify/Bloggify) - 📝 We make publishing easy.
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
-- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, realtime, feature rich, and markdown compatible.
+- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [nexB/vulnerablecode](https://github.com/nexB/vulnerablecode) - A free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these vulnerabilities. Sponsored by NLnet https://nlnet.nl/project/vulnerabilitydatabase
@@ -2824,7 +2823,7 @@
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
-- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, realtime, feature rich, and markdown compatible.
+- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [statsd/statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation
 - [facette/boula](https://github.com/facette/boula) - Facette time series charts library
@@ -3201,7 +3200,7 @@
 - [joshgerdes/jekyll-uno](https://github.com/joshgerdes/jekyll-uno) - Jekyll-Uno - a minimal, responsive theme for Jekyll based on Uno for Ghost
 - [Phlow/feeling-responsive](https://github.com/Phlow/feeling-responsive) - »Feeling Responsive« is a free flexible theme for Jekyll built on Foundation framework. You can use it for your company site, as a portfolio or as a blog.
 - [jarrekk/Jalpc](https://github.com/jarrekk/Jalpc) - 🍎Jalpc -- A flexible Jekyll theme, 3 steps to build your website.
-- [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.
+- [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
 - [mmistakes/so-simple-theme](https://github.com/mmistakes/so-simple-theme) - A simple Jekyll theme for words and pictures.
 - [Gaohaoyang/gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io) - blog & blog theme🤘
 - [TaylanTatli/Moon](https://github.com/TaylanTatli/Moon) - Moon is a minimal, one column jekyll theme.
@@ -3339,7 +3338,7 @@
 
 ## kotlin 
 
-- [4f77616973/Wristkey](https://github.com/4f77616973/Wristkey) - A free and open-source offline authenticator app for Wear OS.
+- [4f77616973/Wristkey](https://github.com/4f77616973/Wristkey) - A free and open-source 2FA app for smartwatches.
 - [android/tv-samples](https://github.com/android/tv-samples) - Multiple samples showing best practices in app development on Android TV.
 
 ## kubernetes 
@@ -3965,7 +3964,7 @@
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [Bloggify/Bloggify](https://github.com/Bloggify/Bloggify) - 📝 We make publishing easy.
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
-- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, realtime, feature rich, and markdown compatible.
+- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 - [statsd/statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation
@@ -4526,8 +4525,6 @@
 - [fulcrumapp/turf-tagger](https://github.com/fulcrumapp/turf-tagger) - This application takes a set of points and a set of polygons and performs a spatial join.
 - [fulcrumapp/v8-sandbox](https://github.com/fulcrumapp/v8-sandbox) - V8 Sandbox - Execute untrusted JavaScript from Node.js
 - [JasonSanford/shapefile-ags](https://github.com/JasonSanford/shapefile-ags) - CLI to scrape ArcGIS Server instances and export as shapefiles
-- [telegeography/www.submarinecablemap.com](https://github.com/telegeography/www.submarinecablemap.com) - Comprehensive interactive map of the world's major operating and planned submarine cable systems and landing stations, updated frequently.
-- [telegeography/www.internetexchangemap.com](https://github.com/telegeography/www.internetexchangemap.com) - The Internet Exchange Map is a free resource from TeleGeography. Data contained in this map was complied by TeleGeography and is updated on a regular basis.
 - [foodcoops/foodsoft](https://github.com/foodcoops/foodsoft) - Web-based software to manage a non-profit food coop (product catalog, ordering, accounting, job scheduling).
 - [rorasa/pyVideoSheet](https://github.com/rorasa/pyVideoSheet) - Python-based command-line movie thumbnail creator – designed for efficiency and simplicity
 - [netlify/headlesscms.org](https://github.com/netlify/headlesscms.org) - Source for headlesscms.org
@@ -7889,7 +7886,7 @@
 - [akiran/react-slick](https://github.com/akiran/react-slick) - React carousel component
 - [aweary/react-copy-write](https://github.com/aweary/react-copy-write) - ✍️ Immutable state with a mutable API
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
-- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, realtime, feature rich, and markdown compatible.
+- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [teambit/envs](https://github.com/teambit/envs) - Component development environments for the Bit community
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
@@ -8200,7 +8197,7 @@
 - [hl2guide/AdGuard-Home-Whitelist](https://github.com/hl2guide/AdGuard-Home-Whitelist) - A strict curated whitelist for AdGuard Home.
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [ikarus23/MifareClassicTool](https://github.com/ikarus23/MifareClassicTool) - An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags.
-- [4f77616973/Wristkey](https://github.com/4f77616973/Wristkey) - A free and open-source offline authenticator app for Wear OS.
+- [4f77616973/Wristkey](https://github.com/4f77616973/Wristkey) - A free and open-source 2FA app for smartwatches.
 - [maldevel/PenTestKit](https://github.com/maldevel/PenTestKit) - Tools, scripts and tips useful during Penetration Testing engagements.
 - [mgeeky/Penetration-Testing-Tools](https://github.com/mgeeky/Penetration-Testing-Tools) - A collection of more than 170+ tools, scripts, cheatsheets and other loots that I've developed over years for Red Teaming/Pentesting/IT Security audits purposes.
 - [hacl-star/hacl-star](https://github.com/hacl-star/hacl-star) - HACL*, a formally verified cryptographic library written in F*
