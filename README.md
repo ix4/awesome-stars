@@ -1527,8 +1527,6 @@
 - [mendhak/angular-intro.js](https://github.com/mendhak/angular-intro.js) - AngularJS directives for intro.js
 - [fulcrumapp/turf-tagger](https://github.com/fulcrumapp/turf-tagger) - This application takes a set of points and a set of polygons and performs a spatial join.
 - [JasonSanford/shapefile-ags](https://github.com/JasonSanford/shapefile-ags) - CLI to scrape ArcGIS Server instances and export as shapefiles
-- [telegeography/www.submarinecablemap.com](https://github.com/telegeography/www.submarinecablemap.com) - Comprehensive interactive map of the world's major operating and planned submarine cable systems and landing stations, updated frequently.
-- [telegeography/www.internetexchangemap.com](https://github.com/telegeography/www.internetexchangemap.com) - The Internet Exchange Map is a free resource from TeleGeography. Data contained in this map was complied by TeleGeography and is updated on a regular basis.
 - [netlify/headlesscms.org](https://github.com/netlify/headlesscms.org) - Source for headlesscms.org
 - [COVID19Tracking/website](https://github.com/COVID19Tracking/website) - The COVID Tracking Project website
 - [COVID19Tracking/covid-tracking-api](https://github.com/COVID19Tracking/covid-tracking-api) - COVID-19 Rest & GraphQL API for US data, using Cloudflare Workers
@@ -2883,7 +2881,7 @@
 - [peermaps/mixmap](https://github.com/peermaps/mixmap) - interactive webgl mapping library emphasizing direct access to the rendering pipeline
 - [Polymer/pwa-starter-kit](https://github.com/Polymer/pwa-starter-kit) - Starter templates for building full-featured Progressive Web Apps from web components.
 - [spritejs/spritejs](https://github.com/spritejs/spritejs) - A cross platform high-performance graphics system.
-- [privacypass/challenge-bypass-extension](https://github.com/privacypass/challenge-bypass-extension) - Privacy Pass: a privacy-enhancing protocol and browser extension.
+- [privacypass/challenge-bypass-extension](https://github.com/privacypass/challenge-bypass-extension) - Client for Privacy Pass protocol providing unlinkable cryptographic tokens
 - [opendocsg/opendoc-theme](https://github.com/opendocsg/opendoc-theme) - 
 - [opendocsg/editor](https://github.com/opendocsg/editor) - Opendoc Markdown Editor
 - [mwilliamson/mammoth.js](https://github.com/mwilliamson/mammoth.js) - Convert Word documents (.docx files) to HTML
@@ -3566,7 +3564,7 @@
 
 ## Kotlin 
 
-- [4f77616973/Wristkey](https://github.com/4f77616973/Wristkey) - A free and open-source offline authenticator app for Wear OS.
+- [4f77616973/Wristkey](https://github.com/4f77616973/Wristkey) - A free and open-source 2FA app for smartwatches.
 - [egorovandreyrm/pcap-remote](https://github.com/egorovandreyrm/pcap-remote) - Non-root network sniffer app that features supporting Wireshark sshdump tool
 - [PortSwigger/turbo-intruder](https://github.com/PortSwigger/turbo-intruder) - Turbo Intruder is a Burp Suite extension for sending large numbers of HTTP requests and analyzing the results.
 - [google/ground-android](https://github.com/google/ground-android) - Ground mobile data collection app for Android
@@ -5079,7 +5077,7 @@
 - [hydecorp/hydejack](https://github.com/hydecorp/hydejack) - A boutique Jekyll theme for hackers, nerds, and academics
 - [joshgerdes/jekyll-uno](https://github.com/joshgerdes/jekyll-uno) - Jekyll-Uno - a minimal, responsive theme for Jekyll based on Uno for Ghost
 - [jarrekk/Jalpc](https://github.com/jarrekk/Jalpc) - 🍎Jalpc -- A flexible Jekyll theme, 3 steps to build your website.
-- [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.
+- [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
 - [mmistakes/so-simple-theme](https://github.com/mmistakes/so-simple-theme) - A simple Jekyll theme for words and pictures.
 - [Gaohaoyang/gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io) - blog & blog theme🤘
 - [murraco/jekyll-theme-minimal-resume](https://github.com/murraco/jekyll-theme-minimal-resume) - Simple Jekyll theme for a minimal resume website: https://jekyll-theme-minimal-resume.netlify.com
@@ -5491,7 +5489,7 @@
 - [szimek/signature_pad](https://github.com/szimek/signature_pad) - HTML5 canvas based smooth signature drawing
 - [ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
-- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, realtime, feature rich, and markdown compatible.
+- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [teambit/envs](https://github.com/teambit/envs) - Component development environments for the Bit community
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar
 - [danger/danger-js](https://github.com/danger/danger-js) - ⚠️ Stop saying "you forgot to …" in code review
