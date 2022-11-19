@@ -73,6 +73,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
+- [SVG](#svg)
 - [SWIG](#swig)
 - [Sass](#sass)
 - [Scala](#scala)
@@ -549,7 +550,7 @@
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
 - [dwyl/email](https://github.com/dwyl/email) - ✉️ email dashboard to track deliverability and engagement stats in our App 📈
 - [dwyl/quotes](https://github.com/dwyl/quotes) - 💬  a curated list of quotes that inspire action + code that returns quotes by tag/author/etc. 💡
-- [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example) - 💬 A Step-by-Step Beginners Tutorial for Building, Testing & Deploying a Chat app in Phoenix 1.6.14🚀
+- [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example) - 💬 A Step-by-Step Beginners Tutorial for Building, Testing & Deploying a Chat app in Phoenix 1.6.15 🚀
 - [elixir-lang/ex_doc](https://github.com/elixir-lang/ex_doc) - ExDoc produces HTML and EPUB documentation for Elixir projects
 - [edgurgel/httparrot](https://github.com/edgurgel/httparrot) - HTTP Request & Response Server. An incomplete clone of http://httpbin.org
 - [DFilipeS/rent-bot](https://github.com/DFilipeS/rent-bot) - My personal Facebook Messenger chat bot that helped find an apartment to rent.
@@ -3815,7 +3816,6 @@
 - [mourner/projects](https://github.com/mourner/projects) - A list of awesome open source projects Volodymyr Agafonkin is involved in.
 - [art-dot-git/80x40](https://github.com/art-dot-git/80x40) - 80 by 40 canvas that anyone can draw on.
 - [lisacharlotterost/tool-skills-for-data-journalism](https://github.com/lisacharlotterost/tool-skills-for-data-journalism) - Cheat sheets for analyzing data and building visualizations with R, dplyr, ggplot2, mapbox, qgis, d3.js, google refine and the terminal.
-- [gilbarbara/logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [tomayac/amp-tube](https://github.com/tomayac/amp-tube) - A simple YouTube search engine and viewer app, implemented in AMP
 - [nypl-spacetime/nyc-historical-streets](https://github.com/nypl-spacetime/nyc-historical-streets) - Historical street Shapefiles for New York City
@@ -4714,7 +4714,6 @@
 - [joepie91/python-whois](https://github.com/joepie91/python-whois) - A python module for retrieving and parsing WHOIS data
 - [scanner-research/esper](https://github.com/scanner-research/esper) - Query, analysis, and visualization of large video collections
 - [kroitor/asciichart](https://github.com/kroitor/asciichart) - Nice-looking lightweight console ASCII line charts ╭┈╯ for NodeJS, browsers and terminal, no dependencies
-- [arc298/instagram-scraper](https://github.com/arc298/instagram-scraper) - Scrapes an instagram user's photos and videos
 - [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [Yelp/elastalert](https://github.com/Yelp/elastalert) - Easy & Flexible Alerting With ElasticSearch
@@ -4805,7 +4804,7 @@
 - [wnpr/traffic_stops_wethersfield](https://github.com/wnpr/traffic_stops_wethersfield) - Here is the code Connecticut Public Radio used for its analysis, based on data obtained via a Freedom of Information Act request to the Wethersfield Police Department.
 - [rstudio/tinytex](https://github.com/rstudio/tinytex) - A lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live
 - [rstudio/rmarkdown](https://github.com/rstudio/rmarkdown) - Dynamic Documents for R
-- [USGS-R/dataRetrieval](https://github.com/USGS-R/dataRetrieval) - This R package is designed to obtain USGS or EPA water quality sample data, streamflow data, and metadata directly from web services. See: https://rconnect.usgs.gov/dataRetrieval/
+- [DOI-USGS/dataRetrieval](https://github.com/DOI-USGS/dataRetrieval) - This R package is designed to obtain USGS or EPA water quality sample data, streamflow data, and metadata directly from web services. See: https://rconnect.usgs.gov/dataRetrieval/
 - [Chicago/clear-water](https://github.com/Chicago/clear-water) - Forecasting elevated levels of E. coli at Chicago beaches to provide proper warning to beach-goers.
 - [Chicago/RSocrata](https://github.com/Chicago/RSocrata) - Provides easier interaction with Socrata open data portals http://dev.socrata.com. Users can provide a 'Socrata' data set resource URL, or a 'Socrata' Open Data API (SoDA) web query, or a 'Socrata' "h
 - [rstudio/pagedown](https://github.com/rstudio/pagedown) - Paginate the HTML Output of R Markdown with CSS for Print
@@ -5089,6 +5088,10 @@
 - [guardian/mobile-apps-article-templates](https://github.com/guardian/mobile-apps-article-templates) - Templates for articles on The Guardian iOS and Android apps
 - [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 5 Material Design Admin
 - [cloud-gov/pages-uswds-jekyll](https://github.com/cloud-gov/pages-uswds-jekyll) - Reference implementation of USWDS 2.0 for Jekyll on Federalist.  Demo -&gt;
+
+## SVG 
+
+- [gilbarbara/logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos
 
 ## SWIG 
 
