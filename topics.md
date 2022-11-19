@@ -1326,7 +1326,7 @@
 ## deployment 
 
 - [jeffreytse/jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) - 🪂 A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
-- [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example) - 💬 A Step-by-Step Beginners Tutorial for Building, Testing & Deploying a Chat app in Phoenix 1.6.14🚀
+- [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example) - 💬 A Step-by-Step Beginners Tutorial for Building, Testing & Deploying a Chat app in Phoenix 1.6.15 🚀
 - [nielsenramon/kickster](https://github.com/nielsenramon/kickster) - Worry-free deploying to GitHub Pages using Jekyll
 - [apex/up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
 - [X1011/git-directory-deploy](https://github.com/X1011/git-directory-deploy) - deploy a directory as a git branch
@@ -1585,7 +1585,7 @@
 
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
 - [dwyl/quotes](https://github.com/dwyl/quotes) - 💬  a curated list of quotes that inspire action + code that returns quotes by tag/author/etc. 💡
-- [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example) - 💬 A Step-by-Step Beginners Tutorial for Building, Testing & Deploying a Chat app in Phoenix 1.6.14🚀
+- [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example) - 💬 A Step-by-Step Beginners Tutorial for Building, Testing & Deploying a Chat app in Phoenix 1.6.15 🚀
 - [nicoespeon/my-spotify-groomer](https://github.com/nicoespeon/my-spotify-groomer) - 💤 [Not maintained] Clean my Spotify playlists from tracks I don't like anymore.
 - [DFilipeS/rent-bot](https://github.com/DFilipeS/rent-bot) - My personal Facebook Messenger chat bot that helped find an apartment to rent.
 
@@ -7625,7 +7625,6 @@
 - [AmanoTeam/EduuRobot](https://github.com/AmanoTeam/EduuRobot) - EduuRobot Telegram bot source code.
 - [secynic/ipwhois](https://github.com/secynic/ipwhois) - Retrieve and parse whois data for IPv4 and IPv6 addresses
 - [aws-samples/aws-serverless-airline-booking](https://github.com/aws-samples/aws-serverless-airline-booking) - Airline Booking is a sample web application that provides Flight Search, Flight Payment, Flight Booking and Loyalty points including end-to-end testing, GraphQL and CI/CD. This web application was the
-- [arc298/instagram-scraper](https://github.com/arc298/instagram-scraper) - Scrapes an instagram user's photos and videos
 - [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
 - [sffjunkie/astral](https://github.com/sffjunkie/astral) - Python calculations for the position of the sun and moon.
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
@@ -7714,7 +7713,7 @@
 
 - [darwinanddavis/gggmap](https://github.com/darwinanddavis/gggmap) - 
 - [rstudio/rmarkdown](https://github.com/rstudio/rmarkdown) - Dynamic Documents for R
-- [USGS-R/dataRetrieval](https://github.com/USGS-R/dataRetrieval) - This R package is designed to obtain USGS or EPA water quality sample data, streamflow data, and metadata directly from web services. See: https://rconnect.usgs.gov/dataRetrieval/
+- [DOI-USGS/dataRetrieval](https://github.com/DOI-USGS/dataRetrieval) - This R package is designed to obtain USGS or EPA water quality sample data, streamflow data, and metadata directly from web services. See: https://rconnect.usgs.gov/dataRetrieval/
 - [Chicago/clear-water](https://github.com/Chicago/clear-water) - Forecasting elevated levels of E. coli at Chicago beaches to provide proper warning to beach-goers.
 - [Chicago/RSocrata](https://github.com/Chicago/RSocrata) - Provides easier interaction with Socrata open data portals http://dev.socrata.com. Users can provide a 'Socrata' data set resource URL, or a 'Socrata' Open Data API (SoDA) web query, or a 'Socrata' "h
 - [rstudio/pagedown](https://github.com/rstudio/pagedown) - Paginate the HTML Output of R Markdown with CSS for Print
@@ -8504,7 +8503,7 @@
 - [wkeeling/selenium-wire](https://github.com/wkeeling/selenium-wire) - Extends Selenium's Python bindings to give you the ability to inspect requests made by the browser.
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
 - [mgeeky/Penetration-Testing-Tools](https://github.com/mgeeky/Penetration-Testing-Tools) - A collection of more than 170+ tools, scripts, cheatsheets and other loots that I've developed over years for Red Teaming/Pentesting/IT Security audits purposes.
-- [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example) - 💬 A Step-by-Step Beginners Tutorial for Building, Testing & Deploying a Chat app in Phoenix 1.6.14🚀
+- [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example) - 💬 A Step-by-Step Beginners Tutorial for Building, Testing & Deploying a Chat app in Phoenix 1.6.15 🚀
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [jasmine/jasmine](https://github.com/jasmine/jasmine) - Simple JavaScript testing framework for browsers and node.js
 - [mockito/mockito](https://github.com/mockito/mockito) - Most popular Mocking framework for unit tests written in Java
