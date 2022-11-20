@@ -265,7 +265,7 @@
 
 ## amphp 
 
-- [danog/MadelineProto](https://github.com/danog/MadelineProto) - Async PHP client/server API for the telegram MTProto protocol
+- [danog/MadelineProto](https://github.com/danog/MadelineProto) - Async PHP client API for the telegram MTProto protocol
 
 ## android 
 
@@ -753,7 +753,7 @@
 - [microsoft/ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
 - [narbehaj/telegram-audio-download](https://github.com/narbehaj/telegram-audio-download) - Download forwarded audio files to your bot from Telegram and store them in their related directory.
 - [Fazendaaa/podsearch_bot](https://github.com/Fazendaaa/podsearch_bot) - Telegram bot that searches Podcast in iTunes store.
-- [danog/MadelineProto](https://github.com/danog/MadelineProto) - Async PHP client/server API for the telegram MTProto protocol
+- [danog/MadelineProto](https://github.com/danog/MadelineProto) - Async PHP client API for the telegram MTProto protocol
 - [irazasyed/telegram-bot-sdk](https://github.com/irazasyed/telegram-bot-sdk) - 🤖 Telegram Bot API PHP SDK. Lets you build Telegram Bots easily! Supports Laravel out of the box.
 - [backmeupplz/voicy](https://github.com/backmeupplz/voicy) - @voicybot Telegram bot main repository
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
@@ -1854,7 +1854,7 @@
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
 - [whiteinge/ok.sh](https://github.com/whiteinge/ok.sh) - A Bourne shell GitHub API client library focused on interfacing with shell scripts
 - [codedawi/covid19-badges](https://github.com/codedawi/covid19-badges) - 🦠 SVG badges displaying cases and deaths of COVID-19
-- [stefansundin/github-activity](https://github.com/stefansundin/github-activity) - :computer: GitHub Activity RSS Feed.
+- [stefansundin/github-activity](https://github.com/stefansundin/github-activity) - :computer: RSS Feed for GitHub gist comments.
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [powerman/asciidoc-cheatsheet](https://github.com/powerman/asciidoc-cheatsheet) - Asciidoc cheatsheet for GitHub
 - [huchenme/github-trending-api](https://github.com/huchenme/github-trending-api) - :octocat: The missing APIs for GitHub trending projects and developers 📈
@@ -2187,7 +2187,7 @@
 - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [brettchalupa/graphql-docs](https://github.com/brettchalupa/graphql-docs) - Easily generate beautiful documentation from your GraphQL schema.
 - [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
-- [danog/MadelineProto](https://github.com/danog/MadelineProto) - Async PHP client/server API for the telegram MTProto protocol
+- [danog/MadelineProto](https://github.com/danog/MadelineProto) - Async PHP client API for the telegram MTProto protocol
 - [php-telegram-bot/core](https://github.com/php-telegram-bot/core) - PHP Telegram Bot based on the official Telegram Bot API
 - [muety/telepush](https://github.com/muety/telepush) - 🤖 A simple bot to translate JSON HTTP requests into Telegram push messages
 - [googlemaps/google-maps-services-js](https://github.com/googlemaps/google-maps-services-js) - Node.js client library for Google Maps API Web Services
@@ -3536,7 +3536,7 @@
 ## lua 
 
 - [akopytov/sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark
-- [danog/MadelineProto](https://github.com/danog/MadelineProto) - Async PHP client/server API for the telegram MTProto protocol
+- [danog/MadelineProto](https://github.com/danog/MadelineProto) - Async PHP client API for the telegram MTProto protocol
 
 ## machine-learning 
 
@@ -7305,7 +7305,7 @@
 - [xpressengine/xpressengine](https://github.com/xpressengine/xpressengine) - PHP Open Source CMS
 - [ElliottLandsborough/dog-ceo-api](https://github.com/ElliottLandsborough/dog-ceo-api) - The API hosted at dog.ceo
 - [phpMyDomo/phpMyDomo](https://github.com/phpMyDomo/phpMyDomo) - The ultimate Domotic web remote for the rest of us
-- [danog/MadelineProto](https://github.com/danog/MadelineProto) - Async PHP client/server API for the telegram MTProto protocol
+- [danog/MadelineProto](https://github.com/danog/MadelineProto) - Async PHP client API for the telegram MTProto protocol
 - [irazasyed/telegram-bot-sdk](https://github.com/irazasyed/telegram-bot-sdk) - 🤖 Telegram Bot API PHP SDK. Lets you build Telegram Bots easily! Supports Laravel out of the box.
 - [php-telegram-bot/core](https://github.com/php-telegram-bot/core) - PHP Telegram Bot based on the official Telegram Bot API
 - [pagekit/pagekit](https://github.com/pagekit/pagekit) - Pagekit CMS
@@ -8410,7 +8410,7 @@
 - [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
 - [Fazendaaa/podsearch_bot](https://github.com/Fazendaaa/podsearch_bot) - Telegram bot that searches Podcast in iTunes store.
 - [Bfas237/TeleMultiStorebot](https://github.com/Bfas237/TeleMultiStorebot) - 🗳 A telegram multi store function bot that is built using Pyrogram Mtproto library.
-- [danog/MadelineProto](https://github.com/danog/MadelineProto) - Async PHP client/server API for the telegram MTProto protocol
+- [danog/MadelineProto](https://github.com/danog/MadelineProto) - Async PHP client API for the telegram MTProto protocol
 - [irazasyed/telegram-bot-sdk](https://github.com/irazasyed/telegram-bot-sdk) - 🤖 Telegram Bot API PHP SDK. Lets you build Telegram Bots easily! Supports Laravel out of the box.
 - [php-telegram-bot/core](https://github.com/php-telegram-bot/core) - PHP Telegram Bot based on the official Telegram Bot API
 - [nickoala/telepot](https://github.com/nickoala/telepot) - Python framework for Telegram Bot API
@@ -8815,7 +8815,7 @@
 - [NexxonTech/NexxonTech-Startpage](https://github.com/NexxonTech/NexxonTech-Startpage) - NexxonTech StartPage Source Code
 - [ExpDev07/coronavirus-tracker-api](https://github.com/ExpDev07/coronavirus-tracker-api) - 🦠 A simple and fast (&lt; 200ms) API for tracking the global coronavirus (COVID-19, SARS-CoV-2) outbreak. It's written in python using the 🔥 FastAPI framework. Supports multiple sources!
 - [stefansundin/traceroute-mapper](https://github.com/stefansundin/traceroute-mapper) - Map your traceroutes easily.
-- [stefansundin/github-activity](https://github.com/stefansundin/github-activity) - :computer: GitHub Activity RSS Feed.
+- [stefansundin/github-activity](https://github.com/stefansundin/github-activity) - :computer: RSS Feed for GitHub gist comments.
 - [stefansundin/rssbox](https://github.com/stefansundin/rssbox) - :newspaper: I consume the world via RSS feeds, and this is my attempt to keep it that way.
 - [stefansundin/2fa-qr](https://github.com/stefansundin/2fa-qr) - :iphone: JavaScript 2FA QR code generator.
 - [chinchang/a11y-for-managers](https://github.com/chinchang/a11y-for-managers) - Translate Accessibility issues on a website into actual understandable feedback from dummy users.
