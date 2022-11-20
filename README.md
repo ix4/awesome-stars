@@ -1503,7 +1503,6 @@
 - [spotify/reactochart](https://github.com/spotify/reactochart) - :chart_with_upwards_trend: React chart component library :chart_with_downwards_trend:
 - [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
-- [kamranahmedse/roadmap.sh](https://github.com/kamranahmedse/roadmap.sh) - Community driven roadmaps, articles and resources for developers
 - [feathericons/feathericons.com](https://github.com/feathericons/feathericons.com) - The Feather website
 - [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
@@ -3638,6 +3637,7 @@
 
 ## Nunjucks 
 
+- [kamranahmedse/roadmap.sh](https://github.com/kamranahmedse/roadmap.sh) - Community driven roadmaps, articles and resources for developers
 - [jamstack/jamstack.org](https://github.com/jamstack/jamstack.org) - The official Jamstack site
 - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 - [GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev) - The frontend, backend, and content source code for web.dev
@@ -3998,7 +3998,7 @@
 - [ElliottLandsborough/dog-ceo-api](https://github.com/ElliottLandsborough/dog-ceo-api) - The API hosted at dog.ceo
 - [phpMyDomo/phpMyDomo](https://github.com/phpMyDomo/phpMyDomo) - The ultimate Domotic web remote for the rest of us
 - [captioning/captioning](https://github.com/captioning/captioning) - A collection of tools made to help you create and edit subtitles in different formats (Subrip, WebVTT, Substation Alpha...)
-- [danog/MadelineProto](https://github.com/danog/MadelineProto) - Async PHP client/server API for the telegram MTProto protocol
+- [danog/MadelineProto](https://github.com/danog/MadelineProto) - Async PHP client API for the telegram MTProto protocol
 - [irazasyed/telegram-bot-sdk](https://github.com/irazasyed/telegram-bot-sdk) - 🤖 Telegram Bot API PHP SDK. Lets you build Telegram Bots easily! Supports Laravel out of the box.
 - [php-telegram-bot/core](https://github.com/php-telegram-bot/core) - PHP Telegram Bot based on the official Telegram Bot API
 - [Zverik/bigmap2](https://github.com/Zverik/bigmap2) - A web service to create stitched tile maps, successor to BigMap
@@ -4853,7 +4853,7 @@
 - [sj26/mailcatcher](https://github.com/sj26/mailcatcher) - Catches mail and serves it through a dream.
 - [fyiorgnz/alaveteli](https://github.com/fyiorgnz/alaveteli) - OIA/LGOIMA (Freedom of Information) request system: New Zealand fork of mysociety/alaveteli
 - [stefansundin/heroku-env](https://github.com/stefansundin/heroku-env) - :gem: Don't worry about the environment. (Gem)
-- [stefansundin/github-activity](https://github.com/stefansundin/github-activity) - :computer: GitHub Activity RSS Feed.
+- [stefansundin/github-activity](https://github.com/stefansundin/github-activity) - :computer: RSS Feed for GitHub gist comments.
 - [stefansundin/rssbox](https://github.com/stefansundin/rssbox) - :newspaper: I consume the world via RSS feeds, and this is my attempt to keep it that way.
 - [codeforamerica/honeycrisp-gem](https://github.com/codeforamerica/honeycrisp-gem) - A Rails gem with base styles and Javascript for Code for America products
 - [codeforamerica/citygram](https://github.com/codeforamerica/citygram) - Subscribe to your city.
