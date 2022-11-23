@@ -1435,7 +1435,7 @@
 - [Syncthetic/MorseCode](https://github.com/Syncthetic/MorseCode) - JavaScript Library to encode and decode morse code.
 - [cowlicks/privacypossum](https://github.com/cowlicks/privacypossum) - Privacy Possum makes tracking you less profitable
 - [CesiumLabs/morsecode.js](https://github.com/CesiumLabs/morsecode.js) - Simple package to encode/decode morse code.
-- [archaeopteryx1/TikTok-Search](https://github.com/archaeopteryx1/TikTok-Search) - Simple module to fetch data from TikTok.
+- [skdhg/TikTok-Search](https://github.com/skdhg/TikTok-Search) - Simple module to fetch data from TikTok.
 - [cbdevnet/ipmagnet](https://github.com/cbdevnet/ipmagnet) - Check which IP adresses your BitTorrent client is handing out to trackers
 - [gielcobben/caption](https://github.com/gielcobben/caption) - Get Caption, start watching.
 - [googlesamples/google-photos](https://github.com/googlesamples/google-photos) - Samples for the Google Photos Library API 📸
