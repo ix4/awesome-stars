@@ -4354,7 +4354,7 @@
 - [cowlicks/privacypossum](https://github.com/cowlicks/privacypossum) - Privacy Possum makes tracking you less profitable
 - [jkrejcha/AdmiraList](https://github.com/jkrejcha/AdmiraList) - A text-based list of 1000+ Admiral domains and IP addresses
 - [sandeepmistry/arduino-nRF5](https://github.com/sandeepmistry/arduino-nRF5) - Arduino Core for Nordic Semiconductor nRF5 based boards
-- [archaeopteryx1/TikTok-Search](https://github.com/archaeopteryx1/TikTok-Search) - Simple module to fetch data from TikTok.
+- [skdhg/TikTok-Search](https://github.com/skdhg/TikTok-Search) - Simple module to fetch data from TikTok.
 - [royhills/arp-scan](https://github.com/royhills/arp-scan) - The ARP Scanner
 - [adriengibrat/torrent-rw](https://github.com/adriengibrat/torrent-rw) - php5  class to read and write .torrent files
 - [openSUSE/imagewriter](https://github.com/openSUSE/imagewriter) - Utility for writing raw disk images & hybrid isos to USB keys
