@@ -2933,6 +2933,7 @@
 - [bmcbride/bootleaf](https://github.com/bmcbride/bootleaf) - Template for building simple and elegant web mapping applications with Bootstrap and Leaflet
 - [datamade/ny-budget](https://github.com/datamade/ny-budget) - :bar_chart: an explorable budget vizualization for New York state
 - [serratus/quaggaJS](https://github.com/serratus/quaggaJS) - An advanced barcode-scanner written in JavaScript
+- [webrecorder/pywb](https://github.com/webrecorder/pywb) - Core Python Web Archiving Toolkit for replay and recording of web archives
 - [eth-sri/UnuglifyJS](https://github.com/eth-sri/UnuglifyJS) - A simpler open-source version of JavaScript deobfuscator JSNice
 - [1egoman/debundle](https://github.com/1egoman/debundle) - :card_file_box: A javascript debundler. Takes a Browserify or Webpack bundle and recreates the initial, pre-bundled source.
 - [philnash/react-web-audio](https://github.com/philnash/react-web-audio) - A small example React app that listens to the microphone and visualises the audio
@@ -3008,7 +3009,7 @@
 - [webrecorder/webrecorder-player](https://github.com/webrecorder/webrecorder-player) - Webrecorder Player for Desktop (OSX/Windows/Linux). (Built with Electron + Webrecorder)
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [nwjs/nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
-- [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is the best JavaScript and Node.js logging service and logging npm package
+- [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is a Node.js and JavaScript logging tool and service.
 - [forwardemail/free-email-forwarding](https://github.com/forwardemail/free-email-forwarding) - The best free email forwarding for custom domains.  Visit our website to get started (SMTP server)
 - [jeremiak/jekyll-offline](https://github.com/jeremiak/jekyll-offline) - jekyll plugin to use service workers and make site content available offline
 - [lmangani/gunstore.io](https://github.com/lmangani/gunstore.io) - Store your data in Gun DB by sending simple HTTP requests - based on jsonstore.io :floppy_disk: :rocket:
@@ -3986,7 +3987,7 @@
 - [wikimedia/mediawiki](https://github.com/wikimedia/mediawiki) - 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing.
 - [tecnickcom/TCPDF](https://github.com/tecnickcom/TCPDF) - Official clone of PHP library to generate PDF documents and barcodes
 - [soderlind/wxr2pdf](https://github.com/soderlind/wxr2pdf) - Convert an WordPress Export File to PDF
-- [TablePress/TablePress](https://github.com/TablePress/TablePress) - TablePress is a plugin for WordPress. It enables you to create and manage tables on your website.
+- [TablePress/TablePress](https://github.com/TablePress/TablePress) - TablePress is the most popular and highest rated table plugin for WordPress. Create and embed attractive and interactive tables on your website!
 - [GetDKAN/dkan](https://github.com/GetDKAN/dkan) - DKAN Open Data Portal
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [GaneshKandu/Palette](https://github.com/GaneshKandu/Palette) - :art: Palette is a freehand CMS which allows to construct websites directly in a web-browser. It uses flat files for storage and provides an intuitive GUI
@@ -4575,7 +4576,6 @@
 - [openstates/openstates-scrapers](https://github.com/openstates/openstates-scrapers) - source for Open States scrapers
 - [harvard-lil/h2o](https://github.com/harvard-lil/h2o) - H2O is a web app for creating and reading open educational resources, primarily in the legal field
 - [harvard-lil/webrecorder](https://github.com/harvard-lil/webrecorder) - Web Archiving For All!
-- [webrecorder/pywb](https://github.com/webrecorder/pywb) - Core Python Web Archiving Toolkit for replay and recording of web archives
 - [JoshData/crs-reports-website](https://github.com/JoshData/crs-reports-website) - The build process for EveryCRSReport.com.
 - [adelevie/crs-reports-website](https://github.com/adelevie/crs-reports-website) - The build process for EveryCRSReport.com.
 - [MuckRock/API-examples](https://github.com/MuckRock/API-examples) - A collection of scripts using the MuckRock API.
