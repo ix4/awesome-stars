@@ -10,6 +10,7 @@
 - [ajax](#ajax)
 - [algorithm](#algorithm)
 - [amphp](#amphp)
+- [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
 - [ansible](#ansible)
@@ -266,6 +267,33 @@
 ## amphp 
 
 - [danog/MadelineProto](https://github.com/danog/MadelineProto) - Async PHP client API for the telegram MTProto protocol
+
+## analytics 
+
+- [kevinschaich/mintable](https://github.com/kevinschaich/mintable) - 🍃 Automate your personal finances – for free, with no ads, and no data collection.
+- [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
+- [github/covid19-dashboard](https://github.com/github/covid19-dashboard) - A site that displays up to date COVID-19 stats, powered by fastpages.
+- [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
+- [covid19india/covid19india-react](https://github.com/covid19india/covid19india-react) - Tracking the impact of COVID-19 in India
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [epam/OSCI](https://github.com/epam/OSCI) - Open Source Contributor Index
+- [invertase/react-native-firebase](https://github.com/invertase/react-native-firebase) - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
+- [vudash/vudash](https://github.com/vudash/vudash) - Powerful, Flexible, Open Source dashboards for anything
+- [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
+- [keen/dashboards](https://github.com/keen/dashboards) - Responsive dashboard templates 📊✨
+- [keen/keen-analysis.js](https://github.com/keen/keen-analysis.js) - A light JavaScript client for Keen
+- [nicoespeon/trello-kanban-analysis-tool](https://github.com/nicoespeon/trello-kanban-analysis-tool) - 💤 [Not maintained] Analyse Kanban metrics from a Trello board -
+- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
+- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+- [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
+- [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
+- [amplitude/Amplitude-Android](https://github.com/amplitude/Amplitude-Android) - Native Android SDK for Amplitude
+- [diabolical-ninja/house_pricing](https://github.com/diabolical-ninja/house_pricing) - Source, clean & analyse Australian house pricing data
+- [LexPredict/lexpredict-lexnlp](https://github.com/LexPredict/lexpredict-lexnlp) - LexNLP by LexPredict
+- [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
+- [amitt001/pygmy](https://github.com/amitt001/pygmy) - An open-source, feature rich & extensible url-shortener + analytics written in Python :cookie:
 
 ## android 
 
@@ -1665,7 +1693,7 @@
 - [ianstormtaylor/permit](https://github.com/ianstormtaylor/permit) - An unopinionated authentication library for building Node.js APIs.
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [newtelco/CompanyVacations](https://github.com/newtelco/CompanyVacations) - ⛱️ Node App for managing Company Vacations
-- [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is the best JavaScript and Node.js logging service and logging npm package
+- [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is a Node.js and JavaScript logging tool and service.
 - [samuelklam/real-estate-ecommerce](https://github.com/samuelklam/real-estate-ecommerce) - Real Estate Ecommerce Store built with Angular, Express, PostgreSQL and Node.js
 
 ## finance 
@@ -3334,7 +3362,7 @@
 
 - [ianstormtaylor/permit](https://github.com/ianstormtaylor/permit) - An unopinionated authentication library for building Node.js APIs.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
-- [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is the best JavaScript and Node.js logging service and logging npm package
+- [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is a Node.js and JavaScript logging tool and service.
 
 ## kotlin 
 
@@ -5357,8 +5385,6 @@
 - [bennettfeely/youtubedecade](https://github.com/bennettfeely/youtubedecade) - Watch the most successful YouTube videos posted on this day ten years ago.
 - [bennettfeely/trumptalk](https://github.com/bennettfeely/trumptalk) - Wondering what Trump might say at the inauguration? Generate your own speech with the President Trump Inaugural Address Generator
 - [michelf/mdtest](https://github.com/michelf/mdtest) - Test suite for Markdown implementations
-- [keen/dashboards](https://github.com/keen/dashboards) - Responsive dashboard templates 📊✨
-- [keen/keen-analysis.js](https://github.com/keen/keen-analysis.js) - A light JavaScript client for Keen
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
 - [NVlabs/ffhq-dataset](https://github.com/NVlabs/ffhq-dataset) - Flickr-Faces-HQ Dataset (FFHQ)
@@ -5511,7 +5537,6 @@
 - [getodk/xlsform-online](https://github.com/getodk/xlsform-online) - 
 - [coderbyheart/babystepstimer.js](https://github.com/coderbyheart/babystepstimer.js) - A legacy codebase for refactoring katas.
 - [RefactoringGuru/design-patterns-delphi](https://github.com/RefactoringGuru/design-patterns-delphi) - Complete set of all the GoF design patterns implemented in Delphi language
-- [nicoespeon/trello-kanban-analysis-tool](https://github.com/nicoespeon/trello-kanban-analysis-tool) - 💤 [Not maintained] Analyse Kanban metrics from a Trello board -
 - [nicoespeon/nicoespeon.github.io](https://github.com/nicoespeon/nicoespeon.github.io) - Personal github hosted blog.
 - [all-contributors/app](https://github.com/all-contributors/app) - 🤖 A GitHub App to automate acknowledging contributors to your open source projects
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
@@ -6280,7 +6305,6 @@
 - [facebook/draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 - [phoboslab/jsmpeg](https://github.com/phoboslab/jsmpeg) - MPEG1 Video Decoder in JavaScript
 - [selfspy/selfspy](https://github.com/selfspy/selfspy) - Log everything you do on the computer, for statistics, future reference and all-around fun!
-- [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [webrecorder/behaviors](https://github.com/webrecorder/behaviors) - Webrecorder Automated In-Page Behavior Framework
 - [webrecorder/autobrowser](https://github.com/webrecorder/autobrowser) - 
 - [webrecorder/browsertrix-old](https://github.com/webrecorder/browsertrix-old) - Browsertrix: Containerized High-Fidelity Browser-Based Automated Crawling + Behavior System
@@ -7946,7 +7970,7 @@
 - [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
 - [necolas/react-native-web](https://github.com/necolas/react-native-web) - Development monorepo for "React Native for Web"
 - [Secretmapper/combustion](https://github.com/Secretmapper/combustion) - Combustion is a sleek, modern web interface for Transmission
-- [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is the best JavaScript and Node.js logging service and logging npm package
+- [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is a Node.js and JavaScript logging tool and service.
 - [postlight/robo-chart-web](https://github.com/postlight/robo-chart-web) - 📊 Transform Google sheets to pretty charts!
 - [postlight/react-google-sheet-to-chart](https://github.com/postlight/react-google-sheet-to-chart) - 📊 React component that renders Google Sheets as attractive charts with minimum effort
 - [darekkay/dashboard](https://github.com/darekkay/dashboard) - Customizable personal dashboard and startpage
@@ -7988,7 +8012,7 @@
 - [oblador/react-native-keychain](https://github.com/oblador/react-native-keychain) - :key: Keychain Access for React Native
 - [zsajjad/react-native-text-detector](https://github.com/zsajjad/react-native-text-detector) - Text Detector from image for react native using firebase MLKit on android and Tesseract on iOS
 - [necolas/react-native-web](https://github.com/necolas/react-native-web) - Development monorepo for "React Native for Web"
-- [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is the best JavaScript and Node.js logging service and logging npm package
+- [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is a Node.js and JavaScript logging tool and service.
 - [sidevesh/react-native-material-cards](https://github.com/sidevesh/react-native-material-cards) - A material design card component, customizable and versatile
 - [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
@@ -8919,7 +8943,7 @@
 
 - [bitnami/bitnami-docker-wordpress](https://github.com/bitnami/bitnami-docker-wordpress) - Bitnami Docker Image for WordPress
 - [google/site-kit-wp](https://github.com/google/site-kit-wp) - Site Kit is a one-stop solution for WordPress users to use everything Google has to offer to make them successful on the web.
-- [TablePress/TablePress](https://github.com/TablePress/TablePress) - TablePress is a plugin for WordPress. It enables you to create and manage tables on your website.
+- [TablePress/TablePress](https://github.com/TablePress/TablePress) - TablePress is the most popular and highest rated table plugin for WordPress. Create and embed attractive and interactive tables on your website!
 - [live-composer/live-composer-page-builder](https://github.com/live-composer/live-composer-page-builder) - Free page builder plugin for WordPress http://livecomposerplugin.com
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [duracelltomi/gtm4wp](https://github.com/duracelltomi/gtm4wp) - Google Tag Manager plugin for WordPress
