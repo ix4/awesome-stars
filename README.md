@@ -2873,7 +2873,7 @@
 - [mapzen/mapzen.js](https://github.com/mapzen/mapzen.js) - Javascript SDK for Mapzen products
 - [mapbox/tilelive](https://github.com/mapbox/tilelive) - fast interface to tiles with pluggable backends - NOT ACTIVELY MAINTAINED
 - [osmlab/show-me-the-way](https://github.com/osmlab/show-me-the-way) - See OSM edits happen in real time.
-- [osmlab/maproulette3](https://github.com/osmlab/maproulette3) - MapRoulette, the micro-tasking tool for OpenStreetMap
+- [maproulette/maproulette3](https://github.com/maproulette/maproulette3) - MapRoulette, the micro-tasking tool for OpenStreetMap
 - [openstreetmap/leaflet-osm](https://github.com/openstreetmap/leaflet-osm) - OpenStreetMap plugin for Leaflet
 - [openstreetmap/iD](https://github.com/openstreetmap/iD) - 🆔 The easy-to-use OpenStreetMap editor in JavaScript.
 - [digidem/mapeo-desktop](https://github.com/digidem/mapeo-desktop) - Local-first mapping and monitoring in remote environments
