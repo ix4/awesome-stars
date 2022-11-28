@@ -2013,7 +2013,6 @@
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) - Google Sheets API (v4) wrapper for Node.js
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
-- [4f77616973/Wristkey](https://github.com/4f77616973/Wristkey) - A free and open-source 2FA app for smartwatches.
 - [spatie/laravel-google-calendar](https://github.com/spatie/laravel-google-calendar) - Manage events on a Google Calendar
 - [googleapis/google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client) - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
 - [nickspaargaren/no-google](https://github.com/nickspaargaren/no-google) - Completely block Google and its services
@@ -6444,7 +6443,7 @@
 - [tilezen/zaloa](https://github.com/tilezen/zaloa) - Merges terrain tiles together from 256 to 512 and buffered sizes
 - [mapbox/tilelive](https://github.com/mapbox/tilelive) - fast interface to tiles with pluggable backends - NOT ACTIVELY MAINTAINED
 - [osmlab/show-me-the-way](https://github.com/osmlab/show-me-the-way) - See OSM edits happen in real time.
-- [osmlab/maproulette3](https://github.com/osmlab/maproulette3) - MapRoulette, the micro-tasking tool for OpenStreetMap
+- [maproulette/maproulette3](https://github.com/maproulette/maproulette3) - MapRoulette, the micro-tasking tool for OpenStreetMap
 - [zerebubuth/planet-dump-ng](https://github.com/zerebubuth/planet-dump-ng) - Converts an OpenStreetMap database dump into planet files.
 - [osm-search/Nominatim](https://github.com/osm-search/Nominatim) - Open Source search based on OpenStreetMap data
 - [openstreetmap/stateofthemap-2019](https://github.com/openstreetmap/stateofthemap-2019) - State of the Map 2019 website
