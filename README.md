@@ -2695,7 +2695,7 @@
 - [spencermountain/somehow-maps](https://github.com/spencermountain/somehow-maps) - make a map without thinking
 - [spencermountain/somehow-graph](https://github.com/spencermountain/somehow-graph) - Svelte infographics component
 - [spencermountain/somehow-calendar](https://github.com/spencermountain/somehow-calendar) - calendar visualization
-- [spencermountain/thensome](https://github.com/spencermountain/thensome) - why not
+- [spencermountain/thensome](https://github.com/spencermountain/thensome) - i guess we'll find out.
 - [spencermountain/spacetime](https://github.com/spencermountain/spacetime) - A lightweight javascript timezone library
 - [spencermountain/wtf_wikipedia](https://github.com/spencermountain/wtf_wikipedia) - a pretty-committed wikipedia markup parser
 - [spencermountain/somehow-circle](https://github.com/spencermountain/somehow-circle) - an easy way to make radial infographics
@@ -5567,7 +5567,7 @@
 - [xcarpentier/gifted-chat-web-demo](https://github.com/xcarpentier/gifted-chat-web-demo) - Gifted chat web demo
 - [FaridSafi/react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat) - 💬 The most complete chat UI for React Native
 - [styfle/packagephobia](https://github.com/styfle/packagephobia) - ⚖️ Find the cost of adding a new dependency to your project
-- [manzinello/mailgo](https://github.com/manzinello/mailgo) - 💌 mailgo, a new concept of mailto and tel links
+- [manzinello/mailgo](https://github.com/manzinello/mailgo) - 💌 mailgo, a new concept of mailto and tel links [not actively maintained]
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [SuperuserLabs/thankful](https://github.com/SuperuserLabs/thankful) - Support free culture by automatically sending cryptocurrency to the creators of the content you love.
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
