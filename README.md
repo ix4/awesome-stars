@@ -550,7 +550,7 @@
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
 - [dwyl/email](https://github.com/dwyl/email) - ✉️ email dashboard to track deliverability and engagement stats in our App 📈
 - [dwyl/quotes](https://github.com/dwyl/quotes) - 💬  a curated list of quotes that inspire action + code that returns quotes by tag/author/etc. 💡
-- [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example) - 💬 A Step-by-Step Beginners Tutorial for Building, Testing & Deploying a Chat app in Phoenix 1.6.15 🚀
+- [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example) - 💬 The Step-by-Step Beginners Tutorial for Building, Testing & Deploying a Chat app in Phoenix 1.6.15 [Latest] 🚀
 - [elixir-lang/ex_doc](https://github.com/elixir-lang/ex_doc) - ExDoc produces HTML and EPUB documentation for Elixir projects
 - [edgurgel/httparrot](https://github.com/edgurgel/httparrot) - HTTP Request & Response Server. An incomplete clone of http://httpbin.org
 - [DFilipeS/rent-bot](https://github.com/DFilipeS/rent-bot) - My personal Facebook Messenger chat bot that helped find an apartment to rent.
@@ -4861,7 +4861,7 @@
 - [lsegal/yard](https://github.com/lsegal/yard) - YARD is a Ruby Documentation tool. The Y stands for "Yay!"
 - [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) - :inbox_tray: The "jekyll import" command for importing from various blogs to Jekyll format.
 - [jekyll/jekyll-compose](https://github.com/jekyll/jekyll-compose) - :memo: Streamline your writing in Jekyll with these commands.
-- [lazee/premonition](https://github.com/lazee/premonition) - Premonition 4 is a Jekyll extension that makes it possible to add block-styled side content to your site. For example summaries, notes, hints or warnings.
+- [lazee/premonition](https://github.com/lazee/premonition) - Premonition is a Jekyll extension that makes it possible to add block-styled content to your site.  Like summaries, notes, hints or warnings.
 - [rtomayko/tilt](https://github.com/rtomayko/tilt) - Generic interface to multiple Ruby template engines
 - [asciidoctor/jekyll-asciidoc](https://github.com/asciidoctor/jekyll-asciidoc) - :syringe: A Jekyll plugin that converts AsciiDoc source files in your site to HTML pages using Asciidoctor.
 - [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
@@ -5053,7 +5053,7 @@
 - [okfn/opendatahandbook](https://github.com/okfn/opendatahandbook) - Open Data Handbook v2
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [amitmerchant1990/reverie](https://github.com/amitmerchant1990/reverie) - :art: A ridiculously elegant Jekyll theme.
-- [Kikobeats/js-mythbusters](https://github.com/Kikobeats/js-mythbusters) - :ghost: STHAP js, where is my perfomance?
+- [Kikobeats/js-mythbusters](https://github.com/Kikobeats/js-mythbusters) - :ghost: STHAP js, where is my perf?
 - [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 - [codyogden/style-guide](https://github.com/codyogden/style-guide) - A little living style guide doc for my own use. 👍
 - [bullgit/bullgit.github.io](https://github.com/bullgit/bullgit.github.io) - The amazing bullgit homepage
