@@ -224,7 +224,7 @@
 - [microsoft/ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
 - [vikramkarthikeyan/voice-over-unity](https://github.com/vikramkarthikeyan/voice-over-unity) - 
 - [FluentValidation/FluentValidation](https://github.com/FluentValidation/FluentValidation) - A popular .NET validation library for building strongly-typed validation rules.
-- [dockersamples/example-voting-app](https://github.com/dockersamples/example-voting-app) - Example Docker Compose app
+- [dockersamples/example-voting-app](https://github.com/dockersamples/example-voting-app) - Example distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes
 - [Esri/geoportal-server](https://github.com/Esri/geoportal-server) - Geoportal Server is a standards-based, open source product that enables discovery and use of geospatial resources including data and services.
 - [nwoltman/srt-to-vtt-converter](https://github.com/nwoltman/srt-to-vtt-converter) - A simple application for quickly converting subtitle files from SubRib (.srt) format to WebVTT (.vtt) format.
 - [inkle/ink-unity-integration](https://github.com/inkle/ink-unity-integration) - Unity integration for the open source ink narrative scripting language.
@@ -774,7 +774,7 @@
 - [department-of-veterans-affairs/vets-design-system-documentation](https://github.com/department-of-veterans-affairs/vets-design-system-documentation) - Repository for design.va.gov website
 - [alphagov/gds-way](https://github.com/alphagov/gds-way) - How we build and operate products at GDS
 - [DFE-Digital/technical-guidance](https://github.com/DFE-Digital/technical-guidance) - Principles, standards and guidance for digital delivery teams
-- [bcgov/clus](https://github.com/bcgov/clus) - Caribou and land use simulator- decision support model for caribou and forest management
+- [bcgov/castor](https://github.com/bcgov/castor) - Castor - decision support model for forest and land management
 - [bcgov/design-system](https://github.com/bcgov/design-system) - British Columbia Government Design System for Digital Services
 - [ministryofjustice/technical-guidance](https://github.com/ministryofjustice/technical-guidance) - How we build and operate products at the Ministry of Justice.
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
@@ -2489,7 +2489,6 @@
 - [google-map-react/google-map-react](https://github.com/google-map-react/google-map-react) - Google map library for react that allows rendering components as markers :tada:
 - [rastapasta/mapscii](https://github.com/rastapasta/mapscii) - 🗺  MapSCII is a Braille & ASCII world map renderer for your console - enter =&gt; telnet mapscii.me &lt;= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
-- [fusionjs/fusionjs](https://github.com/fusionjs/fusionjs) - Modern framework for fast, powerful React apps
 - [uber/react-vis](https://github.com/uber/react-vis) - Data Visualization Components
 - [soal/vue-mapbox](https://github.com/soal/vue-mapbox) - Vuejs 2 components for interacting with mapbox-gl-js
 - [fightforthefuture/digital-climate-strike](https://github.com/fightforthefuture/digital-climate-strike) - Repository for Digital #ClimateStrike widget: https://digital.globalclimatestrike.net/
@@ -3271,7 +3270,6 @@
 - [yfxie/jekpack](https://github.com/yfxie/jekpack) - Jekyll + Webpack = Jekpack 🛠
 - [jekyll/jekyll-admin](https://github.com/jekyll/jekyll-admin) - A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
 - [ghouet/chrome-hls](https://github.com/ghouet/chrome-hls) - Extension that allows native hls playback in chrome browser
-- [callumlocke/json-formatter](https://github.com/callumlocke/json-formatter) - Makes JSON/JSONP easy to read.
 - [aaronpowell/db.js](https://github.com/aaronpowell/db.js) - db.js is a wrapper for IndexedDB to make it easier to work against
 - [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas
 - [jhvanderschee/jekyllcodex](https://github.com/jhvanderschee/jekyllcodex) - A website for front-end developers who want to learn Jekyll.
@@ -4128,6 +4126,7 @@
 
 ## Python 
 
+- [pedrovernetti/metagedit](https://github.com/pedrovernetti/metagedit) - gedit (GNOME text editor) plugin which adds multiple improvements and functionalities to it
 - [azmatt/chasing_your_tail](https://github.com/azmatt/chasing_your_tail) - Tool for using wireless signals to see if you're being followed.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [LegitCamper/Selenium-Web-Clicker](https://github.com/LegitCamper/Selenium-Web-Clicker) - A Web-Scraper running in docker that utilizes the Mysterium Network to click ads while being undetected
@@ -5532,6 +5531,7 @@
 - [fuzzitdev/jsfuzz](https://github.com/fuzzitdev/jsfuzz) - coverage guided fuzz testing for javascript
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [tweenjs/tween.js](https://github.com/tweenjs/tween.js) - JavaScript/TypeScript animation engine
+- [fusionjs/fusionjs](https://github.com/fusionjs/fusionjs) - Modern framework for fast, powerful React apps
 - [uber/baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Base design language
 - [visgl/react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
 - [elastic/ems-client](https://github.com/elastic/ems-client) - JavaScript Client library for Elastic Maps Service
@@ -5640,6 +5640,7 @@
 - [sachinchoolur/lightGallery](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin.
 - [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 - [jacktuck/unfurl](https://github.com/jacktuck/unfurl) - Metadata scraper with support for oEmbed, Twitter Cards and Open Graph Protocol for Node.js :zap:
+- [callumlocke/json-formatter](https://github.com/callumlocke/json-formatter) - Makes JSON easy to read.
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [muuvmuuv/vscode-sundial](https://github.com/muuvmuuv/vscode-sundial) - Changes your VS Code theme based on your sunset and sunrise
