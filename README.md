@@ -1288,7 +1288,7 @@
 - [google/google-authenticator](https://github.com/google/google-authenticator) - Open source version of Google Authenticator (except the Android app)
 - [nulab/zxcvbn4j](https://github.com/nulab/zxcvbn4j) - This is a java port of zxcvbn, which is a JavaScript password strength generator.
 - [mendhak/gpslogger](https://github.com/mendhak/gpslogger) - :satellite: Lightweight GPS Logging Application For Android.
-- [asciidocfx/AsciidocFX](https://github.com/asciidocfx/AsciidocFX) - Asciidoc Editor and Toolchain written with JavaFX 18 (Build PDF, Epub, Mobi and HTML books, documents and slides)
+- [asciidocfx/AsciidocFX](https://github.com/asciidocfx/AsciidocFX) - Asciidoc Editor and Toolchain written with JavaFX 19 (Build PDF, Epub, Mobi and HTML books, documents and slides)
 - [ministryofjustice/offender-assessments-api](https://github.com/ministryofjustice/offender-assessments-api) - 
 - [google/closure-templates](https://github.com/google/closure-templates) - A client- and server-side templating system that helps you dynamically build reusable HTML and UI elements
 - [google/closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
