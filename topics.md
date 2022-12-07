@@ -2253,7 +2253,6 @@
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
-- [nexB/vulnerablecode](https://github.com/nexB/vulnerablecode) - A free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these vulnerabilities. Sponsored by NLnet https://nlnet.nl/project/vulnerabilitydatabase
 - [imsky/holder](https://github.com/imsky/holder) - :city_sunrise: Client-side image placeholders.
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
@@ -2602,7 +2601,7 @@
 - [apache/cordova-plugin-battery-status](https://github.com/apache/cordova-plugin-battery-status) - Apache Cordova Plugin battery-status
 - [nulab/zxcvbn4j](https://github.com/nulab/zxcvbn4j) - This is a java port of zxcvbn, which is a JavaScript password strength generator.
 - [mendhak/gpslogger](https://github.com/mendhak/gpslogger) - :satellite: Lightweight GPS Logging Application For Android.
-- [asciidocfx/AsciidocFX](https://github.com/asciidocfx/AsciidocFX) - Asciidoc Editor and Toolchain written with JavaFX 18 (Build PDF, Epub, Mobi and HTML books, documents and slides)
+- [asciidocfx/AsciidocFX](https://github.com/asciidocfx/AsciidocFX) - Asciidoc Editor and Toolchain written with JavaFX 19 (Build PDF, Epub, Mobi and HTML books, documents and slides)
 - [mockito/mockito](https://github.com/mockito/mockito) - Most popular Mocking framework for unit tests written in Java
 - [coala/coala-bears](https://github.com/coala/coala-bears) - Bears for coala
 - [oracle/opengrok](https://github.com/oracle/opengrok) - OpenGrok is a fast and usable source code search and cross reference engine, written in Java
@@ -2637,7 +2636,7 @@
 
 ## javafx 
 
-- [asciidocfx/AsciidocFX](https://github.com/asciidocfx/AsciidocFX) - Asciidoc Editor and Toolchain written with JavaFX 18 (Build PDF, Epub, Mobi and HTML books, documents and slides)
+- [asciidocfx/AsciidocFX](https://github.com/asciidocfx/AsciidocFX) - Asciidoc Editor and Toolchain written with JavaFX 19 (Build PDF, Epub, Mobi and HTML books, documents and slides)
 
 ## javascript 
 
@@ -2681,7 +2680,7 @@
 - [kriasoft/react-firebase-starter](https://github.com/kriasoft/react-firebase-starter) - Boilerplate (seed) project for creating web apps with React.js, GraphQL.js and Relay
 - [gavinr/geojson-viewer](https://github.com/gavinr/geojson-viewer) - View GeoJSON from a URL (with permalinks)
 - [gavinr/csv-to-geojson](https://github.com/gavinr/csv-to-geojson) - Convert a CSV to GeoJSON
-- [asciidocfx/AsciidocFX](https://github.com/asciidocfx/AsciidocFX) - Asciidoc Editor and Toolchain written with JavaFX 18 (Build PDF, Epub, Mobi and HTML books, documents and slides)
+- [asciidocfx/AsciidocFX](https://github.com/asciidocfx/AsciidocFX) - Asciidoc Editor and Toolchain written with JavaFX 19 (Build PDF, Epub, Mobi and HTML books, documents and slides)
 - [QuickCorp/QCObjects](https://github.com/QuickCorp/QCObjects) - Full Stack Javascript Framework for Modern Software Development
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [BrianOtto/ui-builder](https://github.com/BrianOtto/ui-builder) - UI Builder
