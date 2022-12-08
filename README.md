@@ -1367,6 +1367,8 @@
 
 ## JavaScript 
 
+- [siffash/cookie-fucker](https://github.com/siffash/cookie-fucker) - Removes all cookie warnings. Light and open-sourced.
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [corgis-edu/corgis](https://github.com/corgis-edu/corgis) - The new version of the CORGIS Project, featuring Tabular datasets
@@ -2986,7 +2988,7 @@
 - [justadudewhohacks/face-recognition.js](https://github.com/justadudewhohacks/face-recognition.js) - Simple Node.js package for robust face detection and face recognition. JavaScript and TypeScript API.
 - [googleanalytics/autotrack](https://github.com/googleanalytics/autotrack) - Automatic and enhanced Google Analytics tracking for common user interactions on the web.
 - [NUKnightLab/SensorGridAPI](https://github.com/NUKnightLab/SensorGridAPI) - Web API and dashboard for SensorGrid
-- [necolas/react-native-web](https://github.com/necolas/react-native-web) - Development monorepo for "React Native for Web"
+- [necolas/react-native-web](https://github.com/necolas/react-native-web) - Cross-platform React UI packages
 - [Secretmapper/combustion](https://github.com/Secretmapper/combustion) - Combustion is a sleek, modern web interface for Transmission
 - [NieuwlandGeo/SLDReader](https://github.com/NieuwlandGeo/SLDReader) - SLD styling for online mapping libraries
 - [perliedman/leaflet-touch-helper](https://github.com/perliedman/leaflet-touch-helper) - Make it easy to touch things in Leaflet
@@ -4125,6 +4127,7 @@
 
 ## Python 
 
+- [urban-labs/namematch](https://github.com/urban-labs/namematch) - Tool for probabilistically linking the records of individual entities (e.g. people) within and across datasets
 - [pedrovernetti/metagedit](https://github.com/pedrovernetti/metagedit) - gedit (GNOME text editor) plugin which adds multiple improvements and functionalities to it
 - [azmatt/chasing_your_tail](https://github.com/azmatt/chasing_your_tail) - Tool for using wireless signals to see if you're being followed.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -4937,7 +4940,7 @@
 - [projectblacklight/spotlight](https://github.com/projectblacklight/spotlight) - Spotlight enables librarians, curators, and others who are responsible for digital collections to create  attractive, feature-rich websites that highlight these collections.
 - [twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) - Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.
 - [thundergolfer/automated-github-organization-invites](https://github.com/thundergolfer/automated-github-organization-invites) - Quickly host a webpage allowing people to click and receive an invite to your Github Organization.
-- [consul/consul](https://github.com/consul/consul) - Consul - Open Government and E-Participation Web Software
+- [consul/consul](https://github.com/consul/consul) - Consul Democracy - Open Government and E-Participation Web Software
 - [archivesunleashed/warclight](https://github.com/archivesunleashed/warclight) - A Rails engine supporting the discovery of web archives.
 - [opendocsg/opendoc-supreme-court-practice-directions](https://github.com/opendocsg/opendoc-supreme-court-practice-directions) - OpenDoc for the Supreme Court Practice Directions | https://epd.supremecourt.gov.sg
 - [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
@@ -5538,7 +5541,7 @@
 - [subfuzion/appmesh.dev](https://github.com/subfuzion/appmesh.dev) - Orientation guide with examples for using App Mesh to control and monitor your microservice applications on AWS.
 - [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank) - 🕷️Github China/Global User Ranking, Global Warehouse Star Ranking (Github Action is automatically updated daily).
 - [beaugunderson/ip-address](https://github.com/beaugunderson/ip-address) - 💻 a library for parsing and manipulating IPv4 and IPv6 addresses in JavaScript
-- [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-styled editor with clean JSON output
+- [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [fengyuanchen/vue-countdown](https://github.com/fengyuanchen/vue-countdown) - Countdown component for Vue.js.
 - [daneden/photos.daneden.me](https://github.com/daneden/photos.daneden.me) - 📸 A React.js-based gallery of some of my favorite photos
 - [fb55/domhandler](https://github.com/fb55/domhandler) - Handler for htmlparser2, to get a DOM
