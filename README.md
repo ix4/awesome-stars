@@ -688,7 +688,7 @@
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [maxmcd/webtty](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC
 - [peer-calls/peer-calls](https://github.com/peer-calls/peer-calls) - Group peer to peer video calls for everyone written in Go and TypeScript
-- [ooni/probe-cli](https://github.com/ooni/probe-cli) - Next generation OONI Probe. Library and CLI tool.
+- [ooni/probe-cli](https://github.com/ooni/probe-cli) - OONI Probe Client Library and CLI
 - [StevenBlack/nhl](https://github.com/StevenBlack/nhl) - NHL standings the way I like 'em.
 - [michenriksen/gitrob](https://github.com/michenriksen/gitrob) - Reconnaissance tool for GitHub organizations
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
@@ -2926,7 +2926,7 @@
 - [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
 - [Leaflet/Leaflet.toolbar](https://github.com/Leaflet/Leaflet.toolbar) - Flexible, extensible toolbars for Leaflet maps.
 - [koopjs/koop-provider-google-sheets](https://github.com/koopjs/koop-provider-google-sheets) - Create a Koop provider to bring in data from Google Sheets into Insights for ArcGIS
-- [koopjs/FeatureServer](https://github.com/koopjs/FeatureServer) - An open source Geoservices Implementation
+- [koopjs/FeatureServer](https://github.com/koopjs/FeatureServer) - An open source Geoservices Implementation (deprecated)
 - [bmcbride/geojson-share-maps](https://github.com/bmcbride/geojson-share-maps) - A responsive web mapping application for viewing GeoJSON files
 - [bmcbride/maps](https://github.com/bmcbride/maps) - A simple map viewer, built for the mobile web. Save your favorite georeferenced map images to your mobile device for offline viewing and navigation.
 - [bmcbride/request-assistance](https://github.com/bmcbride/request-assistance) - A simple, responsive web application for crowdsourcing requests for assistance.
@@ -3659,7 +3659,7 @@
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [clarketm/proxy-list](https://github.com/clarketm/proxy-list) - A list of free, public, forward proxy servers. UPDATED DAILY!
 - [hl2guide/AdGuard-Home-Whitelist](https://github.com/hl2guide/AdGuard-Home-Whitelist) - A strict curated whitelist for AdGuard Home.
-- [abhionlyone/us-car-models-data](https://github.com/abhionlyone/us-car-models-data) - The one and only open source database with up-to-date us car models information. This repo contains over 15K car models data for the US market manufactured during 1992-2022
+- [abhionlyone/us-car-models-data](https://github.com/abhionlyone/us-car-models-data) - Introducing the most comprehensive and up-to-date open source dataset on US car models on Github. With over 15,000 entries covering car models manufactured between 1992 and 2023, this repository offer
 - [ChristopherA/iambic-mnemonic](https://github.com/ChristopherA/iambic-mnemonic) - Experimental techniques for private keys to be expressed as iambic metered rhymed verse, to aid in their memorization.
 - [wordnik/wordlist](https://github.com/wordnik/wordlist) - an open-source wordlist for game developers and others
 - [liamengland1/miscfilters](https://github.com/liamengland1/miscfilters) - 
