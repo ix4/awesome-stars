@@ -733,7 +733,6 @@
 - [sixtriangles/sixtriangles.github.io](https://github.com/sixtriangles/sixtriangles.github.io) - 
 - [LeftValues/leftvalues.github.io](https://github.com/LeftValues/leftvalues.github.io) - LeftValues, a leftist political quiz
 - [eLement87/mqtt-websocket-dashboard](https://github.com/eLement87/mqtt-websocket-dashboard) - A mqtt live Dashboard for ESP8266
-- [jupitris/takeout-restaurant-map](https://github.com/jupitris/takeout-restaurant-map) - Showing takeaway restaurants on Google Maps.
 - [stwhitejr/google_travel](https://github.com/stwhitejr/google_travel) - App and UI to display records of travel/traffic time during certain hours for specific locations to my work
 - [CEIDatUGA/COVID-19-DATA](https://github.com/CEIDatUGA/COVID-19-DATA) - 
 - [darwinanddavis/gggmap](https://github.com/darwinanddavis/gggmap) - 
@@ -1245,6 +1244,7 @@
 
 ## Handlebars 
 
+- [jupitris/takeout-restaurant-map](https://github.com/jupitris/takeout-restaurant-map) - Showing takeaway restaurants on Google Maps.
 - [metafizzy/zdog-docs](https://github.com/metafizzy/zdog-docs) - Documentation site for Zdog
 - [wet-boew/wet-boew](https://github.com/wet-boew/wet-boew) - Web Experience Toolkit (WET): Open source code library for building innovative websites that are accessible, usable, interoperable, mobile-friendly and multilingual. This collaborative open source pro
 - [Esri/esri-leaflet-doc](https://github.com/Esri/esri-leaflet-doc) - Documentation, API Reference and Samples
@@ -5321,6 +5321,7 @@
 
 ## TypeScript 
 
+- [marcosrg9/YouTubeTV](https://github.com/marcosrg9/YouTubeTV) - Simple YouTube TV client for desktop based on electron.
 - [veelenga/rblist.info](https://github.com/veelenga/rblist.info) - Russia Ban List
 - [azu/har-extractor](https://github.com/azu/har-extractor) - A CLI that extract har file to directory.
 - [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
