@@ -1830,7 +1830,7 @@
 - [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
 - [javve/list.js](https://github.com/javve/list.js) - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
 - [component/emitter](https://github.com/component/emitter) - Event emitter component
-- [socketio/engine.io](https://github.com/socketio/engine.io) - 
+- [socketio/engine.io](https://github.com/socketio/engine.io) - The engine used in the Socket.IO JavaScript server, which manages the low-level transports such as HTTP long-polling and WebSocket.
 - [micromark/micromark](https://github.com/micromark/micromark) - the smallest commonmark (optionally gfm) compliant markdown parser that exists; new foundation for @unifiedjs (hundreds of projects w/ billions of downloads for dealing w/ content)
 - [knolleary/node-red-todo-app](https://github.com/knolleary/node-red-todo-app) - A Todo-Backend implementation using Node-RED and CouchDB. A sample application for https://github.com/knolleary/node-red-in-production-workshop
 - [casesandberg/reactcss](https://github.com/casesandberg/reactcss) - :lipstick: Inline Styles in JS
@@ -2103,7 +2103,7 @@
 - [ajaxorg/ace-builds](https://github.com/ajaxorg/ace-builds) - Packaged version of Ace code editor
 - [mishoo/UglifyJS-old](https://github.com/mishoo/UglifyJS-old) - JavaScript parser / mangler / compressor / beautifier library for NodeJS
 - [ajaxorg/treehugger](https://github.com/ajaxorg/treehugger) - JavaScript AST (Abstract Syntax Tree) transformation tools
-- [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaboration suite, end-to-end encrypted and open-source.
+- [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [zertrin/cryptpad](https://github.com/zertrin/cryptpad) - The Encrypted Collaboration Suite
 - [RhoInc/Webcharts](https://github.com/RhoInc/Webcharts) - Reusable, flexible, interactive charts with JavaScript
 - [RhoInc/ae-timelines](https://github.com/RhoInc/ae-timelines) - AE Timelines built using Webcharts
@@ -2490,7 +2490,7 @@
 - [google-map-react/google-map-react](https://github.com/google-map-react/google-map-react) - Google map library for react that allows rendering components as markers :tada:
 - [rastapasta/mapscii](https://github.com/rastapasta/mapscii) - 🗺  MapSCII is a Braille & ASCII world map renderer for your console - enter =&gt; telnet mapscii.me &lt;= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
-- [uber/react-vis](https://github.com/uber/react-vis) - Data Visualization Components
+- [uber-archive/react-vis](https://github.com/uber-archive/react-vis) - Data Visualization Components
 - [soal/vue-mapbox](https://github.com/soal/vue-mapbox) - Vuejs 2 components for interacting with mapbox-gl-js
 - [fightforthefuture/digital-climate-strike](https://github.com/fightforthefuture/digital-climate-strike) - Repository for Digital #ClimateStrike widget: https://digital.globalclimatestrike.net/
 - [smarty/smartystreets-javascript-sdk](https://github.com/smarty/smartystreets-javascript-sdk) - The official client libraries for accessing SmartyStreets APIs from javascript.
@@ -5412,7 +5412,7 @@
 - [hydecorp/drawer](https://github.com/hydecorp/drawer) - A touch-enabled drawer component for the modern web.
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [rstacruz/til-2020](https://github.com/rstacruz/til-2020) - Today I learned blog of @rstacruz
-- [socketio/engine.io-client](https://github.com/socketio/engine.io-client) - 
+- [socketio/engine.io-client](https://github.com/socketio/engine.io-client) - The engine used in the Socket.IO JavaScript client, which manages the low-level transports such as HTTP long-polling and WebSocket.
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [styleguidist/react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
