@@ -135,6 +135,7 @@
 
 ## C 
 
+- [risacher/sunwait](https://github.com/risacher/sunwait) - Sunwait calculates sunrise or sunset times with civil, nautical, astronomical and custom twilights, for use with Windows Task Scheduler or 'cron' on Linux.
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [paolostivanin/OTPClient](https://github.com/paolostivanin/OTPClient) - Highly secure and easy to use OTP client written in C/GTK that supports both TOTP and HOTP
 - [nmap/ncrack](https://github.com/nmap/ncrack) - Ncrack network authentication tool
