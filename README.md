@@ -530,6 +530,7 @@
 
 ## Dart 
 
+- [MonsieurZbanowanYY/Car-Rental-App-UI-Flutter](https://github.com/MonsieurZbanowanYY/Car-Rental-App-UI-Flutter) - Beautiful Car Rental App UI with support for dark mode. Created by Martin Gogołowicz.
 - [WorldHealthOrganization/app](https://github.com/WorldHealthOrganization/app) - COVID-19 App
 - [filiph/life-time-value-calc](https://github.com/filiph/life-time-value-calc) - An online tool for calculating life-time value of a customer
 - [filiph/linkcheck](https://github.com/filiph/linkcheck) - Fast link checker
@@ -3359,7 +3360,7 @@
 - [gimite/tweet-search-stream](https://github.com/gimite/tweet-search-stream) - Real time Twitter search using Twitter Streaming API, hosted at http://tweet-search-stream.gimite.net/
 - [mapbox/togeojson](https://github.com/mapbox/togeojson) - convert KML and GPX to GeoJSON, without the fuss
 - [mapbox/csv2geojson](https://github.com/mapbox/csv2geojson) - magically convert csv files to geojson files
-- [1wheel/gistsnap](https://github.com/1wheel/gistsnap) - snapshot thumbnails for bl.ocks.org
+- [1wheel/gistsnap](https://github.com/1wheel/gistsnap) - snapshot thumbnails for blocks.roadtolarissa.com
 - [htmlpreview/htmlpreview.github.com](https://github.com/htmlpreview/htmlpreview.github.com) - HTML Preview for GitHub Repositories
 - [mikemaccana/whois-json](https://github.com/mikemaccana/whois-json) - Whois with results in actual, structured, camelCased JavaScript!
 - [tungs/timesnap](https://github.com/tungs/timesnap) - Node.js program that takes screenshots at smooth intervals of web pages with JavaScript animations
@@ -5511,7 +5512,7 @@
 - [alfa-code/pomodoro-time](https://github.com/alfa-code/pomodoro-time) - Time management service
 - [mariusGundersen/Ekkiog](https://github.com/mariusGundersen/Ekkiog) - NAND logic
 - [karanlyons/murmurHash3.js](https://github.com/karanlyons/murmurHash3.js) - MurmurHash3, in JavaScript.
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Compared to Fingerprint Pro has limited accuracy (40 - 60%), but is fully open source.
 - [dojo/examples](https://github.com/dojo/examples) - :rocket: Dojo - example applications.
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [javierbyte/canvas-image-utils](https://github.com/javierbyte/canvas-image-utils) - Utils for image data.
