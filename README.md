@@ -2494,7 +2494,7 @@
 - [google-map-react/google-map-react](https://github.com/google-map-react/google-map-react) - Google map library for react that allows rendering components as markers :tada:
 - [rastapasta/mapscii](https://github.com/rastapasta/mapscii) - 🗺  MapSCII is a Braille & ASCII world map renderer for your console - enter =&gt; telnet mapscii.me &lt;= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
-- [uber-archive/react-vis](https://github.com/uber-archive/react-vis) - Data Visualization Components
+- [uber/react-vis](https://github.com/uber/react-vis) - Data Visualization Components
 - [soal/vue-mapbox](https://github.com/soal/vue-mapbox) - Vuejs 2 components for interacting with mapbox-gl-js
 - [fightforthefuture/digital-climate-strike](https://github.com/fightforthefuture/digital-climate-strike) - Repository for Digital #ClimateStrike widget: https://digital.globalclimatestrike.net/
 - [smarty/smartystreets-javascript-sdk](https://github.com/smarty/smartystreets-javascript-sdk) - The official client libraries for accessing SmartyStreets APIs from javascript.
@@ -2609,7 +2609,7 @@
 - [nasa-gibs/worldview](https://github.com/nasa-gibs/worldview) - Interactive interface for browsing global, full-resolution satellite imagery
 - [Esri/esri-leaflet](https://github.com/Esri/esri-leaflet) - A lightweight set of tools for working with ArcGIS services in Leaflet. :rocket:
 - [CityOfNewYork/online-apps-mapper](https://github.com/CityOfNewYork/online-apps-mapper) - A desktop application for generating JSON maps between fillable PDFs and FormStack Form fields. Used by the NYC Opportunity Online Applications project.
-- [kalmecak/moment-business-days](https://github.com/kalmecak/moment-business-days) - This is a momentJS plugin that allows you to use only business days (Monday to Friday)
+- [eduolalo/moment-business-days](https://github.com/eduolalo/moment-business-days) - This is a momentJS plugin that allows you to use only business days (Monday to Friday)
 - [carvin/sf-election-results](https://github.com/carvin/sf-election-results) - 
 - [enjalot/blockbuilder](https://github.com/enjalot/blockbuilder) - Create, fork and edit d3.js code snippets for use with bl.ocks.org right in the browser, no terminal required.
 - [finallyayo/realtime-d3-graph](https://github.com/finallyayo/realtime-d3-graph) - 
@@ -3033,7 +3033,7 @@
 - [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
 - [ourresearch/unpaywall-extension](https://github.com/ourresearch/unpaywall-extension) - Firefox/Chrome extension that gives you a link to a free PDF when you view scholarly articles
 - [rbren/rss-parser](https://github.com/rbren/rss-parser) - A lightweight RSS parser, for Node and the browser
-- [ZusorCode/GoodTwitterChrome](https://github.com/ZusorCode/GoodTwitterChrome) - 
+- [zusorio/GoodTwitterChrome](https://github.com/zusorio/GoodTwitterChrome) - 
 - [niklasvh/html2canvas-proxy-nodejs](https://github.com/niklasvh/html2canvas-proxy-nodejs) - Express middleware proxy for html2canvas
 - [GoogleChromeLabs/adaptive-loading](https://github.com/GoogleChromeLabs/adaptive-loading) - Demos for Adaptive Loading - differentially deliver fast, lighter experiences for users on slow networks & devices
 - [GoogleChrome/workbox](https://github.com/GoogleChrome/workbox) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
