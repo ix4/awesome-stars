@@ -513,6 +513,7 @@
 - [ariya/phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 - [letsvalidate/api](https://github.com/letsvalidate/api) - API that uncovers the technologies used on websites and generates thumbnail from screenshot of website
 - [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
+- [thp/urlwatch](https://github.com/thp/urlwatch) - Watch (parts of) webpages and get notified when something changes via e-mail, on your phone or via other means. Highly configurable.
 - [puppeteer/examples](https://github.com/puppeteer/examples) - Use case-driven examples for using Puppeteer and headless chrome
 - [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
 - [casenjo/home-assistant-config](https://github.com/casenjo/home-assistant-config) - Home Assistant config setup using Docker, includes Zwavejs2Mqtt and Mosquitto
@@ -1165,6 +1166,7 @@
 
 ## dart 
 
+- [MonsieurZbanowanYY/Car-Rental-App-UI-Flutter](https://github.com/MonsieurZbanowanYY/Car-Rental-App-UI-Flutter) - Beautiful Car Rental App UI with support for dark mode. Created by Martin Gogołowicz.
 - [WorldHealthOrganization/app](https://github.com/WorldHealthOrganization/app) - COVID-19 App
 - [dart-lang/site-www](https://github.com/dart-lang/site-www) - Source for Dart website
 - [flutter/website](https://github.com/flutter/website) - Flutter documentation web site
@@ -1267,7 +1269,7 @@
 - [FormidableLabs/victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
 - [neo4j-contrib/neovis.js](https://github.com/neo4j-contrib/neovis.js) - Neo4j + vis.js = neovis.js. Graph visualizations in the browser with data from Neo4j.
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
-- [uber-archive/react-vis](https://github.com/uber-archive/react-vis) - Data Visualization Components
+- [uber/react-vis](https://github.com/uber/react-vis) - Data Visualization Components
 - [visgl/react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
 - [nasa-gibs/worldview](https://github.com/nasa-gibs/worldview) - Interactive interface for browsing global, full-resolution satellite imagery
@@ -1758,6 +1760,7 @@
 
 ## flutter 
 
+- [MonsieurZbanowanYY/Car-Rental-App-UI-Flutter](https://github.com/MonsieurZbanowanYY/Car-Rental-App-UI-Flutter) - Beautiful Car Rental App UI with support for dark mode. Created by Martin Gogołowicz.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [WorldHealthOrganization/app](https://github.com/WorldHealthOrganization/app) - COVID-19 App
 - [sandoche/Infinideas-app](https://github.com/sandoche/Infinideas-app) - 💡 Infinite feed of crowdsourced ideas from Reddit and Twitter.
@@ -2872,7 +2875,7 @@
 - [aslushnikov/latex-online](https://github.com/aslushnikov/latex-online) - Online latex compiler. You give it a link, it gives you PDF
 - [NV/CSSOM](https://github.com/NV/CSSOM) - Unmaintained! ⚠️ CSS Object Model implemented in pure JavaScript. Also, a CSS parser.
 - [karanlyons/murmurHash3.js](https://github.com/karanlyons/murmurHash3.js) - MurmurHash3, in JavaScript.
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Compared to Fingerprint Pro has limited accuracy (40 - 60%), but is fully open source.
 - [alyssaxuu/flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
 - [Stuk/jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
@@ -6138,7 +6141,7 @@
 - [modesty/pdf2json](https://github.com/modesty/pdf2json) - A PDF file parser that converts PDF binaries to text based JSON, powered by a fork of PDF.JS
 - [ComputeHole/twitterBots](https://github.com/ComputeHole/twitterBots) - all the Twitter Bots used by @ComputeHole on Twitter. All of them can be seen in action at -&gt; https://compute-hole.woolweaver.site
 - [CityOfNewYork/nyc-planimetrics](https://github.com/CityOfNewYork/nyc-planimetrics) - New York City Planimetrics Data
-- [kalmecak/moment-business-days](https://github.com/kalmecak/moment-business-days) - This is a momentJS plugin that allows you to use only business days (Monday to Friday)
+- [eduolalo/moment-business-days](https://github.com/eduolalo/moment-business-days) - This is a momentJS plugin that allows you to use only business days (Monday to Friday)
 - [carvin/sf-election-results](https://github.com/carvin/sf-election-results) - 
 - [topojson/us-atlas](https://github.com/topojson/us-atlas) - Pre-built TopoJSON from the U.S. Census Bureau.
 - [enjalot/blockbuilder](https://github.com/enjalot/blockbuilder) - Create, fork and edit d3.js code snippets for use with bl.ocks.org right in the browser, no terminal required.
@@ -6689,7 +6692,7 @@
 - [ourresearch/oadoi](https://github.com/ourresearch/oadoi) - The backend code that powers Unpaywall. support@unpaywall.org
 - [expo/snack-web](https://github.com/expo/snack-web) - 
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
-- [ZusorCode/GoodTwitterChrome](https://github.com/ZusorCode/GoodTwitterChrome) - 
+- [zusorio/GoodTwitterChrome](https://github.com/zusorio/GoodTwitterChrome) - 
 - [WebBluetoothCG/demos](https://github.com/WebBluetoothCG/demos) - Demo applications showing off Web Bluetooth
 - [WebBluetoothCG/web-bluetooth](https://github.com/WebBluetoothCG/web-bluetooth) - Bluetooth support for the Web.
 - [google/eddystone](https://github.com/google/eddystone) - Specification for Eddystone, an open beacon format from Google
@@ -7129,7 +7132,7 @@
 - [JackDougherty/bikemapcode](https://github.com/JackDougherty/bikemapcode) - mobile-friendly bicycle map tool with open-source code, designed for cycling groups to customize and host on their own sites
 - [mapbox/togeojson](https://github.com/mapbox/togeojson) - convert KML and GPX to GeoJSON, without the fuss
 - [mapbox/csv2geojson](https://github.com/mapbox/csv2geojson) - magically convert csv files to geojson files
-- [1wheel/gistsnap](https://github.com/1wheel/gistsnap) - snapshot thumbnails for bl.ocks.org
+- [1wheel/gistsnap](https://github.com/1wheel/gistsnap) - snapshot thumbnails for blocks.roadtolarissa.com
 - [bbc/audiowaveform](https://github.com/bbc/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files
 - [richardimaoka/aws-ping](https://github.com/richardimaoka/aws-ping) - 
 - [igrigorik/gharchive.org](https://github.com/igrigorik/gharchive.org) - GH Archive is a project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis.
@@ -7993,7 +7996,7 @@
 - [google-map-react/google-map-react](https://github.com/google-map-react/google-map-react) - Google map library for react that allows rendering components as markers :tada:
 - [fusionjs/fusionjs](https://github.com/fusionjs/fusionjs) - Modern framework for fast, powerful React apps
 - [uber/baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Base design language
-- [uber-archive/react-vis](https://github.com/uber-archive/react-vis) - Data Visualization Components
+- [uber/react-vis](https://github.com/uber/react-vis) - Data Visualization Components
 - [visgl/react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
 - [zcreativelabs/react-simple-maps](https://github.com/zcreativelabs/react-simple-maps) - Beautiful React SVG maps with d3-geo and topojson using a declarative api.
 - [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
