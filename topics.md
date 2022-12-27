@@ -1435,7 +1435,7 @@
 - [palewire/savemy.news](https://github.com/palewire/savemy.news) - Save My News: A personal, permanent clipping service
 - [creativecommons/legaldb](https://github.com/creativecommons/legaldb) - CC Legal Database: curated repository of Case Law and Scholarship data from around the world in a Django based website.
 - [abdullahalrifat/PdfGenerator](https://github.com/abdullahalrifat/PdfGenerator) - Id Card Generation System From Custom Designed Html Page. Reading Data From Excel Sheet  and Generation PDF on based of HTML Designed Page
-- [TheCaffeineDev/Real-Estate-Django-Web-App](https://github.com/TheCaffeineDev/Real-Estate-Django-Web-App) - Real Estate Django Web App
+- [thecaffeinedev/Real-Estate-Django-Web-App](https://github.com/thecaffeinedev/Real-Estate-Django-Web-App) - Real Estate Django Web App
 - [openwisp/django-rest-framework-gis](https://github.com/openwisp/django-rest-framework-gis) - Geographic add-ons for Django REST Framework. Maintained by the OpenWISP Project.
 - [amitt001/pygmy](https://github.com/amitt001/pygmy) - An open-source, feature rich & extensible url-shortener + analytics written in Python :cookie:
 
@@ -2137,7 +2137,6 @@
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
 - [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
-- [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv) - :necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!
 - [joshdk/tty-qlock](https://github.com/joshdk/tty-qlock) - A minimal, curses-based clock for your terminal
 - [LibreELEC/LibreELEC.tv](https://github.com/LibreELEC/LibreELEC.tv) - Just enough OS for KODI
@@ -2317,7 +2316,7 @@
 - [10up/ElasticPress](https://github.com/10up/ElasticPress) - A fast and flexible search and query engine for WordPress.
 - [creativecommons/legaldb](https://github.com/creativecommons/legaldb) - CC Legal Database: curated repository of Case Law and Scholarship data from around the world in a Django based website.
 - [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
-- [TheCaffeineDev/Real-Estate-Django-Web-App](https://github.com/TheCaffeineDev/Real-Estate-Django-Web-App) - Real Estate Django Web App
+- [thecaffeinedev/Real-Estate-Django-Web-App](https://github.com/thecaffeinedev/Real-Estate-Django-Web-App) - Real Estate Django Web App
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - [webtorrent/bittorrent-tracker](https://github.com/webtorrent/bittorrent-tracker) - 🌊 Simple, robust, BitTorrent tracker (client & server) implementation
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
@@ -5731,7 +5730,7 @@
 - [stamparm/DSXS](https://github.com/stamparm/DSXS) - Damn Small XSS Scanner
 - [CMPUT401W17Words/WordsOverTime](https://github.com/CMPUT401W17Words/WordsOverTime) - 
 - [FluentValidation/FluentValidation](https://github.com/FluentValidation/FluentValidation) - A popular .NET validation library for building strongly-typed validation rules.
-- [faker-ruby/faker-bot](https://github.com/faker-ruby/faker-bot) - A tool to make it easier to pick the right Faker methods to generate the fake data you need. 🔍
+- [vbrazo/faker-bot](https://github.com/vbrazo/faker-bot) - A tool to make it easier to pick the right Faker methods to generate the fake data you need. 🔍
 - [christiannaths/redacted-font](https://github.com/christiannaths/redacted-font) - Keep your wireframes free of distracting Lorem Ipsum.
 - [euangoddard/clipboard2markdown](https://github.com/euangoddard/clipboard2markdown) - Convert rich-text on your clipbaord to markdown
 - [euangoddard/holder-ipsum](https://github.com/euangoddard/holder-ipsum) - Fill your pages with lorem-ipsum without copy-and-pasting or writing any Javascript.
@@ -7677,7 +7676,7 @@
 - [ankitshaw/Document-Scanner-and-OCR](https://github.com/ankitshaw/Document-Scanner-and-OCR) - A simple document scanner with OCR implemented using Python and OpenCV
 - [caltechlibrary/handprint](https://github.com/caltechlibrary/handprint) - Apply different text recognition services to images of handwritten documents.
 - [cseas/ocr-table](https://github.com/cseas/ocr-table) - Extract tables from scanned image PDFs using Optical Character Recognition.
-- [TheCaffeineDev/Real-Estate-Django-Web-App](https://github.com/TheCaffeineDev/Real-Estate-Django-Web-App) - Real Estate Django Web App
+- [thecaffeinedev/Real-Estate-Django-Web-App](https://github.com/thecaffeinedev/Real-Estate-Django-Web-App) - Real Estate Django Web App
 - [diabolical-ninja/house_pricing](https://github.com/diabolical-ninja/house_pricing) - Source, clean & analyse Australian house pricing data
 - [AnthonyBloomer/daftlistings](https://github.com/AnthonyBloomer/daftlistings) - A library that enables programmatic interaction with daft.ie. Daft.ie has nationwide coverage and contains about 80% of the total available properties in Ireland.
 - [plotly/dash-oil-and-gas-demo](https://github.com/plotly/dash-oil-and-gas-demo) - Dash Demo App - New York Oil and Gas
@@ -8169,6 +8168,7 @@
 ## ruby 
 
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
+- [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [sj26/mailcatcher](https://github.com/sj26/mailcatcher) - Catches mail and serves it through a dream.
 - [macournoyer/thin](https://github.com/macournoyer/thin) - A very fast & simple Ruby web server
