@@ -460,7 +460,7 @@
 - [ageitgey/amplify](https://github.com/ageitgey/amplify) - A Jekyll html theme in the vague style of Medium.com built using Google AMP
 - [alexlitel/mirrored-image-generator](https://github.com/alexlitel/mirrored-image-generator) - Small app using HTML Canvas and JavaScript to generate mirrored versions of images.
 - [PJijin/Stylish-Card](https://github.com/PJijin/Stylish-Card) - 🗃️ Stylish card using HTML, CSS
-- [TheCaffeineDev/Real-Estate-Django-Web-App](https://github.com/TheCaffeineDev/Real-Estate-Django-Web-App) - Real Estate Django Web App
+- [thecaffeinedev/Real-Estate-Django-Web-App](https://github.com/thecaffeinedev/Real-Estate-Django-Web-App) - Real Estate Django Web App
 - [samuelklam/real-estate-ecommerce](https://github.com/samuelklam/real-estate-ecommerce) - Real Estate Ecommerce Store built with Angular, Express, PostgreSQL and Node.js
 - [arm5077/atlantic-share-image-generator](https://github.com/arm5077/atlantic-share-image-generator) - Makes text-only cards for stories that don't have ready imagery.
 - [cosmicjs/cosmicapp-real-estate](https://github.com/cosmicjs/cosmicapp-real-estate) - A basic real estate website powered by Cosmic JS
@@ -731,7 +731,6 @@
 - [nixgates/nixgates.github.io](https://github.com/nixgates/nixgates.github.io) - 
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - [WADComs/WADComs.github.io](https://github.com/WADComs/WADComs.github.io) - WADComs is an interactive cheat sheet, containing a curated list of offensive security tools and their respective commands, to be used against Windows/AD environments.
-- [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [9Axes/9axes.github.io](https://github.com/9Axes/9axes.github.io) - 
 - [sixtriangles/sixtriangles.github.io](https://github.com/sixtriangles/sixtriangles.github.io) - 
 - [LeftValues/leftvalues.github.io](https://github.com/LeftValues/leftvalues.github.io) - LeftValues, a leftist political quiz
@@ -4853,6 +4852,7 @@
 
 ## Ruby 
 
+- [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [lifen-labs/covid](https://github.com/lifen-labs/covid) - Covid-19 patients' self-monitoring at home via forms sent by SMS
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [foodcoops/foodsoft](https://github.com/foodcoops/foodsoft) - Web-based software to manage a non-profit food coop (product catalog, ordering, accounting, job scheduling).
@@ -4930,7 +4930,7 @@
 - [thoughtbot/administrate](https://github.com/thoughtbot/administrate) - A Rails engine that helps you put together a super-flexible admin dashboard.
 - [gjtorikian/html-proofer](https://github.com/gjtorikian/html-proofer) - Test your rendered HTML files to make sure they're accurate.
 - [faker-ruby/faker](https://github.com/faker-ruby/faker) - A library for generating fake data such as names, addresses, and phone numbers.
-- [faker-ruby/faker-bot](https://github.com/faker-ruby/faker-bot) - A tool to make it easier to pick the right Faker methods to generate the fake data you need. 🔍
+- [vbrazo/faker-bot](https://github.com/vbrazo/faker-bot) - A tool to make it easier to pick the right Faker methods to generate the fake data you need. 🔍
 - [tomgi/git_stats](https://github.com/tomgi/git_stats) - GitStats is a git repository statistics generator.
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
