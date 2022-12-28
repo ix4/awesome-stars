@@ -2528,7 +2528,6 @@
 - [dj0001/miband3-selfie](https://github.com/dj0001/miband3-selfie) - take photo with miband3 and 4 and monitor heartrate
 - [tinuzz/leaflet-messagebox](https://github.com/tinuzz/leaflet-messagebox) - A Leaflet plugin to display a temporary message on a map
 - [stefanocudini/leaflet-gps](https://github.com/stefanocudini/leaflet-gps) - Simple leaflet control plugin for tracking gps position
-- [perliedman/geojson-path-finder](https://github.com/perliedman/geojson-path-finder) - Find shortest path through a network of GeoJSON
 - [shramov/leaflet-plugins](https://github.com/shramov/leaflet-plugins) - Plugins for Leaflet library
 - [nickpeihl/ags-walk](https://github.com/nickpeihl/ags-walk) - Walks an ArcGIS Server Rest API and returns all services
 - [Turbo87/ogn-web-viewer](https://github.com/Turbo87/ogn-web-viewer) - OpenGliderNet WebViewer
@@ -5542,6 +5541,7 @@
 - [fusionjs/fusionjs](https://github.com/fusionjs/fusionjs) - Modern framework for fast, powerful React apps
 - [uber/baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Base design language
 - [visgl/react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
+- [perliedman/geojson-path-finder](https://github.com/perliedman/geojson-path-finder) - Find shortest path through a network of GeoJSON
 - [elastic/ems-client](https://github.com/elastic/ems-client) - JavaScript Client library for Elastic Maps Service
 - [subfuzion/appmesh.dev](https://github.com/subfuzion/appmesh.dev) - Orientation guide with examples for using App Mesh to control and monitor your microservice applications on AWS.
 - [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank) - 🕷️Github China/Global User Ranking, Global Warehouse Star Ranking (Github Action is automatically updated daily).
