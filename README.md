@@ -716,6 +716,7 @@
 
 ## HTML 
 
+- [yushulx/javascript-driver-license](https://github.com/yushulx/javascript-driver-license) - 
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT promt curation to use ChatGPT better.
 - [knrdl/bicimon](https://github.com/knrdl/bicimon) - Bike Speedometer
 - [jgamblin/nmaptable](https://github.com/jgamblin/nmaptable) - Transform NMap Scans to an D3.js HTML Table
@@ -1870,7 +1871,7 @@
 - [mafintosh/torrent-mount](https://github.com/mafintosh/torrent-mount) - Mount a torrent (or magnet link) as a filesystem in real time using torrent-stream and fuse. AKA MAD SCIENCE!
 - [hypercore-protocol/hypertrie](https://github.com/hypercore-protocol/hypertrie) - Distributed single writer key/value store
 - [hypercore-protocol/hyperdrive](https://github.com/hypercore-protocol/hyperdrive) - Hyperdrive is a secure, real time distributed file system
-- [hypercore-protocol/hypercore](https://github.com/hypercore-protocol/hypercore) - Hypercore is a secure, distributed append-only log.
+- [holepunchto/hypercore](https://github.com/holepunchto/hypercore) - Hypercore is a secure, distributed append-only log.
 - [mafintosh/webcat](https://github.com/mafintosh/webcat) - Mad science p2p pipe across the web using webrtc that uses your Github private/public key for authentication and a signalhub for discovery
 - [imfunniee/fimbo](https://github.com/imfunniee/fimbo) - free to use portfolio templates
 - [enginkizil/FeedEk](https://github.com/enginkizil/FeedEk) - FeedEk jQuery RSS/ATOM Feed Plugin
@@ -1885,7 +1886,6 @@
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
 - [DmitrySharabin/mavo-chart](https://github.com/DmitrySharabin/mavo-chart) - Mavo plugin for the Chart.js library. Visualize data in your Mavo apps with animated, customizable, and responsive charts.
 - [mavoweb/mavo](https://github.com/mavoweb/mavo) - Create web applications entirely by writing HTML and CSS!
-- [planetoftheweb/rayveal](https://github.com/planetoftheweb/rayveal) - A markdown first presentation framework. Based on reveal.js with preinstalled plugins, light Bootstrap and sweet extras.
 - [BrowserSync/UI](https://github.com/BrowserSync/UI) - User interface for BrowserSync
 - [mdn/data](https://github.com/mdn/data) - This repository contains general data for Web technologies
 - [thomaspark/rotary](https://github.com/thomaspark/rotary) - A retro web input for phone numbers
@@ -2123,7 +2123,7 @@
 - [shashwatak/satellite-js](https://github.com/shashwatak/satellite-js) - Modular set of functions for SGP4 and SDP4 propagation of TLEs.
 - [zalmoxisus/social-expert](https://github.com/zalmoxisus/social-expert) - Master your GitHub notifications by priority and weight.
 - [redux-form/redux-form](https://github.com/redux-form/redux-form) - A Higher Order Component using react-redux to keep form state in a Redux store
-- [gitname/solar-ui](https://github.com/gitname/solar-ui) - Example Web UI for a Solar Panel System Management Dashboard (built using React & Redux)
+- [gitname/solar-ui](https://github.com/gitname/solar-ui) - Example Web UI for a Solar Panel System Management Dashboard (built using React v16 & Redux)
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [leighhalliday/react-leaflet-demo](https://github.com/leighhalliday/react-leaflet-demo) - 
 - [mapbox/martini](https://github.com/mapbox/martini) - A JavaScript library for real-time RTIN terrain mesh generation
@@ -3088,7 +3088,6 @@
 - [alexlitel/congresstweets-automator](https://github.com/alexlitel/congresstweets-automator) - Self-updating Node app collecting Congress' daily Twitter output and compiling into publicly accessible form.
 - [NYCPlanning/labs-tax-lot-selector](https://github.com/NYCPlanning/labs-tax-lot-selector) - A simple map-based tool for selecting multiple NYC tax lots and downloading a CSV or shapefile of their PLUTO data
 - [NYCPlanning/labs-migration-viz](https://github.com/NYCPlanning/labs-migration-viz) - A single-page interactive visualization of historic U.S. Census migration data for New York City
-- [NYCPlanning/labs-geosearch-docker](https://github.com/NYCPlanning/labs-geosearch-docker) - Main repository for running the Planning Labs geosearch API powered by pelias
 - [NYCPlanning/labs-zola](https://github.com/NYCPlanning/labs-zola) - NYC Planning's Zoning and Land Use App
 - [Blend3rman/DynFormCreator](https://github.com/Blend3rman/DynFormCreator) - A Javascript file, made with Google App Script, to create a dynamic questionnaire.
 - [cybercase/google-forms-html-exporter](https://github.com/cybercase/google-forms-html-exporter) - Build a standard HTML &lt;form&gt; using any Google Forms
@@ -4298,7 +4297,7 @@
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [editorconfig/specification](https://github.com/editorconfig/specification) - Specification of EditorConfig file format
 - [editorconfig/editorconfig-gedit](https://github.com/editorconfig/editorconfig-gedit) - EditorConfig plugin for Gedit
-- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
+- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [apenwarr/sshuttle](https://github.com/apenwarr/sshuttle) - Wrong project!  You should head over to http://github.com/sshuttle/sshuttle
 - [cbfinn/gps](https://github.com/cbfinn/gps) - Guided Policy Search
 - [google/diff-match-patch](https://github.com/google/diff-match-patch) - Diff Match Patch is a high-performance library in multiple languages that manipulates plain text.
@@ -4771,7 +4770,7 @@
 - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
 - [datadesk/census-data-downloader](https://github.com/datadesk/census-data-downloader) - Download U.S. census data and reformat it for humans
 - [dthpham/butterflow](https://github.com/dthpham/butterflow) - Make motion interpolated and fluid slow motion videos from the command line.
-- [codefordc/housing-insights](https://github.com/codefordc/housing-insights) - Bringing open data to affordable housing decision makers in Washington DC. A D3/Javascript based website to visualize data related to affordable housing in Washington DC. Data processing with Python.
+- [focusconsulting/housing-insights](https://github.com/focusconsulting/housing-insights) - Bringing open data to affordable housing decision makers in Washington DC. A D3/Javascript based website to visualize data related to affordable housing in Washington DC. Data processing with Python.
 - [DocNow/twarc](https://github.com/DocNow/twarc) - A command line tool (and Python library) for archiving Twitter JSON
 - [gwu-libraries/TweetSets](https://github.com/gwu-libraries/TweetSets) - Service for creating Twitter datasets for research and archiving.
 - [taspinar/twitterscraper](https://github.com/taspinar/twitterscraper) - Scrape Twitter for Tweets
@@ -5039,6 +5038,7 @@
 - [andrewbanchich/lens-jekyll-theme](https://github.com/andrewbanchich/lens-jekyll-theme) - A Jekyll version of the "Lens" theme by HTML5 UP.
 - [chesterhow/tale](https://github.com/chesterhow/tale) - Minimal Jekyll theme for storytellers
 - [DmitrySharabin/flashcards-app-v.2](https://github.com/DmitrySharabin/flashcards-app-v.2) - Flashcards App made with Mavo
+- [planetoftheweb/rayveal](https://github.com/planetoftheweb/rayveal) - A markdown first presentation framework. Based on reveal.js with preinstalled plugins, light Bootstrap and sweet extras.
 - [thomaspark/pubcss](https://github.com/thomaspark/pubcss) - Format academic publications in HTML & CSS
 - [allejo/jekyll-docs-theme](https://github.com/allejo/jekyll-docs-theme) - A mediocre Jekyll theme for writing documentation websites based Bootstrap's old website design
 - [zerostaticthemes/jekyll-serif-theme](https://github.com/zerostaticthemes/jekyll-serif-theme) - Serif is a multi page business theme for Jekyll.
@@ -5249,6 +5249,7 @@
 - [casenjo/home-assistant-config](https://github.com/casenjo/home-assistant-config) - Home Assistant config setup using Docker, includes Zwavejs2Mqtt and Mosquitto
 - [roth-a/Bash-Scripts](https://github.com/roth-a/Bash-Scripts) - Bash scripts, including an incremental backup script using rsync. Also a script to convert many videos using ffmpeg
 - [pvtl/scripts](https://github.com/pvtl/scripts) - Automation for setting up fresh projects on Wordpress, Magento2 and Laravel
+- [NYCPlanning/labs-geosearch-docker](https://github.com/NYCPlanning/labs-geosearch-docker) - Main repository for running the Planning Labs geosearch API powered by pelias
 - [trimstray/multitor](https://github.com/trimstray/multitor) - Create multiple TOR instances with a load-balancing.
 - [wuseman/EMAGNET](https://github.com/wuseman/EMAGNET) - Automated hacking tool that will find leaked databases with 97.1% accurate to grab mail + password together from recent uploads from https://pastebin.com. Bruteforce support for spotify accounts, inst
 - [newsdev/rocketdocket](https://github.com/newsdev/rocketdocket) - The fastest, cleanest, most reproducible ways to OCR a document.
@@ -5437,7 +5438,7 @@
 - [joeferner/node-http-mitm-proxy](https://github.com/joeferner/node-http-mitm-proxy) - HTTP Man In The Middle (MITM) Proxy
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [zhongsp/TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org
-- [algolia/instantsearch.js](https://github.com/algolia/instantsearch.js) - ⚡️ A JavaScript library for building performant and instant search experiences with Algolia.
+- [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ A library for building performant and instant search experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue
 - [obs-websocket-community-projects/obs-websocket-js](https://github.com/obs-websocket-community-projects/obs-websocket-js) - Consumes https://github.com/obsproject/obs-websocket
 - [google/emoji-scavenger-hunt](https://github.com/google/emoji-scavenger-hunt) - Emoji Scavenger Hunt is an experiment that leverages the power of neural networks and your phone’s camera to identify the real world versions of the emojis we use every day.
 - [fangpenlin/avataaars](https://github.com/fangpenlin/avataaars) - React component for avataaars
