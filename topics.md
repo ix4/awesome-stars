@@ -597,7 +597,7 @@
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - [styled-components/awesome-styled-components](https://github.com/styled-components/awesome-styled-components) - A curated list of awesome styled-components resources 💅
 - [humanetech-community/awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech) - Promoting Solutions that Improve Wellbeing, Freedom and Society
-- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
+- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [JStumpp/awesome-android](https://github.com/JStumpp/awesome-android) - A curated list of awesome Android packages and resources.
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
@@ -1668,7 +1668,7 @@
 - [Stryzhevskyi/rangeSlider](https://github.com/Stryzhevskyi/rangeSlider) - Simple, small and fast vanilla JavaScript polyfill for the HTML5 `&lt;input type="range"&gt;` slider element.
 - [myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet) - A web-based JavaScript（canvas） spreadsheet
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
-- [gitname/solar-ui](https://github.com/gitname/solar-ui) - Example Web UI for a Solar Panel System Management Dashboard (built using React & Redux)
+- [gitname/solar-ui](https://github.com/gitname/solar-ui) - Example Web UI for a Solar Panel System Management Dashboard (built using React v16 & Redux)
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [jamalhassouni/pwa-news-Application](https://github.com/jamalhassouni/pwa-news-Application) - Simple Progressive Web App (PWA)  written in JavaScript
 - [CapacitorSet/box-js](https://github.com/CapacitorSet/box-js) - A tool for studying JavaScript malware.
@@ -3573,6 +3573,7 @@
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [canha/golang-tools-install-script](https://github.com/canha/golang-tools-install-script) - Simple Bash script to automate Go language tools single user installation or even removal.
+- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [jamiemcg/Remarkable](https://github.com/jamiemcg/Remarkable) - Remarkable - The Markdown Editor for Linux http://remarkableapp.github.io
 - [Rafficer/linux-cli-community](https://github.com/Rafficer/linux-cli-community) - Linux command-line client for ProtonVPN. Written in Python.
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
@@ -4204,7 +4205,7 @@
 - [nasa/Open-Source-Catalog](https://github.com/nasa/Open-Source-Catalog) - Contains the NASA open source software catalog for automatic deployment to code.nasa.gov
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary) - One webpage for every book ever published!
 - [GSA/code-gov-front-end](https://github.com/GSA/code-gov-front-end) - Front-end of code.gov
-- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
+- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [epam/OSCI](https://github.com/epam/OSCI) - Open Source Contributor Index
 - [Chicago/clear-water](https://github.com/Chicago/clear-water) - Forecasting elevated levels of E. coli at Chicago beaches to provide proper warning to beach-goers.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
@@ -4284,6 +4285,7 @@
 
 ## others 
 
+- [yushulx/javascript-driver-license](https://github.com/yushulx/javascript-driver-license) - 
 - [risacher/sunwait](https://github.com/risacher/sunwait) - Sunwait calculates sunrise or sunset times with civil, nautical, astronomical and custom twilights, for use with Windows Task Scheduler or 'cron' on Linux.
 - [siffash/cookie-fucker](https://github.com/siffash/cookie-fucker) - Removes all cookie warnings. Light and open-sourced.
 - [urban-labs/namematch](https://github.com/urban-labs/namematch) - Tool for probabilistically linking the records of individual entities (e.g. people) within and across datasets
@@ -5168,7 +5170,7 @@
 - [mafintosh/torrent-mount](https://github.com/mafintosh/torrent-mount) - Mount a torrent (or magnet link) as a filesystem in real time using torrent-stream and fuse. AKA MAD SCIENCE!
 - [hypercore-protocol/hypertrie](https://github.com/hypercore-protocol/hypertrie) - Distributed single writer key/value store
 - [hypercore-protocol/hyperdrive](https://github.com/hypercore-protocol/hyperdrive) - Hyperdrive is a secure, real time distributed file system
-- [hypercore-protocol/hypercore](https://github.com/hypercore-protocol/hypercore) - Hypercore is a secure, distributed append-only log.
+- [holepunchto/hypercore](https://github.com/holepunchto/hypercore) - Hypercore is a secure, distributed append-only log.
 - [mafintosh/webcat](https://github.com/mafintosh/webcat) - Mad science p2p pipe across the web using webrtc that uses your Github private/public key for authentication and a signalhub for discovery
 - [imfunniee/fimbo](https://github.com/imfunniee/fimbo) - free to use portfolio templates
 - [zeva-ui/zeva-ui.github.io](https://github.com/zeva-ui/zeva-ui.github.io) - zeva's docs
@@ -5290,7 +5292,6 @@
 - [ossn/project-finder](https://github.com/ossn/project-finder) - A project matching web app for hackathons
 - [pinojs/express-pino-logger](https://github.com/pinojs/express-pino-logger) - 🌲 an express middleware to log with pino
 - [njleonzhang/docsify-edit-on-github](https://github.com/njleonzhang/docsify-edit-on-github) - 
-- [algolia/instantsearch.js](https://github.com/algolia/instantsearch.js) - ⚡️ A JavaScript library for building performant and instant search experiences with Algolia.
 - [kaiiiz/hexo-theme-book](https://github.com/kaiiiz/hexo-theme-book) - A simple, elegant, book-like hexo theme with some useful features.
 - [summerstyle/summer](https://github.com/summerstyle/summer) - Html image map editor based on javascript, html5, inline SVG (modern FF, Chrome, Opera and IE10+)
 - [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream
@@ -7225,7 +7226,7 @@
 - [googleapis/google-api-php-client](https://github.com/googleapis/google-api-php-client) - A PHP client library for accessing Google APIs
 - [mapbox/geojson.io](https://github.com/mapbox/geojson.io) - A quick, simple tool for creating, viewing, and sharing spatial data
 - [dthpham/butterflow](https://github.com/dthpham/butterflow) - Make motion interpolated and fluid slow motion videos from the command line.
-- [codefordc/housing-insights](https://github.com/codefordc/housing-insights) - Bringing open data to affordable housing decision makers in Washington DC. A D3/Javascript based website to visualize data related to affordable housing in Washington DC. Data processing with Python.
+- [focusconsulting/housing-insights](https://github.com/focusconsulting/housing-insights) - Bringing open data to affordable housing decision makers in Washington DC. A D3/Javascript based website to visualize data related to affordable housing in Washington DC. Data processing with Python.
 - [opensavannah/flood-map](https://github.com/opensavannah/flood-map) - A simple web map to visualize flood information on maps
 - [jlord/sheetsee-calendar](https://github.com/jlord/sheetsee-calendar) - Website with calendar of events from a Google Spreadsheet
 - [jlord/hack-spots](https://github.com/jlord/hack-spots) - Using Sheetsee.js and power of collaboration to collect the best places to get your hack on.
@@ -7554,6 +7555,7 @@
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [open-notify/Open-Notify-API](https://github.com/open-notify/Open-Notify-API) - Source code for api.open-notify.org
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
+- [idealo/imagededup](https://github.com/idealo/imagededup) - 😎 Finding duplicate images made easy!
 - [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - The Sphinx documentation generator
 - [nasa/api-docs](https://github.com/nasa/api-docs) - api.nasa.gov
 - [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions) - Extensions for Python Markdown
@@ -7778,6 +7780,7 @@
 
 ## pytorch 
 
+- [idealo/imagededup](https://github.com/idealo/imagededup) - 😎 Finding duplicate images made easy!
 - [lucidrains/stylegan2-pytorch](https://github.com/lucidrains/stylegan2-pytorch) - Simplest working implementation of Stylegan2, state of the art generative adversarial network, in Pytorch. Enabling everyone to experience disentanglement
 - [val-iisc/sketch-parse](https://github.com/val-iisc/sketch-parse) - Code, demos and data for SketchParse (a neural network for sketch segmentation). Paper:
 - [junyanz/pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - Image-to-Image Translation in PyTorch
@@ -7925,6 +7928,7 @@
 - [FormidableLabs/react-live](https://github.com/FormidableLabs/react-live) - A flexible playground for live editing React components
 - [react-static/react-static](https://github.com/react-static/react-static) - ⚛️ 🚀 A progressive static site generator for React.
 - [zhongsp/TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org
+- [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ A library for building performant and instant search experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue
 - [fangpenlin/avataaars](https://github.com/fangpenlin/avataaars) - React component for avataaars
 - [fangpenlin/avataaars-generator](https://github.com/fangpenlin/avataaars-generator) - Simple generator React app for avataaars
 - [react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - :fire: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
@@ -7947,7 +7951,7 @@
 - [withspectrum/spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
 - [redux-form/redux-form](https://github.com/redux-form/redux-form) - A Higher Order Component using react-redux to keep form state in a Redux store
-- [gitname/solar-ui](https://github.com/gitname/solar-ui) - Example Web UI for a Solar Panel System Management Dashboard (built using React & Redux)
+- [gitname/solar-ui](https://github.com/gitname/solar-ui) - Example Web UI for a Solar Panel System Management Dashboard (built using React v16 & Redux)
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [PButcher/a-million-times](https://github.com/PButcher/a-million-times) - A digital analogue clock
@@ -8117,7 +8121,7 @@
 - [MetinSeylan/Vue-Socket.io](https://github.com/MetinSeylan/Vue-Socket.io) - 😻 Socket.io implementation for Vuejs and Vuex
 - [verekia/js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
 - [redux-form/redux-form](https://github.com/redux-form/redux-form) - A Higher Order Component using react-redux to keep form state in a Redux store
-- [gitname/solar-ui](https://github.com/gitname/solar-ui) - Example Web UI for a Solar Panel System Management Dashboard (built using React & Redux)
+- [gitname/solar-ui](https://github.com/gitname/solar-ui) - Example Web UI for a Solar Panel System Management Dashboard (built using React v16 & Redux)
 - [pankajladhar/GFontsSpace](https://github.com/pankajladhar/GFontsSpace) - Preview: https://pankajladhar.github.io/GFontsSpace
 - [jeffersonRibeiro/luizalabs-front-end](https://github.com/jeffersonRibeiro/luizalabs-front-end) - Single Page App built with React to search places by CEP and save to favorites.
 - [Rhymond/product-compare-react](https://github.com/Rhymond/product-compare-react) - React Example - Product Compare Page
@@ -8426,7 +8430,7 @@
 
 ## software 
 
-- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
+- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 
 ## spring 
 
@@ -8532,7 +8536,6 @@
 
 ## tensorflow 
 
-- [idealo/imagededup](https://github.com/idealo/imagededup) - 😎 Finding duplicate images made easy!
 - [PAIR-code/font-explorer](https://github.com/PAIR-code/font-explorer) - Font latent space explorer using tensorflow.js
 - [art-programmer/FloorNet](https://github.com/art-programmer/FloorNet) - 
 - [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
@@ -8790,6 +8793,7 @@
 - [lusaxweb/vuenut](https://github.com/lusaxweb/vuenut) - ⚙️ Developer tools for vue js (Vuex)
 - [egoist/docute](https://github.com/egoist/docute) - 📚 Effortless documentation, done right.
 - [njleonzhang/vue-data-tables](https://github.com/njleonzhang/vue-data-tables) - A simple, customizable and pageable table with SSR support, based on vue2 and element-ui
+- [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ A library for building performant and instant search experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue
 - [zce/dashboard](https://github.com/zce/dashboard) - A dashboard scaffolding based on Vue.js 3.0 created by Vite.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [MetinSeylan/Vue-Socket.io](https://github.com/MetinSeylan/Vue-Socket.io) - 😻 Socket.io implementation for Vuejs and Vuex
@@ -8852,7 +8856,7 @@
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [phpMyDomo/phpMyDomo](https://github.com/phpMyDomo/phpMyDomo) - The ultimate Domotic web remote for the rest of us
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
-- [gitname/solar-ui](https://github.com/gitname/solar-ui) - Example Web UI for a Solar Panel System Management Dashboard (built using React & Redux)
+- [gitname/solar-ui](https://github.com/gitname/solar-ui) - Example Web UI for a Solar Panel System Management Dashboard (built using React v16 & Redux)
 - [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
 - [GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev) - The frontend, backend, and content source code for web.dev
 - [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org) - Repository for webpack documentation and more!
