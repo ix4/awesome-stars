@@ -586,7 +586,6 @@
 - [mautrix/whatsapp](https://github.com/mautrix/whatsapp) - A Matrix-WhatsApp puppeting bridge
 - [ro31337/libretaxi](https://github.com/ro31337/libretaxi) - Open source Uber #deleteuber
 - [eleboucher/berlin-vaccine-alert](https://github.com/eleboucher/berlin-vaccine-alert) - Telegram bot to get information on vaccine availabilities.
-- [dpapathanasiou/simple-graph](https://github.com/dpapathanasiou/simple-graph) - This is a simple graph database in SQLite, inspired by "SQLite as a document database"
 - [mxpv/podsync](https://github.com/mxpv/podsync) - Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
 - [cds-snc/covid-alert-server](https://github.com/cds-snc/covid-alert-server) - Exposure Notification: Diagnosis Server implementation / Notification d’exposition : Mise en œuvre du serveur de diagnostic
 - [joshdk/tty-qlock](https://github.com/joshdk/tty-qlock) - A minimal, curses-based clock for your terminal
@@ -2254,7 +2253,7 @@
 - [Pixelkit/PixelKit-Bootstrap-UI-Kits](https://github.com/Pixelkit/PixelKit-Bootstrap-UI-Kits) - Free UI Kits built on Bootstrap for any developer that wants to build a cool looking and functional website. Enjoy!
 - [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [meshesha/officetohtml](https://github.com/meshesha/officetohtml) - Office To Html
-- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
+- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
 - [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash) - A beautiful web dashboard for Linux
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
@@ -2760,7 +2759,7 @@
 - [vvo/gifify](https://github.com/vvo/gifify) - 😻 Convert any video file to an optimized animated GIF.
 - [jnordberg/gif.js](https://github.com/jnordberg/gif.js) - JavaScript GIF encoding library
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-- [facebook/draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
+- [facebookarchive/draft-js](https://github.com/facebookarchive/draft-js) - A React framework for building text editors.
 - [Telegram-Bot-Node/Nikoro](https://github.com/Telegram-Bot-Node/Nikoro) - A plugin-based, all-in-one, Telegram Bot written in Node.js
 - [phoboslab/jsmpeg](https://github.com/phoboslab/jsmpeg) - MPEG1 Video Decoder in JavaScript
 - [CapacitorSet/box-js](https://github.com/CapacitorSet/box-js) - A tool for studying JavaScript malware.
@@ -3678,6 +3677,7 @@
 - [OsamaBinNaughty/FakeID-Barcode](https://github.com/OsamaBinNaughty/FakeID-Barcode) - Generator for fake ID barcodes. (Currently SC only, looking to expand).
 - [TheUpshot/presidential-precinct-map-2020](https://github.com/TheUpshot/presidential-precinct-map-2020) - The GeoJSON dataset behind our nationwide precinct map of the 2020 presidential general election
 - [haydenjames/bench-scripts](https://github.com/haydenjames/bench-scripts) - A compilation of Linux server benchmarking scripts.
+- [dpapathanasiou/simple-graph](https://github.com/dpapathanasiou/simple-graph) - This is a simple graph database in SQLite, inspired by "SQLite as a document database"
 - [IDKwhattoputhere/uBlock-Filters-Plus](https://github.com/IDKwhattoputhere/uBlock-Filters-Plus) - Additional filters for uBlock Origin
 - [yourduskquibbles/webannoyances](https://github.com/yourduskquibbles/webannoyances) - Fix and remove annoying web elements such as sticky headers, floating boxes, floating videos, dickbars, social share bars and other distracting elements.
 - [hl2guide/Filterlist-for-AdGuard-or-PiHole](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole) - A very aggressive filter-list that consolidates over 370 lists for use in AdGuard Home, Pi-Hole or similar.
@@ -5678,6 +5678,7 @@
 
 ## Vim Script 
 
+- [dominee/Termux-dotfiles](https://github.com/dominee/Termux-dotfiles) - .files for the Termux android terminal
 - [ostera/dotfiles](https://github.com/ostera/dotfiles) - :floppy_disk: ~/.*
 - [gregsexton/gitv](https://github.com/gregsexton/gitv) - gitk for Vim.
 - [mattn/vim-gist](https://github.com/mattn/vim-gist) - Vim plugin for Gist
