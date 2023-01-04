@@ -4285,6 +4285,7 @@
 
 ## others 
 
+- [dominee/Termux-dotfiles](https://github.com/dominee/Termux-dotfiles) - .files for the Termux android terminal
 - [yushulx/javascript-driver-license](https://github.com/yushulx/javascript-driver-license) - 
 - [risacher/sunwait](https://github.com/risacher/sunwait) - Sunwait calculates sunrise or sunset times with civil, nautical, astronomical and custom twilights, for use with Windows Task Scheduler or 'cron' on Linux.
 - [siffash/cookie-fucker](https://github.com/siffash/cookie-fucker) - Removes all cookie warnings. Light and open-sourced.
@@ -6366,7 +6367,7 @@
 - [xcarpentier/gifted-chat-web-demo](https://github.com/xcarpentier/gifted-chat-web-demo) - Gifted chat web demo
 - [witness/Obtaining-Informed-Consent](https://github.com/witness/Obtaining-Informed-Consent) - WITNESS Tip Sheet: This tip sheet defines 'informed consent' and outlines best practices for obtaining informed consent from an interviewee. Includes: fonts, .ai images, logos, InDesign file, markdown
 - [facebookresearch/fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
-- [facebook/draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
+- [facebookarchive/draft-js](https://github.com/facebookarchive/draft-js) - A React framework for building text editors.
 - [phoboslab/jsmpeg](https://github.com/phoboslab/jsmpeg) - MPEG1 Video Decoder in JavaScript
 - [selfspy/selfspy](https://github.com/selfspy/selfspy) - Log everything you do on the computer, for statistics, future reference and all-around fun!
 - [webrecorder/behaviors](https://github.com/webrecorder/behaviors) - Webrecorder Automated In-Page Behavior Framework
