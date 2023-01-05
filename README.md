@@ -804,6 +804,7 @@
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
 - [cfpb/source-code-policy](https://github.com/cfpb/source-code-policy) - The CFPB's official Source Code Policy.
 - [w3c/wcag](https://github.com/w3c/wcag) - Web Content Accessibility Guidelines
+- [18F/handbook](https://github.com/18F/handbook) - The home of policies and guidelines that make up TTS.
 - [18F/development-guide](https://github.com/18F/development-guide) - A set of guidelines and best practices for an awesome software engineering team
 - [mathjax/MathJax-demos-web](https://github.com/mathjax/MathJax-demos-web) - A repository with examples using mathjax-v3
 - [google/docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
@@ -1702,7 +1703,6 @@
 - [tobie/specref](https://github.com/tobie/specref) - An open-source, community-maintained database of Web standards & related references.
 - [w3c/respec](https://github.com/w3c/respec) - A tool for creating technical documents and web standards
 - [cloud-gov/pages-uswds-gatsby](https://github.com/cloud-gov/pages-uswds-gatsby) - A template for Federalist that uses Gatsby and USWDS 2.0
-- [18F/handbook](https://github.com/18F/handbook) - The home of policies and guidelines that make up TTS.
 - [countxyz/nyc_code_browser](https://github.com/countxyz/nyc_code_browser) - Browser for the New York City Administrative Code.
 - [amsul/pickadate.js](https://github.com/amsul/pickadate.js) - The mobile-friendly, responsive, and lightweight jQuery date & time input picker.
 - [aichaos/rivescript-js](https://github.com/aichaos/rivescript-js) - A RiveScript interpreter for JavaScript. RiveScript is a scripting language for chatterbots.
@@ -3827,6 +3827,7 @@
 - [tanprathan/MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics.
 - [sh4hin/Androl4b](https://github.com/sh4hin/Androl4b) - A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis
 - [drewrwilson/toolsforactivism](https://github.com/drewrwilson/toolsforactivism) - growing list of digital tools for activism things
+- [OpenSourceActivismTech/us-governors](https://github.com/OpenSourceActivismTech/us-governors) - US Governors Contact Info
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 - [openmaptiles/dark-matter-gl-style](https://github.com/openmaptiles/dark-matter-gl-style) - Dark Matter GL Style using OpenMapTiles
 - [kentcdodds/netlify-shortener-example](https://github.com/kentcdodds/netlify-shortener-example) - Short URLs example for netlify
@@ -4067,7 +4068,7 @@
 - [SiroDiaz/Base62](https://github.com/SiroDiaz/Base62) - PHP Base62 encoder and decoder for integers and big integers with Laravel 5 support.
 - [bhutanio/anon.to](https://github.com/bhutanio/anon.to) - Anonymous url redirector and shortener
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
-- [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 Y̲our O̲wn U̲R̲L̲ S̲hortener - the 𝑑𝑒 𝑓𝑎𝑐𝑡𝑜 standard self hosted URL shortener in PHP
+- [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The de facto standard self hosted URL shortener in PHP
 - [essence/essence](https://github.com/essence/essence) - Extracts information about web pages, like youtube videos, twitter statuses or blog articles.
 - [oscarotero/Embed](https://github.com/oscarotero/Embed) - Get info from any web service or page
 
@@ -4143,6 +4144,7 @@
 - [wkeeling/selenium-wire](https://github.com/wkeeling/selenium-wire) - Extends Selenium's Python bindings to give you the ability to inspect requests made by the browser.
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [pndurette/gTTS](https://github.com/pndurette/gTTS) - Python library and CLI tool to interface with Google Translate's text-to-speech API
+- [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [Dublerq/rpi-lcd-menu](https://github.com/Dublerq/rpi-lcd-menu) - Simple python library for creating menu on 16x2 lcd screen powered by raspberry pi
 - [mikeasilva/cgr-work](https://github.com/mikeasilva/cgr-work) - Examples of my data work while working at CGR
 - [thelinuxkid/pyusps](https://github.com/thelinuxkid/pyusps) - Python bindings for the USPS Ecommerce APIs
@@ -4494,7 +4496,6 @@
 - [overviewer/Minecraft-Overviewer](https://github.com/overviewer/Minecraft-Overviewer) - Render high-resolution maps of a Minecraft world with a Leaflet powered interface
 - [mittrees/Treepedia_Public](https://github.com/mittrees/Treepedia_Public) - Treepedia package for public use
 - [opennorth/represent-canada-data](https://github.com/opennorth/represent-canada-data) - Digital electoral boundary files for Canada, its provinces and municipalities
-- [OpenSourceActivismTech/us-governors](https://github.com/OpenSourceActivismTech/us-governors) - US Governors Contact Info
 - [unitedstates/contact-congress](https://github.com/unitedstates/contact-congress) - Sending electronic written messages to members of Congress by reverse engineering their contact forms.
 - [unitedstates/congress](https://github.com/unitedstates/congress) - Public domain data collectors for the work of Congress, including legislation, amendments, and votes.
 - [OpenSourceActivismTech/call-power](https://github.com/OpenSourceActivismTech/call-power) - an application to connect people to power with their phones
@@ -5329,7 +5330,6 @@
 - [veelenga/rblist.info](https://github.com/veelenga/rblist.info) - Russia Ban List
 - [azu/har-extractor](https://github.com/azu/har-extractor) - A CLI that extract har file to directory.
 - [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
-- [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [coroo/docsify-share](https://github.com/coroo/docsify-share) - A simple sharing button for Docsify. Within this plugin, we hope you can have your own sharing social media button easily e.g facebook, twitter and many more.
 - [lachenmayer/graphql-scraper](https://github.com/lachenmayer/graphql-scraper) - Extract structured data from the web using GraphQL.
 - [anbuksv/avantation](https://github.com/anbuksv/avantation) - Build OpenAPI3.0 specification from HAR.
