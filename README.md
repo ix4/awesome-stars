@@ -4834,7 +4834,7 @@
 - [NYCPlanning/labs-geosearch-pad-normalize](https://github.com/NYCPlanning/labs-geosearch-pad-normalize) - R script to normalize PAD data into discrete address records
 - [abresler/realtR](https://github.com/abresler/realtR) - Real estate brokers are the....
 - [rstudio/blogdown](https://github.com/rstudio/blogdown) - Create Blogs and Websites with R Markdown
-- [Robinlovelace/geocompr](https://github.com/Robinlovelace/geocompr) - Open source book: Geocomputation with R
+- [geocompx/geocompr](https://github.com/geocompx/geocompr) - Open source book: Geocomputation with R
 - [mkearney/tweetbotornot](https://github.com/mkearney/tweetbotornot) - 🤖 R package for detecting Twitter bots via machine learning
 - [mkearney/presidential_election_county_results_2016](https://github.com/mkearney/presidential_election_county_results_2016) - 🏁 presidential_election_county_results_2016
 - [USGS-VIZLAB/gage-conditions-gif](https://github.com/USGS-VIZLAB/gage-conditions-gif) - 
