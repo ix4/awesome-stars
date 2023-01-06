@@ -7818,7 +7818,7 @@
 - [abresler/realtR](https://github.com/abresler/realtR) - Real estate brokers are the....
 - [rstudio/blogdown](https://github.com/rstudio/blogdown) - Create Blogs and Websites with R Markdown
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
-- [Robinlovelace/geocompr](https://github.com/Robinlovelace/geocompr) - Open source book: Geocomputation with R
+- [geocompx/geocompr](https://github.com/geocompx/geocompr) - Open source book: Geocomputation with R
 - [mkearney/tweetbotornot](https://github.com/mkearney/tweetbotornot) - 🤖 R package for detecting Twitter bots via machine learning
 
 ## rails 
