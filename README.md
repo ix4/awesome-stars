@@ -716,7 +716,7 @@
 ## HTML 
 
 - [yushulx/javascript-driver-license](https://github.com/yushulx/javascript-driver-license) - 
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT promt curation to use ChatGPT better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [knrdl/bicimon](https://github.com/knrdl/bicimon) - Bike Speedometer
 - [jgamblin/nmaptable](https://github.com/jgamblin/nmaptable) - Transform NMap Scans to an D3.js HTML Table
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
@@ -1977,7 +1977,6 @@
 - [summerstyle/jsonTreeViewer](https://github.com/summerstyle/jsonTreeViewer) - json formatter/viewer/pretty-printer (with jsonTree javascript-library)
 - [feimosi/baguetteBox.js](https://github.com/feimosi/baguetteBox.js) - :zap: Simple and easy to use lightbox script written in pure JavaScript
 - [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library.
-- [artf/grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [brunnolou/streaming-room](https://github.com/brunnolou/streaming-room) - Streaming room in Node.js, rtmp, hsl, html5 videojs player
 - [moul/depviz](https://github.com/moul/depviz) - 👓 dependency visualizer for GitHub & GitLab (a.k.a., "auto-roadmap")
 - [netdata/dashboard](https://github.com/netdata/dashboard) - UI for Netdata Agent
@@ -5180,7 +5179,6 @@
 - [balena-io-experimental/balena-wpe](https://github.com/balena-io-experimental/balena-wpe) - Fullscreen WebKit browser with hardware accelerated CSS, WebGL, and HTML5 video for the RaspberryPi 3.
 - [balena-io/open-balena](https://github.com/balena-io/open-balena) - Open source software to manage connected IoT devices at scale
 - [bitnami/minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
-- [bitnami/bitnami-docker-wordpress](https://github.com/bitnami/bitnami-docker-wordpress) - Bitnami Docker Image for WordPress
 - [canha/golang-tools-install-script](https://github.com/canha/golang-tools-install-script) - Simple Bash script to automate Go language tools single user installation or even removal.
 - [feross/timidity](https://github.com/feross/timidity) - Play MIDI files in the browser w/ Web Audio, WebAssembly, and libtimidity
 - [khos2ow/hugo-wrapper](https://github.com/khos2ow/hugo-wrapper) - The universal way to include Hugo binary to your project.
@@ -5438,6 +5436,7 @@
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [zhongsp/TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org
 - [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ A library for building performant and instant search experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue
+- [artf/grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [obs-websocket-community-projects/obs-websocket-js](https://github.com/obs-websocket-community-projects/obs-websocket-js) - Consumes https://github.com/obsproject/obs-websocket
 - [google/emoji-scavenger-hunt](https://github.com/google/emoji-scavenger-hunt) - Emoji Scavenger Hunt is an experiment that leverages the power of neural networks and your phone’s camera to identify the real world versions of the emojis we use every day.
 - [fangpenlin/avataaars](https://github.com/fangpenlin/avataaars) - React component for avataaars
