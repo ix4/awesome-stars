@@ -3410,7 +3410,7 @@
 ## jupyter-notebook 
 
 - [CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
-- [ilyankou/passport-index-dataset](https://github.com/ilyankou/passport-index-dataset) - Passport Index 2022: visa requirements for 199 countries, in .csv
+- [ilyankou/passport-index-dataset](https://github.com/ilyankou/passport-index-dataset) - Passport Index 2023: visa requirements for 199 countries, in .csv
 - [jupyter/nbviewer](https://github.com/jupyter/nbviewer) - nbconvert as a web service: Render Jupyter Notebooks as static web pages
 - [datadesk/notebooks](https://github.com/datadesk/notebooks) - All of our computational notebooks
 
@@ -6671,7 +6671,7 @@
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [documentcloud/document-viewer](https://github.com/documentcloud/document-viewer) - The NYTimes Document Viewer
 - [documentcloud/documentcloud-pages](https://github.com/documentcloud/documentcloud-pages) - Responsively embed DocumentCloud pages.
-- [botwiki/botmakers.org](https://github.com/botwiki/botmakers.org) - A Slack community of bot makers and bot enthusiasts.
+- [botwiki/botmakers.org-v1](https://github.com/botwiki/botmakers.org-v1) - A Slack community of bot makers and bot enthusiasts.
 - [danielquinn/aletheia](https://github.com/danielquinn/aletheia) - Fight fake news with cryptography & human nature
 - [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
 - [jeremiak/jekyll-offline](https://github.com/jeremiak/jekyll-offline) - jekyll plugin to use service workers and make site content available offline
@@ -8293,7 +8293,7 @@
 - [hl2guide/Filterlist-for-AdGuard-or-PiHole](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole) - A very aggressive filter-list that consolidates over 370 lists for use in AdGuard Home, Pi-Hole or similar.
 - [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [CIRCL/Circlean](https://github.com/CIRCL/Circlean) - USB key cleaner
-- [xajkep/wordlists](https://github.com/xajkep/wordlists) - Infosec Wordlists
+- [xajkep/wordlists](https://github.com/xajkep/wordlists) - Infosec Wordlists and more.
 - [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework
 - [Ullaakut/camerattack](https://github.com/Ullaakut/camerattack) - An attack tool designed to remotely disable CCTV camera streams (like in spy movies)
 - [EdOverflow/bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet) - A list of interesting payloads, tips and tricks for bug bounty hunters.
