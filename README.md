@@ -376,7 +376,6 @@
 - [vinitkumar/white-paper](https://github.com/vinitkumar/white-paper) - Simple, elegant and clean jekyll theme.
 - [artemsheludko/flexible-jekyll](https://github.com/artemsheludko/flexible-jekyll) - Flexible-Jekyll is a simple and clean theme for Jekyll
 - [braver/programmingfonts](https://github.com/braver/programmingfonts) - Test drive programming fonts online
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [arkadianriver/spectral](https://github.com/arkadianriver/spectral) - A jekyll theme for the spectral template by html5up.net (@ajlkn). Demo: http://arkadianriver.github.io/spectral. How to jekyll: http://jekyllrb.com/docs/home/. If you intend to use this theme as a blo
 - [MuckRock/foiamachine](https://github.com/MuckRock/foiamachine) - Automate your FOIAs. The real, production version.
 - [cirlabs/foiamachine](https://github.com/cirlabs/foiamachine) - Automate your FOIAs. The real, production version.
@@ -5203,6 +5202,7 @@
 - [sourcey/webrtc-builds](https://github.com/sourcey/webrtc-builds) - Automated WebRTC build scripts for Linux, Windows, Mac, Android and iOS.
 - [dylanaraps/pfetch](https://github.com/dylanaraps/pfetch) - 🐧 A pretty system information tool written in POSIX sh.
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [neoascetic/.dotfiles](https://github.com/neoascetic/.dotfiles) - cd ~/ && git clone git://github.com/neoascetic/.dotfiles && find ~/.dotfiles -name '.*' -depth 1 -not -name '.git' -exec ln -sf {} \;
 - [Juris-M/bluebook-signals-for-zotero](https://github.com/Juris-M/bluebook-signals-for-zotero) - A simple plugin that adds a menu of standard Bluebook signals to the Prefix field of the Zotero/MLZ work procesor plugins.
 - [netarchivesuite/so-me](https://github.com/netarchivesuite/so-me) - Social Media harvests
