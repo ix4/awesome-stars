@@ -689,7 +689,7 @@
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [maxmcd/webtty](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC
 - [peer-calls/peer-calls](https://github.com/peer-calls/peer-calls) - Group peer to peer video calls for everyone written in Go and TypeScript
-- [ooni/probe-cli](https://github.com/ooni/probe-cli) - OONI Probe Client Library and CLI
+- [ooni/probe-cli](https://github.com/ooni/probe-cli) - OONI Probe Engine and CLI
 - [StevenBlack/nhl](https://github.com/StevenBlack/nhl) - NHL standings the way I like 'em.
 - [michenriksen/gitrob](https://github.com/michenriksen/gitrob) - Reconnaissance tool for GitHub organizations
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
@@ -4927,7 +4927,7 @@
 - [thoughtbot/administrate](https://github.com/thoughtbot/administrate) - A Rails engine that helps you put together a super-flexible admin dashboard.
 - [gjtorikian/html-proofer](https://github.com/gjtorikian/html-proofer) - Test your rendered HTML files to make sure they're accurate.
 - [faker-ruby/faker](https://github.com/faker-ruby/faker) - A library for generating fake data such as names, addresses, and phone numbers.
-- [vbrazo/faker-bot](https://github.com/vbrazo/faker-bot) - A tool to make it easier to pick the right Faker methods to generate the fake data you need. 🔍
+- [akabiru/faker-bot](https://github.com/akabiru/faker-bot) - A tool to make it easier to pick the right Faker methods to generate the fake data you need. 🔍
 - [tomgi/git_stats](https://github.com/tomgi/git_stats) - GitStats is a git repository statistics generator.
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
