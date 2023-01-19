@@ -376,6 +376,7 @@
 - [vinitkumar/white-paper](https://github.com/vinitkumar/white-paper) - Simple, elegant and clean jekyll theme.
 - [artemsheludko/flexible-jekyll](https://github.com/artemsheludko/flexible-jekyll) - Flexible-Jekyll is a simple and clean theme for Jekyll
 - [braver/programmingfonts](https://github.com/braver/programmingfonts) - Test drive programming fonts online
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [arkadianriver/spectral](https://github.com/arkadianriver/spectral) - A jekyll theme for the spectral template by html5up.net (@ajlkn). Demo: http://arkadianriver.github.io/spectral. How to jekyll: http://jekyllrb.com/docs/home/. If you intend to use this theme as a blo
 - [MuckRock/foiamachine](https://github.com/MuckRock/foiamachine) - Automate your FOIAs. The real, production version.
 - [cirlabs/foiamachine](https://github.com/cirlabs/foiamachine) - Automate your FOIAs. The real, production version.
@@ -1420,7 +1421,7 @@
 - [stephenquan/AAMVAtoJSON](https://github.com/stephenquan/AAMVAtoJSON) - Converts AAMVA DL/ID format to JSON
 - [kikiklang/pomme-page](https://github.com/kikiklang/pomme-page) - Big buttons with easy click startpage for a browser.
 - [deep5050/memes-on-issues-action](https://github.com/deep5050/memes-on-issues-action) - greet the issue raiser with a custom message and a bonus programming meme :smile:
-- [code-for-charity/ImprovedTube-for-YouTube](https://github.com/code-for-charity/ImprovedTube-for-YouTube) - YouTube Extension [80+Lean🧰Features]📌[Longest-standing©️2012]📌[485 000+Users👨‍👩‍👧‍👧][Guide/Wiki:missing!] - ⚙️⋮[🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪][Player: Repeat Screenshot Rotate][Hide related video distraction][Always
+- [code-for-charity/ImprovedTube-for-YouTube](https://github.com/code-for-charity/ImprovedTube-for-YouTube) - YouTube Extension [80+Lean🧰Features]📌[Longest-standing©️2012]📌[490 000+Users👨‍👩‍👧‍👧][Guide/Wiki:missing!] - ⚙️⋮[🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪][Player: Repeat Screenshot Rotate][Hide related video distraction][Always
 - [ubershmekel/redditp](https://github.com/ubershmekel/redditp) - Convert any reddit page to a presentation or slide show
 - [jiangts/JS-OTP](https://github.com/jiangts/JS-OTP) - 100% Javascript Implementation of HOTP and TOTP for Two-Factor Authentication.
 - [w3irdrobot/interactive-menu](https://github.com/w3irdrobot/interactive-menu) - Building an Interactive Menu in Vanilla JavaScript
@@ -5202,7 +5203,6 @@
 - [sourcey/webrtc-builds](https://github.com/sourcey/webrtc-builds) - Automated WebRTC build scripts for Linux, Windows, Mac, Android and iOS.
 - [dylanaraps/pfetch](https://github.com/dylanaraps/pfetch) - 🐧 A pretty system information tool written in POSIX sh.
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [neoascetic/.dotfiles](https://github.com/neoascetic/.dotfiles) - cd ~/ && git clone git://github.com/neoascetic/.dotfiles && find ~/.dotfiles -name '.*' -depth 1 -not -name '.git' -exec ln -sf {} \;
 - [Juris-M/bluebook-signals-for-zotero](https://github.com/Juris-M/bluebook-signals-for-zotero) - A simple plugin that adds a menu of standard Bluebook signals to the Prefix field of the Zotero/MLZ work procesor plugins.
 - [netarchivesuite/so-me](https://github.com/netarchivesuite/so-me) - Social Media harvests
