@@ -616,7 +616,7 @@
 - [postlight/awesome-cms](https://github.com/postlight/awesome-cms) - 📚 A collection of open and closed source Content Management Systems (CMS) for your perusal.
 - [therebelrobot/awesome-bootstrap](https://github.com/therebelrobot/awesome-bootstrap) - ✨  Awesome - A curated list of amazing Bootstrap tools and themes.
 - [etewiah/awesome-real-estate](https://github.com/etewiah/awesome-real-estate) - A curated list of awesome real estate related resources and projects
-- [v2-dev/awesome-social-engineering](https://github.com/v2-dev/awesome-social-engineering) - A curated list of awesome social engineering resources.
+- [giuliacassara/awesome-social-engineering](https://github.com/giuliacassara/awesome-social-engineering) - A curated list of awesome social engineering resources.
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [marcosValle/awesome-windows-red-team](https://github.com/marcosValle/awesome-windows-red-team) - A curated list of awesome Windows frameworks, libraries, software and resources for Red Teams
 - [tmcw/awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
@@ -719,7 +719,7 @@
 - [AABoyles/MicrobeTrace](https://github.com/AABoyles/MicrobeTrace) - The Visualization Multitool for Molecular Epidemiology and Bioinformatics
 - [biowasm/biowasm](https://github.com/biowasm/biowasm) - WebAssembly modules for genomics
 - [robertaboukhalil/fastq.bio](https://github.com/robertaboukhalil/fastq.bio) - An interactive web tool for quality control of DNA sequencing data
-- [plotly/dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
+- [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 
 ## bitcoin 
 
@@ -1230,7 +1230,7 @@
 - [benjaminmbrown/real-time-data-viz-d3-crossfilter-websocket-tutorial](https://github.com/benjaminmbrown/real-time-data-viz-d3-crossfilter-websocket-tutorial) - Tutorial on real-time data visualization. Python websocket server & d3.js + crossfilter.js frontend
 - [csaladenes/csaladenes.github.io](https://github.com/csaladenes/csaladenes.github.io) - Code behind my personal website (Dénes Csala)
 - [newTendermint/awesome-bigdata](https://github.com/newTendermint/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
-- [plotly/dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
+- [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 - [MiteshPuthran/Speech-Emotion-Analyzer](https://github.com/MiteshPuthran/Speech-Emotion-Analyzer) - The neural network model is capable of detecting five different male/female emotions from audio speeches. (Deep Learning, NLP, Python)
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
@@ -1260,7 +1260,7 @@
 - [csaladenes/csaladenes.github.io](https://github.com/csaladenes/csaladenes.github.io) - Code behind my personal website (Dénes Csala)
 - [newTendermint/awesome-bigdata](https://github.com/newTendermint/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [c3js/c3](https://github.com/c3js/c3) - :bar_chart: A D3-based reusable chart library
-- [plotly/dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
+- [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
@@ -1705,7 +1705,7 @@
 ## finance 
 
 - [kevinschaich/mintable](https://github.com/kevinschaich/mintable) - 🍃 Automate your personal finances – for free, with no ads, and no data collection.
-- [plotly/dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
+- [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 
 ## firebase 
 
@@ -1747,7 +1747,7 @@
 ## flask 
 
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [plotly/dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
+- [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [hack4impact-upenn/maps4all](https://github.com/hack4impact-upenn/maps4all) - Generalized application for displaying location-based resources on a map
 - [hotosm/tasking-manager](https://github.com/hotosm/tasking-manager) - Tasking Manager - The tool to team up for mapping in OpenStreetMap
 - [oduwsdl/MementoEmbed](https://github.com/oduwsdl/MementoEmbed) - A service that provides archive-aware oEmbed-compatible embeddable surrogates (social cards, thumbnails, etc.) for archived web pages (mementos).
@@ -1804,7 +1804,6 @@
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [octobercms/october](https://github.com/octobercms/october) - Self-hosted CMS platform based on the Laravel PHP Framework.
-- [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue(2) Framework
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [Bloggify/Bloggify](https://github.com/Bloggify/Bloggify) - 📝 We make publishing easy.
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
@@ -3406,7 +3405,7 @@
 
 ## julia 
 
-- [plotly/dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
+- [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 
 ## jupyter-notebook 
 
@@ -3953,6 +3952,7 @@
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [newtelco/CompanyVacations](https://github.com/newtelco/CompanyVacations) - ⛱️ Node App for managing Company Vacations
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.
 - [Urigo/angular-meteor](https://github.com/Urigo/angular-meteor) - Angular and Meteor - The perfect stack
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 - [nickpeihl/ags-walk](https://github.com/nickpeihl/ags-walk) - Walks an ArcGIS Server Rest API and returns all services
@@ -4270,7 +4270,7 @@
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [khast3x/h8mail](https://github.com/khast3x/h8mail) - Email OSINT & Password breach hunting tool, locally or using premium services. Supports chasing down related email
 - [elceef/dnstwist](https://github.com/elceef/dnstwist) - Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation
-- [v2-dev/awesome-social-engineering](https://github.com/v2-dev/awesome-social-engineering) - A curated list of awesome social engineering resources.
+- [giuliacassara/awesome-social-engineering](https://github.com/giuliacassara/awesome-social-engineering) - A curated list of awesome social engineering resources.
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [michenriksen/gitrob](https://github.com/michenriksen/gitrob) - Reconnaissance tool for GitHub organizations
@@ -7603,7 +7603,7 @@
 - [nickoala/telepot](https://github.com/nickoala/telepot) - Python framework for Telegram Bot API
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
-- [plotly/dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
+- [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [vulnersCom/api](https://github.com/vulnersCom/api) - Vulners Python API wrapper
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
@@ -7804,7 +7804,7 @@
 - [Chicago/RSocrata](https://github.com/Chicago/RSocrata) - Provides easier interaction with Socrata open data portals http://dev.socrata.com. Users can provide a 'Socrata' data set resource URL, or a 'Socrata' Open Data API (SoDA) web query, or a 'Socrata' "h
 - [rstudio/pagedown](https://github.com/rstudio/pagedown) - Paginate the HTML Output of R Markdown with CSS for Print
 - [r-lib/pkgdown](https://github.com/r-lib/pkgdown) - Generate static html documentation for an R package
-- [plotly/dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
+- [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [rte-antares-rpackage/leaflet.minicharts](https://github.com/rte-antares-rpackage/leaflet.minicharts) - Minicharts for dynamic leaflet maps
 - [daattali/shinyjs](https://github.com/daattali/shinyjs) - 💡 Easily improve the user experience of your Shiny apps in seconds
 - [datamapio/story](https://github.com/datamapio/story) - Cheatsheets, Tutorials, Articles etc.
@@ -7964,7 +7964,7 @@
 - [netlify/netlify-cms](https://github.com/netlify/netlify-cms) - A Git-based CMS for Static Site Generators
 - [JasonEtco/flintcms](https://github.com/JasonEtco/flintcms) - 🔥💥 A Node.js CMS
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
-- [plotly/dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
+- [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
@@ -8802,7 +8802,7 @@
 - [ananyaneogi/a-vue-shop](https://github.com/ananyaneogi/a-vue-shop) - An online shop with VueJs. Uses vuex, vue router.
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
 - [sdras/vue-hooks-foodapp](https://github.com/sdras/vue-hooks-foodapp) - A food app using a few hooks in Vue to show how they can work (experimental)
-- [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue(2) Framework
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.
 - [sdras/page-transitions-travelapp](https://github.com/sdras/page-transitions-travelapp) - Travel App, Native-like Page Transitions
 - [sdras/cssgridgenerator](https://github.com/sdras/cssgridgenerator) - 🧮 Generate basic CSS Grid code to make dynamic layouts!
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
