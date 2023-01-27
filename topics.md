@@ -426,7 +426,7 @@
 - [maddox/mac-api](https://github.com/maddox/mac-api) - Command your Mac from afar
 - [phalt/swapi](https://github.com/phalt/swapi) - *NOT MAINTAINED - NO GUARENTEE TO BE UP*
 - [cdnjs/atom-extension](https://github.com/cdnjs/atom-extension) - ⚛   Atom extension for easily inserting scripts
-- [rapi-doc/RapiDoc](https://github.com/rapi-doc/RapiDoc) - RapiDoc - Custom-Element for OpenAPI Spec
+- [rapi-doc/RapiDoc](https://github.com/rapi-doc/RapiDoc) - RapiDoc -WebComponent for OpenAPI Spec
 - [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
 - [letsvalidate/api](https://github.com/letsvalidate/api) - API that uncovers the technologies used on websites and generates thumbnail from screenshot of website
 - [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
@@ -1536,7 +1536,7 @@
 - [egoist/docute](https://github.com/egoist/docute) - 📚 Effortless documentation, done right.
 - [docpress/docpress](https://github.com/docpress/docpress) - Documentation website generator
 - [jhildenbiddle/docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE11+).
-- [rapi-doc/RapiDoc](https://github.com/rapi-doc/RapiDoc) - RapiDoc - Custom-Element for OpenAPI Spec
+- [rapi-doc/RapiDoc](https://github.com/rapi-doc/RapiDoc) - RapiDoc -WebComponent for OpenAPI Spec
 - [interactivethings/catalog](https://github.com/interactivethings/catalog) - Create living style guides using Markdown or React
 - [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 - [richardzcode/Dochameleon](https://github.com/richardzcode/Dochameleon) - Progressive Static Website Generator
@@ -9009,7 +9009,7 @@
 
 - [google/site-kit-wp](https://github.com/google/site-kit-wp) - Site Kit is a one-stop solution for WordPress users to use everything Google has to offer to make them successful on the web.
 - [TablePress/TablePress](https://github.com/TablePress/TablePress) - TablePress is the most popular and highest rated table plugin for WordPress. Create and embed attractive and interactive tables on your website!
-- [live-composer/live-composer-page-builder](https://github.com/live-composer/live-composer-page-builder) - Free page builder plugin for WordPress http://livecomposerplugin.com
+- [live-composer/live-composer-page-builder](https://github.com/live-composer/live-composer-page-builder) - Free page builder plugin for WordPress https://livecomposerplugin.com
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [duracelltomi/gtm4wp](https://github.com/duracelltomi/gtm4wp) - Google Tag Manager plugin for WordPress
 - [10up/ElasticPress](https://github.com/10up/ElasticPress) - A fast and flexible search and query engine for WordPress.
