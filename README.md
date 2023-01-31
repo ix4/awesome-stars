@@ -420,7 +420,6 @@
 - [jsconf/wwwtf.berlin](https://github.com/jsconf/wwwtf.berlin) - wwwtf, a ~week of events organized for and by the web community
 - [hczhcz/2048](https://github.com/hczhcz/2048) - A fork of gabrielecirulli/2048
 - [fgnass/spin.js](https://github.com/fgnass/spin.js) - A spinning activity indicator
-- [astefanutti/decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations
 - [tfrce/endthebackdoor](https://github.com/tfrce/endthebackdoor) - 
 - [makinacorpus/pwa-training](https://github.com/makinacorpus/pwa-training) - TP : construire une PWA pas à pas
 - [manton/JSONFeed](https://github.com/manton/JSONFeed) - The JSONFeed.org website
@@ -540,6 +539,7 @@
 - [filiph/english_words](https://github.com/filiph/english_words) - Utilities for working with English words
 - [flutter-webrtc/flutter-webrtc-demo](https://github.com/flutter-webrtc/flutter-webrtc-demo) - Demo for flutter-webrtc
 - [FirebaseExtended/mlkit-custom-image-classifier](https://github.com/FirebaseExtended/mlkit-custom-image-classifier) - Easily collect data and train image classification models.
+- [flutter/website](https://github.com/flutter/website) - Flutter documentation web site
 
 ## Dockerfile 
 
@@ -986,7 +986,7 @@
 - [googlecodelabs/workbox-lab](https://github.com/googlecodelabs/workbox-lab) - Codelab for learning to build Progressive Web Apps with Workbox.js
 - [autoprefixer/autoprefixer.github.io](https://github.com/autoprefixer/autoprefixer.github.io) - Autoprefixer online — add the desired vendor prefixes and remove unnecessary in your CSS
 - [w3c/webvtt](https://github.com/w3c/webvtt) - WebVTT Standard
-- [tabatkins/bikeshed](https://github.com/tabatkins/bikeshed) - :bike: A preprocessor for anyone writing specifications that converts source files into actual specs.
+- [speced/bikeshed](https://github.com/speced/bikeshed) - :bike: A preprocessor for anyone writing specifications that converts source files into actual specs.
 - [csb324/tasks-tonight](https://github.com/csb324/tasks-tonight) - Trump and Clinton both have a big job to do.
 - [route360/Leaflet.CondensedAttribution](https://github.com/route360/Leaflet.CondensedAttribution) - TODO
 - [ilyankou/transporthartford](https://github.com/ilyankou/transporthartford) - TransportHartford Data Work
@@ -1422,7 +1422,7 @@
 - [stephenquan/AAMVAtoJSON](https://github.com/stephenquan/AAMVAtoJSON) - Converts AAMVA DL/ID format to JSON
 - [kikiklang/pomme-page](https://github.com/kikiklang/pomme-page) - Big buttons with easy click startpage for a browser.
 - [deep5050/memes-on-issues-action](https://github.com/deep5050/memes-on-issues-action) - greet the issue raiser with a custom message and a bonus programming meme :smile:
-- [code-for-charity/ImprovedTube-for-YouTube](https://github.com/code-for-charity/ImprovedTube-for-YouTube) - (YouTube-Extension) enrich your experience & content [🧰80+LeanFeatures][📌Longest-standing©️10+years][👨‍👩‍👧‍👧Please make Docu/HowTo's][⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪⋮}(Player Repeat Screenshot[Hide "related video 
+- [code-for-charity/ImprovedTube-for-YouTube](https://github.com/code-for-charity/ImprovedTube-for-YouTube) - YouTube Extension: Enrich your experience & content [🧰80+LeanFeatures][📌Longest-standing©️10+years][👨‍👩‍👧‍👧Please make Docu/HowTo's][⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪⋮}(Player Repeat Screenshot[Hide "related video d
 - [ubershmekel/redditp](https://github.com/ubershmekel/redditp) - Convert any reddit page to a presentation or slide show
 - [jiangts/JS-OTP](https://github.com/jiangts/JS-OTP) - 100% Javascript Implementation of HOTP and TOTP for Two-Factor Authentication.
 - [w3irdrobot/interactive-menu](https://github.com/w3irdrobot/interactive-menu) - Building an Interactive Menu in Vanilla JavaScript
@@ -1988,7 +1988,7 @@
 - [terkelg/math-toolbox](https://github.com/terkelg/math-toolbox) - Lightweight and modular math toolbox
 - [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
 - [terkelg/zuckerberg.smile](https://github.com/terkelg/zuckerberg.smile) - 🤖 Control Mark Zuckerbergs smile property
-- [rapi-doc/RapiDoc](https://github.com/rapi-doc/RapiDoc) - RapiDoc - Custom-Element for OpenAPI Spec
+- [rapi-doc/RapiDoc](https://github.com/rapi-doc/RapiDoc) - RapiDoc -WebComponent for OpenAPI Spec
 - [mrin9/RapiPdf](https://github.com/mrin9/RapiPdf) - PDF generation from OpenAPI / Swagger Spec
 - [gkoberger/avataaars](https://github.com/gkoberger/avataaars) - Renders Avataaars.com on the backend so you can use &lt;img&gt; tags
 - [OpenArchive/open-archive.org-Website-2019](https://github.com/OpenArchive/open-archive.org-Website-2019) - A jekyll theme for the spectral template by html5up.net (@n33co). Demo: http://arkadianriver.github.io/spectral. How to jekyll: http://jekyllrb.com/docs/home/. If you intend to use this theme as a blo
@@ -2470,6 +2470,7 @@
 - [marcolago/flowtime.js](https://github.com/marcolago/flowtime.js) - Flowtime.js HTML5/CSS3/JS Websites and Presentation Framework
 - [bespokejs/bespoke](https://github.com/bespokejs/bespoke) - DIY Presentation Micro-Framework
 - [imakewebthings/deck.js](https://github.com/imakewebthings/deck.js) - Modern HTML Presentations
+- [astefanutti/decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations
 - [vega/vega-lite-api](https://github.com/vega/vega-lite-api) - A JavaScript API for Vega-Lite.
 - [observablehq/parser](https://github.com/observablehq/parser) - The Observable parser.
 - [agektmr/payment-request-show](https://github.com/agektmr/payment-request-show) - Payment Request API demo site
@@ -3057,6 +3058,7 @@
 - [words/cuss](https://github.com/words/cuss) - 🤬 Map of profane words to a rating of sureness
 - [wooorm/readability](https://github.com/wooorm/readability) - visualise readability
 - [Phlow/feeling-responsive](https://github.com/Phlow/feeling-responsive) - »Feeling Responsive« is a free flexible theme for Jekyll built on Foundation framework. You can use it for your company site, as a portfolio or as a blog.
+- [therebelrobot/awesome-bootstrap](https://github.com/therebelrobot/awesome-bootstrap) - ✨  Awesome - A curated list of amazing Bootstrap tools and themes.
 - [wowthemesnet/mediumish-theme-jekyll](https://github.com/wowthemesnet/mediumish-theme-jekyll) - Jekyll Template - Mediumish
 - [christian-fei/Simple-Jekyll-Search](https://github.com/christian-fei/Simple-Jekyll-Search) - A JavaScript library to add search functionality to any Jekyll blog.
 - [migsar/hellobot](https://github.com/migsar/hellobot) - A Telegram Bot tutorial.
@@ -3871,7 +3873,6 @@
 - [google/transit](https://github.com/google/transit) - 
 - [google/uribeacon](https://github.com/google/uribeacon) - The Web Uri Open Beacon for the Internet of Things
 - [bogachenko/fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) - Filters for blocking pop-ups and anti-adblock bypass.
-- [therebelrobot/awesome-bootstrap](https://github.com/therebelrobot/awesome-bootstrap) - ✨  Awesome - A curated list of amazing Bootstrap tools and themes.
 - [georgemandis/jekyll-rss-feeds](https://github.com/georgemandis/jekyll-rss-feeds) - Templates for rendering RSS feeds for your Jekyll blog
 - [georgemandis/jekyll-json-feeds](https://github.com/georgemandis/jekyll-json-feeds) - Templates for rendering JSON feeds for your Jekyll blog
 - [iamadamdev/bypass-paywalls-firefox](https://github.com/iamadamdev/bypass-paywalls-firefox) - Bypass Paywalls for Firefox
@@ -3989,7 +3990,7 @@
 - [GetDKAN/dkan](https://github.com/GetDKAN/dkan) - DKAN Open Data Portal
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [GaneshKandu/Palette](https://github.com/GaneshKandu/Palette) - :art: Palette is a freehand CMS which allows to construct websites directly in a web-browser. It uses flat files for storage and provides an intuitive GUI
-- [live-composer/live-composer-page-builder](https://github.com/live-composer/live-composer-page-builder) - Free page builder plugin for WordPress http://livecomposerplugin.com
+- [live-composer/live-composer-page-builder](https://github.com/live-composer/live-composer-page-builder) - Free page builder plugin for WordPress https://livecomposerplugin.com
 - [xpressengine/xpressengine](https://github.com/xpressengine/xpressengine) - PHP Open Source CMS
 - [usdoj/singletableimporter](https://github.com/usdoj/singletableimporter) - A class for importing source data into a single MySQL table from Excel or CSV.
 - [usdoj/foia-api](https://github.com/usdoj/foia-api) - Back-end for the National FOIA Portal
@@ -4182,7 +4183,7 @@
 - [rbischoff/pyweather](https://github.com/rbischoff/pyweather) - Python based weather app.  Serves up Wunderground info and eventually local sensor data.
 - [LoveBootCaptain/WeatherPi_TFT](https://github.com/LoveBootCaptain/WeatherPi_TFT) - a weather display for a raspberry pi and a TFT display written in python3 and pygame
 - [Movixme/Movix](https://github.com/Movixme/Movix) - 
-- [cegargo/pwy](https://github.com/cegargo/pwy) - :partly_sunny: A simple weather information tool.
+- [egargoc/pwy](https://github.com/egargoc/pwy) - :partly_sunny: A simple weather information tool.
 - [ltpitt/python-simple-notifications](https://github.com/ltpitt/python-simple-notifications) - A Python module to send out email (also with attachment) and push notifications (using pushbullet or pushover) from your applications
 - [DIGITALCRIMINAL/OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans) - Scrape all the media from an OnlyFans account - Updated regularly
 - [tgalal/yowsup](https://github.com/tgalal/yowsup) - The WhatsApp lib
@@ -5072,7 +5073,6 @@
 - [GSA/plainlanguage.gov](https://github.com/GSA/plainlanguage.gov) - A resource to help federal employees write in plain language and comply with the Plain Writing Act of 2010
 - [fecgov/fec-eregs](https://github.com/fecgov/fec-eregs) - The Federal Election Commission's web-based application that makes regulations easier to find, read and understand.
 - [nat-davydova/tab-navigation](https://github.com/nat-davydova/tab-navigation) - HTML/CSS/JS Tabs experiment
-- [flutter/website](https://github.com/flutter/website) - Flutter documentation web site
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [daviddarnes/alembic](https://github.com/daviddarnes/alembic) - ⚗️ A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
 - [heiswayi/the-plain](https://github.com/heiswayi/the-plain) - A minimalist Jekyll theme, ideally designed for your personal blog use.
@@ -5435,7 +5435,7 @@
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [zhongsp/TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org
 - [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ A library for building performant and instant search experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue
-- [artf/grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
+- [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [obs-websocket-community-projects/obs-websocket-js](https://github.com/obs-websocket-community-projects/obs-websocket-js) - Consumes https://github.com/obsproject/obs-websocket
 - [google/emoji-scavenger-hunt](https://github.com/google/emoji-scavenger-hunt) - Emoji Scavenger Hunt is an experiment that leverages the power of neural networks and your phone’s camera to identify the real world versions of the emojis we use every day.
 - [fangpenlin/avataaars](https://github.com/fangpenlin/avataaars) - React component for avataaars
