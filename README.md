@@ -1374,7 +1374,6 @@
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 - [siffash/cookie-fucker](https://github.com/siffash/cookie-fucker) - Removes all cookie warnings. Light and open-sourced.
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [corgis-edu/corgis](https://github.com/corgis-edu/corgis) - The new version of the CORGIS Project, featuring Tabular datasets
 - [berstend/puppeteer-extra](https://github.com/berstend/puppeteer-extra) - 💯  Teach puppeteer new tricks through plugins.
@@ -2346,7 +2345,6 @@
 - [FormidableLabs/victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
 - [lnug/speedtracker](https://github.com/lnug/speedtracker) - 📉 Visualisation layer and data store for SpeedTracker
 - [lnug/CityJS-Workshop-Starter](https://github.com/lnug/CityJS-Workshop-Starter) - 
-- [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [bramus/github-toggle-chrome-extension](https://github.com/bramus/github-toggle-chrome-extension) - Quickly toggle between a GitHub Repo and its GitHub Pages
 - [bullgit/random-calculator](https://github.com/bullgit/random-calculator) - Good luck with your calculations 🙈
 - [bullgit/promise-promise](https://github.com/bullgit/promise-promise) - A funny Promise API for those who can't keep promises.
@@ -3058,7 +3056,7 @@
 - [words/cuss](https://github.com/words/cuss) - 🤬 Map of profane words to a rating of sureness
 - [wooorm/readability](https://github.com/wooorm/readability) - visualise readability
 - [Phlow/feeling-responsive](https://github.com/Phlow/feeling-responsive) - »Feeling Responsive« is a free flexible theme for Jekyll built on Foundation framework. You can use it for your company site, as a portfolio or as a blog.
-- [therebelrobot/awesome-bootstrap](https://github.com/therebelrobot/awesome-bootstrap) - ✨  Awesome - A curated list of amazing Bootstrap tools and themes.
+- [awesome-bootstrap-org/awesome-bootstrap](https://github.com/awesome-bootstrap-org/awesome-bootstrap) - ✨  Awesome - A curated list of amazing Bootstrap tools and themes.
 - [wowthemesnet/mediumish-theme-jekyll](https://github.com/wowthemesnet/mediumish-theme-jekyll) - Jekyll Template - Mediumish
 - [christian-fei/Simple-Jekyll-Search](https://github.com/christian-fei/Simple-Jekyll-Search) - A JavaScript library to add search functionality to any Jekyll blog.
 - [migsar/hellobot](https://github.com/migsar/hellobot) - A Telegram Bot tutorial.
@@ -3616,6 +3614,7 @@
 
 ## Makefile 
 
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [LibreELEC/LibreELEC.tv](https://github.com/LibreELEC/LibreELEC.tv) - Just enough OS for KODI
 - [cloud-gov/cg-compliance-docs](https://github.com/cloud-gov/cg-compliance-docs) - cloud.gov security policies and procedures
 - [xorilog/cloudflare-dns-action](https://github.com/xorilog/cloudflare-dns-action) - A GitHub action to set a DNS record using Cloudflare on push to the master branch.
@@ -5519,6 +5518,7 @@
 - [common-voice/common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
 - [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - ReactJS based Presentation Library
 - [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
+- [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
 - [OneNoteDev/WebClipper](https://github.com/OneNoteDev/WebClipper) - The OneNote Web Clipper extension
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
