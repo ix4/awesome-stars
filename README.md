@@ -235,6 +235,7 @@
 
 ## C++ 
 
+- [Project-OSRM/osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
 - [FD-/RPiPlay](https://github.com/FD-/RPiPlay) - An open-source AirPlay mirroring server for the Raspberry Pi. Supports iOS 9 and up.
 - [TheLooseArrow/arduino-tvout-ve](https://github.com/TheLooseArrow/arduino-tvout-ve) - TVout library with new features to support the Video Experimenter shield
 - [hunspell/hunspell](https://github.com/hunspell/hunspell) - The most popular spellchecking library.
@@ -4126,6 +4127,7 @@
 
 ## Python 
 
+- [openai/DALL-E](https://github.com/openai/DALL-E) - PyTorch package for the discrete VAE used for DALL·E.
 - [urban-labs/namematch](https://github.com/urban-labs/namematch) - Tool for probabilistically linking the records of individual entities (e.g. people) within and across datasets
 - [pedrovernetti/metagedit](https://github.com/pedrovernetti/metagedit) - gedit (GNOME text editor) plugin which adds multiple improvements and functionalities to it
 - [azmatt/chasing_your_tail](https://github.com/azmatt/chasing_your_tail) - Tool for using wireless signals to see if you're being followed.
@@ -4903,7 +4905,7 @@
 - [jekyll/jekyll-sass-converter](https://github.com/jekyll/jekyll-sass-converter) - A Sass converter for Jekyll.
 - [souldanger/jekyll-pwa-workbox](https://github.com/souldanger/jekyll-pwa-workbox) - A Jekyll plugin using Workbox to make your PWA / Website available offline.
 - [ashmaroli/jekyll-data](https://github.com/ashmaroli/jekyll-data) - A plugin to read '_config.yml' and data files within Jekyll theme gems
-- [mmistakes/mm-github-pages-starter](https://github.com/mmistakes/mm-github-pages-starter) - Minimal Mistakes GitHub Pages site starter
+- [mmistakes/mm-github-pages-starter](https://github.com/mmistakes/mm-github-pages-starter) - Minimal Mistakes GitHub Pages site starter.
 - [bmeurer/jekyll-workbox-plugin](https://github.com/bmeurer/jekyll-workbox-plugin) - 👨‍🔧Jekyll integration with Google Workbox to create Service Worker automatically.
 - [senchalabs/jsduck](https://github.com/senchalabs/jsduck) - Simple JavaScript Duckumentation generator.
 - [jeromegn/DocumentUp](https://github.com/jeromegn/DocumentUp) - Pretty documentation generator for Github projects with proper Readme.
@@ -5062,7 +5064,7 @@
 - [codyogden/style-guide](https://github.com/codyogden/style-guide) - A little living style guide doc for my own use. 👍
 - [bullgit/bullgit.github.io](https://github.com/bullgit/bullgit.github.io) - The amazing bullgit homepage
 - [GSA/resources.data.gov](https://github.com/GSA/resources.data.gov) - Resources for open data and enterprise data inventory management
-- [mmistakes/jekyll-theme-basically-basic](https://github.com/mmistakes/jekyll-theme-basically-basic) - Your new Jekyll default theme
+- [mmistakes/jekyll-theme-basically-basic](https://github.com/mmistakes/jekyll-theme-basically-basic) - Your new Jekyll default theme.
 - [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, easily build with blocks! 创建在线课程，学术简历或初创网站。#OpenScience
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [twitter/opensource-website](https://github.com/twitter/opensource-website) - Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
