@@ -31,6 +31,7 @@
 - [bootstrap](#bootstrap)
 - [bot](#bot)
 - [c](#c)
+- [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
@@ -389,6 +390,7 @@
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
+- [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [maciejtreder/ng-toolkit](https://github.com/maciejtreder/ng-toolkit) - :star: Angular tool-box! Start your PWA in two steps! Add Serverless support for existing projects and much more
 - [samuelklam/real-estate-ecommerce](https://github.com/samuelklam/real-estate-ecommerce) - Real Estate Ecommerce Store built with Angular, Express, PostgreSQL and Node.js
@@ -831,6 +833,10 @@
 - [Yelp/dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
 - [google/open-location-code](https://github.com/google/open-location-code) - Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist.
 
+## chatgpt 
+
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+
 ## chrome 
 
 - [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
@@ -1028,6 +1034,7 @@
 
 ## cpp 
 
+- [Project-OSRM/osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 - [f1xpl/openauto](https://github.com/f1xpl/openauto) - AndroidAuto headunit emulator
 
@@ -1791,7 +1798,7 @@
 - [Yoctol/bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
 - [seemoo-lab/nexmon](https://github.com/seemoo-lab/nexmon) - The C-based Firmware Patching Framework for Broadcom/Cypress WiFi Chips that enables Monitor Mode, Frame Injection and much more
 - [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
-- [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
 - [QuickCorp/QCObjects](https://github.com/QuickCorp/QCObjects) - Full Stack Javascript Framework for Modern Software Development
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
@@ -1819,7 +1826,7 @@
 
 - [MarketingPipeline/Markdown-Tag](https://github.com/MarketingPipeline/Markdown-Tag) - Render Markdown to HTML on any website using a md tag
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
-- [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [ministryofjustice/hmpps-book-secure-move-frontend](https://github.com/ministryofjustice/hmpps-book-secure-move-frontend) - Rendering layer for the Book a secure move platform
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
@@ -2015,6 +2022,7 @@
 
 ## google 
 
+- [googlemaps/openapi-specification](https://github.com/googlemaps/openapi-specification) - OpenAPI specification for Google Maps Platform API
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) - Google Sheets API (v4) wrapper for Node.js
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
@@ -2114,6 +2122,7 @@
 - [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) - Next generation web scanner
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
 - [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - This repository contains cutting-edge open-source security tools (OST) for a red teamer and threat hunter.
+- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform | Sn1perSecurity LLC
 - [brannondorsey/sniff-probes](https://github.com/brannondorsey/sniff-probes) - Plug-and-play bash script for sniffing 802.11 probes requests :nose:
 - [xdavidhu/lanGhost](https://github.com/xdavidhu/lanGhost) - 👻 A LAN dropbox chatbot controllable via Telegram
 
@@ -2673,7 +2682,7 @@
 - [nknorg/nkn-sdk-js](https://github.com/nknorg/nkn-sdk-js) - JavaScript Implementation of NKN Client and Wallet SDK
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron
 - [SmartThingsCommunity/generator-smartthings](https://github.com/SmartThingsCommunity/generator-smartthings) - Yeoman generator to bootstrap a SmartThings Cloud SDK-based app
-- [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
@@ -2954,6 +2963,7 @@
 - [jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://g
 - [udacity/cloudflare-typescript-workers](https://github.com/udacity/cloudflare-typescript-workers) - Types and mocks for building a tested Typescript Cloudflare Worker, generates three NPM packages
 - [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
+- [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
 - [jeffreyshen19/political-cartoon-visualizer](https://github.com/jeffreyshen19/political-cartoon-visualizer) - An exploration of the late 1800s through political cartoons of the era. Developed for an internship w/ the Library of Congress
 - [googlecreativelab/morse-speak-demo](https://github.com/googlecreativelab/morse-speak-demo) - Text-to-Speech (TTS) demo web app that converts written text into spoken words via Morse code
 - [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
@@ -3180,7 +3190,7 @@
 - [inukshuk/jekyll-scholar](https://github.com/inukshuk/jekyll-scholar) - jekyll extensions for the blogging scholar
 - [ashmaroli/jekyll-data](https://github.com/ashmaroli/jekyll-data) - A plugin to read '_config.yml' and data files within Jekyll theme gems
 - [Arcath/jekyll-atom](https://github.com/Arcath/jekyll-atom) - A collection of tools and snippets for working with Jekyll in Atom
-- [mmistakes/mm-github-pages-starter](https://github.com/mmistakes/mm-github-pages-starter) - Minimal Mistakes GitHub Pages site starter
+- [mmistakes/mm-github-pages-starter](https://github.com/mmistakes/mm-github-pages-starter) - Minimal Mistakes GitHub Pages site starter.
 - [bmeurer/jekyll-workbox-plugin](https://github.com/bmeurer/jekyll-workbox-plugin) - 👨‍🔧Jekyll integration with Google Workbox to create Service Worker automatically.
 - [vfeskov/vanilla-back-to-top](https://github.com/vfeskov/vanilla-back-to-top) - Simple and smooth Back To Top button
 - [nirgn975/generator-jekyll-starter-kit](https://github.com/nirgn975/generator-jekyll-starter-kit) - 🚀 Jekyll Progressive Web App Generator.
@@ -3213,7 +3223,7 @@
 - [jwillmer/jekyllDecent](https://github.com/jwillmer/jekyllDecent) - Blog Template for Jekyll
 - [chrisanthropic/Open-Publisher](https://github.com/chrisanthropic/Open-Publisher) - Using Jekyll to create outputs that can be used as Pandoc inputs. In short - input markdown, output mobi, epub, pdf, and print-ready pdf. With a focus on fiction.
 - [tasmo/reveal-jekyll](https://github.com/tasmo/reveal-jekyll) - Online presentation for GitHub Pages and Jekyll in Markdown using reveal.js with a Solarized Color Theme
-- [mmistakes/jekyll-theme-basically-basic](https://github.com/mmistakes/jekyll-theme-basically-basic) - Your new Jekyll default theme
+- [mmistakes/jekyll-theme-basically-basic](https://github.com/mmistakes/jekyll-theme-basically-basic) - Your new Jekyll default theme.
 - [benbalter/jekyll-style-guide](https://github.com/benbalter/jekyll-style-guide) - An opinionated guide to common Jekyll design patterns and anti-patterns.
 - [wowchemy/hugo-academic-cli](https://github.com/wowchemy/hugo-academic-cli) - 📚 Import academic publications from Bibtex to your Markdown website. 将Bibtex转换为Markdown网站
 - [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) - 🎨 Simplistic, responsive jekyll based open source theme
@@ -3283,7 +3293,7 @@
 - [chrisbobbe/jekyll-theme-prologue](https://github.com/chrisbobbe/jekyll-theme-prologue) - A Jekyll version of the "Prologue" theme by HTML5 UP
 - [broccolini/swiss](https://github.com/broccolini/swiss) - Jekyll theme inspired by Swiss design
 - [amitmerchant1990/reverie](https://github.com/amitmerchant1990/reverie) - :art: A ridiculously elegant Jekyll theme.
-- [mmistakes/jekyll-theme-basically-basic](https://github.com/mmistakes/jekyll-theme-basically-basic) - Your new Jekyll default theme
+- [mmistakes/jekyll-theme-basically-basic](https://github.com/mmistakes/jekyll-theme-basically-basic) - Your new Jekyll default theme.
 - [Terminus2049/Terminus2049.github.io](https://github.com/Terminus2049/Terminus2049.github.io) - No more 404
 - [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) - 🎨 Simplistic, responsive jekyll based open source theme
 - [18F/uswds-jekyll](https://github.com/18F/uswds-jekyll) - A Jekyll theme showcasing the U.S. Web Design System
@@ -4285,6 +4295,8 @@
 
 ## others 
 
+- [fitnr/censusgeocode](https://github.com/fitnr/censusgeocode) - Python wrapper for the US Census Geocoder
+- [openai/DALL-E](https://github.com/openai/DALL-E) - PyTorch package for the discrete VAE used for DALL·E.
 - [dominee/Termux-dotfiles](https://github.com/dominee/Termux-dotfiles) - .files for the Termux android terminal
 - [yushulx/javascript-driver-license](https://github.com/yushulx/javascript-driver-license) - 
 - [risacher/sunwait](https://github.com/risacher/sunwait) - Sunwait calculates sunrise or sunset times with civil, nautical, astronomical and custom twilights, for use with Windows Task Scheduler or 'cron' on Linux.
@@ -6195,7 +6207,6 @@
 - [weareoutman/markdoc](https://github.com/weareoutman/markdoc) - An online markdown editor
 - [weareoutman/clockpicker](https://github.com/weareoutman/clockpicker) - A clock-style timepicker for Bootstrap (or jQuery). Sorry but no longer maintained.
 - [objectivehtml/FlipClock](https://github.com/objectivehtml/FlipClock) - 
-- [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
 - [mcmastermind/jClocksGMT](https://github.com/mcmastermind/jClocksGMT) - jQuery based analog and digital clock(s) based on GMT offsets. Requires jQuery Rotate plugin.
 - [SyedHTanveer/Congress-Chrome-extension](https://github.com/SyedHTanveer/Congress-Chrome-extension) - a light-weight extension for chrome that can search highlighted house and senate bills as well as display information about current house reps/senators when highlighting their names in articles
 - [justinlittman/labelbot](https://github.com/justinlittman/labelbot) - Twitter bot for tweeting label approvals from COLA Public Registry
@@ -8005,6 +8016,7 @@
 - [daneden/photos.daneden.me](https://github.com/daneden/photos.daneden.me) - 📸 A React.js-based gallery of some of my favorite photos
 - [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
+- [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
 - [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch) - ⚡️ Lightning-fast search for React and React Native applications, by Algolia.
 - [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [avkonst/hookstate](https://github.com/avkonst/hookstate) - The simple but very powerful and incredibly fast state management for React that is based on hooks
@@ -8343,6 +8355,7 @@
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
 - [WithSecureLabs/drozer](https://github.com/WithSecureLabs/drozer) - The Leading Security Assessment Framework for Android.
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
+- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform | Sn1perSecurity LLC
 - [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, collect and analyse network intelligenc
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
@@ -8697,6 +8710,7 @@
 - [tweenjs/tween.js](https://github.com/tweenjs/tween.js) - JavaScript/TypeScript animation engine
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [udacity/cloudflare-typescript-workers](https://github.com/udacity/cloudflare-typescript-workers) - Types and mocks for building a tested Typescript Cloudflare Worker, generates three NPM packages
+- [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
 - [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [avkonst/hookstate](https://github.com/avkonst/hookstate) - The simple but very powerful and incredibly fast state management for React that is based on hooks
 - [manzinello/mailgo](https://github.com/manzinello/mailgo) - 💌 mailgo, a new concept of mailto and tel links [not actively maintained]
@@ -8765,7 +8779,7 @@
 - [epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Free and Beautiful Vue 3 Admin Template
 - [spatie/dashboard.spatie.be](https://github.com/spatie/dashboard.spatie.be) - The source code of dashboard.spatie.be
 - [OnsenUI/OnsenUI](https://github.com/OnsenUI/OnsenUI) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React 
-- [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [xiaokaike/vue-color](https://github.com/xiaokaike/vue-color) - :art: Vue Color Pickers for Sketch, Photoshop, Chrome & more   http://vue-color.surge.sh
 - [egoist/poi](https://github.com/egoist/poi) - ⚡A zero-config bundler for JavaScript applications.
 - [d2-projects/d2-admin](https://github.com/d2-projects/d2-admin) - An elegant dashboard
@@ -8819,6 +8833,7 @@
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [CityOfNewYork/online-apps-mapper](https://github.com/CityOfNewYork/online-apps-mapper) - A desktop application for generating JSON maps between fillable PDFs and FormStack Form fields. Used by the NYC Opportunity Online Applications project.
 - [fengyuanchen/vue-countdown](https://github.com/fengyuanchen/vue-countdown) - Countdown component for Vue.js.
+- [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
 - [harvard-lil/alter-space](https://github.com/harvard-lil/alter-space) - An immersive library experience that gives visitors control over light, color, sound, and space.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [m1guelpf/send-to-things](https://github.com/m1guelpf/send-to-things) - A PWA to add tasks to Things from pretty much anywhere
