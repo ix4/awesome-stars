@@ -4127,6 +4127,7 @@
 
 ## Python 
 
+- [fitnr/censusgeocode](https://github.com/fitnr/censusgeocode) - Python wrapper for the US Census Geocoder
 - [openai/DALL-E](https://github.com/openai/DALL-E) - PyTorch package for the discrete VAE used for DALL·E.
 - [urban-labs/namematch](https://github.com/urban-labs/namematch) - Tool for probabilistically linking the records of individual entities (e.g. people) within and across datasets
 - [pedrovernetti/metagedit](https://github.com/pedrovernetti/metagedit) - gedit (GNOME text editor) plugin which adds multiple improvements and functionalities to it
@@ -5323,6 +5324,7 @@
 
 ## TypeScript 
 
+- [googlemaps/openapi-specification](https://github.com/googlemaps/openapi-specification) - OpenAPI specification for Google Maps Platform API
 - [marcosrg9/YouTubeTV](https://github.com/marcosrg9/YouTubeTV) - Simple YouTube TV client for desktop based on electron.
 - [veelenga/rblist.info](https://github.com/veelenga/rblist.info) - Russia Ban List
 - [azu/har-extractor](https://github.com/azu/har-extractor) - A CLI that extract har file to directory.
@@ -5355,7 +5357,7 @@
 - [ngx-rocket/generator-ngx-rocket](https://github.com/ngx-rocket/generator-ngx-rocket) - :rocket: Extensible Angular 14+ enterprise-grade project generator
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron
 - [C2FO/fast-csv](https://github.com/C2FO/fast-csv) - CSV parser and formatter for node
-- [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server) - Outline Manager, developed by Jigsaw. The Outline Manager application creates and manages Outline servers, powered by Shadowsocks. It uses the Electron framework to offer support for Windows, macOS an
 - [vercel/static-fun](https://github.com/vercel/static-fun) - A fun demo for wildcard domains
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
