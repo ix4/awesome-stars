@@ -235,6 +235,7 @@
 
 ## C++ 
 
+- [G4lile0/tinyGS](https://github.com/G4lile0/tinyGS) - 📡 Open Ground Station Network  🛰
 - [Project-OSRM/osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
 - [FD-/RPiPlay](https://github.com/FD-/RPiPlay) - An open-source AirPlay mirroring server for the Raspberry Pi. Supports iOS 9 and up.
 - [TheLooseArrow/arduino-tvout-ve](https://github.com/TheLooseArrow/arduino-tvout-ve) - TVout library with new features to support the Video Experimenter shield
@@ -4127,6 +4128,8 @@
 
 ## Python 
 
+- [redacted/XKCD-password-generator](https://github.com/redacted/XKCD-password-generator) - Generate secure multiword passwords/passphrases, inspired by XKCD
+- [NetsecExplained/Nmap-XML-to-CSV](https://github.com/NetsecExplained/Nmap-XML-to-CSV) - Converts Nmap XML output to csv file, and other useful functions
 - [fitnr/censusgeocode](https://github.com/fitnr/censusgeocode) - Python wrapper for the US Census Geocoder
 - [openai/DALL-E](https://github.com/openai/DALL-E) - PyTorch package for the discrete VAE used for DALL·E.
 - [urban-labs/namematch](https://github.com/urban-labs/namematch) - Tool for probabilistically linking the records of individual entities (e.g. people) within and across datasets
@@ -4161,7 +4164,7 @@
 - [lovesegfault/beautysh](https://github.com/lovesegfault/beautysh) - A Bash beautifier for the masses.
 - [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
 - [cisasteelersfan/quantum_gateway](https://github.com/cisasteelersfan/quantum_gateway) - Verizon Fios Quantum Gateway querying library for use with Home Assistant
-- [anishathalye/seashells](https://github.com/anishathalye/seashells) - The official client for Seashells.io 🐚
+- [anishathalye/seashells](https://github.com/anishathalye/seashells) - The official client for seashells.io 🐚
 - [hhatto/autopep8](https://github.com/hhatto/autopep8) - A tool that automatically formats Python code to conform to the PEP 8 style guide.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [symerio/pgeocode](https://github.com/symerio/pgeocode) - Postal code geocoding and distance calculation
@@ -4185,7 +4188,7 @@
 - [rbischoff/pyweather](https://github.com/rbischoff/pyweather) - Python based weather app.  Serves up Wunderground info and eventually local sensor data.
 - [LoveBootCaptain/WeatherPi_TFT](https://github.com/LoveBootCaptain/WeatherPi_TFT) - a weather display for a raspberry pi and a TFT display written in python3 and pygame
 - [Movixme/Movix](https://github.com/Movixme/Movix) - 
-- [egargoc/pwy](https://github.com/egargoc/pwy) - :partly_sunny: A simple weather information tool.
+- [egargocl/pwy](https://github.com/egargocl/pwy) - :partly_sunny: A simple weather information tool.
 - [ltpitt/python-simple-notifications](https://github.com/ltpitt/python-simple-notifications) - A Python module to send out email (also with attachment) and push notifications (using pushbullet or pushover) from your applications
 - [DIGITALCRIMINAL/OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans) - Scrape all the media from an OnlyFans account - Updated regularly
 - [tgalal/yowsup](https://github.com/tgalal/yowsup) - The WhatsApp lib
@@ -5324,6 +5327,7 @@
 
 ## TypeScript 
 
+- [DotJoshJohnson/vscode-xml](https://github.com/DotJoshJohnson/vscode-xml) - XML Tools for Visual Studio Code
 - [googlemaps/openapi-specification](https://github.com/googlemaps/openapi-specification) - OpenAPI specification for Google Maps Platform API
 - [marcosrg9/YouTubeTV](https://github.com/marcosrg9/YouTubeTV) - Simple YouTube TV client for desktop based on electron.
 - [veelenga/rblist.info](https://github.com/veelenga/rblist.info) - Russia Ban List
