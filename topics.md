@@ -4295,6 +4295,10 @@
 
 ## others 
 
+- [redacted/XKCD-password-generator](https://github.com/redacted/XKCD-password-generator) - Generate secure multiword passwords/passphrases, inspired by XKCD
+- [NetsecExplained/Nmap-XML-to-CSV](https://github.com/NetsecExplained/Nmap-XML-to-CSV) - Converts Nmap XML output to csv file, and other useful functions
+- [DotJoshJohnson/vscode-xml](https://github.com/DotJoshJohnson/vscode-xml) - XML Tools for Visual Studio Code
+- [G4lile0/tinyGS](https://github.com/G4lile0/tinyGS) - 📡 Open Ground Station Network  🛰
 - [fitnr/censusgeocode](https://github.com/fitnr/censusgeocode) - Python wrapper for the US Census Geocoder
 - [openai/DALL-E](https://github.com/openai/DALL-E) - PyTorch package for the discrete VAE used for DALL·E.
 - [dominee/Termux-dotfiles](https://github.com/dominee/Termux-dotfiles) - .files for the Termux android terminal
@@ -4357,7 +4361,7 @@
 - [cisasteelersfan/quantum_gateway](https://github.com/cisasteelersfan/quantum_gateway) - Verizon Fios Quantum Gateway querying library for use with Home Assistant
 - [prasmussen/gdrive](https://github.com/prasmussen/gdrive) - Google Drive CLI Client
 - [progrium/bashstyle](https://github.com/progrium/bashstyle) - Let's do Bash right!
-- [anishathalye/seashells](https://github.com/anishathalye/seashells) - The official client for Seashells.io 🐚
+- [anishathalye/seashells](https://github.com/anishathalye/seashells) - The official client for seashells.io 🐚
 - [MFDGaming/ubuntu-in-termux](https://github.com/MFDGaming/ubuntu-in-termux) - This is a script by which you can install Ubuntu in your termux application without a rooted device
 - [jkingsman/Nobody.live](https://github.com/jkingsman/Nobody.live) - View twitch streamers with zero viewers at nobody.live
 - [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq) - WhatsApp Bot
@@ -4401,7 +4405,7 @@
 - [goodtft/LCD-show](https://github.com/goodtft/LCD-show) - 2.4" 2.8"3.2" 3.5" 5.0" 7.0" TFT LCD driver for the Raspberry PI 3B+/A/A+/B/B+/PI2/ PI3/ZERO/ZERO W
 - [kikiklang/pomme-page](https://github.com/kikiklang/pomme-page) - Big buttons with easy click startpage for a browser.
 - [Movixme/Movix](https://github.com/Movixme/Movix) - 
-- [egargoc/pwy](https://github.com/egargoc/pwy) - :partly_sunny: A simple weather information tool.
+- [egargocl/pwy](https://github.com/egargocl/pwy) - :partly_sunny: A simple weather information tool.
 - [ltpitt/python-simple-notifications](https://github.com/ltpitt/python-simple-notifications) - A Python module to send out email (also with attachment) and push notifications (using pushbullet or pushover) from your applications
 - [DIGITALCRIMINAL/OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans) - Scrape all the media from an OnlyFans account - Updated regularly
 - [tgalal/yowsup](https://github.com/tgalal/yowsup) - The WhatsApp lib
