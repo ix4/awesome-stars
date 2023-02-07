@@ -929,6 +929,7 @@
 - [mburakerman/clap-emoji-generator](https://github.com/mburakerman/clap-emoji-generator) - Don't 👏 stop 👏🏻 emphasizing 👏🏼 your 👏🏽 point 👏🏾 by 👏🏿 putting 👏 clap 👏🏻 emojis 👏🏼 after 👏🏽 every 👏🏾 word
 - [foundation/foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 - [jakesgordon/javascript-tetris](https://github.com/jakesgordon/javascript-tetris) - A simple javascript tetris game
+- [amitmerchant1990/notepad](https://github.com/amitmerchant1990/notepad) - :ledger: An offline capable Notepad PWA powered by ServiceWorker
 - [StartBootstrap/startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
 - [codeforgreenville/leaflet-google-sheets-template](https://github.com/codeforgreenville/leaflet-google-sheets-template) - Pull data from a public Google Sheet and create a Leaflet Map and shareable GeoJSON
 - [max-barry/google-drive-cms](https://github.com/max-barry/google-drive-cms) - A content management system (CMS) built on an interface everyone understands (n.b. No longer maintained)
@@ -2134,7 +2135,6 @@
 - [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
 - [stylus/stylus](https://github.com/stylus/stylus) - Expressive, robust, feature-rich CSS language built for nodejs
 - [evilstreak/markdown-js](https://github.com/evilstreak/markdown-js) - A Markdown parser for javascript
-- [amitmerchant1990/notepad](https://github.com/amitmerchant1990/notepad) - :ledger: An offline capable Notepad PWA powered by ServiceWorker
 - [PButcher/flipdown](https://github.com/PButcher/flipdown) - ⏰ A lightweight and performant flip styled countdown clock
 - [PButcher/a-million-times](https://github.com/PButcher/a-million-times) - A digital analogue clock
 - [Yakubovich/descendant_tree](https://github.com/Yakubovich/descendant_tree) - Uses d3.js to draw a descendant family tree
@@ -3393,7 +3393,7 @@
 - [mdn/samples-server](https://github.com/mdn/samples-server) - MDN samples server; used for samples that can't be hosted in-place on MDN, plus back-end server-side code for samples that need it.
 - [share/sharedb](https://github.com/share/sharedb) - Realtime database backend based on Operational Transformation (OT)
 - [beaugunderson/cat-snacks](https://github.com/beaugunderson/cat-snacks) - 🐦😻 a bot that tweets adorable cat faces!
-- [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
+- [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
 - [fregante/object-fit-images](https://github.com/fregante/object-fit-images) - 🗻 Polyfill object-fit/object-position on &lt;img&gt;: IE9, IE10, IE11, Edge, Safari, ...
 - [fregante/GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 - [fregante/github-issue-link-status](https://github.com/fregante/github-issue-link-status) - Colorize issue and PR links to see their status (open, closed, merged)
@@ -4994,7 +4994,7 @@
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [InstantDomain/instant-segment](https://github.com/InstantDomain/instant-segment) - Fast English word segmentation in Rust
 - [InstantDomain/instant-distance](https://github.com/InstantDomain/instant-distance) - Fast approximate nearest neighbor searching in Rust, based on HNSW index
-- [cloudflare/wrangler](https://github.com/cloudflare/wrangler) - 🤠   wrangle your Cloudflare Workers
+- [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠   wrangle your Cloudflare Workers
 - [SergChr/qcv](https://github.com/SergChr/qcv) - A JSON to HTML resume generator
 - [TCNCoalition/TCN](https://github.com/TCNCoalition/TCN) - Specification and reference implementation of the TCN Protocol for decentralized, privacy-preserving contact tracing.
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
