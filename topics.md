@@ -4408,7 +4408,7 @@
 - [goodtft/LCD-show](https://github.com/goodtft/LCD-show) - 2.4" 2.8"3.2" 3.5" 5.0" 7.0" TFT LCD driver for the Raspberry PI 3B+/A/A+/B/B+/PI2/ PI3/ZERO/ZERO W
 - [kikiklang/pomme-page](https://github.com/kikiklang/pomme-page) - Big buttons with easy click startpage for a browser.
 - [Movixme/Movix](https://github.com/Movixme/Movix) - 
-- [egargocl/pwy](https://github.com/egargocl/pwy) - :partly_sunny: A simple weather information tool.
+- [egargo/pwygit](https://github.com/egargo/pwygit) - :partly_sunny: A simple weather information tool.
 - [ltpitt/python-simple-notifications](https://github.com/ltpitt/python-simple-notifications) - A Python module to send out email (also with attachment) and push notifications (using pushbullet or pushover) from your applications
 - [DIGITALCRIMINAL/OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans) - Scrape all the media from an OnlyFans account - Updated regularly
 - [tgalal/yowsup](https://github.com/tgalal/yowsup) - The WhatsApp lib
