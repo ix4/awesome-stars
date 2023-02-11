@@ -5342,7 +5342,7 @@
 - [TommyX12/VIR](https://github.com/TommyX12/VIR) - An intelligent time manager.
 - [1inch/shieldy](https://github.com/1inch/shieldy) - @shieldy_bot Telegram bot repository
 - [ExperienceLovelace/ha-floorplan](https://github.com/ExperienceLovelace/ha-floorplan) - Bring new life to Home Assistant. By mapping entities to a SVG-object, you're able to control devices, show states, calling services - and much more. Add custom styling on top, to visualize whatever y
-- [z0ccc/voat-extension](https://github.com/z0ccc/voat-extension) - Voat Browser Extension
+- [z0ccc/voat-extension](https://github.com/z0ccc/voat-extension) - An extension to replace Youtube comments with Reddit comments or view the Reddit comments of any webpage.
 - [Moldoteck/Beautifier](https://github.com/Moldoteck/Beautifier) - Bot that creates clean Telegraph pages from any link
 - [Yoctol/bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
 - [ruvkr/react-components-by-ruvkr](https://github.com/ruvkr/react-components-by-ruvkr) - A collection of Responsive Animated Mobile friendly Lightweight React Components
