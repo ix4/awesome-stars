@@ -5730,7 +5730,7 @@
 - [fightforthefuture/fftf-starter-template](https://github.com/fightforthefuture/fftf-starter-template) - Nuxt 2 starter site for campaigns
 - [fightforthefuture/defendcrypto.org](https://github.com/fightforthefuture/defendcrypto.org) - 
 - [fengyuanchen/photo-editor](https://github.com/fengyuanchen/photo-editor) - A simple photo editing application.
-- [sakihet/textrator](https://github.com/sakihet/textrator) - A text image generator written in vue
+- [sakihet/textrator](https://github.com/sakihet/textrator) - A text image generator
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [LucasLeandro1204/vue-content-loading](https://github.com/LucasLeandro1204/vue-content-loading) - Vue component to easily build (or use presets) SVG loading cards Facebook like.
 - [CityOfPhiladelphia/phila-vue-mapping](https://github.com/CityOfPhiladelphia/phila-vue-mapping) - a library of vue components used by mapping applications
