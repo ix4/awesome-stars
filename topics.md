@@ -8851,7 +8851,7 @@
 - [harvard-lil/alter-space](https://github.com/harvard-lil/alter-space) - An immersive library experience that gives visitors control over light, color, sound, and space.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [m1guelpf/send-to-things](https://github.com/m1guelpf/send-to-things) - A PWA to add tasks to Things from pretty much anywhere
-- [sakihet/textrator](https://github.com/sakihet/textrator) - A text image generator written in vue
+- [sakihet/textrator](https://github.com/sakihet/textrator) - A text image generator
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
 - [LucasLeandro1204/vue-content-loading](https://github.com/LucasLeandro1204/vue-content-loading) - Vue component to easily build (or use presets) SVG loading cards Facebook like.
