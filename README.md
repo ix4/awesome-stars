@@ -3167,6 +3167,7 @@
 - [jashkenas/backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events
 - [cloudflarearchive/backgrid-filter](https://github.com/cloudflarearchive/backgrid-filter) - Server-side, client-side and full-text searching widgets for Backgrid.js
 - [MrLuit/EtherScamDB](https://github.com/MrLuit/EtherScamDB) - Keep track of all current ethereum scams in a large database
+- [datawrapper/datawrapper](https://github.com/datawrapper/datawrapper) - This is a read-only mirror of a part of our codebase.
 - [iranopendata/catalog](https://github.com/iranopendata/catalog) - A catalog of public datasets
 - [iranopendata/iranopendata.github.io](https://github.com/iranopendata/iranopendata.github.io) - Making Iranian Data Available to the Public
 - [cmgiven/open-election-map](https://github.com/cmgiven/open-election-map) - Election map for DC's 2014 general election
@@ -4048,7 +4049,6 @@
 - [bigprof-software/online-rental-property-manager](https://github.com/bigprof-software/online-rental-property-manager) - Manage your rental properties, units, applications, leases and tenants.
 - [ashokgelal/townhouse](https://github.com/ashokgelal/townhouse) - A multi-tenant Laravel app for listing property rentals
 - [wp-property/wp-property](https://github.com/wp-property/wp-property) - WordPress Powered Real Estate and Property Management.
-- [datawrapper/datawrapper](https://github.com/datawrapper/datawrapper) - This is a read-only mirror of a part of our codebase.
 - [spatie/geocoder](https://github.com/spatie/geocoder) - Geocode addresses to coordinates
 - [thephpleague/geotools](https://github.com/thephpleague/geotools) - Geo-related tools PHP 7.3+ library built atop Geocoder and React libraries
 - [mledoze/countries](https://github.com/mledoze/countries) - World countries in JSON, CSV, XML and Yaml. Any help is welcome!
