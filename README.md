@@ -866,7 +866,6 @@
 - [GrabzIt/grabzit](https://github.com/GrabzIt/grabzit) - GrabzIt enables you to convert HTML and URL's into JPG's, PNG's, DOCX's, PDF's and more. Transform online videos into animated GIF's or convert HTML tables to JSON, CSV and Excel spreadsheets.
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [metafizzy/infinite-scroll](https://github.com/metafizzy/infinite-scroll) - 📜 Automatically add next page
-- [JetBrains/oss-site-jekyll-theme](https://github.com/JetBrains/oss-site-jekyll-theme) - Jekyll theme for JetBrains OpenSource projects sites. Demo - https://jetbrains.github.io/oss-site-jekyll-theme/
 - [berkan-cetinkaya/jekyll-doc-theme](https://github.com/berkan-cetinkaya/jekyll-doc-theme) - minimal jekyll doc theme
 - [wowthemesnet/template-pintereso-bootstrap-jekyll](https://github.com/wowthemesnet/template-pintereso-bootstrap-jekyll) - Pintereso is a free Jekyll theme, Pinterest style.
 - [minicomp/wiki](https://github.com/minicomp/wiki) - where the docs live!
@@ -4127,6 +4126,7 @@
 
 ## Python 
 
+- [fronzbot/blinkpy](https://github.com/fronzbot/blinkpy) - A Python library for the Blink Camera system
 - [redacted/XKCD-password-generator](https://github.com/redacted/XKCD-password-generator) - Generate secure multiword passwords/passphrases, inspired by XKCD
 - [NetsecExplained/Nmap-XML-to-CSV](https://github.com/NetsecExplained/Nmap-XML-to-CSV) - Converts Nmap XML output to csv file, and other useful functions
 - [fitnr/censusgeocode](https://github.com/fitnr/censusgeocode) - Python wrapper for the US Census Geocoder
