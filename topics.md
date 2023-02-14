@@ -408,6 +408,7 @@
 
 ## api 
 
+- [fronzbot/blinkpy](https://github.com/fronzbot/blinkpy) - A Python library for the Blink Camera system
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [davidteather/TikTok-Api](https://github.com/davidteather/TikTok-Api) - The Unofficial TikTok API Wrapper In Python
@@ -2128,6 +2129,7 @@
 
 ## hacktoberfest 
 
+- [fronzbot/blinkpy](https://github.com/fronzbot/blinkpy) - A Python library for the Blink Camera system
 - [PeterDaveHello/ipinfo.tw](https://github.com/PeterDaveHello/ipinfo.tw) - 🐳 A self-host  🙅 non-tracking, AD-🆓 ➕ 🍪-🆓 solution to show your IP ℹ️ Super small (🤏10MB)
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [pi-hole/AdminLTE](https://github.com/pi-hole/AdminLTE) - Pi-hole Dashboard for stats and more
@@ -2854,6 +2856,7 @@
 - [nicoespeon/abracadabra](https://github.com/nicoespeon/abracadabra) - Automated refactorings for VS Code (JS & TS) ✨ It's magic ✨
 - [nicoespeon/gitgraph.js](https://github.com/nicoespeon/gitgraph.js) - 👋 [Looking for maintainers] - A JavaScript library to draw pretty git graphs in the browser
 - [opentypejs/opentype.js](https://github.com/opentypejs/opentype.js) - Read and write OpenType fonts using JavaScript.
+- [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [pa7/heatmap.js](https://github.com/pa7/heatmap.js) - 🔥 JavaScript Library for HTML5 canvas based heatmaps
 - [twosixlabs/d3-force-sampled](https://github.com/twosixlabs/d3-force-sampled) - A fast, simple, memory-efficient graph layout algorithm for visualizing networks in D3
@@ -5286,7 +5289,6 @@
 - [metafizzy/flickity](https://github.com/metafizzy/flickity) - :leaves: Touch, responsive, flickable carousels
 - [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
 - [anru/rsted](https://github.com/anru/rsted) - [UNMAINTAINED] Online reStructuredText editor
-- [JetBrains/oss-site-jekyll-theme](https://github.com/JetBrains/oss-site-jekyll-theme) - Jekyll theme for JetBrains OpenSource projects sites. Demo - https://jetbrains.github.io/oss-site-jekyll-theme/
 - [berkan-cetinkaya/jekyll-doc-theme](https://github.com/berkan-cetinkaya/jekyll-doc-theme) - minimal jekyll doc theme
 - [tscanlin/tocbot](https://github.com/tscanlin/tocbot) - Build a table of contents from headings in an HTML document.
 - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
@@ -8710,6 +8712,7 @@
 - [jeffersonRibeiro/react-shopping-cart](https://github.com/jeffersonRibeiro/react-shopping-cart) - 🛍️ Simple ecommerce cart application built with Typescript and React
 - [nicoespeon/abracadabra](https://github.com/nicoespeon/abracadabra) - Automated refactorings for VS Code (JS & TS) ✨ It's magic ✨
 - [tamino-martinius/ui-snippets-ascii-generator](https://github.com/tamino-martinius/ui-snippets-ascii-generator) - Create ASCII Art from any Image and play around with the different settings
+- [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [swimlane/ngx-datatable](https://github.com/swimlane/ngx-datatable) - ✨  A feature-rich yet lightweight data-table crafted for Angular
 - [ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
 - [teambit/envs](https://github.com/teambit/envs) - Component development environments for the Bit community
