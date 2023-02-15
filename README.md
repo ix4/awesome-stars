@@ -1407,7 +1407,6 @@
 - [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq) - WhatsApp Bot
 - [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - A chrome extension for suspending all tabs to free up memory, based on the original TGS 7.1.6, without tracking. Find more information about that on https://gioxx.org/tms
 - [gajus/gitdown](https://github.com/gajus/gitdown) - GitHub markdown preprocessor.
-- [iptv-restream/iptv-channels](https://github.com/iptv-restream/iptv-channels) - Collection of 6000+ free IPTV channels from all over the world
 - [packet-sent/web-scrape-worker](https://github.com/packet-sent/web-scrape-worker) - Web scraper using Cloudflare Workers
 - [adamschwartz/web.scraper.workers.dev](https://github.com/adamschwartz/web.scraper.workers.dev) - Scrape websites for text by CSS selector.
 - [nflaig/car-rental-api](https://github.com/nflaig/car-rental-api) - Node.js Car Rental API
@@ -3473,7 +3472,6 @@
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [zachwhalen/ssbot](https://github.com/zachwhalen/ssbot) - A Google Spreadsheet engine for a Twitter bot.
 - [sindresorhus/pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots
-- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [nuket/google-sheets-geocoding-macro](https://github.com/nuket/google-sheets-geocoding-macro) - Geocode from addresses to latitude / longitude, and vice versa using Google Sheets
 - [lindell/JsBarcode](https://github.com/lindell/JsBarcode) - Barcode generation library written in JavaScript that works in both the browser and on Node.js
 - [kylestetz/slang](https://github.com/kylestetz/slang) - 🎤 a simple audio programming language implemented in JS
