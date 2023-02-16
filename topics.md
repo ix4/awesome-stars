@@ -821,6 +821,7 @@
 - [paolostivanin/OTPClient](https://github.com/paolostivanin/OTPClient) - Highly secure and easy to use OTP client written in C/GTK3 that supports both TOTP and HOTP
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [ImpulseAdventure/GUIslice](https://github.com/ImpulseAdventure/GUIslice) - GUIslice drag & drop embedded GUI in C for touchscreen TFT on Arduino, Raspberry Pi, ARM, ESP8266 / ESP32 / M5stack using Adafruit-GFX / TFT_eSPI / UTFT / SDL
+- [royhills/arp-scan](https://github.com/royhills/arp-scan) - The ARP Scanner
 - [angt/glorytun](https://github.com/angt/glorytun) - Multipath UDP tunnel
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [coala/coala-bears](https://github.com/coala/coala-bears) - Bears for coala
@@ -2324,7 +2325,7 @@
 - [creativecommons/legaldb](https://github.com/creativecommons/legaldb) - CC Legal Database: curated repository of Case Law and Scholarship data from around the world in a Django based website.
 - [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
 - [thecaffeinedev/Real-Estate-Django-Web-App](https://github.com/thecaffeinedev/Real-Estate-Django-Web-App) - Real Estate Django Web App
-- [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
+- [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 - [webtorrent/bittorrent-tracker](https://github.com/webtorrent/bittorrent-tracker) - 🌊 Simple, robust, BitTorrent tracker (client & server) implementation
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
@@ -2347,7 +2348,7 @@
 - [asciidoctor/asciidoctor.js](https://github.com/asciidoctor/asciidoctor.js) - :scroll: A JavaScript port of Asciidoctor, a modern implementation of AsciiDoc
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-- [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) - Shaming sites with dumb password rules.
+- [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) - A compilation of sites with dumb password rules.
 - [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
@@ -2452,7 +2453,7 @@
 - [PJijin/Simple-Card](https://github.com/PJijin/Simple-Card) - 📇 Simple HTML , CSS Card
 - [PJijin/Stylish-Card](https://github.com/PJijin/Stylish-Card) - 🗃️ Stylish card using HTML, CSS
 - [archilogic-com/3dio-js](https://github.com/archilogic-com/3dio-js) - JavaScript toolkit for interior apps
-- [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
+- [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 - [literallycanvas/literallycanvas](https://github.com/literallycanvas/literallycanvas) - A canvas in your browser. Literally.
 - [wifiphisher/extra-phishing-pages](https://github.com/wifiphisher/extra-phishing-pages) - Community-built scenarios for Wifiphisher
 - [tomchadwin/qgis2web](https://github.com/tomchadwin/qgis2web) - A QGIS plugin to export a map to an OpenLayers, Leaflet, or Mapbox GL JS webmap
@@ -3345,7 +3346,7 @@
 - [sdepold/jquery-rss](https://github.com/sdepold/jquery-rss) - An easy-to-use rss plugin for jquery with templating.
 - [jessepollak/card](https://github.com/jessepollak/card) - :credit_card: make your credit card form better in one line of code
 - [AdrianOrlow/GroupAdmin](https://github.com/AdrianOrlow/GroupAdmin) - Electron app which posts data to spreadsheet
-- [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
+- [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 - [HandsOnDataViz/leaflet-maps-open-data-apis](https://github.com/HandsOnDataViz/leaflet-maps-open-data-apis) - Leaflet map with multiple API data feeds from Socrata and Esri ArcGIS Online
 - [select2/select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
 - [Mottie/visualNav](https://github.com/Mottie/visualNav) - A jQuery plugin that modifies a navigation menu to highlight / change when the menu's target smooth scrolls into view
@@ -3574,6 +3575,7 @@
 - [haydenjames/bench-scripts](https://github.com/haydenjames/bench-scripts) - A compilation of Linux server benchmarking scripts.
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - [systematicat/hack-captive-portals](https://github.com/systematicat/hack-captive-portals) - Hack any Captive portal using MAC-spoofing technique
+- [royhills/arp-scan](https://github.com/royhills/arp-scan) - The ARP Scanner
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -3681,6 +3683,7 @@
 ## macos 
 
 - [akopytov/sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark
+- [royhills/arp-scan](https://github.com/royhills/arp-scan) - The ARP Scanner
 - [gielcobben/caption](https://github.com/gielcobben/caption) - Get Caption, start watching.
 - [seemoo-lab/internalblue](https://github.com/seemoo-lab/internalblue) - Bluetooth experimentation framework for Broadcom and Cypress chips.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -4300,6 +4303,7 @@
 
 ## others 
 
+- [timwis/csv-schema](https://github.com/timwis/csv-schema) - Analyzes a CSV file and generates database table schema, all within the browser
 - [redacted/XKCD-password-generator](https://github.com/redacted/XKCD-password-generator) - Generate secure multiword passwords/passphrases, inspired by XKCD
 - [NetsecExplained/Nmap-XML-to-CSV](https://github.com/NetsecExplained/Nmap-XML-to-CSV) - Converts Nmap XML output to csv file, and other useful functions
 - [DotJoshJohnson/vscode-xml](https://github.com/DotJoshJohnson/vscode-xml) - XML Tools for Visual Studio Code
@@ -4373,7 +4377,6 @@
 - [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - A chrome extension for suspending all tabs to free up memory, based on the original TGS 7.1.6, without tracking. Find more information about that on https://gioxx.org/tms
 - [termux-bangla/phishing-tools](https://github.com/termux-bangla/phishing-tools) - 
 - [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
-- [iptv-restream/iptv-channels](https://github.com/iptv-restream/iptv-channels) - Collection of 6000+ free IPTV channels from all over the world
 - [symerio/pgeocode](https://github.com/symerio/pgeocode) - Postal code geocoding and distance calculation
 - [adamschwartz/web.scraper.workers.dev](https://github.com/adamschwartz/web.scraper.workers.dev) - Scrape websites for text by CSS selector.
 - [wireservice/csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
@@ -4472,7 +4475,6 @@
 - [jkrejcha/AdmiraList](https://github.com/jkrejcha/AdmiraList) - A text-based list of 1000+ Admiral domains and IP addresses
 - [sandeepmistry/arduino-nRF5](https://github.com/sandeepmistry/arduino-nRF5) - Arduino Core for Nordic Semiconductor nRF5 based boards
 - [skdhg/TikTok-Search](https://github.com/skdhg/TikTok-Search) - Simple module to fetch data from TikTok.
-- [royhills/arp-scan](https://github.com/royhills/arp-scan) - The ARP Scanner
 - [adriengibrat/torrent-rw](https://github.com/adriengibrat/torrent-rw) - php5  class to read and write .torrent files
 - [openSUSE/imagewriter](https://github.com/openSUSE/imagewriter) - Utility for writing raw disk images & hybrid isos to USB keys
 - [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
@@ -7326,7 +7328,6 @@
 - [zachwhalen/ssbot](https://github.com/zachwhalen/ssbot) - A Google Spreadsheet engine for a Twitter bot.
 - [microsoft/USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints) - Computer generated building footprints for the United States
 - [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
-- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [nuket/google-sheets-geocoding-macro](https://github.com/nuket/google-sheets-geocoding-macro) - Geocode from addresses to latitude / longitude, and vice versa using Google Sheets
 - [techcoop/json-google-docs](https://github.com/techcoop/json-google-docs) - Uses Google Apps Scripts with Google Docs to provide a document tree in JSON exposed on a GET URL for integration into anything.
 - [BuzzFeedNews/trumpworld](https://github.com/BuzzFeedNews/trumpworld) - TrumpWorld data as CSV and GraphML files
@@ -8367,7 +8368,7 @@
 - [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, collect and analyse network intelligenc
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
-- [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) - Shaming sites with dumb password rules.
+- [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) - A compilation of sites with dumb password rules.
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 
 ## server 
