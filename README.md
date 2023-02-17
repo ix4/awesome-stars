@@ -1371,6 +1371,7 @@
 
 ## JavaScript 
 
+- [timwis/csv-schema](https://github.com/timwis/csv-schema) - Analyzes a CSV file and generates database table schema, all within the browser
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 - [siffash/cookie-fucker](https://github.com/siffash/cookie-fucker) - Removes all cookie warnings. Light and open-sourced.
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
@@ -1687,7 +1688,7 @@
 - [wavesoft/dot-dom](https://github.com/wavesoft/dot-dom) - .dom is a tiny (512 byte) template engine that uses virtual DOM and some of react principles
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [espadrine/AsciiDocBox](https://github.com/espadrine/AsciiDocBox) - Live AsciiDoc Editor.
-- [Hypercontext/linkifyjs](https://github.com/Hypercontext/linkifyjs) - Linkify is a JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
+- [Hypercontext/linkifyjs](https://github.com/Hypercontext/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
 - [Freeboard/freeboard](https://github.com/Freeboard/freeboard) - A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.
 - [anthonygarvan/marktwo](https://github.com/anthonygarvan/marktwo) - A seamless, speedy, syncing markdown editor
 - [Herohtar/netlify-cms-oauth-firebase](https://github.com/Herohtar/netlify-cms-oauth-firebase) - Firebase Cloud Function based OAuth2 GitHub backend for Netlify CMS
@@ -3638,6 +3639,7 @@
 - [GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev) - The frontend, backend, and content source code for web.dev
 - [mainmatter/mainmatter.com](https://github.com/mainmatter/mainmatter.com) - The source code for https://mainmatter.com
 - [a11yproject/a11yproject.com](https://github.com/a11yproject/a11yproject.com) - The A11Y Project is a community-driven effort to make digital accessibility easier.
+- [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) - A compilation of sites with dumb password rules.
 
 ## OCaml 
 
@@ -3909,7 +3911,6 @@
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [googlearchive/webplatform-samples](https://github.com/googlearchive/webplatform-samples) - HTML5 Samples/Demos
-- [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) - Shaming sites with dumb password rules.
 - [keybase/keybase-issues](https://github.com/keybase/keybase-issues) - A single repo for managing publicly recognized issues with the keybase client, installer, and website.
 - [TaxFoundation/facts-and-figures](https://github.com/TaxFoundation/facts-and-figures) - Data from Tax Foundation's Facts and Figures report.
 - [cdnbye/hlsjs-p2p-engine](https://github.com/cdnbye/hlsjs-p2p-engine) - Let your viewers become your unlimitedly scalable CDN.
@@ -4124,6 +4125,7 @@
 
 ## Python 
 
+- [ponty/PyVirtualDisplay](https://github.com/ponty/PyVirtualDisplay) - Python wrapper for Xvfb, Xephyr and Xvnc
 - [fronzbot/blinkpy](https://github.com/fronzbot/blinkpy) - A Python library for the Blink Camera system
 - [redacted/XKCD-password-generator](https://github.com/redacted/XKCD-password-generator) - Generate secure multiword passwords/passphrases, inspired by XKCD
 - [NetsecExplained/Nmap-XML-to-CSV](https://github.com/NetsecExplained/Nmap-XML-to-CSV) - Converts Nmap XML output to csv file, and other useful functions
@@ -4991,7 +4993,7 @@
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [InstantDomain/instant-segment](https://github.com/InstantDomain/instant-segment) - Fast English word segmentation in Rust
 - [InstantDomain/instant-distance](https://github.com/InstantDomain/instant-distance) - Fast approximate nearest neighbor searching in Rust, based on HNSW index
-- [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠   wrangle your Cloudflare Workers
+- [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠  Home to Wrangler v1 (deprecated)
 - [SergChr/qcv](https://github.com/SergChr/qcv) - A JSON to HTML resume generator
 - [TCNCoalition/TCN](https://github.com/TCNCoalition/TCN) - Specification and reference implementation of the TCN Protocol for decentralized, privacy-preserving contact tracing.
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
@@ -5627,7 +5629,7 @@
 - [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
 - [floschnell/flatcrawl-processors](https://github.com/floschnell/flatcrawl-processors) - A set of processors that will instantly inform users via a set of channels (ie. Telegram) of new flats that are found on different rental websites.
 - [tamarasaurus/immo-feed](https://github.com/tamarasaurus/immo-feed) - A extensible app for scraping property listings
-- [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
+- [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 - [googleworkspace/md2googleslides](https://github.com/googleworkspace/md2googleslides) - Generate Google Slides from markdown
 - [ohtomi/react-whiteboard](https://github.com/ohtomi/react-whiteboard) - A whiteboard React component using SVG.
 - [fonoster/routr](https://github.com/fonoster/routr) - Routr: Next-generation Programmable SIP Server
