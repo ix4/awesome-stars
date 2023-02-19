@@ -6565,7 +6565,6 @@
 - [redblobgames/mapgen2](https://github.com/redblobgames/mapgen2) - JavaScript version of mapgen2 polygon map generator algorithms
 - [erikflowers/weathercons.font](https://github.com/erikflowers/weathercons.font) - transformed Weather Icons
 - [erikflowers/weather-icons](https://github.com/erikflowers/weather-icons) - 215 Weather Themed Icons and CSS
-- [ytiurin/textcam](https://github.com/ytiurin/textcam) - :book: Text recognition web app
 - [Mikhus/domurl](https://github.com/Mikhus/domurl) - Lightweight URL manipulation with JavaScript
 - [oduwsdl/2020DemFollowerGraph](https://github.com/oduwsdl/2020DemFollowerGraph) - This repository contains Twitter follower growth graphs for 2020 Democratic Party Candidates.
 - [iipc/openwayback](https://github.com/iipc/openwayback) - The OpenWayback Development
@@ -8560,7 +8559,7 @@
 - [ebertti/awesome-telegram](https://github.com/ebertti/awesome-telegram) - Collection great groups, channels, bots and libraries for Telegram
 - [xdavidhu/lanGhost](https://github.com/xdavidhu/lanGhost) - 👻 A LAN dropbox chatbot controllable via Telegram
 - [idoco/intergram](https://github.com/idoco/intergram) - Free live chat widget linked to your Telegram messenger
-- [guidone/node-red-contrib-chatbot](https://github.com/guidone/node-red-contrib-chatbot) - Visually build a full featured chat bot for Telegram, Facebook Messenger and Slack with Node-RED. Almost no coding skills required.
+- [guidone/node-red-contrib-chatbot](https://github.com/guidone/node-red-contrib-chatbot) - Visually build a full featured chat bot for Telegram, Facebook Messenger, Whatsapp and Slack with Node-RED. Almost no coding skills required.
 - [ellisonleao/sharer.js](https://github.com/ellisonleao/sharer.js) - :on: :bookmark: Create your own social share buttons. No jquery.
 
 ## tensorflow 
