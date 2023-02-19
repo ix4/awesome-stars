@@ -2892,7 +2892,6 @@
 - [susielu/d3-annotation](https://github.com/susielu/d3-annotation) - Use d3-annotation with built-in annotation types, or extend it to make custom annotations. It is made for d3-v4 in SVG.
 - [redblobgames/mapgen2](https://github.com/redblobgames/mapgen2) - JavaScript version of mapgen2 polygon map generator algorithms
 - [Azgaar/Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator) - Web application generating interactive and highly customizable maps
-- [ytiurin/textcam](https://github.com/ytiurin/textcam) - :book: Text recognition web app
 - [Mikhus/domurl](https://github.com/Mikhus/domurl) - Lightweight URL manipulation with JavaScript
 - [oduwsdl/2020DemFollowerGraph](https://github.com/oduwsdl/2020DemFollowerGraph) - This repository contains Twitter follower growth graphs for 2020 Democratic Party Candidates.
 - [nextapps-de/xone](https://github.com/nextapps-de/xone) - Mobile Application Development Kit / MVC Framework
@@ -3336,7 +3335,7 @@
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [jehervy/node-virtual-gamepads](https://github.com/jehervy/node-virtual-gamepads) - Node virtual gamepads
 - [bgrins/videoconverter.js](https://github.com/bgrins/videoconverter.js) - [UNMAINTAINED] Convert videos in your browser
-- [guidone/node-red-contrib-chatbot](https://github.com/guidone/node-red-contrib-chatbot) - Visually build a full featured chat bot for Telegram, Facebook Messenger and Slack with Node-RED. Almost no coding skills required.
+- [guidone/node-red-contrib-chatbot](https://github.com/guidone/node-red-contrib-chatbot) - Visually build a full featured chat bot for Telegram, Facebook Messenger, Whatsapp and Slack with Node-RED. Almost no coding skills required.
 - [googlecodelabs/webrtc-web](https://github.com/googlecodelabs/webrtc-web) - Realtime communication with WebRTC
 - [webrtc/apprtc](https://github.com/webrtc/apprtc) - appr.tc has been shutdown. Please use the Dockerfile to run your own test/dev instance.
 - [dataarts/webgl-globe](https://github.com/dataarts/webgl-globe) - WebGL Globe is a platform for visualizing latitude longitude based information using WebGL.
