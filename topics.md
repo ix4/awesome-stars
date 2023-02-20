@@ -4303,6 +4303,7 @@
 
 ## others 
 
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [ponty/PyVirtualDisplay](https://github.com/ponty/PyVirtualDisplay) - Python wrapper for Xvfb, Xephyr and Xvnc
 - [timwis/csv-schema](https://github.com/timwis/csv-schema) - Analyzes a CSV file and generates database table schema, all within the browser
 - [redacted/XKCD-password-generator](https://github.com/redacted/XKCD-password-generator) - Generate secure multiword passwords/passphrases, inspired by XKCD
@@ -7109,7 +7110,7 @@
 - [TaxFoundation/facts-and-figures](https://github.com/TaxFoundation/facts-and-figures) - Data from Tax Foundation's Facts and Figures report.
 - [auth0-blog/angular-d3-socketio](https://github.com/auth0-blog/angular-d3-socketio) - 
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
-- [lukeapage/pngjs](https://github.com/lukeapage/pngjs) - Simple PNG encoder/decoder
+- [pngjs/pngjs](https://github.com/pngjs/pngjs) - Simple PNG encoder/decoder
 - [photopea/UPNG.js](https://github.com/photopea/UPNG.js) - Fast and advanced PNG (APNG) decoder and encoder (lossy / lossless)
 - [Yuribenjamin/neighborhood-map](https://github.com/Yuribenjamin/neighborhood-map) - Neighborhood coffee map - SPA React  Live Preview :
 - [BolajiAyodeji/image-search-app](https://github.com/BolajiAyodeji/image-search-app) - A simple image search app
@@ -7947,7 +7948,7 @@
 - [FormidableLabs/react-live](https://github.com/FormidableLabs/react-live) - A flexible playground for live editing React components
 - [react-static/react-static](https://github.com/react-static/react-static) - ⚛️ 🚀 A progressive static site generator for React.
 - [zhongsp/TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org
-- [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ A library for building performant and instant search experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue
+- [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ A library for building performant and instant search experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
 - [fangpenlin/avataaars](https://github.com/fangpenlin/avataaars) - React component for avataaars
 - [fangpenlin/avataaars-generator](https://github.com/fangpenlin/avataaars-generator) - Simple generator React app for avataaars
 - [react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - :fire: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
@@ -8823,7 +8824,7 @@
 - [lusaxweb/vuenut](https://github.com/lusaxweb/vuenut) - ⚙️ Developer tools for vue js (Vuex)
 - [egoist/docute](https://github.com/egoist/docute) - 📚 Effortless documentation, done right.
 - [njleonzhang/vue-data-tables](https://github.com/njleonzhang/vue-data-tables) - A simple, customizable and pageable table with SSR support, based on vue2 and element-ui
-- [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ A library for building performant and instant search experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue
+- [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ A library for building performant and instant search experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
 - [zce/dashboard](https://github.com/zce/dashboard) - A dashboard scaffolding based on Vue.js 3.0 created by Vite.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [MetinSeylan/Vue-Socket.io](https://github.com/MetinSeylan/Vue-Socket.io) - 😻 Socket.io implementation for Vuejs and Vuex
