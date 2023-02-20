@@ -582,6 +582,7 @@
 
 ## Go 
 
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
 - [prasmussen/gdrive](https://github.com/prasmussen/gdrive) - Google Drive CLI Client
@@ -3316,7 +3317,7 @@
 - [stevecat/table-magic](https://github.com/stevecat/table-magic) - Converts between CSV, HTML and Markdown. Has a little form editor and a preview.
 - [Antonvb/meteor-map](https://github.com/Antonvb/meteor-map) - Visualising Meteor Data
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
-- [lukeapage/pngjs](https://github.com/lukeapage/pngjs) - Simple PNG encoder/decoder
+- [pngjs/pngjs](https://github.com/pngjs/pngjs) - Simple PNG encoder/decoder
 - [photopea/UPNG.js](https://github.com/photopea/UPNG.js) - Fast and advanced PNG (APNG) decoder and encoder (lossy / lossless)
 - [Yuribenjamin/neighborhood-map](https://github.com/Yuribenjamin/neighborhood-map) - Neighborhood coffee map - SPA React  Live Preview :
 - [BolajiAyodeji/image-search-app](https://github.com/BolajiAyodeji/image-search-app) - A simple image search app
@@ -5440,7 +5441,7 @@
 - [joeferner/node-http-mitm-proxy](https://github.com/joeferner/node-http-mitm-proxy) - HTTP Man In The Middle (MITM) Proxy
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [zhongsp/TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org
-- [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ A library for building performant and instant search experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue
+- [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ A library for building performant and instant search experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [obs-websocket-community-projects/obs-websocket-js](https://github.com/obs-websocket-community-projects/obs-websocket-js) - Consumes https://github.com/obsproject/obs-websocket
 - [google/emoji-scavenger-hunt](https://github.com/google/emoji-scavenger-hunt) - Emoji Scavenger Hunt is an experiment that leverages the power of neural networks and your phone’s camera to identify the real world versions of the emojis we use every day.
