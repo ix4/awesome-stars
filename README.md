@@ -371,7 +371,6 @@
 - [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
-- [jekyllup/jekyll-theme-massively](https://github.com/jekyllup/jekyll-theme-massively) - Preview
 - [drvy/minimal-block](https://github.com/drvy/minimal-block) - A minimalistic, responsive and friendly Jekyllrb theme.
 - [poole/lanyon](https://github.com/poole/lanyon) - A content-first, sliding sidebar theme for Jekyll.
 - [vinitkumar/white-paper](https://github.com/vinitkumar/white-paper) - Simple, elegant and clean jekyll theme.
@@ -1647,7 +1646,6 @@
 - [SocialGouv/legi-data](https://github.com/SocialGouv/legi-data) - Legi Data
 - [EFForg/spot_the_surveillance](https://github.com/EFForg/spot_the_surveillance) - Spot the Surveillance is an open-source educational VR tool to help people identify street-level surveillance in their community. As each surveillance device is identified, the user is informed on how
 - [EFForg/cover-your-tracks](https://github.com/EFForg/cover-your-tracks) - Is your browser safe against tracking?
-- [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets
 - [jsantell/poet](https://github.com/jsantell/poet) - A node.js blog engine
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [brillout/mdocs](https://github.com/brillout/mdocs) - Utility to create documentation for programming libraries with markdown.
@@ -2649,7 +2647,7 @@
 - [jeffreyshen19/political-cartoon-visualizer](https://github.com/jeffreyshen19/political-cartoon-visualizer) - An exploration of the late 1800s through political cartoons of the era. Developed for an internship w/ the Library of Congress
 - [vasturiano/horizon-timeseries-chart](https://github.com/vasturiano/horizon-timeseries-chart) - A chart to represent time-series data using multiple vertically layered horizon area plots
 - [vasturiano/three-globe](https://github.com/vasturiano/three-globe) - WebGL Globe Data Visualization as a ThreeJS reusable 3D object
-- [nagix/nk-missile-tests](https://github.com/nagix/nk-missile-tests) - An interactive visualization of flight tests of all missiles launched by North Korea from 1984 to 2022
+- [nagix/nk-missile-tests](https://github.com/nagix/nk-missile-tests) - An interactive visualization of flight tests of all missiles launched by North Korea from 1984 to 2023
 - [yeemachine/touchtype](https://github.com/yeemachine/touchtype) - A Posenet experiment that let's you interact with type.
 - [googlecreativelab/morse-speak-demo](https://github.com/googlecreativelab/morse-speak-demo) - Text-to-Speech (TTS) demo web app that converts written text into spoken words via Morse code
 - [ananthakumaran/u](https://github.com/ananthakumaran/u) - μ is a JavaScript library for encoding/decoding state (JavaScript object) in URL
@@ -5045,6 +5043,7 @@
 - [planetoftheweb/rayveal](https://github.com/planetoftheweb/rayveal) - A markdown first presentation framework. Based on reveal.js with preinstalled plugins, light Bootstrap and sweet extras.
 - [thomaspark/pubcss](https://github.com/thomaspark/pubcss) - Format academic publications in HTML & CSS
 - [allejo/jekyll-docs-theme](https://github.com/allejo/jekyll-docs-theme) - A mediocre Jekyll theme for writing documentation websites based Bootstrap's old website design
+- [jekyllup/jekyll-theme-massively](https://github.com/jekyllup/jekyll-theme-massively) - Preview
 - [zerostaticthemes/jekyll-serif-theme](https://github.com/zerostaticthemes/jekyll-serif-theme) - Serif is a multi page business theme for Jekyll.
 - [minicomp/wax](https://github.com/minicomp/wax) - Jekyll based framework for minimal exhibitions with IIIF 🐝
 - [minicomp/ed](https://github.com/minicomp/ed) - A Jekyll theme for minimal editions :book:
@@ -5394,6 +5393,7 @@
 - [gitpod-io/retired-gatsby-website](https://github.com/gitpod-io/retired-gatsby-website) - Gitpod website and documentation
 - [SocialGouv/dila-api-client](https://github.com/SocialGouv/dila-api-client) - a client for the DILA API that publishes the french law
 - [babel/website](https://github.com/babel/website) - :globe_with_meridians: The Babel documentation website
+- [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets
 - [microsoft/tsdoc](https://github.com/microsoft/tsdoc) - A doc comment standard for TypeScript
 - [messageformat/messageformat](https://github.com/messageformat/messageformat) - ICU MessageFormat for Javascript - i18n Plural and Gender Capable Messages
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
