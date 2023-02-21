@@ -6225,7 +6225,7 @@
 - [LibraryOfCongress/chronam](https://github.com/LibraryOfCongress/chronam) - This software project is no longer being actively developed at the Library of Congress. Consider using the Open-ONI (https://github.com/open-oni) fork of the chronam software. Project mailing list: ht
 - [vasturiano/horizon-timeseries-chart](https://github.com/vasturiano/horizon-timeseries-chart) - A chart to represent time-series data using multiple vertically layered horizon area plots
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
-- [nagix/nk-missile-tests](https://github.com/nagix/nk-missile-tests) - An interactive visualization of flight tests of all missiles launched by North Korea from 1984 to 2022
+- [nagix/nk-missile-tests](https://github.com/nagix/nk-missile-tests) - An interactive visualization of flight tests of all missiles launched by North Korea from 1984 to 2023
 - [GoogleChromeLabs/proxx](https://github.com/GoogleChromeLabs/proxx) - A game of proximity
 - [yeemachine/touchtype](https://github.com/yeemachine/touchtype) - A Posenet experiment that let's you interact with type.
 - [brenna/csshexagon](https://github.com/brenna/csshexagon) - Pure CSS hexagon generator, built with AngularJS
