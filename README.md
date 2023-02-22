@@ -5222,7 +5222,7 @@
 - [keeferrourke/la-capitaine-icon-theme](https://github.com/keeferrourke/la-capitaine-icon-theme) - La Capitaine is an icon pack designed to integrate with most desktop environments. The set of icons takes inspiration from the latest iterations of macOS and Google's Material Design.
 - [temptemp3/linuxhint.com](https://github.com/temptemp3/linuxhint.com) - Scripts used in https://linuxhint.com bash programming examples
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
-- [lowtechmag/materialserver](https://github.com/lowtechmag/materialserver) - a bash script exposing `AXP209` device power metrics, temperature and machine load as a JSON API. For Armbian Allwinner A20 boards
+- [lowtechmag/materialserver](https://github.com/lowtechmag/materialserver) - a bash script exposing "AXP209" and "INA219" power metrics, temperature and machine load as a JSON API. For Armbian Allwinner A20 boards
 - [mathiasbynens/evil.sh](https://github.com/mathiasbynens/evil.sh) - :speak_no_evil: Subtle and not-so-subtle shell tweaks that will slowly drive people insane.
 - [amiaopensource/audiorecorder](https://github.com/amiaopensource/audiorecorder) - tool for calibration and recording of analog audio sources
 - [amiaopensource/vrecord](https://github.com/amiaopensource/vrecord) - Vrecord is open-source software for capturing a video signal and turning it into a digital file.
