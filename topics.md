@@ -5819,7 +5819,7 @@
 - [elsehow/aaronson-oracle](https://github.com/elsehow/aaronson-oracle) - Press the 'f' and 'd' keys randomly. It's easy. Just use your "free will."
 - [tomayac/amp-tube](https://github.com/tomayac/amp-tube) - A simple YouTube search engine and viewer app, implemented in AMP
 - [ampproject/samples](https://github.com/ampproject/samples) - 
-- [lowtechmag/materialserver](https://github.com/lowtechmag/materialserver) - a bash script exposing `AXP209` device power metrics, temperature and machine load as a JSON API. For Armbian Allwinner A20 boards
+- [lowtechmag/materialserver](https://github.com/lowtechmag/materialserver) - a bash script exposing "AXP209" and "INA219" power metrics, temperature and machine load as a JSON API. For Armbian Allwinner A20 boards
 - [lowtechmag/solar](https://github.com/lowtechmag/solar) - Pelican theme for solar powered version of lowtechmagazine.com
 - [tomayac/wakelock-thereami](https://github.com/tomayac/wakelock-thereami) - 
 - [tomayac/news-pwa](https://github.com/tomayac/news-pwa) - News Progressive Web App
