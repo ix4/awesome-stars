@@ -1451,7 +1451,6 @@
 ## docker 
 
 - [eficode/wait-for](https://github.com/eficode/wait-for) - ./wait-for is a script to wait for another service to become available.
-- [LegitCamper/Selenium-Web-Clicker](https://github.com/LegitCamper/Selenium-Web-Clicker) - A Web-Scraper running in docker that utilizes the Mysterium Network to click ads while being undetected
 - [nazliander/scrape-nr-of-deaths-istanbul](https://github.com/nazliander/scrape-nr-of-deaths-istanbul) - A scraper and simple time series analysis example with Selenium and Seaborn.
 - [testdrivenio/selenium-grid-docker-swarm](https://github.com/testdrivenio/selenium-grid-docker-swarm) - web scraping in parallel with Selenium Grid and Docker
 - [PeterDaveHello/ipinfo.tw](https://github.com/PeterDaveHello/ipinfo.tw) - 🐳 A self-host  🙅 non-tracking, AD-🆓 ➕ 🍪-🆓 solution to show your IP ℹ️ Super small (🤏10MB)
@@ -5956,7 +5955,7 @@
 - [phaag/nfdump](https://github.com/phaag/nfdump) - Netflow processing tools
 - [tanprathan/MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics.
 - [SpatialServer/Leaflet.MapboxVectorTile](https://github.com/SpatialServer/Leaflet.MapboxVectorTile) - A Leaflet Plugin that renders Mapbox Vector Tiles on HTML5 Canvas.
-- [spatialdev/PGRestAPI](https://github.com/spatialdev/PGRestAPI) - Node.js REST API for PostGres Spatial Entities. AKA: SpatialServer
+- [locana-co/PGRestAPI](https://github.com/locana-co/PGRestAPI) - Node.js REST API for PostGres Spatial Entities. AKA: SpatialServer
 - [perliedman/leaflet-underneath](https://github.com/perliedman/leaflet-underneath) - Find interesting features is in your map using Mapbox Vector Tiles data
 - [lovasoa/dezoomify](https://github.com/lovasoa/dezoomify) - Dezoomify is a web application to download zoomable images from museum websites, image galleries, and map viewers. Many different zoomable image technologies are supported.
 - [mapio/docker-tutorial](https://github.com/mapio/docker-tutorial) - A collection of Dockerfiles and scripts used for a simple introduction to docker
@@ -7534,7 +7533,6 @@
 ## python 
 
 - [pedrovernetti/metagedit](https://github.com/pedrovernetti/metagedit) - gedit (GNOME text editor) plugin which adds multiple improvements and functionalities to it
-- [LegitCamper/Selenium-Web-Clicker](https://github.com/LegitCamper/Selenium-Web-Clicker) - A Web-Scraper running in docker that utilizes the Mysterium Network to click ads while being undetected
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [AmmeySaini/Edu-Mail-Generator](https://github.com/AmmeySaini/Edu-Mail-Generator) - Generate Free Edu Mail(s) within minutes
