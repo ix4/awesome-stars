@@ -4297,6 +4297,7 @@
 
 ## others 
 
+- [Marak/buddypond](https://github.com/Marak/buddypond) - Cloud OS and Instant Messenger
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [ponty/PyVirtualDisplay](https://github.com/ponty/PyVirtualDisplay) - Python wrapper for Xvfb, Xephyr and Xvnc
 - [timwis/csv-schema](https://github.com/timwis/csv-schema) - Analyzes a CSV file and generates database table schema, all within the browser
@@ -7236,7 +7237,7 @@
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
 - [json-schema-org/json-schema-org.github.io](https://github.com/json-schema-org/json-schema-org.github.io) - JSON Schema website
 - [hasherezade/hollows_hunter](https://github.com/hasherezade/hollows_hunter) - Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches).
-- [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - A small clone of 1024 (https://play.google.com/store/apps/details?id=com.veewo.a1024)
+- [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - A small clone of 1024 (https://web.archive.org/web/20140328011720/https://play.google.com/store/apps/details?id=com.veewo.a1024)
 - [mgarciaisaia/2048](https://github.com/mgarciaisaia/2048) - A small clone of 1024 (https://play.google.com/store/apps/details?id=com.veewo.a1024)
 - [ServerKite/bench.sh](https://github.com/ServerKite/bench.sh) - Server Benchmarking Script
 - [datadesk/copyboy](https://github.com/datadesk/copyboy) - Copyboy is our fork of GitHub's Campfire bot, hubot. He is aware of all Internet traditions.
