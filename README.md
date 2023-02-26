@@ -479,7 +479,7 @@
 - [ericduran/chromeHAR](https://github.com/ericduran/chromeHAR) - HAR viewer that mimics (or at least tries really hard to) Chromes network tab
 - [m-lab/mlab-speedtest](https://github.com/m-lab/mlab-speedtest) - Repository of the Interface and Project for speed.measurementlab.net
 - [Mottie/input-password-bullet](https://github.com/Mottie/input-password-bullet) - How to replace the input password bullet in most browsers
-- [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - A small clone of 1024 (https://play.google.com/store/apps/details?id=com.veewo.a1024)
+- [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - A small clone of 1024 (https://web.archive.org/web/20140328011720/https://play.google.com/store/apps/details?id=com.veewo.a1024)
 - [mgarciaisaia/2048](https://github.com/mgarciaisaia/2048) - A small clone of 1024 (https://play.google.com/store/apps/details?id=com.veewo.a1024)
 - [creativetimofficial/paper-dashboard](https://github.com/creativetimofficial/paper-dashboard) - Paper Dashboard is a Bootstrap Admin Panel which combines soft colors with beautiful typography and spacious cards and graphics.
 - [creativetimofficial/light-bootstrap-dashboard](https://github.com/creativetimofficial/light-bootstrap-dashboard) - Light Bootstrap Dashboard is an admin dashboard template designed to be beautiful and simple.
@@ -1371,6 +1371,7 @@
 
 ## JavaScript 
 
+- [Marak/buddypond](https://github.com/Marak/buddypond) - Cloud OS and Instant Messenger
 - [timwis/csv-schema](https://github.com/timwis/csv-schema) - Analyzes a CSV file and generates database table schema, all within the browser
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 - [siffash/cookie-fucker](https://github.com/siffash/cookie-fucker) - Removes all cookie warnings. Light and open-sourced.
@@ -3651,7 +3652,7 @@
 
 ## Others 
 
-- [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking web technologies,and pen testing wireless networks.Resources for learning malware analysis and reverse engineering.
+- [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - articles
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [clarketm/proxy-list](https://github.com/clarketm/proxy-list) - A list of free, public, forward proxy servers. UPDATED DAILY!
 - [hl2guide/AdGuard-Home-Whitelist](https://github.com/hl2guide/AdGuard-Home-Whitelist) - A strict curated whitelist for AdGuard Home.
@@ -3975,7 +3976,7 @@
 - [erusev/parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP
 - [michelf/php-markdown](https://github.com/michelf/php-markdown) - Parser for Markdown and Markdown Extra derived from the original Markdown.pl by John Gruber.
 - [michelf/php-smartypants](https://github.com/michelf/php-smartypants) - Web typography prettifyier tools derived from the original SmartyPants.pl by John Gruber.
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine
 - [sebastianfeldmann/phpbu](https://github.com/sebastianfeldmann/phpbu) - PHP Backup Utility - Creates and encrypts database and file backups, syncs your backups to other servers or cloud services and assists you monitor your backup process
 - [krusynth/govify](https://github.com/krusynth/govify) - Govify.Cloud project - making open data less open, one document at a time.
 - [statedecoded/statedecoded](https://github.com/statedecoded/statedecoded) - Legal codes, for humans.
@@ -4229,7 +4230,7 @@
 - [s0md3v/Arjun](https://github.com/s0md3v/Arjun) - HTTP parameter discovery suite.
 - [s0md3v/Striker](https://github.com/s0md3v/Striker) - Striker is an offensive information and vulnerability scanner.
 - [seemoo-lab/internalblue](https://github.com/seemoo-lab/internalblue) - Bluetooth experimentation framework for Broadcom and Cypress chips.
-- [kimocoder/wifite2](https://github.com/kimocoder/wifite2) - Rewrite of the popular wireless network auditor, "wifite" - original source by @derv82 right over at
+- [kimocoder/wifite2](https://github.com/kimocoder/wifite2) - Rewrite of the popular wireless network auditor, "wifite" - original source by @derv82
 - [UCSB-dataScience-ProjectGroup/youtube](https://github.com/UCSB-dataScience-ProjectGroup/youtube) - We are analyzing Youtube trends and comments to ultimately discover how youtubers become famous.
 - [egbertbouman/youtube-comment-downloader](https://github.com/egbertbouman/youtube-comment-downloader) - Simple script for downloading Youtube comments without using the Youtube API
 - [dddat1017/Scraping-Youtube-Comments](https://github.com/dddat1017/Scraping-Youtube-Comments) - Scrape comments from any Youtube video
