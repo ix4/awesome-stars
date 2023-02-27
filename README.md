@@ -1127,7 +1127,7 @@
 - [lukas-h/jekyll-timeline](https://github.com/lukas-h/jekyll-timeline) - Timeline / Résumé Theme with Jekyll
 - [jekyllt/jasper2](https://github.com/jekyllt/jasper2) - Full-featured Jekyll port of Ghost's default theme Casper v2 👻
 - [qiubaiying/qiubaiying.github.io](https://github.com/qiubaiying/qiubaiying.github.io) - BY Blog -&gt;
-- [TaylanTatli/Moon](https://github.com/TaylanTatli/Moon) - Moon is a minimal, one column jekyll theme.
+- [TaylanTatli/Moon](https://github.com/TaylanTatli/Moon) - 🌓 Moon is a minimal, one column jekyll theme.
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [wowthemesnet/affiliates-jekyll-theme](https://github.com/wowthemesnet/affiliates-jekyll-theme) - Affiliates - Jekyll Blogging Theme for Affiliate Marketers
 - [dschoerk/profile-page-jekyll](https://github.com/dschoerk/profile-page-jekyll) - Stylish, minimalistic theme for jekyll.
@@ -2698,7 +2698,7 @@
 - [spencermountain/compromise](https://github.com/spencermountain/compromise) - modest natural-language processing
 - [nlp-compromise/wordnet.js](https://github.com/nlp-compromise/wordnet.js) - an opinionated assembly of wordnet for javascript
 - [nlp-compromise/nlp-corpus](https://github.com/nlp-compromise/nlp-corpus) - varied english texts for modern NLP testing
-- [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Navigable waveform built on Web Audio and Canvas
+- [wavesurfer-js/wavesurfer.js](https://github.com/wavesurfer-js/wavesurfer.js) - Navigable waveform built on Web Audio and Canvas
 - [collab-project/videojs-wavesurfer](https://github.com/collab-project/videojs-wavesurfer) - video.js plugin that adds a navigable waveform for audio and video files
 - [collab-project/videojs-record](https://github.com/collab-project/videojs-record) - video.js plugin for recording audio/video/image files
 - [opentok/accelerator-screen-sharing-js](https://github.com/opentok/accelerator-screen-sharing-js) - Accelerator Screen Sharing JS provides an easy way to get started in implementing interoperable screen sharing using the OpenTok platform.
@@ -4254,7 +4254,7 @@
 - [geopy/geopy](https://github.com/geopy/geopy) - Geocoding library for Python.
 - [backtrackbaba/covid-api](https://github.com/backtrackbaba/covid-api) - API's to interact with COVID19 dataset by John Hopkins University
 - [ExpDev07/coronavirus-tracker-api](https://github.com/ExpDev07/coronavirus-tracker-api) - 🦠 A simple and fast (&lt; 200ms) API for tracking the global coronavirus (COVID-19, SARS-CoV-2) outbreak. It's written in python using the 🔥 FastAPI framework. Supports multiple sources!
-- [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2020, WikiTeam has preserved more than 250,000 wikis.
+- [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2023, WikiTeam has preserved more than 350,000 wikis.
 - [nickspaargaren/no-amazon](https://github.com/nickspaargaren/no-amazon) - Completely block Amazon and its services
 - [nickspaargaren/no-google](https://github.com/nickspaargaren/no-google) - Completely block Google and its services
 - [mendhak/SeenFromSpace](https://github.com/mendhak/SeenFromSpace) - A 'live' earth wallpaper which includes day/night phases, night lights, clouds and satellites in different projections
