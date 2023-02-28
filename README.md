@@ -554,7 +554,7 @@
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
 - [dwyl/email](https://github.com/dwyl/email) - ✉️ email dashboard to track deliverability and engagement stats in our App 📈
 - [dwyl/quotes](https://github.com/dwyl/quotes) - 💬  a curated list of quotes that inspire action + code that returns quotes by tag/author/etc. 💡
-- [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example) - 💬 The Step-by-Step Beginners Tutorial for Building, Testing & Deploying a Chat app in Phoenix 1.7 rc2 [Latest] 🚀
+- [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example) - 💬 The Step-by-Step Beginners Tutorial for Building, Testing & Deploying a Chat app in Phoenix 1.7 [Latest] 🚀
 - [elixir-lang/ex_doc](https://github.com/elixir-lang/ex_doc) - ExDoc produces HTML and EPUB documentation for Elixir projects
 - [edgurgel/httparrot](https://github.com/edgurgel/httparrot) - HTTP Request & Response Server. An incomplete clone of http://httpbin.org
 - [DFilipeS/rent-bot](https://github.com/DFilipeS/rent-bot) - My personal Facebook Messenger chat bot that helped find an apartment to rent.
@@ -900,7 +900,6 @@
 - [docker/docs](https://github.com/docker/docs) - Source repo for Docker's Documentation
 - [broccolini/swiss](https://github.com/broccolini/swiss) - Jekyll theme inspired by Swiss design
 - [tomjoht/documentation-theme-jekyll](https://github.com/tomjoht/documentation-theme-jekyll) - A Jekyll-based theme designed for documentation and help systems. See the link for detailed instructions on setting up and configuring everything.
-- [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 - [iipc/warc-specifications](https://github.com/iipc/warc-specifications) - Centralised repository for WARC usage specifications.
 - [gayanSandamal/easy-numpad](https://github.com/gayanSandamal/easy-numpad) - jQuery based soft number pad which is developed use and customize easily
 - [lrusso/bannerGenerator](https://github.com/lrusso/bannerGenerator) - Image Merger, Image Resizer, Image Distortion, Business Card, Radio Interview, Recruiting, Sharer OG Image, MacBook, Notebook, Play Store, GitHub, App with Text, Slides for Videos, Android and iPhone 
@@ -4389,8 +4388,9 @@
 - [cisagov/trustymail](https://github.com/cisagov/trustymail) - Scan domains and return data based on trustworthy email best practices
 - [18F/domain-scan](https://github.com/18F/domain-scan) - A lightweight pipeline, locally or in Lambda, for scanning things like HTTPS, third party service use, and web accessibility.
 - [espressif/esptool](https://github.com/espressif/esptool) - Espressif SoC serial bootloader utility
-- [googleworkspace/hangouts-chat-samples](https://github.com/googleworkspace/hangouts-chat-samples) - Chat Bot Samples for Google Chat.
+- [googleworkspace/google-chat-samples](https://github.com/googleworkspace/google-chat-samples) - Chat Bot Samples for Google Chat.
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
+- [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 - [buriy/python-readability](https://github.com/buriy/python-readability) - fast python port of arc90's readability tool, updated to match latest readability.js!
 - [edsu/propublica](https://github.com/edsu/propublica) - A sample project for Object Oriented Programming (INST 326)
 - [ecprice/newsdiffs](https://github.com/ecprice/newsdiffs) - Automatic scraper that tracks changes in news articles over time.
