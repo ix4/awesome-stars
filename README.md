@@ -2154,7 +2154,7 @@
 - [ahfarmer/emoji-search](https://github.com/ahfarmer/emoji-search) - Simple React app for searching emoji
 - [ilyankou/cfhc-residential-zoning-analysis](https://github.com/ilyankou/cfhc-residential-zoning-analysis) - Connecticut Zoning Initiative
 - [JackDougherty/Leaflet-Coordinates-Control](https://github.com/JackDougherty/Leaflet-Coordinates-Control) - Captures mouseclick and displays its coordinates with easy way to copy them.
-- [netlify/netlify-cms](https://github.com/netlify/netlify-cms) - A Git-based CMS for Static Site Generators
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [JasonEtco/flintcms](https://github.com/JasonEtco/flintcms) - 🔥💥 A Node.js CMS
 - [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
@@ -3765,7 +3765,6 @@
 - [leemunroe/htmlemail](https://github.com/leemunroe/htmlemail) - Responsive HTML Email Templates
 - [plotly/documentation](https://github.com/plotly/documentation) - Issue tracker for Plotly's open-source documentation.
 - [yunlzheng/prometheus-book](https://github.com/yunlzheng/prometheus-book) - Prometheus操作指南
-- [stoplightio/studio-demo](https://github.com/stoplightio/studio-demo) - 
 - [BBC-Data-Unit/neighbourhood-police](https://github.com/BBC-Data-Unit/neighbourhood-police) - Neighbourhood police: One in seven officers axed were beat bobbies
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
