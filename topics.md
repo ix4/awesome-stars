@@ -1704,7 +1704,7 @@
 - [ianstormtaylor/permit](https://github.com/ianstormtaylor/permit) - An unopinionated authentication library for building Node.js APIs.
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [newtelco/CompanyVacations](https://github.com/newtelco/CompanyVacations) - ⛱️ Node App for managing Company Vacations
-- [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is a Node.js and JavaScript logging tool and service.
+- [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is the best self-hosted JavaScript and Node.js logging service.  Made for @forwardemail.
 - [samuelklam/real-estate-ecommerce](https://github.com/samuelklam/real-estate-ecommerce) - Real Estate Ecommerce Store built with Angular, Express, PostgreSQL and Node.js
 
 ## finance 
@@ -3430,7 +3430,7 @@
 
 - [ianstormtaylor/permit](https://github.com/ianstormtaylor/permit) - An unopinionated authentication library for building Node.js APIs.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
-- [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is a Node.js and JavaScript logging tool and service.
+- [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is the best self-hosted JavaScript and Node.js logging service.  Made for @forwardemail.
 
 ## kotlin 
 
@@ -4085,7 +4085,6 @@
 - [ekalinin/nodeenv](https://github.com/ekalinin/nodeenv) - Virtual environment for Node.js & integrator with virtualenv
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 - [opentok/opentok-rtc](https://github.com/opentok/opentok-rtc) - OpenTok demo application
-- [CivilServiceUSA/api](https://github.com/CivilServiceUSA/api) - Civil Services API - Available for Non Commercial Use
 - [sindresorhus/gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin) - Minify PNG, JPEG, GIF and SVG images
 - [vvo/gifify](https://github.com/vvo/gifify) - 😻 Convert any video file to an optimized animated GIF.
 - [CapacitorSet/box-js](https://github.com/CapacitorSet/box-js) - A tool for studying JavaScript malware.
@@ -4193,10 +4192,6 @@
 - [okfn/opendataday](https://github.com/okfn/opendataday) - Open Data Day website
 - [okfn/dataportals.org](https://github.com/okfn/dataportals.org) - Open Data Portals and Sites around the world
 - [okfn/okfn.github.com](https://github.com/okfn/okfn.github.com) - Open Knowledge Labs website (and general issue tracker).
-- [CivilServiceUSA/us-governors](https://github.com/CivilServiceUSA/us-governors) - United States Governors - Contact Information, including: Phone Number, Mailing Address, Official Website, Twitter & Facebook Accounts.
-- [CivilServiceUSA/us-house](https://github.com/CivilServiceUSA/us-house) - 117th United States House of Representatives - Contact Information, including: Phone Number, Mailing Address, Official Website, Twitter & Facebook Accounts.
-- [CivilServiceUSA/api](https://github.com/CivilServiceUSA/api) - Civil Services API - Available for Non Commercial Use
-- [CivilServiceUSA/us-senate](https://github.com/CivilServiceUSA/us-senate) - 117th United States Senate - View Contact Information for United States Senators, including: Phone Number, Mailing Address, Official Website, Twitter & Facebook Accounts.
 - [cityofaustin/atd-data-and-performance](https://github.com/cityofaustin/atd-data-and-performance) - Open data and performance hub for the City of Austin Transportation Department
 - [flexyourrights/openpolice](https://github.com/flexyourrights/openpolice) - OpenPolice empowers people to prepare, file, and track police misconduct complaints. By allowing users to publish reports online, we aim to establish an independent and transparent repository of polic
 - [Chicago/food-inspections-evaluation](https://github.com/Chicago/food-inspections-evaluation) - This repository contains the code to generate predictions of critical violations at food establishments in Chicago. It also contains the results of an evaluation of the effectiveness of those predicti
@@ -6366,7 +6361,6 @@
 - [jsvine/nbpreview](https://github.com/jsvine/nbpreview) - Render Jupyter/IPython notebooks without running a notebook server.
 - [jsvine/pdfplumber](https://github.com/jsvine/pdfplumber) - Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.
 - [18F/content-guide](https://github.com/18F/content-guide) - 18F Content Guide
-- [CivilServiceUSA/civil-services-geojson-app](https://github.com/CivilServiceUSA/civil-services-geojson-app) - Electron App for Loading GeoJSON files with Mapbox
 - [soundpress/nycadministrativecode](https://github.com/soundpress/nycadministrativecode) - NYC Administratie Code
 - [cfpb/DOCter](https://github.com/cfpb/DOCter) - A Jekyll template for project documentation
 - [eregs/eregs.github.io](https://github.com/eregs/eregs.github.io) - Documentation for the eRegulations project.
@@ -7305,7 +7299,6 @@
 - [mkearney/presidential_election_county_results_2016](https://github.com/mkearney/presidential_election_county_results_2016) - 🏁 presidential_election_county_results_2016
 - [cloud-gov/pages-uswds-jekyll](https://github.com/cloud-gov/pages-uswds-jekyll) - Reference implementation of USWDS 2.0 for Jekyll on Federalist.  Demo -&gt;
 - [gka/todayspaper](https://github.com/gka/todayspaper) - Direct-link to today's NYT frontpage PDF (for bookmarking purposes)
-- [CivilServiceUSA/us-states](https://github.com/CivilServiceUSA/us-states) - United States Data, State Flags, State Seals, Maps & Landscape / Skyline Background Images ( JSON, XML, CSV, SQL & YML formats )
 - [mapbox/mapboxgl-jupyter](https://github.com/mapbox/mapboxgl-jupyter) - Use Mapbox GL JS to visualize data in a Python Jupyter notebook
 - [simonepri/geo-maps](https://github.com/simonepri/geo-maps) - 🗺 High Quality GeoJSON maps programmatically generated.
 - [nasa-gibs/gibs-web-examples](https://github.com/nasa-gibs/gibs-web-examples) - Examples of using GIBS with various web mapping libraries
@@ -8049,7 +8042,7 @@
 - [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
 - [necolas/react-native-web](https://github.com/necolas/react-native-web) - Cross-platform React UI packages
 - [Secretmapper/combustion](https://github.com/Secretmapper/combustion) - Combustion is a sleek, modern web interface for Transmission
-- [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is a Node.js and JavaScript logging tool and service.
+- [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is the best self-hosted JavaScript and Node.js logging service.  Made for @forwardemail.
 - [postlight/robo-chart-web](https://github.com/postlight/robo-chart-web) - 📊 Transform Google sheets to pretty charts!
 - [postlight/react-google-sheet-to-chart](https://github.com/postlight/react-google-sheet-to-chart) - 📊 React component that renders Google Sheets as attractive charts with minimum effort
 - [darekkay/dashboard](https://github.com/darekkay/dashboard) - Customizable personal dashboard and startpage
@@ -8091,7 +8084,7 @@
 - [oblador/react-native-keychain](https://github.com/oblador/react-native-keychain) - :key: Keychain Access for React Native
 - [zsajjad/react-native-text-detector](https://github.com/zsajjad/react-native-text-detector) - Text Detector from image for react native using firebase MLKit on android and Tesseract on iOS
 - [necolas/react-native-web](https://github.com/necolas/react-native-web) - Cross-platform React UI packages
-- [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is a Node.js and JavaScript logging tool and service.
+- [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is the best self-hosted JavaScript and Node.js logging service.  Made for @forwardemail.
 - [sidevesh/react-native-material-cards](https://github.com/sidevesh/react-native-material-cards) - A material design card component, customizable and versatile
 - [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
