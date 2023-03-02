@@ -2731,11 +2731,6 @@
 - [versatica/JsSIP](https://github.com/versatica/JsSIP) - JsSIP, the JavaScript SIP library
 - [youtube/spfjs](https://github.com/youtube/spfjs) - A lightweight JS framework for fast navigation and page updates from YouTube
 - [jsvine/notebookjs](https://github.com/jsvine/notebookjs) - Render Jupyter/IPython notebooks on the fly, in the browser. (Or on the command line, if you'd like.)
-- [CivilServiceUSA/us-governors](https://github.com/CivilServiceUSA/us-governors) - United States Governors - Contact Information, including: Phone Number, Mailing Address, Official Website, Twitter & Facebook Accounts.
-- [CivilServiceUSA/us-house](https://github.com/CivilServiceUSA/us-house) - 117th United States House of Representatives - Contact Information, including: Phone Number, Mailing Address, Official Website, Twitter & Facebook Accounts.
-- [CivilServiceUSA/api](https://github.com/CivilServiceUSA/api) - Civil Services API - Available for Non Commercial Use
-- [CivilServiceUSA/civil-services-geojson-app](https://github.com/CivilServiceUSA/civil-services-geojson-app) - Electron App for Loading GeoJSON files with Mapbox
-- [CivilServiceUSA/us-senate](https://github.com/CivilServiceUSA/us-senate) - 117th United States Senate - View Contact Information for United States Senators, including: Phone Number, Mailing Address, Official Website, Twitter & Facebook Accounts.
 - [FCC/c2hgis-web](https://github.com/FCC/c2hgis-web) - Connect2Health - Mapping Broadband Health in America
 - [FCC/contours-api-node](https://github.com/FCC/contours-api-node) - Enterprise Contours Node API
 - [FCC/pirateaction2](https://github.com/FCC/pirateaction2) - pirate action version 2
@@ -3002,7 +2997,7 @@
 - [webrecorder/webrecorder-player](https://github.com/webrecorder/webrecorder-player) - Webrecorder Player for Desktop (OSX/Windows/Linux). (Built with Electron + Webrecorder)
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [nwjs/nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
-- [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is a Node.js and JavaScript logging tool and service.
+- [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is the best self-hosted JavaScript and Node.js logging service.  Made for @forwardemail.
 - [forwardemail/free-email-forwarding](https://github.com/forwardemail/free-email-forwarding) - The best free email forwarding for custom domains.  Visit our website to get started (SMTP server)
 - [jeremiak/jekyll-offline](https://github.com/jeremiak/jekyll-offline) - jekyll plugin to use service workers and make site content available offline
 - [lmangani/gunstore.io](https://github.com/lmangani/gunstore.io) - Store your data in Gun DB by sending simple HTTP requests - based on jsonstore.io :floppy_disk: :rocket:
@@ -3451,7 +3446,6 @@
 - [michael-lynch/open-weather](https://github.com/michael-lynch/open-weather) - A simple, lightweight jQuery plugin used to display the current weather of any city using the free OpenWeatherMap API.
 - [nityanandagohain/keep_clone](https://github.com/nityanandagohain/keep_clone) - a google keep clone
 - [Milleus/tessara](https://github.com/Milleus/tessara) - records Telegram chat messages and store in Google Sheets.
-- [CivilServiceUSA/us-states](https://github.com/CivilServiceUSA/us-states) - United States Data, State Flags, State Seals, Maps & Landscape / Skyline Background Images ( JSON, XML, CSV, SQL & YML formats )
 - [matteocontrini/node-bypasser](https://github.com/matteocontrini/node-bypasser) - Bypass URL shortener websites
 - [htmlcsstoimage/docs](https://github.com/htmlcsstoimage/docs) - The API for generating high quality images from HTML/CSS.
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
