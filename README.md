@@ -975,7 +975,7 @@
 - [lowtechmag/solar](https://github.com/lowtechmag/solar) - Pelican theme for solar powered version of lowtechmagazine.com
 - [rviscomi/ismyhostfastyet](https://github.com/rviscomi/ismyhostfastyet) - A leaderboard of hosting providers' TTFB performance
 - [tomayac/pwa-feature-detector](https://github.com/tomayac/pwa-feature-detector) - Progressive Web App 🕵️ Feature Detector
-- [unicode-table/unicode-table-data](https://github.com/unicode-table/unicode-table-data) - Data for unicode-table.com
+- [unicode-table/symbl-data](https://github.com/unicode-table/symbl-data) - UNICODE Characters for SYMBL.CC
 - [spotify/coordinator](https://github.com/spotify/coordinator) - A visual interface for turning an SVG into XY coördinates.
 - [jeromeetienne/AR.js](https://github.com/jeromeetienne/AR.js) - Efficient Augmented Reality for the Web - 60fps on mobile!
 - [amiaopensource/cable-bible](https://github.com/amiaopensource/cable-bible) - A guide to cables and connectors used for audiovisual tech
@@ -2900,6 +2900,7 @@
 - [rstudio/bookdown](https://github.com/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown
 - [Code-dot-mil/code.mil](https://github.com/Code-dot-mil/code.mil) - An experiment in open source at the Department of Defense.
 - [harvard-lil/perma](https://github.com/harvard-lil/perma) - Indelible links
+- [harvard-lil/h2o](https://github.com/harvard-lil/h2o) - H2O is a web app for creating and reading open educational resources, primarily in the legal field
 - [freelawproject/free.law](https://github.com/freelawproject/free.law) - The homepage for Free Law Project
 - [regardscitoyens/the-law-factory](https://github.com/regardscitoyens/the-law-factory) - Track the french law-making process
 - [btplat/map-data](https://github.com/btplat/map-data) - Repo for the map data, eg geojson layers
@@ -4571,7 +4572,6 @@
 - [eregs/regulations-site](https://github.com/eregs/regulations-site) - Web interface for viewing U.S. federal regulations and other regulatory information
 - [datamade/probablepeople](https://github.com/datamade/probablepeople) - :family: a python library for parsing unstructured western names into name components.
 - [openstates/openstates-scrapers](https://github.com/openstates/openstates-scrapers) - source for Open States scrapers
-- [harvard-lil/h2o](https://github.com/harvard-lil/h2o) - H2O is a web app for creating and reading open educational resources, primarily in the legal field
 - [harvard-lil/webrecorder](https://github.com/harvard-lil/webrecorder) - Web Archiving For All!
 - [JoshData/crs-reports-website](https://github.com/JoshData/crs-reports-website) - The build process for EveryCRSReport.com.
 - [adelevie/crs-reports-website](https://github.com/adelevie/crs-reports-website) - The build process for EveryCRSReport.com.
@@ -4617,7 +4617,7 @@
 - [khast3x/h8mail](https://github.com/khast3x/h8mail) - Email OSINT & Password breach hunting tool, locally or using premium services. Supports chasing down related email
 - [jonbakerfish/TweetScraper](https://github.com/jonbakerfish/TweetScraper) - TweetScraper is a simple crawler/spider for Twitter Search without using API
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
-- [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
+- [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by LittleSnitch.
 - [pamelafox/opml-generator](https://github.com/pamelafox/opml-generator) - An App Engine app that generates OPMLs from spreadsheets.
 - [m0rtem/CloudFail](https://github.com/m0rtem/CloudFail) - Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network
 - [christophetd/CloudFlair](https://github.com/christophetd/CloudFlair) - 🔎 Find origin servers of websites behind CloudFlare by using Internet-wide scan data from Censys.
@@ -5434,7 +5434,7 @@
 - [joeferner/node-http-mitm-proxy](https://github.com/joeferner/node-http-mitm-proxy) - HTTP Man In The Middle (MITM) Proxy
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [zhongsp/TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org
-- [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ A library for building performant and instant search experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
+- [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ Libraries for building performant and instant search experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [obs-websocket-community-projects/obs-websocket-js](https://github.com/obs-websocket-community-projects/obs-websocket-js) - Consumes https://github.com/obsproject/obs-websocket
 - [google/emoji-scavenger-hunt](https://github.com/google/emoji-scavenger-hunt) - Emoji Scavenger Hunt is an experiment that leverages the power of neural networks and your phone’s camera to identify the real world versions of the emojis we use every day.
