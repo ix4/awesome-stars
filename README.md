@@ -975,7 +975,7 @@
 - [lowtechmag/solar](https://github.com/lowtechmag/solar) - Pelican theme for solar powered version of lowtechmagazine.com
 - [rviscomi/ismyhostfastyet](https://github.com/rviscomi/ismyhostfastyet) - A leaderboard of hosting providers' TTFB performance
 - [tomayac/pwa-feature-detector](https://github.com/tomayac/pwa-feature-detector) - Progressive Web App 🕵️ Feature Detector
-- [unicode-table/symbl-data](https://github.com/unicode-table/symbl-data) - UNICODE Characters for SYMBL.CC
+- [symbl-cc/symbl-data](https://github.com/symbl-cc/symbl-data) - UNICODE Characters for SYMBL.CC
 - [spotify/coordinator](https://github.com/spotify/coordinator) - A visual interface for turning an SVG into XY coördinates.
 - [jeromeetienne/AR.js](https://github.com/jeromeetienne/AR.js) - Efficient Augmented Reality for the Web - 60fps on mobile!
 - [amiaopensource/cable-bible](https://github.com/amiaopensource/cable-bible) - A guide to cables and connectors used for audiovisual tech
@@ -4617,7 +4617,7 @@
 - [khast3x/h8mail](https://github.com/khast3x/h8mail) - Email OSINT & Password breach hunting tool, locally or using premium services. Supports chasing down related email
 - [jonbakerfish/TweetScraper](https://github.com/jonbakerfish/TweetScraper) - TweetScraper is a simple crawler/spider for Twitter Search without using API
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
-- [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by LittleSnitch.
+- [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [pamelafox/opml-generator](https://github.com/pamelafox/opml-generator) - An App Engine app that generates OPMLs from spreadsheets.
 - [m0rtem/CloudFail](https://github.com/m0rtem/CloudFail) - Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network
 - [christophetd/CloudFlair](https://github.com/christophetd/CloudFlair) - 🔎 Find origin servers of websites behind CloudFlare by using Internet-wide scan data from Censys.
