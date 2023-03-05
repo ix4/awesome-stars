@@ -128,6 +128,7 @@
 - [linux](#linux)
 - [localization](#localization)
 - [lua](#lua)
+- [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
@@ -1647,7 +1648,7 @@
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [labnol/pixel-art](https://github.com/labnol/pixel-art) - Make pixel paintings with Google Spreadsheets
 - [mburakerman/clap-emoji-generator](https://github.com/mburakerman/clap-emoji-generator) - Don't 👏 stop 👏🏻 emphasizing 👏🏼 your 👏🏽 point 👏🏾 by 👏🏿 putting 👏 clap 👏🏻 emojis 👏🏼 after 👏🏽 every 👏🏾 word
-- [unicode-table/symbl-data](https://github.com/unicode-table/symbl-data) - UNICODE Characters for SYMBL.CC
+- [symbl-cc/symbl-data](https://github.com/symbl-cc/symbl-data) - UNICODE Characters for SYMBL.CC
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
 - [amitmerchant1990/markdownify-web](https://github.com/amitmerchant1990/markdownify-web) - :orange_book: Web version of Markdownify app. (Not actively maintaining)
 - [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify) - :closed_book: A minimal Markdown editor desktop app
@@ -1660,7 +1661,7 @@
 ## english 
 
 - [words/subtlex-word-frequencies](https://github.com/words/subtlex-word-frequencies) - A list of words from the SUBTLEX movie subtitles corpus, sorted by frequency.
-- [unicode-table/symbl-data](https://github.com/unicode-table/symbl-data) - UNICODE Characters for SYMBL.CC
+- [symbl-cc/symbl-data](https://github.com/symbl-cc/symbl-data) - UNICODE Characters for SYMBL.CC
 
 ## es6 
 
@@ -3619,7 +3620,7 @@
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
 - [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy) - A full fledged GUI integration for the award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
-- [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by LittleSnitch.
+- [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [ramboxapp/community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
@@ -3639,6 +3640,13 @@
 
 - [akopytov/sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark
 - [danog/MadelineProto](https://github.com/danog/MadelineProto) - Async PHP client API for the telegram MTProto protocol
+
+## mac 
+
+- [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
+- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+- [OpenNewsLabs/autoEdit_2](https://github.com/OpenNewsLabs/autoEdit_2) - Fast text based video editing, node Electron Os X desktop app, with Backbone front end.
+- [jackd248/temps](https://github.com/jackd248/temps) - Simple menubar application based on Electron with actual weather information and forecast.
 
 ## machine-learning 
 
@@ -8334,7 +8342,7 @@
 - [mozilla/MozDef](https://github.com/mozilla/MozDef) - DEPRECATED - MozDef: Mozilla Enterprise Defense Platform
 - [google/timesketch](https://github.com/google/timesketch) - Collaborative forensic timeline analysis
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
-- [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by LittleSnitch.
+- [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [spyoungtech/hikvision-recover](https://github.com/spyoungtech/hikvision-recover) - Command-line tool for generating recovery codes for Hikvision IP Cameras
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
