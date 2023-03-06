@@ -1079,7 +1079,7 @@
 - [una/CSSgram](https://github.com/una/CSSgram) - CSS library for Instagram filters
 - [neocities/neocities](https://github.com/neocities/neocities) - Neocities.org - the web site. The entire thing. Yep, we're completely open source.
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
-- [AnthumChris/fetch-progress-indicators](https://github.com/AnthumChris/fetch-progress-indicators) - Progress indicators/bars using Streams, Service Workers, and Fetch APIs
+- [anthumchris/fetch-progress-indicators](https://github.com/anthumchris/fetch-progress-indicators) - Progress indicators/bars using Streams, Service Workers, and Fetch APIs
 - [annevk/live-url-viewer](https://github.com/annevk/live-url-viewer) - Live URL Viewer
 - [samdutton/simpl](https://github.com/samdutton/simpl) - Simplest possible examples of HTML, CSS and Javascript:
 - [openstreetmap/stateofthemap-2019](https://github.com/openstreetmap/stateofthemap-2019) - State of the Map 2019 website
@@ -2828,7 +2828,7 @@
 - [webrtcHacks/adapter](https://github.com/webrtcHacks/adapter) - Shim to insulate apps from spec changes and prefix differences. Latest adapter.js release:
 - [webrtc/test-pages](https://github.com/webrtc/test-pages) - Collection of test pages used for WebRTC development
 - [webrtc/FirebaseRTC](https://github.com/webrtc/FirebaseRTC) - Codelab for building a WebRTC Video chat application using Firebase Cloudstore.
-- [AnthumChris/fetch-stream-audio](https://github.com/AnthumChris/fetch-stream-audio) - Low Latency web audio playback examples for decoding audio streams in chunks with Fetch & Streams APIs
+- [anthumchris/fetch-stream-audio](https://github.com/anthumchris/fetch-stream-audio) - Low Latency web audio playback examples for decoding audio streams in chunks with Fetch & Streams APIs
 - [annevk/url](https://github.com/annevk/url) - URL parser in JavaScript
 - [jsdom/whatwg-url](https://github.com/jsdom/whatwg-url) - An implementation of the WHATWG URL Standard in JavaScript
 - [w3c/webvtt.js](https://github.com/w3c/webvtt.js) - WebVTT parser and validator
@@ -5517,7 +5517,7 @@
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 - [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
 - [common-voice/common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
-- [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - ReactJS based Presentation Library
+- [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - A React-based library for creating sleek presentations using JSX syntax that gives you the ability to live demo your code.
 - [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
