@@ -3466,6 +3466,7 @@
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [zachwhalen/ssbot](https://github.com/zachwhalen/ssbot) - A Google Spreadsheet engine for a Twitter bot.
 - [sindresorhus/pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [nuket/google-sheets-geocoding-macro](https://github.com/nuket/google-sheets-geocoding-macro) - Geocode from addresses to latitude / longitude, and vice versa using Google Sheets
 - [lindell/JsBarcode](https://github.com/lindell/JsBarcode) - Barcode generation library written in JavaScript that works in both the browser and on Node.js
 - [kylestetz/slang](https://github.com/kylestetz/slang) - 🎤 a simple audio programming language implemented in JS
