@@ -98,6 +98,7 @@
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
+- [home-assistant](#home-assistant)
 - [html](#html)
 - [html5](#html5)
 - [http](#http)
@@ -2368,6 +2369,25 @@
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 
+## home-assistant 
+
+- [cisasteelersfan/quantum_gateway](https://github.com/cisasteelersfan/quantum_gateway) - Verizon Fios Quantum Gateway querying library for use with Home Assistant
+- [thejeffreystone/home-assistant-configuration](https://github.com/thejeffreystone/home-assistant-configuration) - My Old Home Assistant Config. For more Information visit -&gt;
+- [moralmunky/Home-Assistant-Mail-And-Packages](https://github.com/moralmunky/Home-Assistant-Mail-And-Packages) - Home Assistant integration providing day of package counts and USPS informed delivery images.
+- [bkbilly/AlarmPI](https://github.com/bkbilly/AlarmPI) - 🚨 Home Security Intrusion Detection for Raspberry PI or any other linux OS
+- [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
+- [maddox/mac-api](https://github.com/maddox/mac-api) - Command your Mac from afar
+- [maddox/magic-cards](https://github.com/maddox/magic-cards) - 🎩 Queue music, play movies, or trigger events with RFID cards.
+- [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
+- [1technophile/OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - MQTT gateway for ESP8266, ESP32, Sonoff RF Bridge or Arduino with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, Bluetooth, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC,
+- [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
+- [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
+- [joeyyf/homeassistant-config](https://github.com/joeyyf/homeassistant-config) - Home assistant configuration
+- [romquenin/home-assistant-config-fr](https://github.com/romquenin/home-assistant-config-fr) - 🏠Configuration de Home Assistant en français. 👨🏻‍💻 N'hésitez pas à ⭐ mon repo et à copier les bonnes idées ! 🇨🇵
+- [pkozul/ha-floorplan](https://github.com/pkozul/ha-floorplan) - Floorplan for Home Assistant
+- [home-assistant/home-assistant-js-websocket](https://github.com/home-assistant/home-assistant-js-websocket) - :aerial_tramway: JavaScript websocket client for Home Assistant
+- [casenjo/home-assistant-config](https://github.com/casenjo/home-assistant-config) - Home Assistant config setup using Docker, includes Zwavejs2Mqtt and Mosquitto
+
 ## html 
 
 - [MarketingPipeline/Markdown-Tag](https://github.com/MarketingPipeline/Markdown-Tag) - Render Markdown to HTML on any website using a md tag
@@ -4371,7 +4391,6 @@
 - [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
 - [jsonsystems/json-schema](https://github.com/jsonsystems/json-schema) - JSONSchema.Net Public Repository
 - [l3x/helpers](https://github.com/l3x/helpers) - Helpful scripts
-- [cisasteelersfan/quantum_gateway](https://github.com/cisasteelersfan/quantum_gateway) - Verizon Fios Quantum Gateway querying library for use with Home Assistant
 - [prasmussen/gdrive](https://github.com/prasmussen/gdrive) - Google Drive CLI Client
 - [progrium/bashstyle](https://github.com/progrium/bashstyle) - Let's do Bash right!
 - [anishathalye/seashells](https://github.com/anishathalye/seashells) - The official client for seashells.io 🐚
@@ -4444,7 +4463,6 @@
 - [OsamaBinNaughty/FakeID-Barcode](https://github.com/OsamaBinNaughty/FakeID-Barcode) - Generator for fake ID barcodes. (Currently SC only, looking to expand).
 - [thejeffreystone/usps2mqtt](https://github.com/thejeffreystone/usps2mqtt) - A simple way to integrate USPS Informed Delivery to Home Assistant
 - [denis-wane/usps-email-reader](https://github.com/denis-wane/usps-email-reader) - Pull Images from your USPS Informed Delivery Feed (Gmail Only)
-- [moralmunky/Home-Assistant-Mail-And-Packages](https://github.com/moralmunky/Home-Assistant-Mail-And-Packages) - Home Assistant integration providing day of package counts and USPS informed delivery images.
 - [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) - The ultimate collection of scripts for YouTube-DL.
 - [borconi/AAGateWay](https://github.com/borconi/AAGateWay) - 
 - [TheUpshot/presidential-precinct-map-2020](https://github.com/TheUpshot/presidential-precinct-map-2020) - The GeoJSON dataset behind our nationwide precinct map of the 2020 presidential general election
@@ -5453,7 +5471,6 @@
 - [jigsawpieces/react-tv-guide](https://github.com/jigsawpieces/react-tv-guide) - TV guide showing what's on television for the current day using the TVMaze API
 - [google/youtube-8m](https://github.com/google/youtube-8m) - Starter code for working with the YouTube-8M dataset.
 - [Semantic-Org/Semantic-UI-Docs](https://github.com/Semantic-Org/Semantic-UI-Docs) - Official Documentation for Semantic UI
-- [joeyyf/homeassistant-config](https://github.com/joeyyf/homeassistant-config) - Home assistant configuration
 - [Seitenbau/BauPlan-Client](https://github.com/Seitenbau/BauPlan-Client) - Bauplan is an app to show the floor layout of an organization.
 - [allnash/d3-v4-floorplan](https://github.com/allnash/d3-v4-floorplan) - D3 - V4 Floor plan concept
 - [ekymoz/homeRoughEditor](https://github.com/ekymoz/homeRoughEditor) - Floorplan editor SVG to create houseplan and homeplan with Javascript for client
@@ -7326,6 +7343,7 @@
 - [zachwhalen/ssbot](https://github.com/zachwhalen/ssbot) - A Google Spreadsheet engine for a Twitter bot.
 - [microsoft/USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints) - Computer generated building footprints for the United States
 - [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [nuket/google-sheets-geocoding-macro](https://github.com/nuket/google-sheets-geocoding-macro) - Geocode from addresses to latitude / longitude, and vice versa using Google Sheets
 - [techcoop/json-google-docs](https://github.com/techcoop/json-google-docs) - Uses Google Apps Scripts with Google Docs to provide a document tree in JSON exposed on a GET URL for integration into anything.
 - [BuzzFeedNews/trumpworld](https://github.com/BuzzFeedNews/trumpworld) - TrumpWorld data as CSV and GraphML files
