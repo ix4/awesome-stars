@@ -1161,7 +1161,6 @@
 - [cfpb/django-college-costs-comparison](https://github.com/cfpb/django-college-costs-comparison) - A web app for comparing college financial aid offers
 - [M4cs/BlackEye-Python](https://github.com/M4cs/BlackEye-Python) - BlackEye Phishing Kit in Python w Serveo Subdomain Creation | Educational Purposes Only
 - [harvard-lil/capstone](https://github.com/harvard-lil/capstone) - CAP database scripts.
-- [LexPredict/lexpredict-lexnlp](https://github.com/LexPredict/lexpredict-lexnlp) - LexNLP by LexPredict
 - [tosdr/tosdr.org](https://github.com/tosdr/tosdr.org) - ARCHIVED Source code for tosdr.org
 - [jalbertbowden/va-crime](https://github.com/jalbertbowden/va-crime) - Virginia Open Criminal Justice Data - parsed and converted into web consumable, open data formats
 - [invinst/chicago-police-data](https://github.com/invinst/chicago-police-data) - a collection of public data re: CPD officers involved in police encounters
@@ -3539,6 +3538,7 @@
 - [chervonij/DFL-Colab](https://github.com/chervonij/DFL-Colab) - DeepFaceLab fork which provides IPython Notebook to use DFL with Google Colab
 - [denadai2/real-estate-neighborhood-prediction](https://github.com/denadai2/real-estate-neighborhood-prediction) - Code to repeat the experiments of "The economic value of neighborhoods: Predicting real estate prices from the urban environment"
 - [josephofiowa/pydata-dc-2018](https://github.com/josephofiowa/pydata-dc-2018) - @matthewbrems and I presented "Recreating, Understanding, and Visualizing FiveThirtyEight's Elections Forecast" at PyData DC 2018
+- [LexPredict/lexpredict-lexnlp](https://github.com/LexPredict/lexpredict-lexnlp) - LexNLP by LexPredict
 - [roberto1648/presidential-elections-from-a-data-science-perspective](https://github.com/roberto1648/presidential-elections-from-a-data-science-perspective) - An exploration of historical data on US presidential elections
 - [domoritz/pythonplot.com](https://github.com/domoritz/pythonplot.com) - 📈 Interactive comparison of Python plotting libraries for exploratory data analysis. Examples of using Pandas plotting, plotnine, Seaborn, and Matplotlib.
 - [justmarkham/trump-lies](https://github.com/justmarkham/trump-lies) - Tutorial: Web scraping in Python with Beautiful Soup
@@ -3699,6 +3699,7 @@
 - [humanetech-community/awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech) - Promoting Solutions that Improve Wellbeing, Freedom and Society
 - [opendevise/asciidoc-samples](https://github.com/opendevise/asciidoc-samples) - A repository of AsciiDoc source files for testing AsciiDoc rendering on GitHub.
 - [LineageOS/hudson](https://github.com/LineageOS/hudson) - 
+- [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [mattermost/mattermost-handbook](https://github.com/mattermost/mattermost-handbook) - Mattermost Community and Staff Handbook
 - [DCCouncil/dc-law-xml-codified](https://github.com/DCCouncil/dc-law-xml-codified) - Codified laws of the District of Columbia
 - [ongov/Inclusive-Design-Toolkit](https://github.com/ongov/Inclusive-Design-Toolkit) - Inclusive design is designing for the full range of human diversity in ability, language, income, culture, gender, age and other characteristics.
@@ -5142,7 +5143,7 @@
 - [Leviathan36/kaboom](https://github.com/Leviathan36/kaboom) - A tool to automate penetration tests
 - [htr-tech/nexphisher](https://github.com/htr-tech/nexphisher) - Advanced Phishing tool
 - [ohmybahgosh/MTV-YTDLP](https://github.com/ohmybahgosh/MTV-YTDLP) - Simple script using YT-DLP do download an episode from MTV.com, and then merge the resulting multiple output MP4 files using ffmpeg.  MTV episodes are split in to multiple MP4 files, so resulting outp
-- [termux/termux-packages](https://github.com/termux/termux-packages) - A build system and primary set of packages for Termux.
+- [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
 - [agneevX/home-assistant](https://github.com/agneevX/home-assistant) - Home Assistant lovelace layout and config
 - [pia-foss/desktop-dep-build](https://github.com/pia-foss/desktop-dep-build) - Build external dependencies for PIA Desktop
 - [iPherian/manual-connections](https://github.com/iPherian/manual-connections) - Scripts for manual connections to Private Internet Access
@@ -5374,7 +5375,6 @@
 - [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [fent/feedme.js](https://github.com/fent/feedme.js) - RSS/Atom/JSON feed parser
-- [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [Shopify/polaris](https://github.com/Shopify/polaris) - Shopify’s design system to help us work together to build a great experience for all of our merchants.
 - [mattermost/desktop](https://github.com/mattermost/desktop) - Mattermost Desktop application for Windows, Mac and Linux
 - [bcgov/business-create-ui](https://github.com/bcgov/business-create-ui) - BC Registry Services - Legal Entities - Create Incorporation Application
