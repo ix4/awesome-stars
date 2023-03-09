@@ -810,7 +810,6 @@
 - [18F/handbook](https://github.com/18F/handbook) - The home of policies and guidelines that make up TTS.
 - [18F/development-guide](https://github.com/18F/development-guide) - A set of guidelines and best practices for an awesome software engineering team
 - [mathjax/MathJax-demos-web](https://github.com/mathjax/MathJax-demos-web) - A repository with examples using mathjax-v3
-- [google/docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
 - [opensiddur/opensiddur](https://github.com/opensiddur/opensiddur) - The Open Siddur Project aims to produce a free software toolkit for making high-quality custom Jewish liturgical books such as haggadot, siddurim, and bentchers that can be displayed on screen or prin
 - [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
 - [cheeaun/life](https://github.com/cheeaun/life) - Life - a timeline of important events in my life
@@ -1707,6 +1706,7 @@
 - [words/syllable](https://github.com/words/syllable) - Count syllables in an English word
 - [words/flesch](https://github.com/words/flesch) - Formula to detect the ease of reading a text according to Flesch Reading Ease (1975)
 - [google/site-kit-wp](https://github.com/google/site-kit-wp) - Site Kit is a one-stop solution for WordPress users to use everything Google has to offer to make them successful on the web.
+- [google/docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
 - [retextjs/retext](https://github.com/retextjs/retext) - natural language processor powered by plugins part of the @unifiedjs collective
 - [remarkjs/remark-man](https://github.com/remarkjs/remark-man) - plugin to compile markdown to man pages
 - [words/emoji-emotion](https://github.com/words/emoji-emotion) - List of emoji rated for valence
