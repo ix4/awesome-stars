@@ -1045,6 +1045,7 @@
 - [ganlanyuan/tiny-slider](https://github.com/ganlanyuan/tiny-slider) - Vanilla javascript slider for all purposes.
 - [propublica/facebook-political-ads](https://github.com/propublica/facebook-political-ads) - Monitoring Facebook Political Ads
 - [curran/data](https://github.com/curran/data) - A collection of public data sets
+- [usnistgov/pfhub](https://github.com/usnistgov/pfhub) - The CHiMaD Phase Field Community Website
 - [srfdata/srfdata.github.io](https://github.com/srfdata/srfdata.github.io) - GitHub Page of SRF Data
 - [naver/egjs-visible](https://github.com/naver/egjs-visible) - A class that checks if an element is visible in the base element or viewport.
 - [hammerjs/hammerjs.github.io](https://github.com/hammerjs/hammerjs.github.io) - Website
@@ -1478,7 +1479,7 @@
 - [nteract/semiotic](https://github.com/nteract/semiotic) - A data visualization framework combining React & D3
 - [susielu/d3-legend](https://github.com/susielu/d3-legend) - A reusable d3 legend component.
 - [SmartThingsCommunity/generator-smartthings](https://github.com/SmartThingsCommunity/generator-smartthings) - Yeoman generator to bootstrap a SmartThings Cloud SDK-based app
-- [zhaojh329/oui](https://github.com/zhaojh329/oui) - 🐛  A framework used to develop Web interface for OpenWrt. Use Nginx + Vue3 + Lua.
+- [zhaojh329/oui](https://github.com/zhaojh329/oui) - 🐛  A framework used to develop Web interface for OpenWrt. Use Lua-eco + Vue3 + Vite + Naive-ui.
 - [shadowsocks/shadowsocks-manager](https://github.com/shadowsocks/shadowsocks-manager) - A shadowsocks manager tool for multi user and traffic control.
 - [VincentChanX/shadowsocks-over-websocket](https://github.com/VincentChanX/shadowsocks-over-websocket) - 免费使用 Heroku 部署 shadowsocks
 - [neherlab/covid19_scenarios](https://github.com/neherlab/covid19_scenarios) - Models of COVID-19 outbreak trajectories and hospital demand
@@ -3526,7 +3527,6 @@
 - [jcjohnson/densecap](https://github.com/jcjohnson/densecap) - Dense image captioning in Torch
 - [hooram/ownphotos](https://github.com/hooram/ownphotos) - Self hosted alternative to Google Photos
 - [udacity/P1_Facial_Keypoints](https://github.com/udacity/P1_Facial_Keypoints) - First project for CVND: facial keypoint detection.
-- [usnistgov/pfhub](https://github.com/usnistgov/pfhub) - The CHiMaD Phase Field Community Website
 - [datawrapper/snippets](https://github.com/datawrapper/snippets) - ✂ Small but useful code snippets from folks who work at Datawrapper
 - [google/patents-public-data](https://github.com/google/patents-public-data) - Patent analysis using the Google Patents Public Datasets on BigQuery
 - [vsyw/Keras-OpenFace](https://github.com/vsyw/Keras-OpenFace) - Keras-OpenFace is a project converting OpenFace from Torch implementation to a Keras version
