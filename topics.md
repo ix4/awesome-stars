@@ -214,6 +214,7 @@
 - [virtual-reality](#virtual-reality)
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
+- [vuejs](#vuejs)
 - [wagtail](#wagtail)
 - [web](#web)
 - [web-components](#web-components)
@@ -4372,7 +4373,6 @@
 - [troyhunt/password-purgatory](https://github.com/troyhunt/password-purgatory) - Deliberately making password creation a true hell
 - [arevindh/AdminLTE](https://github.com/arevindh/AdminLTE) - Pi-hole Dashboard for stats and more
 - [open-austin/ballotapi](https://github.com/open-austin/ballotapi) - Ballots for developers - https://ballotapi.org/
-- [mattrothenberg/streeteasy-ads](https://github.com/mattrothenberg/streeteasy-ads) - Build your very own "Find Your Place" Streeteasy Ad
 - [json-schema-faker/json-schema-faker](https://github.com/json-schema-faker/json-schema-faker) - JSON-Schema + fake data generators
 - [freeotp/freeotp.github.io](https://github.com/freeotp/freeotp.github.io) - 
 - [Cherry/placeholders.dev](https://github.com/Cherry/placeholders.dev) - Generate custom placeholder images, powered by Cloudflare Workers in 200+ edge locations
@@ -4699,7 +4699,7 @@
 - [StephSaephan/QGIS-USGS-TNM-Style-Template](https://github.com/StephSaephan/QGIS-USGS-TNM-Style-Template) - Working draft to re-create USGS TNM Style Template for use in QGIS
 - [StephSaephan/leaflet-map-example](https://github.com/StephSaephan/leaflet-map-example) - A simple leaflet map example
 - [StephSaephan/QGIS-ESRI-Converted-Styles](https://github.com/StephSaephan/QGIS-ESRI-Converted-Styles) - QGIS XML styles converted from ESRI styles using SLYR tool
-- [Saijin-Naib/QGIS-ESRI-Converted-Palettes](https://github.com/Saijin-Naib/QGIS-ESRI-Converted-Palettes) - QGIS GPL palettes converted from ESRI styles using SLYR tool
+- [Carlocktography/QGIS-ESRI-Converted-Palettes](https://github.com/Carlocktography/QGIS-ESRI-Converted-Palettes) - QGIS GPL palettes converted from ESRI styles using SLYR tool
 - [gavinr/web-appbuilder-bikeshare](https://github.com/gavinr/web-appbuilder-bikeshare) - Custom Web Appbuilder widget that allows display of GBFS bikeshare locations.
 - [codeforamerica/honeycrisp-gem](https://github.com/codeforamerica/honeycrisp-gem) - A Rails gem with base styles and Javascript for Code for America products
 - [codeforamerica/citygram](https://github.com/codeforamerica/citygram) - Subscribe to your city.
@@ -5317,7 +5317,6 @@
 - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 - [minicomp/wiki](https://github.com/minicomp/wiki) - where the docs live!
 - [minicomp/ed](https://github.com/minicomp/ed) - A Jekyll theme for minimal editions :book:
-- [forestryio/portfolio-vuepress](https://github.com/forestryio/portfolio-vuepress) - Vuepress portfolio
 - [forestryio/ubuild-jekyll](https://github.com/forestryio/ubuild-jekyll) - A Jekyll theme designed to work with Forestry Blocks
 - [vinitkumar/gist-browser](https://github.com/vinitkumar/gist-browser) - Real time Gist monitor
 - [andrewbanchich/phantom-jekyll-theme](https://github.com/andrewbanchich/phantom-jekyll-theme) - A Jekyll version of the "Phantom" theme by HTML5 UP.
@@ -7047,7 +7046,7 @@
 - [censusreporter/censusreporter](https://github.com/censusreporter/censusreporter) - Census Reporter is a Knight News Challenge-funded project to make it easier for journalists to write stories using information from the U.S. Census bureau.
 - [Kylmakalle/Telescopy](https://github.com/Kylmakalle/Telescopy) - Telegram Bot that converts square Videos to Video Messages
 - [faisalman/simple-excel-php](https://github.com/faisalman/simple-excel-php) - Simplexcel.php - Easily read / parse / convert / write between Microsoft Excel XML / CSV / TSV / HTML / JSON / etc spreadsheet tabular file formats
-- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - Detect Browser, Engine, OS, CPU, and Device type/model from User-Agent data. Supports browser & node.js environment.
+- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - Detect Browser, Engine, OS, CPU, and Device type/model from User-Agent & Client-Hints data. Supports browser & node.js environment.
 - [crazko/post-social-image](https://github.com/crazko/post-social-image) - 🖼 Creates images suitable for social sharing
 - [beeman/micro-unfurl](https://github.com/beeman/micro-unfurl) - Small microservice that unfurls a URL and returns the OpenGraph meta data
 - [jekyll-octopod/jekyll-octopod](https://github.com/jekyll-octopod/jekyll-octopod) - Podcast publishing extension for Jekyll
@@ -8879,6 +8878,39 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [ashtonlance/watch-the-sky-space](https://github.com/ashtonlance/watch-the-sky-space) - Displays the night's conditions for star gazing
 - [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
+
+## vuejs 
+
+- [mattrothenberg/streeteasy-ads](https://github.com/mattrothenberg/streeteasy-ads) - Build your very own "Find Your Place" Streeteasy Ad
+- [rainner/binance-watch](https://github.com/rainner/binance-watch) - This application connects to the Binance.com public API to get live 24h price change data for all crypto trading pairs on their platform and allows you to set custom alerts or watch for price change i
+- [epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Free and Beautiful Vue 3 Admin Template
+- [ashtonmeuser/vue-cloudwatch-dashboard](https://github.com/ashtonmeuser/vue-cloudwatch-dashboard) - A simple live dashboard for CloudWatch metrics
+- [mattbrailsford/vuepoint](https://github.com/mattbrailsford/vuepoint) - A vuejs based dashboard framework
+- [egoist/poi](https://github.com/egoist/poi) - ⚡A zero-config bundler for JavaScript applications.
+- [gavinr/arcgis-json-to-geojson](https://github.com/gavinr/arcgis-json-to-geojson) - ArcGIS JSON to GeoJSON
+- [bcgov/gwells](https://github.com/bcgov/gwells) - Groundwater Wells and Aquifers application for the Ministry of Environment
+- [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
+- [ernestii/vuelibs.org](https://github.com/ernestii/vuelibs.org) - A list of Vue.js libraries and plugins based on the Awesome-Vue repo
+- [kefranabg/bento-starter](https://github.com/kefranabg/bento-starter) - :bento: Full-Stack solution to quickly build PWA applications with Vue.js and Firebase
+- [apertureless/vue-cookie-law](https://github.com/apertureless/vue-cookie-law) - 🍪 👮 Hackable EU Cookie Law Plugin for Vue.js
+- [rvdleun/onoffice](https://github.com/rvdleun/onoffice) - The open-source Virtual Office, powered by WebVR
+- [planetoftheweb/seven](https://github.com/planetoftheweb/seven) - Eleventy template using Bootstrap, Sass, Webpack, Vue.js powered search, includes lots of other features
+- [forestryio/portfolio-vuepress](https://github.com/forestryio/portfolio-vuepress) - Vuepress portfolio
+- [apertureless/vue-chartjs](https://github.com/apertureless/vue-chartjs) - 📊  Vue.js wrapper for Chart.js
+- [lusaxweb/vue-share](https://github.com/lusaxweb/vue-share) - Vuejs News Links
+- [lusaxweb/vuesax](https://github.com/lusaxweb/vuesax) - New Framework Components for Vue.js 2
+- [lusaxweb/vuenut](https://github.com/lusaxweb/vuenut) - ⚙️ Developer tools for vue js (Vuex)
+- [MetinSeylan/Vue-Socket.io](https://github.com/MetinSeylan/Vue-Socket.io) - 😻 Socket.io implementation for Vuejs and Vuex
+- [vuestorefront/storefront-ui](https://github.com/vuestorefront/storefront-ui) - Customization-first, performance-oriented and elegant UI framework for eCommerce (and not only) based on Vue.js and Google Retail UX Playbook. Made with 💚 by Vue Storefront team and contributors.
+- [sdras/vue-hooks-foodapp](https://github.com/sdras/vue-hooks-foodapp) - A food app using a few hooks in Vue to show how they can work (experimental)
+- [sdras/page-transitions-travelapp](https://github.com/sdras/page-transitions-travelapp) - Travel App, Native-like Page Transitions
+- [sdras/vue-directory-tree](https://github.com/sdras/vue-directory-tree) - A visualization of relevant files for vue repo, along with notes
+- [soal/vue-mapbox](https://github.com/soal/vue-mapbox) - Vuejs 2 components for interacting with mapbox-gl-js
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
+- [LucasLeandro1204/vue-content-loading](https://github.com/LucasLeandro1204/vue-content-loading) - Vue component to easily build (or use presets) SVG loading cards Facebook like.
+- [etewiah/pwb-admin-vuetify](https://github.com/etewiah/pwb-admin-vuetify) - New admin interface for PropertyWebBuilder
+- [ashtonlance/watch-the-sky-space](https://github.com/ashtonlance/watch-the-sky-space) - Displays the night's conditions for star gazing
 
 ## wagtail 
 
