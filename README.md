@@ -3254,7 +3254,7 @@
 - [ivanseidel/Is-Now-Illegal](https://github.com/ivanseidel/Is-Now-Illegal) - 🚫 A NERD protest against Trump's Immigration ban
 - [mooz/node-pdf-image](https://github.com/mooz/node-pdf-image) - Provides an interface to convert PDF's pages to png files in Node.js by using ImageMagick
 - [kohchihao/pdf2ppt](https://github.com/kohchihao/pdf2ppt) - PDF2PPT Telegram bot
-- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - Detect Browser, Engine, OS, CPU, and Device type/model from User-Agent data. Supports browser & node.js environment.
+- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - Detect Browser, Engine, OS, CPU, and Device type/model from User-Agent & Client-Hints data. Supports browser & node.js environment.
 - [dotenorio/freeloader-of-data](https://github.com/dotenorio/freeloader-of-data) - A simple crawler or scraper to get open graph and other meta data from any website.
 - [beeman/micro-unfurl](https://github.com/beeman/micro-unfurl) - Small microservice that unfurls a URL and returns the OpenGraph meta data
 - [yfxie/jekpack](https://github.com/yfxie/jekpack) - Jekyll + Webpack = Jekpack 🛠
@@ -3694,7 +3694,7 @@
 - [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
 - [agreenjay/FOI](https://github.com/agreenjay/FOI) - 
 - [StephSaephan/QGIS-ESRI-Converted-Styles](https://github.com/StephSaephan/QGIS-ESRI-Converted-Styles) - QGIS XML styles converted from ESRI styles using SLYR tool
-- [Saijin-Naib/QGIS-ESRI-Converted-Palettes](https://github.com/Saijin-Naib/QGIS-ESRI-Converted-Palettes) - QGIS GPL palettes converted from ESRI styles using SLYR tool
+- [Carlocktography/QGIS-ESRI-Converted-Palettes](https://github.com/Carlocktography/QGIS-ESRI-Converted-Palettes) - QGIS GPL palettes converted from ESRI styles using SLYR tool
 - [datanews/foil](https://github.com/datanews/foil) - FOIL resources for New York City and New York State
 - [humanetech-community/awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech) - Promoting Solutions that Improve Wellbeing, Freedom and Society
 - [opendevise/asciidoc-samples](https://github.com/opendevise/asciidoc-samples) - A repository of AsciiDoc source files for testing AsciiDoc rendering on GitHub.
