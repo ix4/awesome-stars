@@ -5505,7 +5505,7 @@
 - [gitname/react-gh-pages](https://github.com/gitname/react-gh-pages) - Deploying a React App (created using create-react-app) to GitHub Pages
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [jquery/esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis
-- [wix/turnerjs](https://github.com/wix/turnerjs) - An angular test kit for components and directives. See:
+- [wix-incubator/turnerjs](https://github.com/wix-incubator/turnerjs) - An angular test kit for components and directives. See:
 - [wix/stylable](https://github.com/wix/stylable) - Stylable - CSS for components
 - [Esshahn/spritemate](https://github.com/Esshahn/spritemate) - spritemate is a browser based sprite editor for the Commodore 64
 - [alfa-code/pomodoro-time](https://github.com/alfa-code/pomodoro-time) - Time management service
