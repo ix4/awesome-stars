@@ -2231,7 +2231,6 @@
 - [imsky/quickstart](https://github.com/imsky/quickstart) - :coffee: Useful files for your next project.
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
-- [brettchalupa/graphql-docs](https://github.com/brettchalupa/graphql-docs) - Easily generate beautiful documentation from your GraphQL schema.
 - [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
 - [danog/MadelineProto](https://github.com/danog/MadelineProto) - Async PHP client API for the telegram MTProto protocol
 - [php-telegram-bot/core](https://github.com/php-telegram-bot/core) - PHP Telegram Bot based on the official Telegram Bot API
@@ -5734,7 +5733,7 @@
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [liyasthomas/parkinglot](https://github.com/liyasthomas/parkinglot) - 🅿 Parking lot registration system built with pure JavaScript, HTML, CSS. https://liyasthomas.github.io/parkinglot
 - [ichernev/gdrive-exporter](https://github.com/ichernev/gdrive-exporter) - Export google drive converting gdocs to portable formats
-- [wix/turnerjs](https://github.com/wix/turnerjs) - An angular test kit for components and directives. See:
+- [wix-incubator/turnerjs](https://github.com/wix-incubator/turnerjs) - An angular test kit for components and directives. See:
 - [gartnera/headunit](https://github.com/gartnera/headunit) - Headunit for Android Auto
 - [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework
 - [Esshahn/spritemate](https://github.com/Esshahn/spritemate) - spritemate is a browser based sprite editor for the Commodore 64
