@@ -2638,6 +2638,7 @@
 - [jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://g
 - [CSAILVision/LabelMeAnnotationTool](https://github.com/CSAILVision/LabelMeAnnotationTool) - Source code for the LabelMe annotation tool.
 - [reactjs/reactjs.org-translation](https://github.com/reactjs/reactjs.org-translation) - Nexus of resources and tools for translating the React docs.
+- [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
 - [weareoutman/markdoc](https://github.com/weareoutman/markdoc) - An online markdown editor
 - [weareoutman/clockpicker](https://github.com/weareoutman/clockpicker) - A clock-style timepicker for Bootstrap (or jQuery). Sorry but no longer maintained.
@@ -4119,6 +4120,7 @@
 
 ## Python 
 
+- [everythingishacked/Truthsayer](https://github.com/everythingishacked/Truthsayer) - Remote lie detector and heart rate monitor
 - [ponty/PyVirtualDisplay](https://github.com/ponty/PyVirtualDisplay) - Python wrapper for Xvfb, Xephyr and Xvnc
 - [fronzbot/blinkpy](https://github.com/fronzbot/blinkpy) - A Python library for the Blink Camera system
 - [redacted/XKCD-password-generator](https://github.com/redacted/XKCD-password-generator) - Generate secure multiword passwords/passphrases, inspired by XKCD
@@ -5553,7 +5555,6 @@
 - [fb55/domhandler](https://github.com/fb55/domhandler) - Handler for htmlparser2, to get a DOM
 - [fb55/htmlparser2](https://github.com/fb55/htmlparser2) - The fast & forgiving HTML and XML parser
 - [udacity/cloudflare-typescript-workers](https://github.com/udacity/cloudflare-typescript-workers) - Types and mocks for building a tested Typescript Cloudflare Worker, generates three NPM packages
-- [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
 - [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
 - [GoogleChromeLabs/proxx](https://github.com/GoogleChromeLabs/proxx) - A game of proximity
 - [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
