@@ -628,7 +628,7 @@
 - [oschwald/geoip2-golang](https://github.com/oschwald/geoip2-golang) - Unofficial MaxMind GeoIP2 Reader for Go
 - [xorilog/twitter-action](https://github.com/xorilog/twitter-action) - Post tweet using this action !
 - [sselph/scraper](https://github.com/sselph/scraper) - A scraper for EmulationStation written in Go using hashing
-- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern, easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 | #golang
+- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 | #Go
 - [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List
 - [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
 - [boombuler/barcode](https://github.com/boombuler/barcode) - a barcode creation lib for golang
@@ -664,7 +664,7 @@
 - [sqlitebrowser/dbhub.io](https://github.com/sqlitebrowser/dbhub.io) - A "Cloud" for SQLite databases.  Collaborative development for your data. :)
 - [evilsocket/xray](https://github.com/evilsocket/xray) - XRay is a tool for recon, mapping and OSINT gathering from public networks.
 - [nytlabs/streamtools](https://github.com/nytlabs/streamtools) - tools for working with streams of data
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Vector database for scalable similarity search and AI applications.
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database with high-performance and high scalability.
 - [hootsuite/healthchecks](https://github.com/hootsuite/healthchecks) - A go implementation of the Health Checks API used for microservice exploration, documentation and monitoring.
 - [hootsuite/vault-ctrl-tool](https://github.com/hootsuite/vault-ctrl-tool) - Simple tool for managing authentication, secrets, and leases for services.
 - [fourcube/goiban](https://github.com/fourcube/goiban) - goiban implements functions for validating international bank account numbers using GO.
@@ -1420,7 +1420,7 @@
 - [stephenquan/AAMVAtoJSON](https://github.com/stephenquan/AAMVAtoJSON) - Converts AAMVA DL/ID format to JSON
 - [kikiklang/pomme-page](https://github.com/kikiklang/pomme-page) - Big buttons with easy click startpage for a browser.
 - [deep5050/memes-on-issues-action](https://github.com/deep5050/memes-on-issues-action) - greet the issue raiser with a custom message and a bonus programming meme :smile:
-- [code-for-charity/ImprovedTube-for-YouTube](https://github.com/code-for-charity/ImprovedTube-for-YouTube) - YouTube Extension: Enrich your experience & content [🧰80+LeanFeatures][📌Longest-standing: 10+years][👨‍👩‍👧‍👧Please make Docu./HowTo's][⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪⋮}(Player Repeat Screenshot[Hide "related video 
+- [code-for-charity/ImprovedTube-for-YouTube](https://github.com/code-for-charity/ImprovedTube-for-YouTube) - YouTube Extension: Enrich your experience & content [🧰80+Lean Features][📌Longest-standing since 2012][Please👨‍👩‍👧‍👧make Docum./HowTo's][⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪⋮}(Player Repeat Screenshot[Hide 'related vide
 - [ubershmekel/redditp](https://github.com/ubershmekel/redditp) - Convert any reddit page to a presentation or slide show
 - [jiangts/JS-OTP](https://github.com/jiangts/JS-OTP) - 100% Javascript Implementation of HOTP and TOTP for Two-Factor Authentication.
 - [w3irdrobot/interactive-menu](https://github.com/w3irdrobot/interactive-menu) - Building an Interactive Menu in Vanilla JavaScript
