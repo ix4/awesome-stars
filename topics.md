@@ -1845,7 +1845,7 @@
 - [csb324/holyfucktheelectionistomorrow](https://github.com/csb324/holyfucktheelectionistomorrow) - holy fuck
 - [Project-OSRM/osrm-frontend](https://github.com/Project-OSRM/osrm-frontend) - Modular rewrite of the OSRM frontend using LRM
 - [cc-archive/cccatalog-frontend](https://github.com/cc-archive/cccatalog-frontend) - [PROJECT TRANSFERRED] CC Search is a search tool for CC-licensed and public domain content across the internet.
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
 
 ## game 
@@ -3147,7 +3147,7 @@
 - [rickycodes/moonmoji](https://github.com/rickycodes/moonmoji) - :first_quarter_moon_with_face: Return an emoji representing the current moon phase.
 - [jwasilgeo/esri-experiments](https://github.com/jwasilgeo/esri-experiments) - Fly in space and look across the sea: demos and experiments with the ArcGIS API for JavaScript
 - [google/WebFundamentals](https://github.com/google/WebFundamentals) - Former git repo for WebFundamentals on developers.google.com
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [stevecat/table-magic](https://github.com/stevecat/table-magic) - Converts between CSV, HTML and Markdown. Has a little form editor and a preview.
 - [BolajiAyodeji/js-code-snippets](https://github.com/BolajiAyodeji/js-code-snippets) - Learn basic JavaScript concepts in action. :zap:
 - [schmich/instascan](https://github.com/schmich/instascan) - HTML5 QR code scanner using your webcam
@@ -3576,7 +3576,7 @@
 - [juliuste/wikipedia-location-search](https://github.com/juliuste/wikipedia-location-search) - UNMAINTAINED/DEPRECATED - Search for wikipedia articles based on given geolocation.
 - [juliuste/transit-map](https://github.com/juliuste/transit-map) - Generate a schematic map (“metro map”) for a given (transit) network graph using Mixed Integer Programming.
 - [juliuste/parliament-svg](https://github.com/juliuste/parliament-svg) - Generate parliament charts as virtual-dom SVG
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [tanaikech/ImgApp](https://github.com/tanaikech/ImgApp) - This is a library of image tools for Google Apps Script.
 - [xtonousou/ipify.sh](https://github.com/xtonousou/ipify.sh) - Unofficial client library for ipify: a simple IP address API
 
@@ -6898,7 +6898,7 @@
 - [paperjs/paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey
 - [JohnMcLear/draw](https://github.com/JohnMcLear/draw) - A real time collaborative drawing tool using nodejs, socket.io & paper.js
 - [ryzhak/explorer](https://github.com/ryzhak/explorer) - Ethereum Block Explorer (ETHExplorer V2) - Realtime Price Ticker, Shapeshift.io Integration, etc. (Project is currently not under active development, if you have a bug fix, please open a PR) My curren
-- [fonoster/routr](https://github.com/fonoster/routr) - Routr: Next-generation Programmable SIP Server
+- [fonoster/routr](https://github.com/fonoster/routr) - ⚡ Next-generation programmable SIP Server
 - [gitsummore/nile.js](https://github.com/gitsummore/nile.js) - Scalable peer to peer live video streaming built on torrents and webRTC
 - [streamproc/MediaStreamRecorder](https://github.com/streamproc/MediaStreamRecorder) - Cross browser audio/video/screen recording. It supports Chrome, Firefox, Opera and Microsoft Edge. It even works on Android browsers. It follows latest MediaRecorder API standards and provides similar
 - [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - Complete open source web conferencing system.
@@ -8086,7 +8086,7 @@
 - [jekyll/jekyll-admin](https://github.com/jekyll/jekyll-admin) - A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [nikolas/react-moonphase](https://github.com/nikolas/react-moonphase) - Display lunar phase with React and Pixi.js
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [jvalen/pixel-art-react](https://github.com/jvalen/pixel-art-react) - Pixel art animation and drawing web app powered by React
 - [ghosh/cssFilters](https://github.com/ghosh/cssFilters) - 🌄 Custom and Instagram like photo filter playground for CSS built with React
 - [saadq/resumake.io](https://github.com/saadq/resumake.io) - 📝 A website for automatically generating elegant LaTeX resumes.
