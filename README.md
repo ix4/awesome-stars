@@ -5425,7 +5425,7 @@
 - [rvdleun/onoffice](https://github.com/rvdleun/onoffice) - The open-source Virtual Office, powered by WebVR
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
 - [airform/airform](https://github.com/airform/airform) - Functional HTML forms for Front-End Developers.
-- [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript. We're hiring https://boards.greenhouse.io/sentry
+- [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
 - [intel/ui-widget-toolkit](https://github.com/intel/ui-widget-toolkit) - 
 - [jakearchibald/idb-keyval](https://github.com/jakearchibald/idb-keyval) - A super-simple-small promise-based keyval store implemented with IndexedDB
 - [chartist-js/chartist](https://github.com/chartist-js/chartist) - Simple responsive charts
