@@ -605,14 +605,13 @@
 - [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server,
 - [nextdns/nextdns](https://github.com/nextdns/nextdns) - NextDNS CLI client (DoH Proxy)
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
-- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [ddo/fast](https://github.com/ddo/fast) - Minimal zero-dependency utility for testing your internet download speed from terminal
 - [weaming/md2png](https://github.com/weaming/md2png) - Render markdown file to PNG image. Support custom CSS URL/file.
 - [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
 - [EFForg/starttls-backend](https://github.com/EFForg/starttls-backend) - STARTTLS Everywhere web backend and checker
 - [openshift/origin](https://github.com/openshift/origin) - Conformance test suite for OpenShift
 - [progrium/viewdocs](https://github.com/progrium/viewdocs) - Read the Docs meets Gist.io for simple Markdown project documentation
-- [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens
+- [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens.
 - [jdkato/prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
 - [powerman/gh-make-labels](https://github.com/powerman/gh-make-labels) - Make labels for GitHub repo
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
@@ -5378,6 +5377,7 @@
 - [fent/feedme.js](https://github.com/fent/feedme.js) - RSS/Atom/JSON feed parser
 - [Shopify/polaris](https://github.com/Shopify/polaris) - Shopify’s design system to help us work together to build a great experience for all of our merchants.
 - [mattermost/desktop](https://github.com/mattermost/desktop) - Mattermost Desktop application for Windows, Mac and Linux
+- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [bcgov/business-create-ui](https://github.com/bcgov/business-create-ui) - BC Registry Services - Legal Entities - Create Incorporation Application
 - [balena-io/balena-cli](https://github.com/balena-io/balena-cli) - The official balena CLI tool.
 - [Dellos7/github-emoji-list](https://github.com/Dellos7/github-emoji-list) - Github Emoji List
