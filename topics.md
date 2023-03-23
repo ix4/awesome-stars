@@ -2002,6 +2002,7 @@
 - [itsjavi/mediatidy](https://github.com/itsjavi/mediatidy) - 🗂 Command-line tool to organize large directories of media files recursively by date, detecting duplicates.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [mholt/curl-to-go](https://github.com/mholt/curl-to-go) - Convert curl commands to Go code in your browser
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database with high-performance and high scalability.
 - [hootsuite/healthchecks](https://github.com/hootsuite/healthchecks) - A go implementation of the Health Checks API used for microservice exploration, documentation and monitoring.
 - [flutter-webrtc/flutter-webrtc-server](https://github.com/flutter-webrtc/flutter-webrtc-server) - A simple WebRTC signaling server for flutter-webrtc.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
@@ -4938,7 +4939,7 @@
 - [g-sherman/Qgis-Plugin-Builder](https://github.com/g-sherman/Qgis-Plugin-Builder) - Plugin generator for creating QGIS Python plugins (QGIS 3 version is now in master)
 - [g-sherman/plugin_build_tool](https://github.com/g-sherman/plugin_build_tool) - Python command line tool for compiling and deploying QGIS plugins
 - [CIOIL/DataGovIL](https://github.com/CIOIL/DataGovIL) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers datahub.io, catalog.data.gov and data.gov.uk a
-- [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens
+- [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens.
 - [dfrankland/hyper-sync-settings](https://github.com/dfrankland/hyper-sync-settings) - 🔃 Sync Hyper.app settings with Github.
 - [joshghent/rescue-box](https://github.com/joshghent/rescue-box) - ⏰ Update a pinned gist to contain your Daily RescueTime Stats
 - [StatSilk/StatPlanet-Admin-Dashboard](https://github.com/StatSilk/StatPlanet-Admin-Dashboard) - Laravel-based admin dashboard to manage access to multiple StatPlanet dashboards by different users or user groups
@@ -6225,7 +6226,6 @@
 - [isaacs/sax-js](https://github.com/isaacs/sax-js) - A sax style parser for JS
 - [fb55/domhandler](https://github.com/fb55/domhandler) - Handler for htmlparser2, to get a DOM
 - [polarisZhao/awesome-face](https://github.com/polarisZhao/awesome-face) - 😎 face releated algorithm, dataset and paper
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database with high-performance and high scalability.
 - [peewpw/Invoke-PSImage](https://github.com/peewpw/Invoke-PSImage) - Encodes a PowerShell script in the pixels of a PNG file and generates a oneliner to execute
 - [CSAILVision/places365](https://github.com/CSAILVision/places365) - The Places365-CNNs for Scene Classification
 - [jcjohnson/densecap](https://github.com/jcjohnson/densecap) - Dense image captioning in Torch
