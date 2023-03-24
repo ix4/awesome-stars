@@ -350,7 +350,6 @@
 - [asciidoctor/docgist](https://github.com/asciidoctor/docgist) - Render AsciiDoc documents from Gists, GitHub, DropBox and other remote sources in the browser.
 - [cfpb/api](https://github.com/cfpb/api) - Documentation to support upcoming data platform API and data sets
 - [vsoch/docsy-jekyll](https://github.com/vsoch/docsy-jekyll) - A Jekyll version of the beautiful Docsy!
-- [themefisher/dot-hugo](https://github.com/themefisher/dot-hugo) - Dot - Hugo Documentation Theme
 - [ellekasai/twemoji-awesome](https://github.com/ellekasai/twemoji-awesome) - [Unmaintained] Like Font Awesome, but for Twitter Emoji
 - [tachyons-css/tachyons-text-transform](https://github.com/tachyons-css/tachyons-text-transform) - Module moved to the Tachyons monorepo
 - [hypermodules/hypermodul.es](https://github.com/hypermodules/hypermodul.es) - 🌎 Hypermodular studio
@@ -796,6 +795,7 @@
 - [nisrulz/javadoc-themer](https://github.com/nisrulz/javadoc-themer) - [Javadoc Tool] Give your boooring javadocs a splash of colors!
 - [Sigil-Ebook/PageEdit](https://github.com/Sigil-Ebook/PageEdit) - ePub XHTML Visual Editor
 - [Sigil-Ebook/sigil-user-guide](https://github.com/Sigil-Ebook/sigil-user-guide) - 
+- [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [openshift/openshift-docs](https://github.com/openshift/openshift-docs) - OpenShift 3 and 4 product and community documentation
 - [nginxinc/nginx-wiki](https://github.com/nginxinc/nginx-wiki) - ARCHIVED -- Source for the now archived NGINX Wiki section of https://www.nginx.com
@@ -1640,7 +1640,6 @@
 - [huridocs/casebox](https://github.com/huridocs/casebox) - Casebox: Secure all your information and team communication in one place
 - [magento/pwa-studio](https://github.com/magento/pwa-studio) - 🛠Development tools to build, optimize and deploy Progressive Web Applications for Magento 2.
 - [usablica/progress.js](https://github.com/usablica/progress.js) - ProgressJs is a JavaScript and CSS3 library which help developers to create and manage progress bar for every objects on the page.
-- [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [SocialGouv/legi-data](https://github.com/SocialGouv/legi-data) - Legi Data
 - [EFForg/spot_the_surveillance](https://github.com/EFForg/spot_the_surveillance) - Spot the Surveillance is an open-source educational VR tool to help people identify street-level surveillance in their community. As each surveillance device is identified, the user is informed on how
 - [EFForg/cover-your-tracks](https://github.com/EFForg/cover-your-tracks) - Is your browser safe against tracking?
@@ -1741,6 +1740,7 @@
 - [stackcss/css-extract](https://github.com/stackcss/css-extract) - Extract CSS from a browserify bundle
 - [terser/terser](https://github.com/terser/terser) - 🗜 JavaScript parser, mangler and compressor toolkit for ES6+
 - [hughsk/envify](https://github.com/hughsk/envify) - :wrench: Selectively replace Node-style environment variables with plain strings.
+- [themefisher/dot-hugo](https://github.com/themefisher/dot-hugo) - Dot - Hugo Documentation Theme
 - [mqttjs/MQTT.js](https://github.com/mqttjs/MQTT.js) - The MQTT client for Node.js and the browser
 - [gucong3000/postcss-markdown](https://github.com/gucong3000/postcss-markdown) - PostCSS Syntax for parsing Markdown
 - [AtomLinter/linter-jshint](https://github.com/AtomLinter/linter-jshint) - Atom linter plugin for JavaScript, using jshint.
