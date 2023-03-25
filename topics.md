@@ -2002,7 +2002,7 @@
 - [itsjavi/mediatidy](https://github.com/itsjavi/mediatidy) - 🗂 Command-line tool to organize large directories of media files recursively by date, detecting duplicates.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [mholt/curl-to-go](https://github.com/mholt/curl-to-go) - Convert curl commands to Go code in your browser
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database with high-performance and high scalability.
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
 - [hootsuite/healthchecks](https://github.com/hootsuite/healthchecks) - A go implementation of the Health Checks API used for microservice exploration, documentation and monitoring.
 - [flutter-webrtc/flutter-webrtc-server](https://github.com/flutter-webrtc/flutter-webrtc-server) - A simple WebRTC signaling server for flutter-webrtc.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
