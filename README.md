@@ -128,6 +128,7 @@
 ## Bikeshed 
 
 - [WICG/cookie-store](https://github.com/WICG/cookie-store) - Asynchronous access to cookies from JavaScript
+- [WebBluetoothCG/web-bluetooth](https://github.com/WebBluetoothCG/web-bluetooth) - Bluetooth support for the Web.
 
 ## Brightscript 
 
@@ -662,7 +663,7 @@
 - [sqlitebrowser/dbhub.io](https://github.com/sqlitebrowser/dbhub.io) - A "Cloud" for SQLite databases.  Collaborative development for your data. :)
 - [evilsocket/xray](https://github.com/evilsocket/xray) - XRay is a tool for recon, mapping and OSINT gathering from public networks.
 - [nytlabs/streamtools](https://github.com/nytlabs/streamtools) - tools for working with streams of data
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database with high-performance and high scalability.
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
 - [hootsuite/healthchecks](https://github.com/hootsuite/healthchecks) - A go implementation of the Health Checks API used for microservice exploration, documentation and monitoring.
 - [hootsuite/vault-ctrl-tool](https://github.com/hootsuite/vault-ctrl-tool) - Simple tool for managing authentication, secrets, and leases for services.
 - [fourcube/goiban](https://github.com/fourcube/goiban) - goiban implements functions for validating international bank account numbers using GO.
@@ -3860,7 +3861,6 @@
 - [tolomaps/resources](https://github.com/tolomaps/resources) - Somewhat comprehensive list of cartography / map / web design resources
 - [marktron/fakenews](https://github.com/marktron/fakenews) - An in-progress collection of sites that spread clickbait, hoaxes, propaganda and disinformation.
 - [postlight/awesome-cms](https://github.com/postlight/awesome-cms) - 📚 A collection of open and closed source Content Management Systems (CMS) for your perusal.
-- [WebBluetoothCG/web-bluetooth](https://github.com/WebBluetoothCG/web-bluetooth) - Bluetooth support for the Web.
 - [anitawoodruff/inline-notification-replies](https://github.com/anitawoodruff/inline-notification-replies) - Notification Inline Replies Explainer
 - [googlecodelabs/photos-sharing](https://github.com/googlecodelabs/photos-sharing) - Code for the "Build a Photo Sharing app with Google Photos and Flutter" codelab
 - [google/transit](https://github.com/google/transit) - 
