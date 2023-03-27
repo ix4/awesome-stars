@@ -816,6 +816,7 @@
 - [Codepoints/Codepoints.net](https://github.com/Codepoints/Codepoints.net) - A visual guide to the wonders of Unicode
 - [hyperhype/hyperscript](https://github.com/hyperhype/hyperscript) - Create HyperText with JavaScript.
 - [themefisher/educenter-hugo](https://github.com/themefisher/educenter-hugo) - Educenter is an educational website template powered by Hugo. It can be used as an online teaching platform, school and university website.
+- [themefisher/dot-hugo](https://github.com/themefisher/dot-hugo) - Dot - Hugo Documentation Theme
 - [google/docsy-example](https://github.com/google/docsy-example) - An example documentation site using the Docsy Hugo theme
 - [parcel-bundler/website](https://github.com/parcel-bundler/website) - 🌎 Parcel website
 - [github/training-kit](https://github.com/github/training-kit) - Open source courseware for Git and GitHub
@@ -1741,7 +1742,6 @@
 - [stackcss/css-extract](https://github.com/stackcss/css-extract) - Extract CSS from a browserify bundle
 - [terser/terser](https://github.com/terser/terser) - 🗜 JavaScript parser, mangler and compressor toolkit for ES6+
 - [hughsk/envify](https://github.com/hughsk/envify) - :wrench: Selectively replace Node-style environment variables with plain strings.
-- [themefisher/dot-hugo](https://github.com/themefisher/dot-hugo) - Dot - Hugo Documentation Theme
 - [mqttjs/MQTT.js](https://github.com/mqttjs/MQTT.js) - The MQTT client for Node.js and the browser
 - [gucong3000/postcss-markdown](https://github.com/gucong3000/postcss-markdown) - PostCSS Syntax for parsing Markdown
 - [AtomLinter/linter-jshint](https://github.com/AtomLinter/linter-jshint) - Atom linter plugin for JavaScript, using jshint.
