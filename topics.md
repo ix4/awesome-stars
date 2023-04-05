@@ -5106,7 +5106,7 @@
 - [wildhaber/gohugo-amp](https://github.com/wildhaber/gohugo-amp) - ⚡ AMP starter theme for gohugo https://gohugo-amp.gohugohq.com
 - [linode/agreements](https://github.com/linode/agreements) - Linode's Legal Agreements
 - [linode/docs](https://github.com/linode/docs) - Linode guides and tutorials.
-- [netlify-templates/one-click-hugo-cms](https://github.com/netlify-templates/one-click-hugo-cms) - Hugo template with Netlify CMS
+- [decaporg/one-click-hugo-cms](https://github.com/decaporg/one-click-hugo-cms) - Hugo template with Netlify CMS
 - [julianoappelklein/hokus](https://github.com/julianoappelklein/hokus) - A modern CMS for Hugo
 - [Shopify/ghostferry](https://github.com/Shopify/ghostferry) - The swiss army knife of live data migrations
 - [sass/sass-site](https://github.com/sass/sass-site) - Sass Website
@@ -6390,7 +6390,7 @@
 - [eregs/eregs.github.io](https://github.com/eregs/eregs.github.io) - Documentation for the eRegulations project.
 - [cfpb/qu](https://github.com/cfpb/qu) - :warning: This project was archived on September 25th, 2020 and is no longer maintained
 - [FCC/design-standards](https://github.com/FCC/design-standards) - FCC Design Standards
-- [LLK/scratchx](https://github.com/LLK/scratchx) - Scratch Extension Site
+- [scratchfoundation/scratchx](https://github.com/scratchfoundation/scratchx) - Scratch Extension Site
 - [mainmatter/mainmatter.com](https://github.com/mainmatter/mainmatter.com) - The source code for https://mainmatter.com
 - [Turbo87/sidebar-v2](https://github.com/Turbo87/sidebar-v2) - A responsive sidebar with tabs for Leaflet, OpenLayers, Google Maps, ...
 - [pissang/little-big-city](https://github.com/pissang/little-big-city) - 
