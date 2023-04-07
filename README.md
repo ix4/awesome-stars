@@ -433,7 +433,6 @@
 - [odyniec/POD-Web-View](https://github.com/odyniec/POD-Web-View) - Web application for previewing POD files
 - [ssbc/handbook.scuttlebutt.nz](https://github.com/ssbc/handbook.scuttlebutt.nz) - ssb handbook: A guide to the Secure Scuttlebutt key concepts and influences (see also, new website: https://gitlab.com/ssbc/scuttlebutt.nz/)
 - [asciinema/asciicast2gif](https://github.com/asciinema/asciicast2gif) - Generate GIF animations from asciicasts (asciinema recordings)
-- [badboy/whatrustisit](https://github.com/badboy/whatrustisit) - What Rust is it?
 - [jsvine/nbpreview](https://github.com/jsvine/nbpreview) - Render Jupyter/IPython notebooks without running a notebook server.
 - [cfpb/DOCter](https://github.com/cfpb/DOCter) - A Jekyll template for project documentation
 - [eregs/eregs.github.io](https://github.com/eregs/eregs.github.io) - Documentation for the eRegulations project.
@@ -1059,6 +1058,7 @@
 - [tumblr/tumblr.js](https://github.com/tumblr/tumblr.js) - JavaScript client for the Tumblr API
 - [Yale-LILY/TutorialBank](https://github.com/Yale-LILY/TutorialBank) - 
 - [mermaidjs/mermaidjs.github.io](https://github.com/mermaidjs/mermaidjs.github.io) - Documentation has been moved to docs in https://github.com/mermaid-js/mermaid
+- [badboy/whatrustisit](https://github.com/badboy/whatrustisit) - What Rust is it?
 - [knyg/gamepad](https://github.com/knyg/gamepad) - A low-level interface that represents gamepad devices.
 - [w3c/webappswg](https://github.com/w3c/webappswg) - Web Applications Working Group
 - [18F/content-guide](https://github.com/18F/content-guide) - 18F Content Guide
@@ -1944,7 +1944,6 @@
 - [vinitkumar/gist-browser](https://github.com/vinitkumar/gist-browser) - Real time Gist monitor
 - [Wiredcraft/carte](https://github.com/Wiredcraft/carte) - Simple Jekyll-based documentation site for APIs.
 - [yishn/tikzcd-editor](https://github.com/yishn/tikzcd-editor) - A simple visual editor for creating commutative diagrams.
-- [wojtekmaj/react-lifecycle-methods-diagram](https://github.com/wojtekmaj/react-lifecycle-methods-diagram) - Interactive React Lifecycle Methods diagram.
 - [jsplumb/jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
 - [adrai/flowchart.js](https://github.com/adrai/flowchart.js) - Draws simple SVG flow chart diagrams from textual representation of the diagram
 - [FormidableLabs/prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer) - 🖌️ Renders highlighted Prism output to React (+ theming & vendored Prism)
@@ -2734,7 +2733,7 @@
 - [cityofaustin/atd-data-and-performance](https://github.com/cityofaustin/atd-data-and-performance) - Open data and performance hub for the City of Austin Transportation Department
 - [pmacMaps/get-zoning-by-parcel-app](https://github.com/pmacMaps/get-zoning-by-parcel-app) - Get the zoning district information for a parcel by entering the parcel's identification number or street address.
 - [cartyc/cityMap](https://github.com/cartyc/cityMap) - Simple property search for finding pin and zoning information within the City of Ottawa.
-- [LLK/scratchx](https://github.com/LLK/scratchx) - Scratch Extension Site
+- [scratchfoundation/scratchx](https://github.com/scratchfoundation/scratchx) - Scratch Extension Site
 - [pissang/little-big-city](https://github.com/pissang/little-big-city) - 
 - [pissang/claygl](https://github.com/pissang/claygl) - A WebGL graphic library for building scalable Web3D applications
 - [pissang/paper-quilling-art](https://github.com/pissang/paper-quilling-art) - https://pissang.github.io/paper-quilling-art/
@@ -5028,7 +5027,7 @@
 - [govau/design-system-starter](https://github.com/govau/design-system-starter) - 🚀 The Australian Government Design System - Starter
 - [Phlow/simplicity](https://github.com/Phlow/simplicity) - A free, flexible, superfast and easily customizable Jekyll Theme with no Javascript but beautiful typography.
 - [CloudCannon/aviator-jekyll-template](https://github.com/CloudCannon/aviator-jekyll-template) - :droplet: API Documentation template for Jekyll
-- [netlify-templates/one-click-hugo-cms](https://github.com/netlify-templates/one-click-hugo-cms) - Hugo template with Netlify CMS
+- [decaporg/one-click-hugo-cms](https://github.com/decaporg/one-click-hugo-cms) - Hugo template with Netlify CMS
 - [mckeever02/mailtolink](https://github.com/mckeever02/mailtolink) - A quick and easy way to generate markup for mailto links without having to worry about the annoying formatting.
 - [yizeng/jekyll-theme-simple-texture](https://github.com/yizeng/jekyll-theme-simple-texture) - A gem-based responsive simple texture styled Jekyll theme.
 - [andrewbanchich/lens-jekyll-theme](https://github.com/andrewbanchich/lens-jekyll-theme) - A Jekyll version of the "Lens" theme by HTML5 UP.
@@ -5427,6 +5426,7 @@
 - [jakearchibald/idb-keyval](https://github.com/jakearchibald/idb-keyval) - A super-simple-small promise-based keyval store implemented with IndexedDB
 - [chartist-js/chartist](https://github.com/chartist-js/chartist) - Simple responsive charts
 - [tgreyuk/typedoc-plugin-markdown](https://github.com/tgreyuk/typedoc-plugin-markdown) - A plugin for TypeDoc that enables TypeScript API documentation to be generated in Markdown.
+- [wojtekmaj/react-lifecycle-methods-diagram](https://github.com/wojtekmaj/react-lifecycle-methods-diagram) - Interactive React Lifecycle Methods diagram.
 - [apertureless/vue-chartjs](https://github.com/apertureless/vue-chartjs) - 📊  Vue.js wrapper for Chart.js
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
 - [CJex/regulex](https://github.com/CJex/regulex) - :construction: Regular Expression Excited!
