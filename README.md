@@ -115,6 +115,7 @@
 
 ## Astro 
 
+- [roadmapsh/next.roadmap.sh](https://github.com/roadmapsh/next.roadmap.sh) - Next version of roadmap.sh
 - [CSS-Tricks/serverless](https://github.com/CSS-Tricks/serverless) - The Power of Serverless for Front-End Developers
 
 ## Awk 
@@ -136,6 +137,7 @@
 
 ## C 
 
+- [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
 - [risacher/sunwait](https://github.com/risacher/sunwait) - Sunwait calculates sunrise or sunset times with civil, nautical, astronomical and custom twilights, for use with Windows Task Scheduler or 'cron' on Linux.
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [paolostivanin/OTPClient](https://github.com/paolostivanin/OTPClient) - Highly secure and easy to use OTP client written in C/GTK3 that supports both TOTP and HOTP
@@ -347,7 +349,7 @@
 - [cucumber/docs](https://github.com/cucumber/docs) - Cucumber user documentation
 - [barryclark/jekyll-now](https://github.com/barryclark/jekyll-now) - Build a Jekyll blog in minutes, without touching the command line.
 - [darshandsoni/asciidoctor-skins](https://github.com/darshandsoni/asciidoctor-skins) - Control how your asciidoctor powered documentation looks
-- [asciidoctor/jekyll-asciidoc-quickstart](https://github.com/asciidoctor/jekyll-asciidoc-quickstart) - A forkable Jekyll site using Asciidoc
+- [asciidoctor/jekyll-asciidoc-quickstart](https://github.com/asciidoctor/jekyll-asciidoc-quickstart) - A template project for creating AsciiDoc-based websites using Jekyll.
 - [asciidoctor/docgist](https://github.com/asciidoctor/docgist) - Render AsciiDoc documents from Gists, GitHub, DropBox and other remote sources in the browser.
 - [cfpb/api](https://github.com/cfpb/api) - Documentation to support upcoming data platform API and data sets
 - [vsoch/docsy-jekyll](https://github.com/vsoch/docsy-jekyll) - A Jekyll version of the beautiful Docsy!
@@ -716,6 +718,7 @@
 
 ## HTML 
 
+- [FluxionNetwork/fluxion](https://github.com/FluxionNetwork/fluxion) - Fluxion is a remake of linset by vk496 with enhanced functionality.
 - [yushulx/javascript-driver-license](https://github.com/yushulx/javascript-driver-license) - 
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [knrdl/bicimon](https://github.com/knrdl/bicimon) - Bike Speedometer
@@ -2005,7 +2008,7 @@
 - [chinchang/web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend playground
 - [chinchang/super-search](https://github.com/chinchang/super-search) - Easy to add search for your blog
 - [metafizzy/zdog](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
-- [myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet) - A web-based JavaScript（canvas） spreadsheet
+- [myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet) - The project has been migrated to @wolf-table/table https://github.com/wolf-table/table
 - [vega/vega](https://github.com/vega/vega) - A visualization grammar.
 - [liabru/matter-js](https://github.com/liabru/matter-js) - a 2D rigid body physics engine for the web ▲● ■
 - [tinavanschelt/recycled-login-flow](https://github.com/tinavanschelt/recycled-login-flow) - React/Redux login flow built with redux-saga and a fake json server.
@@ -3623,7 +3626,6 @@
 
 ## Nunjucks 
 
-- [roadmapsh/next.roadmap.sh](https://github.com/roadmapsh/next.roadmap.sh) - Next version of roadmap.sh
 - [jamstack/jamstack.org](https://github.com/jamstack/jamstack.org) - The official Jamstack site
 - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 - [GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev) - The frontend, backend, and content source code for web.dev
@@ -4114,6 +4116,7 @@
 
 ## Python 
 
+- [tomellericcardo/EVIL-ESP](https://github.com/tomellericcardo/EVIL-ESP) - A super portable evil device, based on the ESP8266 board, running Micropython and equipped with a single button and a small OLED display
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [everythingishacked/Truthsayer](https://github.com/everythingishacked/Truthsayer) - Remote lie detector and heart rate monitor
 - [ponty/PyVirtualDisplay](https://github.com/ponty/PyVirtualDisplay) - Python wrapper for Xvfb, Xephyr and Xvnc
@@ -5116,6 +5119,9 @@
 
 ## Shell 
 
+- [systematicat/hack-captive-portals](https://github.com/systematicat/hack-captive-portals) - Hack any Captive portal using MAC-spoofing technique
+- [ariakis/houdini](https://github.com/ariakis/houdini) - Script to bypass WiFi captive portals (e.g. at hotels, cruise ships etc.)
+- [imwally/coffeeconnect](https://github.com/imwally/coffeeconnect) - Connect to Starbucks WiFi without opening a browser.
 - [nelbren/npres](https://github.com/nelbren/npres) - npres core support
 - [jeffreytse/jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) - 🪂 A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
 - [eficode/wait-for](https://github.com/eficode/wait-for) - ./wait-for is a script to wait for another service to become available.
@@ -5151,7 +5157,6 @@
 - [maldevel/PenTestKit](https://github.com/maldevel/PenTestKit) - Tools, scripts and tips useful during Penetration Testing engagements.
 - [victorhundo/matrix-script](https://github.com/victorhundo/matrix-script) - Matrix effect in bash
 - [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
-- [systematicat/hack-captive-portals](https://github.com/systematicat/hack-captive-portals) - Hack any Captive portal using MAC-spoofing technique
 - [ferromauro/bash-palette](https://github.com/ferromauro/bash-palette) - A bash script to easily manage text color features.
 - [AndrewMarchukov/tracker-add](https://github.com/AndrewMarchukov/tracker-add) - Fully automated script for adding more trackers to Transmission.
 - [Git-Commit-Show/programmable-video-editing](https://github.com/Git-Commit-Show/programmable-video-editing) - Video editing for programmers
