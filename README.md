@@ -285,7 +285,7 @@
 - [valhalla/valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap
 - [robotastic/trunk-recorder](https://github.com/robotastic/trunk-recorder) - Records calls from a Trunked Radio System (P25 & SmartNet)
 - [aappleby/smhasher](https://github.com/aappleby/smhasher) - Automatically exported from code.google.com/p/smhasher
-- [adgellida/ubunsys](https://github.com/adgellida/ubunsys) - STATUS: ACTIVE DEVELOPMENT ▶️ - Configure dark and deep aspects in your Ubuntu
+- [adgellida/ubunsys](https://github.com/adgellida/ubunsys) - STATUS: DEVELOPMENT PAUSED ⏸️ - Configure dark and deep aspects in your Ubuntu
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [qgis/QGIS](https://github.com/qgis/QGIS) - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
 - [cnr-isti-vclab/meshlab](https://github.com/cnr-isti-vclab/meshlab) - The open source mesh processing system
@@ -628,7 +628,7 @@
 - [oschwald/geoip2-golang](https://github.com/oschwald/geoip2-golang) - Unofficial MaxMind GeoIP2 Reader for Go
 - [xorilog/twitter-action](https://github.com/xorilog/twitter-action) - Post tweet using this action !
 - [sselph/scraper](https://github.com/sselph/scraper) - A scraper for EmulationStation written in Go using hashing
-- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 | #Go
+- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:
 - [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List
 - [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
 - [boombuler/barcode](https://github.com/boombuler/barcode) - a barcode creation lib for golang
@@ -2300,9 +2300,9 @@
 - [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript (& TypeScript).
 - [javierbyte/docs2epub](https://github.com/javierbyte/docs2epub) - Doc scraper and ebook generator / library. [unmaintained]
 - [javierbyte/control-user-cursor](https://github.com/javierbyte/control-user-cursor) - Small experiment to 'control' the user cursor with JavaScript and CSS.
-- [javierbyte/clashjs](https://github.com/javierbyte/clashjs) - Javascript AI battle game. Create your own battleship.
-- [javierbyte/cohesive-colors](https://github.com/javierbyte/cohesive-colors) - Tool that may help you to create cohesive color schemes.
-- [javierbyte/morphin](https://github.com/javierbyte/morphin) - Create animated CSS transitions. Add sprites and get the code ready to paste in your site.
+- [javierbyte/clashjs](https://github.com/javierbyte/clashjs) - Javascript AI battle game. Play by creating a javascript function to command your battleship.
+- [javierbyte/cohesive-colors](https://github.com/javierbyte/cohesive-colors) - Tool that help you to create more cohesive color schemes. Add a tint to your existing colors.
+- [javierbyte/morphin](https://github.com/javierbyte/morphin) - Create pixel art interpolations from your own sprites and embed them in your website with only CSS.
 - [javierbyte/img2css](https://github.com/javierbyte/img2css) - Convert any image to pure CSS. Recreates images using only box-shadows.
 - [javierbyte/visual-center](https://github.com/javierbyte/visual-center) - Tool to better align logos in the center of a container.
 - [noeldelgado/psd-guides](https://github.com/noeldelgado/psd-guides) - :triangular_ruler: JS library to draw photoshop-like guides.
@@ -5325,7 +5325,7 @@
 - [DotJoshJohnson/vscode-xml](https://github.com/DotJoshJohnson/vscode-xml) - XML Tools for Visual Studio Code
 - [googlemaps/openapi-specification](https://github.com/googlemaps/openapi-specification) - OpenAPI specification for Google Maps Platform API
 - [marcosrg9/YouTubeTV](https://github.com/marcosrg9/YouTubeTV) - Simple YouTube TV client for desktop based on electron.
-- [veelenga/rblist.info](https://github.com/veelenga/rblist.info) - Russia Ban List
+- [veelenga/rblist](https://github.com/veelenga/rblist) - Russia Ban List
 - [azu/har-extractor](https://github.com/azu/har-extractor) - A CLI that extract har file to directory.
 - [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
 - [coroo/docsify-share](https://github.com/coroo/docsify-share) - A simple sharing button for Docsify. Within this plugin, we hope you can have your own sharing social media button easily e.g facebook, twitter and many more.
