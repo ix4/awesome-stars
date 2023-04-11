@@ -251,7 +251,7 @@
 - [aichaos/rivescript-js](https://github.com/aichaos/rivescript-js) - A RiveScript interpreter for JavaScript. RiveScript is a scripting language for chatterbots.
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [microsoft/ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
-- [javierbyte/clashjs](https://github.com/javierbyte/clashjs) - Javascript AI battle game. Create your own battleship.
+- [javierbyte/clashjs](https://github.com/javierbyte/clashjs) - Javascript AI battle game. Play by creating a javascript function to command your battleship.
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [adblockradio/adblockradio](https://github.com/adblockradio/adblockradio) - An adblocker for live radio streams and podcasts. Machine learning meets Shazam.
 - [onmyway133/awesome-machine-learning](https://github.com/onmyway133/awesome-machine-learning) - 🎰 A curated list of machine learning resources, preferably CoreML
@@ -1129,7 +1129,7 @@
 - [mozilla/thimble.mozilla.org](https://github.com/mozilla/thimble.mozilla.org) - UPDATE: This project is no longer maintained. Please check out Glitch.com instead.
 - [wix/stylable](https://github.com/wix/stylable) - Stylable - CSS for components
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
-- [javierbyte/morphin](https://github.com/javierbyte/morphin) - Create animated CSS transitions. Add sprites and get the code ready to paste in your site.
+- [javierbyte/morphin](https://github.com/javierbyte/morphin) - Create pixel art interpolations from your own sprites and embed them in your website with only CSS.
 - [javierbyte/img2css](https://github.com/javierbyte/img2css) - Convert any image to pure CSS. Recreates images using only box-shadows.
 - [noeldelgado/values.js](https://github.com/noeldelgado/values.js) - :grapes: Get the tints and shades of a color
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
@@ -1396,7 +1396,7 @@
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [system-ui/theme-ui](https://github.com/system-ui/theme-ui) - Build consistent, themeable React apps based on constraint-based design principles
-- [javierbyte/cohesive-colors](https://github.com/javierbyte/cohesive-colors) - Tool that may help you to create cohesive color schemes.
+- [javierbyte/cohesive-colors](https://github.com/javierbyte/cohesive-colors) - Tool that help you to create more cohesive color schemes. Add a tint to your existing colors.
 - [javierbyte/img2css](https://github.com/javierbyte/img2css) - Convert any image to pure CSS. Recreates images using only box-shadows.
 - [javierbyte/visual-center](https://github.com/javierbyte/visual-center) - Tool to better align logos in the center of a container.
 - [javierbyte/react-textgradient](https://github.com/javierbyte/react-textgradient) - Text gradients with CSS with SVG fallback. [unmaintained]
@@ -1446,7 +1446,6 @@
 - [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste) - The Django project driving dpaste.org
 - [cfpb/consumerfinance.gov](https://github.com/cfpb/consumerfinance.gov) - Django project protecting American consumers
 - [laws-africa/indigo](https://github.com/laws-africa/indigo) - Indigo Platform for publishing beautiful legislation.
-- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 | #Go
 - [MuckRock/muckrock](https://github.com/MuckRock/muckrock) - MuckRock's source code - Please report bugs, issues and feature requests to info@muckrock.com
 - [NeuroVault/NeuroVault](https://github.com/NeuroVault/NeuroVault) - Easy to use web database for statistical maps.
 - [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
@@ -1861,7 +1860,7 @@
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [phpMyDomo/phpMyDomo](https://github.com/phpMyDomo/phpMyDomo) - The ultimate Domotic web remote for the rest of us
 - [twbs/rfs](https://github.com/twbs/rfs) - ✩ Automates responsive resizing ✩
-- [javierbyte/cohesive-colors](https://github.com/javierbyte/cohesive-colors) - Tool that may help you to create cohesive color schemes.
+- [javierbyte/cohesive-colors](https://github.com/javierbyte/cohesive-colors) - Tool that help you to create more cohesive color schemes. Add a tint to your existing colors.
 - [javierbyte/img2css](https://github.com/javierbyte/img2css) - Convert any image to pure CSS. Recreates images using only box-shadows.
 - [javierbyte/visual-center](https://github.com/javierbyte/visual-center) - Tool to better align logos in the center of a container.
 - [javierbyte/react-textgradient](https://github.com/javierbyte/react-textgradient) - Text gradients with CSS with SVG fallback. [unmaintained]
@@ -1877,7 +1876,7 @@
 - [yulanggong/Wordz-Solver](https://github.com/yulanggong/Wordz-Solver) - A word puzzle solver for Wordle, Boggle, WordzUp, wordoid and more.
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [mburakerman/hangmanizr](https://github.com/mburakerman/hangmanizr) - ➖ Quick hangman game
-- [javierbyte/clashjs](https://github.com/javierbyte/clashjs) - Javascript AI battle game. Create your own battleship.
+- [javierbyte/clashjs](https://github.com/javierbyte/clashjs) - Javascript AI battle game. Play by creating a javascript function to command your battleship.
 - [jplusplus/the-accountant](https://github.com/jplusplus/the-accountant) - Can you resist the sirens of easy money? Find out by playing The Good, The Bad and The Accountant
 - [ioquake/ioq3](https://github.com/ioquake/ioq3) - The ioquake3 community effort to continue supporting/developing id's Quake III Arena
 
@@ -1969,7 +1968,7 @@
 - [mholt/archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
 - [oschwald/geoip2-golang](https://github.com/oschwald/geoip2-golang) - Unofficial MaxMind GeoIP2 Reader for Go
 - [xorilog/twitter-action](https://github.com/xorilog/twitter-action) - Post tweet using this action !
-- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 | #Go
+- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:
 - [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
 - [boombuler/barcode](https://github.com/boombuler/barcode) - a barcode creation lib for golang
 - [buger/jsonparser](https://github.com/buger/jsonparser) - One of the fastest alternative JSON parser for Go that does not require schema
@@ -2015,7 +2014,7 @@
 - [owenthereal/jqplay](https://github.com/owenthereal/jqplay) - A playground for jq, written in Go
 - [apex/up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
 - [xorilog/twitter-action](https://github.com/xorilog/twitter-action) - Post tweet using this action !
-- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 | #Go
+- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:
 - [boombuler/barcode](https://github.com/boombuler/barcode) - a barcode creation lib for golang
 - [tpaschalis/gophersub](https://github.com/tpaschalis/gophersub) - (Rough, WIP) Go library and command-line utility to work with subtitle files.
 - [asticode/go-astisub](https://github.com/asticode/go-astisub) - Manipulate subtitles in GO (.srt, .ssa/.ass, .stl, .ttml, .vtt (webvtt), teletext, etc.)
@@ -2934,7 +2933,7 @@
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript (& TypeScript).
 - [javierbyte/control-user-cursor](https://github.com/javierbyte/control-user-cursor) - Small experiment to 'control' the user cursor with JavaScript and CSS.
-- [javierbyte/clashjs](https://github.com/javierbyte/clashjs) - Javascript AI battle game. Create your own battleship.
+- [javierbyte/clashjs](https://github.com/javierbyte/clashjs) - Javascript AI battle game. Play by creating a javascript function to command your battleship.
 - [javierbyte/canvas-image-utils](https://github.com/javierbyte/canvas-image-utils) - Utils for image data.
 - [javierbyte/img2css](https://github.com/javierbyte/img2css) - Convert any image to pure CSS. Recreates images using only box-shadows.
 - [javierbyte/visual-center](https://github.com/javierbyte/visual-center) - Tool to better align logos in the center of a container.
@@ -3567,7 +3566,7 @@
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [mdn/learning-area](https://github.com/mdn/learning-area) - Github repo for the MDN Learning Area.
 - [mozilla/thimble.mozilla.org](https://github.com/mozilla/thimble.mozilla.org) - UPDATE: This project is no longer maintained. Please check out Glitch.com instead.
-- [javierbyte/clashjs](https://github.com/javierbyte/clashjs) - Javascript AI battle game. Create your own battleship.
+- [javierbyte/clashjs](https://github.com/javierbyte/clashjs) - Javascript AI battle game. Play by creating a javascript function to command your battleship.
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
 - [onmyway133/awesome-machine-learning](https://github.com/onmyway133/awesome-machine-learning) - 🎰 A curated list of machine learning resources, preferably CoreML
 
@@ -3657,7 +3656,7 @@
 - [phw/peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 - [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash) - A beautiful web dashboard for Linux
-- [adgellida/ubunsys](https://github.com/adgellida/ubunsys) - STATUS: ACTIVE DEVELOPMENT ▶️ - Configure dark and deep aspects in your Ubuntu
+- [adgellida/ubunsys](https://github.com/adgellida/ubunsys) - STATUS: DEVELOPMENT PAUSED ⏸️ - Configure dark and deep aspects in your Ubuntu
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [pandorafms/pandorafms](https://github.com/pandorafms/pandorafms) - Pandora FMS is a flexible and highly scalable monitoring system ready for big environments. It uses agents (Linux, Windows, AIX, HP-UX, Solaris and BSD systems) and can do both local and remote networ
 - [OSGeo/OSGeoLive](https://github.com/OSGeo/OSGeoLive) - OSGeo-Live is a self-contained bootable DVD, USB thumb drive or Virtual Machine based on LUbuntu, that allows you to try a wide variety of open source geospatial software without installing anything. 
@@ -4368,7 +4367,7 @@
 - [risacher/sunwait](https://github.com/risacher/sunwait) - Sunwait calculates sunrise or sunset times with civil, nautical, astronomical and custom twilights, for use with Windows Task Scheduler or 'cron' on Linux.
 - [siffash/cookie-fucker](https://github.com/siffash/cookie-fucker) - Removes all cookie warnings. Light and open-sourced.
 - [urban-labs/namematch](https://github.com/urban-labs/namematch) - Tool for probabilistically linking the records of individual entities (e.g. people) within and across datasets
-- [veelenga/rblist.info](https://github.com/veelenga/rblist.info) - Russia Ban List
+- [veelenga/rblist](https://github.com/veelenga/rblist) - Russia Ban List
 - [nelbren/npres](https://github.com/nelbren/npres) - npres core support
 - [azmatt/chasing_your_tail](https://github.com/azmatt/chasing_your_tail) - Tool for using wireless signals to see if you're being followed.
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
@@ -7853,7 +7852,7 @@
 ## qt 
 
 - [f1xpl/openauto](https://github.com/f1xpl/openauto) - AndroidAuto headunit emulator
-- [adgellida/ubunsys](https://github.com/adgellida/ubunsys) - STATUS: ACTIVE DEVELOPMENT ▶️ - Configure dark and deep aspects in your Ubuntu
+- [adgellida/ubunsys](https://github.com/adgellida/ubunsys) - STATUS: DEVELOPMENT PAUSED ⏸️ - Configure dark and deep aspects in your Ubuntu
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
 - [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy) - A full fledged GUI integration for the award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
 - [mapbox/mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) - Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL
@@ -8806,7 +8805,7 @@
 - [jamiemcg/Remarkable](https://github.com/jamiemcg/Remarkable) - Remarkable - The Markdown Editor for Linux http://remarkableapp.github.io
 - [alrra/dotfiles](https://github.com/alrra/dotfiles) - 💻 macOS / Ubuntu dotfiles
 - [anmoljagetia/Flatabulous](https://github.com/anmoljagetia/Flatabulous) - This is a Flat theme for Ubuntu and other Gnome based Linux Systems.
-- [adgellida/ubunsys](https://github.com/adgellida/ubunsys) - STATUS: ACTIVE DEVELOPMENT ▶️ - Configure dark and deep aspects in your Ubuntu
+- [adgellida/ubunsys](https://github.com/adgellida/ubunsys) - STATUS: DEVELOPMENT PAUSED ⏸️ - Configure dark and deep aspects in your Ubuntu
 - [OSGeo/OSGeoLive](https://github.com/OSGeo/OSGeoLive) - OSGeo-Live is a self-contained bootable DVD, USB thumb drive or Virtual Machine based on LUbuntu, that allows you to try a wide variety of open source geospatial software without installing anything. 
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
 
