@@ -4347,6 +4347,7 @@
 
 ## others 
 
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [ariakis/houdini](https://github.com/ariakis/houdini) - Script to bypass WiFi captive portals (e.g. at hotels, cruise ships etc.)
 - [tomellericcardo/EVIL-ESP](https://github.com/tomellericcardo/EVIL-ESP) - A super portable evil device, based on the ESP8266 board, running Micropython and equipped with a single button and a small OLED display
 - [FluxionNetwork/fluxion](https://github.com/FluxionNetwork/fluxion) - Fluxion is a remake of linset by vk496 with enhanced functionality.
@@ -5134,7 +5135,7 @@
 - [wildhaber/gohugo-amp](https://github.com/wildhaber/gohugo-amp) - ⚡ AMP starter theme for gohugo https://gohugo-amp.gohugohq.com
 - [linode/agreements](https://github.com/linode/agreements) - Linode's Legal Agreements
 - [linode/docs](https://github.com/linode/docs) - Linode guides and tutorials.
-- [decaporg/one-click-hugo-cms](https://github.com/decaporg/one-click-hugo-cms) - Hugo template with Netlify CMS
+- [decaporg/one-click-hugo-cms](https://github.com/decaporg/one-click-hugo-cms) - Hugo template with Decap CMS
 - [julianoappelklein/hokus](https://github.com/julianoappelklein/hokus) - A modern CMS for Hugo
 - [Shopify/ghostferry](https://github.com/Shopify/ghostferry) - The swiss army knife of live data migrations
 - [sass/sass-site](https://github.com/sass/sass-site) - Sass Website
