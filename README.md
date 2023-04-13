@@ -811,6 +811,7 @@
 - [w3c/wcag](https://github.com/w3c/wcag) - Web Content Accessibility Guidelines
 - [18F/handbook](https://github.com/18F/handbook) - The home of policies and guidelines that make up TTS.
 - [18F/development-guide](https://github.com/18F/development-guide) - A set of guidelines and best practices for an awesome software engineering team
+- [laws-africa/indigo](https://github.com/laws-africa/indigo) - Indigo Platform for publishing beautiful legislation.
 - [mathjax/MathJax-demos-web](https://github.com/mathjax/MathJax-demos-web) - A repository with examples using mathjax-v3
 - [opensiddur/opensiddur](https://github.com/opensiddur/opensiddur) - The Open Siddur Project aims to produce a free software toolkit for making high-quality custom Jewish liturgical books such as haggadot, siddurim, and bentchers that can be displayed on screen or prin
 - [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
@@ -4016,7 +4017,7 @@
 - [botman/botman](https://github.com/botman/botman) - A framework agnostic PHP library to build chat bots
 - [pvtl/voyager-page-blocks](https://github.com/pvtl/voyager-page-blocks) - A module to provide page blocks for Voyager 📝
 - [xtrime-ru/TelegramApiServer](https://github.com/xtrime-ru/TelegramApiServer) - Fast, simple, async php telegram api server: MadelineProto + Amp HTTP Server
-- [xtrime-ru/TelegramRSS](https://github.com/xtrime-ru/TelegramRSS) - Convert telegram posts to RSS or json in swoole server
+- [xtrime-ru/TelegramRSS](https://github.com/xtrime-ru/TelegramRSS) - Convert telegram posts to RSS or json in amphp server
 - [nethesis/googletts](https://github.com/nethesis/googletts) - Creates FreePBX System Recordings messages using Google Cloud Text To Speech
 - [compwright/opml2csv](https://github.com/compwright/opml2csv) - OPML to CSV converter
 - [thomascube/vcfconvert](https://github.com/thomascube/vcfconvert) - vCard to LDIF/CSV Converter
@@ -4321,7 +4322,6 @@
 - [alphagov/mapit](https://github.com/alphagov/mapit) - GOV.UK fork of Mapit, a web service to map postcodes to administrative boundaries
 - [cfpb/consumerfinance.gov](https://github.com/cfpb/consumerfinance.gov) - Django project protecting American consumers
 - [eregs/regulations-core](https://github.com/eregs/regulations-core) - An engine that supplies the API that allows users to read regulations and their various layers.
-- [laws-africa/indigo](https://github.com/laws-africa/indigo) - Indigo Platform for publishing beautiful legislation.
 - [Rafficer/linux-cli-community](https://github.com/Rafficer/linux-cli-community) - Linux command-line client for ProtonVPN. Written in Python.
 - [epam/OSCI](https://github.com/epam/OSCI) - Open Source Contributor Index
 - [burnash/gspread](https://github.com/burnash/gspread) - Google Sheets Python API
