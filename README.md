@@ -3997,7 +3997,7 @@
 - [jkphl/micrometa](https://github.com/jkphl/micrometa) - A meta parser for extracting micro information out of web documents, currently supporting Microformats 1+2, HTML Microdata, RDFa Lite 1.1, JSON-LD and Link Types, written in PHP
 - [laravel/cashier-stripe](https://github.com/laravel/cashier-stripe) - Laravel Cashier provides an expressive, fluent interface to Stripe's subscription billing services.
 - [GoogleCloudPlatform/getting-started-php](https://github.com/GoogleCloudPlatform/getting-started-php) - A tutorial for creating a complete application using PHP on Google Cloud Platform
-- [berrnd/locory](https://github.com/berrnd/locory) - A private/selfhosted location history solution
+- [berrnd/locory](https://github.com/berrnd/locory) - A private / self-hosted location history solution
 - [pandorafms/pandorafms](https://github.com/pandorafms/pandorafms) - Pandora FMS is a flexible and highly scalable monitoring system ready for big environments. It uses agents (Linux, Windows, AIX, HP-UX, Solaris and BSD systems) and can do both local and remote networ
 - [MIT-Mobile/MIT-Mobile-Web](https://github.com/MIT-Mobile/MIT-Mobile-Web) - The web portion of the MIT Mobile Framework
 - [dagd/dagd](https://github.com/dagd/dagd) - A URL shortener with various other utilities, backed by a custom lightweight framework.
