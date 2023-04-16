@@ -5341,7 +5341,6 @@
 - [metafizzy/flickity](https://github.com/metafizzy/flickity) - :leaves: Touch, responsive, flickable carousels
 - [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
 - [anru/rsted](https://github.com/anru/rsted) - [UNMAINTAINED] Online reStructuredText editor
-- [berkan-cetinkaya/jekyll-doc-theme](https://github.com/berkan-cetinkaya/jekyll-doc-theme) - minimal jekyll doc theme
 - [tscanlin/tocbot](https://github.com/tscanlin/tocbot) - Build a table of contents from headings in an HTML document.
 - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 - [minicomp/wiki](https://github.com/minicomp/wiki) - where the docs live!
@@ -5934,7 +5933,6 @@
 - [github/gov-takedowns](https://github.com/github/gov-takedowns) - Text of government takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices.
 - [geometalab/OSMTagFinder](https://github.com/geometalab/OSMTagFinder) - Web search engine for OpenStreetMap tags similar to taginfo but simpler.
 - [geometalab/Vector-Tiles-Reader-QGIS-Plugin](https://github.com/geometalab/Vector-Tiles-Reader-QGIS-Plugin) - Vector Tiles Reader QGIS-Plugin - QGIS Python plugin which reads Mapbox Vector Tiles from a server, a local MBTiles file or a directory
-- [berrnd/locory](https://github.com/berrnd/locory) - A private/selfhosted location history solution
 - [theopolisme/hangouts-analyzer](https://github.com/theopolisme/hangouts-analyzer) - Analyze and visualize your Google Hangouts chat history
 - [theopolisme/location-history-visualizer](https://github.com/theopolisme/location-history-visualizer) - Visualize your Google Location History using an interactive heatmap
 - [ninabcdefghi/location-history-visualizer](https://github.com/ninabcdefghi/location-history-visualizer) - simple python CLI tool to visualize google geolocation history on world map
@@ -7459,6 +7457,7 @@
 - [octobercms/october](https://github.com/octobercms/october) - Self-hosted CMS platform based on the Laravel PHP Framework.
 - [RefactoringGuru/design-patterns-php](https://github.com/RefactoringGuru/design-patterns-php) - Design Pattern Examples in PHP
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
+- [berrnd/locory](https://github.com/berrnd/locory) - A private / self-hosted location history solution
 - [dagd/dagd](https://github.com/dagd/dagd) - A URL shortener with various other utilities, backed by a custom lightweight framework.
 - [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
 - [simplepie/simplepie](https://github.com/simplepie/simplepie) - A simple Atom/RSS parsing library for PHP.
