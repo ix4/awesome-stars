@@ -869,7 +869,6 @@
 - [GrabzIt/grabzit](https://github.com/GrabzIt/grabzit) - GrabzIt enables you to convert HTML and URL's into JPG's, PNG's, DOCX's, PDF's and more. Transform online videos into animated GIF's or convert HTML tables to JSON, CSV and Excel spreadsheets.
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [metafizzy/infinite-scroll](https://github.com/metafizzy/infinite-scroll) - 📜 Automatically add next page
-- [berkan-cetinkaya/jekyll-doc-theme](https://github.com/berkan-cetinkaya/jekyll-doc-theme) - minimal jekyll doc theme
 - [wowthemesnet/template-pintereso-bootstrap-jekyll](https://github.com/wowthemesnet/template-pintereso-bootstrap-jekyll) - Pintereso is a free Jekyll theme, Pinterest style.
 - [minicomp/wiki](https://github.com/minicomp/wiki) - where the docs live!
 - [forestryio/ubuild-jekyll](https://github.com/forestryio/ubuild-jekyll) - A Jekyll theme designed to work with Forestry Blocks
