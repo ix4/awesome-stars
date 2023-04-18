@@ -2322,7 +2322,7 @@
 - [jwillmer/emergency-contacts](https://github.com/jwillmer/emergency-contacts) - A static website with your personal emergency contacts
 - [jwillmer/jekyllDecent](https://github.com/jwillmer/jekyllDecent) - Blog Template for Jekyll
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
-- [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
+- [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 - [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
 - [ansman/validate.js](https://github.com/ansman/validate.js) - A declarative validation library written javascript
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
@@ -4778,7 +4778,6 @@
 - [ardubs/goggles](https://github.com/ardubs/goggles) - twitter exploration script, written in python
 - [google/gif-for-cli](https://github.com/google/gif-for-cli) - 
 - [LindseyB/not-pepe](https://github.com/LindseyB/not-pepe) - Basic Pepe/Not-pepe image classifier
-- [jawnyawns/make_rap](https://github.com/jawnyawns/make_rap) - Tweet → Rap
 - [ecthros/labelReader](https://github.com/ecthros/labelReader) - Programmatically find and read labels using Machine Learning
 - [ecthros/uncaptcha2](https://github.com/ecthros/uncaptcha2) - defeating the latest version of ReCaptcha with 91% accuracy
 - [amitt001/pygmy](https://github.com/amitt001/pygmy) - An open-source, feature rich & extensible url-shortener + analytics written in Python :cookie:
