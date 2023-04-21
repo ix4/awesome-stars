@@ -813,6 +813,7 @@
 - [18F/development-guide](https://github.com/18F/development-guide) - A set of guidelines and best practices for an awesome software engineering team
 - [laws-africa/indigo](https://github.com/laws-africa/indigo) - Indigo Platform for publishing beautiful legislation.
 - [mathjax/MathJax-demos-web](https://github.com/mathjax/MathJax-demos-web) - A repository with examples using mathjax-v3
+- [google/docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
 - [opensiddur/opensiddur](https://github.com/opensiddur/opensiddur) - The Open Siddur Project aims to produce a free software toolkit for making high-quality custom Jewish liturgical books such as haggadot, siddurim, and bentchers that can be displayed on screen or prin
 - [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
 - [cheeaun/life](https://github.com/cheeaun/life) - Life - a timeline of important events in my life
@@ -1710,7 +1711,6 @@
 - [words/syllable](https://github.com/words/syllable) - Count syllables in an English word
 - [words/flesch](https://github.com/words/flesch) - Formula to detect the ease of reading a text according to Flesch Reading Ease (1975)
 - [google/site-kit-wp](https://github.com/google/site-kit-wp) - Site Kit is a one-stop solution for WordPress users to use everything Google has to offer to make them successful on the web.
-- [google/docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
 - [retextjs/retext](https://github.com/retextjs/retext) - natural language processor powered by plugins part of the @unifiedjs collective
 - [remarkjs/remark-man](https://github.com/remarkjs/remark-man) - plugin to compile markdown to man pages
 - [words/emoji-emotion](https://github.com/words/emoji-emotion) - List of emoji rated for valence
@@ -2085,7 +2085,7 @@
 - [Laverna/laverna](https://github.com/Laverna/laverna) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
 - [samdutton/transcripter](https://github.com/samdutton/transcripter) - Create readable transcripts from YouTube caption files
 - [sockjs/sockjs-client](https://github.com/sockjs/sockjs-client) - WebSocket emulation - Javascript client
-- [facebook/instant-articles-builder](https://github.com/facebook/instant-articles-builder) - Instant Articles Rules Editor
+- [facebookarchive/instant-articles-builder](https://github.com/facebookarchive/instant-articles-builder) - Instant Articles Rules Editor
 - [withspectrum/micro-open-graph](https://github.com/withspectrum/micro-open-graph) - A tiny Node.js microservice to scrape open graph data with joy.
 - [ejci/favico.js](https://github.com/ejci/favico.js) - Make use of your favicon with badges, images or videos
 - [meganz/ffmpeg.js](https://github.com/meganz/ffmpeg.js) - Port of FFmpeg with Emscripten
@@ -5746,7 +5746,7 @@
 
 ## XQuery 
 
-- [HistoryAtState/hsg-shell](https://github.com/HistoryAtState/hsg-shell) - history.state.gov redesign
+- [HistoryAtState/hsg-shell](https://github.com/HistoryAtState/hsg-shell) - Source code for the history.state.gov website
 
 ## XSLT 
 
