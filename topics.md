@@ -5552,7 +5552,7 @@
 - [Laverna/laverna](https://github.com/Laverna/laverna) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
 - [samdutton/transcripter](https://github.com/samdutton/transcripter) - Create readable transcripts from YouTube caption files
 - [gjtorikian/jekyll-last-modified-at](https://github.com/gjtorikian/jekyll-last-modified-at) - A Jekyll plugin to show the last_modified_at time of a post.
-- [facebook/instant-articles-builder](https://github.com/facebook/instant-articles-builder) - Instant Articles Rules Editor
+- [facebookarchive/instant-articles-builder](https://github.com/facebookarchive/instant-articles-builder) - Instant Articles Rules Editor
 - [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Get unified metadata from websites using Open Graph, Microdata, RDFa, Twitter Cards, JSON-LD, HTML, and more.
 - [okfn/opendatahandbook](https://github.com/okfn/opendatahandbook) - Open Data Handbook v2
 - [sunlightpolicy/opendata](https://github.com/sunlightpolicy/opendata) - Another home for the Sunlight Foundation's Open Data Policy research.
@@ -6113,7 +6113,7 @@
 - [mapbox/geojson-vt](https://github.com/mapbox/geojson-vt) - Slice GeoJSON into vector tiles on the fly in the browser
 - [Leaflet/Leaflet.fullscreen](https://github.com/Leaflet/Leaflet.fullscreen) - A fullscreen control for Leaflet
 - [manton/JSONFeed](https://github.com/manton/JSONFeed) - The JSONFeed.org website
-- [HistoryAtState/hsg-shell](https://github.com/HistoryAtState/hsg-shell) - history.state.gov redesign
+- [HistoryAtState/hsg-shell](https://github.com/HistoryAtState/hsg-shell) - Source code for the history.state.gov website
 - [gist-run/gist-run](https://github.com/gist-run/gist-run) - :rocket: Bring your Gists to life with GistRun
 - [axismaps/levantCarta](https://github.com/axismaps/levantCarta) - 
 - [18F/fedramp-data](https://github.com/18F/fedramp-data) - A repository for the data underlying the FedRamp Dashboard
