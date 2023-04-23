@@ -8305,8 +8305,8 @@
 ## rust 
 
 - [urschrei/pypolyline](https://github.com/urschrei/pypolyline) - Fast Google Polyline encoding and decoding using a Rust binary
-- [InstantDomain/instant-segment](https://github.com/InstantDomain/instant-segment) - Fast English word segmentation in Rust
-- [InstantDomain/instant-distance](https://github.com/InstantDomain/instant-distance) - Fast approximate nearest neighbor searching in Rust, based on HNSW index
+- [instant-labs/instant-segment](https://github.com/instant-labs/instant-segment) - Fast English word segmentation in Rust
+- [instant-labs/instant-distance](https://github.com/instant-labs/instant-distance) - Fast approximate nearest neighbor searching in Rust, based on HNSW index
 - [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠  Home to Wrangler v1 (deprecated)
 - [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
