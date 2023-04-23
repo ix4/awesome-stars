@@ -4984,8 +4984,8 @@
 ## Rust 
 
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
-- [InstantDomain/instant-segment](https://github.com/InstantDomain/instant-segment) - Fast English word segmentation in Rust
-- [InstantDomain/instant-distance](https://github.com/InstantDomain/instant-distance) - Fast approximate nearest neighbor searching in Rust, based on HNSW index
+- [instant-labs/instant-segment](https://github.com/instant-labs/instant-segment) - Fast English word segmentation in Rust
+- [instant-labs/instant-distance](https://github.com/instant-labs/instant-distance) - Fast approximate nearest neighbor searching in Rust, based on HNSW index
 - [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠  Home to Wrangler v1 (deprecated)
 - [SergChr/qcv](https://github.com/SergChr/qcv) - A JSON to HTML resume generator
 - [TCNCoalition/TCN](https://github.com/TCNCoalition/TCN) - Specification and reference implementation of the TCN Protocol for decentralized, privacy-preserving contact tracing.
