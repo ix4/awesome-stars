@@ -160,6 +160,7 @@
 - [p2p](#p2p)
 - [package-manager](#package-manager)
 - [parsing](#parsing)
+- [penetration-testing](#penetration-testing)
 - [perl](#perl)
 - [php](#php)
 - [pixel-art](#pixel-art)
@@ -1254,7 +1255,7 @@
 - [MiteshPuthran/Speech-Emotion-Analyzer](https://github.com/MiteshPuthran/Speech-Emotion-Analyzer) - The neural network model is capable of detecting five different male/female emotions from audio speeches. (Deep Learning, NLP, Python)
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
-- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN! 创建在线课程，学术简历或初创网站。#OpenScience
+- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 创建在线课程，学术简历或初创网站。#OpenScience
 - [Chicago/food-inspections-evaluation](https://github.com/Chicago/food-inspections-evaluation) - This repository contains the code to generate predictions of critical violations at food establishments in Chicago. It also contains the results of an evaluation of the effectiveness of those predicti
 - [plotly/dash-oil-and-gas-demo](https://github.com/plotly/dash-oil-and-gas-demo) - Dash Demo App - New York Oil and Gas
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
@@ -1464,6 +1465,7 @@
 
 ## docker 
 
+- [portainer/portainer-compose](https://github.com/portainer/portainer-compose) - Compose setup for Portainer
 - [eficode/wait-for](https://github.com/eficode/wait-for) - ./wait-for is a script to wait for another service to become available.
 - [nazliander/scrape-nr-of-deaths-istanbul](https://github.com/nazliander/scrape-nr-of-deaths-istanbul) - A scraper and simple time series analysis example with Selenium and Seaborn.
 - [testdrivenio/selenium-grid-docker-swarm](https://github.com/testdrivenio/selenium-grid-docker-swarm) - web scraping in parallel with Selenium Grid and Docker
@@ -4441,7 +4443,6 @@
 - [nshores/my_usps_notifications](https://github.com/nshores/my_usps_notifications) - Notifications module built around the MyUsps python Library
 - [LeaVerou/dabblet](https://github.com/LeaVerou/dabblet) - An interactive CSS playground
 - [TheLooseArrow/arduino-tvout-ve](https://github.com/TheLooseArrow/arduino-tvout-ve) - TVout library with new features to support the Video Experimenter shield
-- [Leviathan36/kaboom](https://github.com/Leviathan36/kaboom) - A tool to automate penetration tests
 - [ianperrin/MMM-NetworkScanner](https://github.com/ianperrin/MMM-NetworkScanner) - A module for MagicMirror which determines the status of devices on the network based on their MAC or IP address
 - [google/tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
 - [nmap/ncrack](https://github.com/nmap/ncrack) - Ncrack network authentication tool
@@ -6958,7 +6959,6 @@
 - [0xpetersatoshi/scrape-craigslist-rentals](https://github.com/0xpetersatoshi/scrape-craigslist-rentals) - AWS Lambda function used to scrape rental data from Craigslist.
 - [allella/jimmy-craigslist](https://github.com/allella/jimmy-craigslist) - Script to self-poll and save Craigslist, Google Groups, Google News, and Google Alerts RSS feed data to workaround blacklisted or prohibited domains for readers like AOL, Feedly, and Digg Reader.
 - [GerbenJavado/LinkFinder](https://github.com/GerbenJavado/LinkFinder) - A python script that finds endpoints in JavaScript files
-- [arismelachroinos/lscript](https://github.com/arismelachroinos/lscript) - The LAZY script will make your life easier, and of course faster.
 - [mgp25/Probe-Hunter](https://github.com/mgp25/Probe-Hunter) - Probe Request sniffer + Wigle
 - [harvard-lil/capstone](https://github.com/harvard-lil/capstone) - CAP database scripts.
 - [BBC-Data-Unit/unduly-lenient-sentences](https://github.com/BBC-Data-Unit/unduly-lenient-sentences) - Unduly lenient sentences review scheme 'inadequate'
@@ -7428,6 +7428,22 @@
 - [jquery/esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis
 - [mdaines/grammophone](https://github.com/mdaines/grammophone) - A tool for analyzing and transforming context-free grammars.
 
+## penetration-testing 
+
+- [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+- [Leviathan36/kaboom](https://github.com/Leviathan36/kaboom) - A tool to automate penetration tests
+- [maldevel/PenTestKit](https://github.com/maldevel/PenTestKit) - Tools, scripts and tips useful during Penetration Testing engagements.
+- [mgeeky/Penetration-Testing-Tools](https://github.com/mgeeky/Penetration-Testing-Tools) - A collection of more than 170+ tools, scripts, cheatsheets and other loots that I've developed over years for Red Teaming/Pentesting/IT Security audits purposes.
+- [ASHWIN990/ADB-Toolkit](https://github.com/ASHWIN990/ADB-Toolkit) - ADB-Toolkit V2 for easy ADB tricks with many perks in all one. ENJOY!
+- [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
+- [sh4hin/Androl4b](https://github.com/sh4hin/Androl4b) - A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis
+- [arismelachroinos/lscript](https://github.com/arismelachroinos/lscript) - The LAZY script will make your life easier, and of course faster.
+- [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) - Next generation web scanner
+- [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
+- [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
+- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform | Sn1perSecurity LLC
+
 ## perl 
 
 - [andrewcmyers/civs](https://github.com/andrewcmyers/civs) - Condorcet Internet Voting System
@@ -7875,7 +7891,7 @@
 - [rte-antares-rpackage/leaflet.minicharts](https://github.com/rte-antares-rpackage/leaflet.minicharts) - Minicharts for dynamic leaflet maps
 - [daattali/shinyjs](https://github.com/daattali/shinyjs) - 💡 Easily improve the user experience of your Shiny apps in seconds
 - [datamapio/story](https://github.com/datamapio/story) - Cheatsheets, Tutorials, Articles etc.
-- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN! 创建在线课程，学术简历或初创网站。#OpenScience
+- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 创建在线课程，学术简历或初创网站。#OpenScience
 - [jbkunst/highcharter](https://github.com/jbkunst/highcharter) - R wrapper for highcharts
 - [dreamRs/apexcharter](https://github.com/dreamRs/apexcharter) - :bar_chart: R Htmlwidget for ApexCharts.js
 - [evanodell/parlitools](https://github.com/evanodell/parlitools) - A collection of useful tools for UK politics
