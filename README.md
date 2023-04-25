@@ -3296,7 +3296,6 @@
 - [jwasilgeo/Leaflet.ParallaxMarker](https://github.com/jwasilgeo/Leaflet.ParallaxMarker) - 
 - [dagjomar/Leaflet.ParallaxMarker](https://github.com/dagjomar/Leaflet.ParallaxMarker) - 
 - [google/WebFundamentals](https://github.com/google/WebFundamentals) - Former git repo for WebFundamentals on developers.google.com
-- [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [finnp/gitter-irc-bot](https://github.com/finnp/gitter-irc-bot) - :speech_balloon: Bot that synchronises messages from gitter and irc
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [imaya/CanvasTool.PngEncoder](https://github.com/imaya/CanvasTool.PngEncoder) - JavaScript Canvas PNG Encoder
@@ -3642,6 +3641,7 @@
 
 ## Others 
 
+- [portainer/portainer-compose](https://github.com/portainer/portainer-compose) - Compose setup for Portainer
 - [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of filters to fill in the gaps
 - [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - articles
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
@@ -5062,7 +5062,7 @@
 - [bullgit/bullgit.github.io](https://github.com/bullgit/bullgit.github.io) - The amazing bullgit homepage
 - [GSA/resources.data.gov](https://github.com/GSA/resources.data.gov) - Resources for open data and enterprise data inventory management
 - [mmistakes/jekyll-theme-basically-basic](https://github.com/mmistakes/jekyll-theme-basically-basic) - Your new Jekyll default theme.
-- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN! 创建在线课程，学术简历或初创网站。#OpenScience
+- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 创建在线课程，学术简历或初创网站。#OpenScience
 - [MehediH/Tweeten](https://github.com/MehediH/Tweeten) - An intuitive and powerful Twitter experience built for those who get real work done.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [twitter/opensource-website](https://github.com/twitter/opensource-website) - Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
@@ -5662,6 +5662,7 @@
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [muuvmuuv/vscode-sundial](https://github.com/muuvmuuv/vscode-sundial) - Changes your VS Code theme based on your sunset and sunrise
+- [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [probot/smee-client](https://github.com/probot/smee-client) - 🔴 Receives payloads then sends them to your local server
 - [auth0-blog/angular-d3-socketio](https://github.com/auth0-blog/angular-d3-socketio) - 
 - [cozmo/jsQR](https://github.com/cozmo/jsQR) - A pure javascript QR code reading library. This library takes in raw images and will locate, extract and parse any QR code found within.
