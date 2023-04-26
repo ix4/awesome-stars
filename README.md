@@ -196,7 +196,7 @@
 - [OpenWaterAnalytics/Stormwater-Management-Model](https://github.com/OpenWaterAnalytics/Stormwater-Management-Model) - Open Water Analytics Stormwater Management Model repository
 - [USEPA/Stormwater-Management-Model](https://github.com/USEPA/Stormwater-Management-Model) - Dynamic hydrology-hydraulic water quality simulation model
 - [ArtifexSoftware/mupdf](https://github.com/ArtifexSoftware/mupdf) - mupdf mirror
-- [centricular/gstwebrtc-demos](https://github.com/centricular/gstwebrtc-demos) - Superseded by https://gitlab.freedesktop.org/gstreamer/gst-examples/-/tree/master/webrtc - Demo apps for using gstreamer's webrtc implementation
+- [centricular/gstwebrtc-demos](https://github.com/centricular/gstwebrtc-demos) - Superseded by https://gitlab.freedesktop.org/gstreamer/gstreamer/-/tree/main/subprojects/gst-examples/webrtc - Demo apps for using gstreamer's webrtc implementation
 - [codekoch/mediakit_RaspberryPi](https://github.com/codekoch/mediakit_RaspberryPi) - 
 - [rom1v/usbaudio](https://github.com/rom1v/usbaudio) - Forward audio from Android devices
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -254,6 +254,7 @@
 - [easytarget/esp32-cjmcu-531-demo](https://github.com/easytarget/esp32-cjmcu-531-demo) - CJMCU-531 and ESP32 Web Demo interfacing to a VL53L1X IR time-of-flight sensor
 - [vietquocnguyen/NodeMCU-ESP8266-Servo-Smart-Blinds](https://github.com/vietquocnguyen/NodeMCU-ESP8266-Servo-Smart-Blinds) - DIY Smart Blinds using NodeMCU V3/ESP8266 and an MG995 Servo
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
+- [Xinyuan-LilyGO/LilyGo-Camera-Series](https://github.com/Xinyuan-LilyGO/LilyGo-Camera-Series) - 🔰 Compatible with all TTGO camera products
 - [hevnsnt/NOTCHACOTCHA](https://github.com/hevnsnt/NOTCHACOTCHA) - NOTCHACOTCHA
 - [usnationalarchives/AVI-MetaEdit](https://github.com/usnationalarchives/AVI-MetaEdit) - NARA AVI-MetaEdit
 - [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
@@ -3684,7 +3685,6 @@
 - [styled-components/awesome-styled-components](https://github.com/styled-components/awesome-styled-components) - A curated list of awesome styled-components resources 💅
 - [nychealth/coronavirus-data](https://github.com/nychealth/coronavirus-data) - This repository contains data on Coronavirus Disease 2019 (COVID-19) in New York City (NYC), from the NYC Department of Health and Mental Hygiene.
 - [nytimes/covid-19-data](https://github.com/nytimes/covid-19-data) - A repository of data on coronavirus cases and deaths in the U.S.
-- [Xinyuan-LilyGO/LilyGo-Camera-Series](https://github.com/Xinyuan-LilyGO/LilyGo-Camera-Series) - 🔰 Compatible with all TTGO camera products
 - [cybercongress/cybercongress](https://github.com/cybercongress/cybercongress) - Helping humanity evolve
 - [pugjs/pug-en](https://github.com/pugjs/pug-en) - The English documentation for Pug.
 - [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
@@ -5203,7 +5203,7 @@
 - [sourcey/webrtc-builds](https://github.com/sourcey/webrtc-builds) - Automated WebRTC build scripts for Linux, Windows, Mac, Android and iOS.
 - [dylanaraps/pfetch](https://github.com/dylanaraps/pfetch) - 🐧 A pretty system information tool written in POSIX sh.
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
-- [neoascetic/.dotfiles](https://github.com/neoascetic/.dotfiles) - cd ~/ && git clone git://github.com/neoascetic/.dotfiles && find ~/.dotfiles -name '.*' -depth 1 -not -name '.git' -exec ln -sf {} \;
+- [neoascetic/.dotfiles](https://github.com/neoascetic/.dotfiles) - cd ~/ && git clone https://github.com/neoascetic/.dotfiles && find ~/.dotfiles -name '.*' -depth 1 -not -name '.git' -exec ln -sf {} \;
 - [Juris-M/bluebook-signals-for-zotero](https://github.com/Juris-M/bluebook-signals-for-zotero) - A simple plugin that adds a menu of standard Bluebook signals to the Prefix field of the Zotero/MLZ work procesor plugins.
 - [netarchivesuite/so-me](https://github.com/netarchivesuite/so-me) - Social Media harvests
 - [thlorenz/gendo](https://github.com/thlorenz/gendo) - Generates docs via documentationjs, updates README checks that in and then generates github pages with nicely rendered docs.
