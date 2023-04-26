@@ -5451,7 +5451,7 @@
 - [abemedia/jekyll-facebook-gallery](https://github.com/abemedia/jekyll-facebook-gallery) - Jekyll Plugin which displays your photo albums from Facebook
 - [abemedia/jekyll-pdf](https://github.com/abemedia/jekyll-pdf) - Create PDFs from Jekyll pages & documents.
 - [airbnb/nerve](https://github.com/airbnb/nerve) - A service registration daemon that performs health checks; companion to airbnb/synapse
-- [neoascetic/.dotfiles](https://github.com/neoascetic/.dotfiles) - cd ~/ && git clone git://github.com/neoascetic/.dotfiles && find ~/.dotfiles -name '.*' -depth 1 -not -name '.git' -exec ln -sf {} \;
+- [neoascetic/.dotfiles](https://github.com/neoascetic/.dotfiles) - cd ~/ && git clone https://github.com/neoascetic/.dotfiles && find ~/.dotfiles -name '.*' -depth 1 -not -name '.git' -exec ln -sf {} \;
 - [droiter/openwrt-on-android](https://github.com/droiter/openwrt-on-android) - Openwrt on Android
 - [espressif/esptool](https://github.com/espressif/esptool) - Espressif SoC serial bootloader utility
 - [bajcmartinez/nordvpn-status](https://github.com/bajcmartinez/nordvpn-status) - Displays the current status of your nordvpn connection
@@ -6365,7 +6365,7 @@
 - [collab-project/videojs-wavesurfer](https://github.com/collab-project/videojs-wavesurfer) - video.js plugin that adds a navigable waveform for audio and video files
 - [collab-project/videojs-record](https://github.com/collab-project/videojs-record) - video.js plugin for recording audio/video/image files
 - [mpromonet/webrtc-streamer](https://github.com/mpromonet/webrtc-streamer) - WebRTC streamer for V4L2 capture devices, RTSP sources and Screen Capture
-- [centricular/gstwebrtc-demos](https://github.com/centricular/gstwebrtc-demos) - Superseded by https://gitlab.freedesktop.org/gstreamer/gst-examples/-/tree/master/webrtc - Demo apps for using gstreamer's webrtc implementation
+- [centricular/gstwebrtc-demos](https://github.com/centricular/gstwebrtc-demos) - Superseded by https://gitlab.freedesktop.org/gstreamer/gstreamer/-/tree/main/subprojects/gst-examples/webrtc - Demo apps for using gstreamer's webrtc implementation
 - [flutter-webrtc/flutter-webrtc-demo](https://github.com/flutter-webrtc/flutter-webrtc-demo) - Demo for flutter-webrtc
 - [MyPureCloud/webrtc-stats-gatherer](https://github.com/MyPureCloud/webrtc-stats-gatherer) - :chart_with_upwards_trend: :computer:  A module for collecting stats for webrtc connections
 - [stackpath/serverless-scripting-examples](https://github.com/stackpath/serverless-scripting-examples) - SP// Serverless Scripting Examples
