@@ -265,7 +265,6 @@
 - [ariya/phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 - [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream
 - [obsproject/obs-websocket](https://github.com/obsproject/obs-websocket) - Remote-control of OBS Studio through WebSocket
-- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [kylemcdonald/FaceTracker](https://github.com/kylemcdonald/FaceTracker) - Real time deformable face tracking in C++ with OpenCV 3.
 - [ajdroid/facetrackerapp](https://github.com/ajdroid/facetrackerapp) - Android app for facial landmark tracking
 - [kylemcdonald/ofxFaceTracker](https://github.com/kylemcdonald/ofxFaceTracker) - CLM face tracking addon for openFrameworks based on Jason Saragih's FaceTracker.
@@ -4372,6 +4371,7 @@
 - [HorlogeSkynet/archey4](https://github.com/HorlogeSkynet/archey4) - :computer: Maintained fork of the original Archey (Linux) system tool
 - [LingDong-/linedraw](https://github.com/LingDong-/linedraw) - Convert images to vectorized line drawings for plotters.
 - [LingDong-/chinese-hershey-font](https://github.com/LingDong-/chinese-hershey-font) - Convert Chinese Characters to Single-Line Fonts using Computer Vision
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [brianhouse/conversnitch](https://github.com/brianhouse/conversnitch) - A monitoring device
 - [kylemcdonald/FreeWifi](https://github.com/kylemcdonald/FreeWifi) - How to get free wifi.
 - [isarandi/synthetic-occlusion](https://github.com/isarandi/synthetic-occlusion) - Synthetic Occlusion Augmentation
@@ -4887,7 +4887,7 @@
 - [laws-africa/slaw](https://github.com/laws-africa/slaw) - Slaw is a lightweight library for rendering and generating Akoma Ntoso acts from plain text and PDF documents.
 - [countxyz/nyc_adc_jsonifier](https://github.com/countxyz/nyc_adc_jsonifier) - Crawls and scrapes content from the NYC administrative code and formats it to JSON
 - [github/gemoji](https://github.com/github/gemoji) - Emoji images and names.
-- [github/linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+- [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [archome/jekyll-citation](https://github.com/archome/jekyll-citation) - Jekyll plugin to parse/render BibTeX-encoded citations included in posts/pages
 - [imathis/octopress](https://github.com/imathis/octopress) - Octopress is an obsessively designed framework for Jekyll blogging. It’s easy to configure and easy to deploy. Sweet huh?
 - [fauno/jekyll-pandoc-multiple-formats](https://github.com/fauno/jekyll-pandoc-multiple-formats) - Use pandoc on jekyll to generate posts in multiple formats. Development has moved to https://0xacab.org/edsl/jekyll-pandoc-multiple-formats
