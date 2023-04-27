@@ -5090,7 +5090,7 @@
 - [hexojs/site](https://github.com/hexojs/site) - The website for Hexo.
 - [mozilla/kitsune](https://github.com/mozilla/kitsune) - Platform for Mozilla Support
 - [vuejs/v2.vuejs.org](https://github.com/vuejs/v2.vuejs.org) - 📄 Documentation for Vue 2
-- [github/linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+- [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [gopro/jekyll-theme-labs](https://github.com/gopro/jekyll-theme-labs) - Stylesheet for GoPro Labs
 - [digitalbazaar/forge-dist](https://github.com/digitalbazaar/forge-dist) - A native JavaScript implementation of TLS, cryptography primitives, and other webapp tools.
 - [yaronf/bibtex2rfc](https://github.com/yaronf/bibtex2rfc) - Convert bibtex citations into bibxml references for use in Internet Drafts and RFCs
