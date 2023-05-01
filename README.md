@@ -1054,6 +1054,7 @@
 - [srfdata/srfdata.github.io](https://github.com/srfdata/srfdata.github.io) - GitHub Page of SRF Data
 - [naver/egjs-visible](https://github.com/naver/egjs-visible) - A class that checks if an element is visible in the base element or viewport.
 - [hammerjs/hammerjs.github.io](https://github.com/hammerjs/hammerjs.github.io) - Website
+- [jpatokal/openflights](https://github.com/jpatokal/openflights) - Website for storing flight information, rendering paths on a zoomable world map and calculating statistics, with plenty of free airline, airport and route data.
 - [plotly/datasets](https://github.com/plotly/datasets) - Datasets used in Plotly examples and documentation
 - [d3fc/d3fc](https://github.com/d3fc/d3fc) - A collection of components that make it easy to build interactive charts with D3
 - [dariusk/how-dat-works](https://github.com/dariusk/how-dat-works) - Protocol documentation for Dat
@@ -4000,7 +4001,6 @@
 - [MIT-Mobile/MIT-Mobile-Web](https://github.com/MIT-Mobile/MIT-Mobile-Web) - The web portion of the MIT Mobile Framework
 - [dagd/dagd](https://github.com/dagd/dagd) - A URL shortener with various other utilities, backed by a custom lightweight framework.
 - [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
-- [jpatokal/openflights](https://github.com/jpatokal/openflights) - Website for storing flight information, rendering paths on a zoomable world map and calculating statistics, with plenty of free airline, airport and route data.
 - [dauxio/daux.io](https://github.com/dauxio/daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer f
 - [Noleli/listcopy](https://github.com/Noleli/listcopy) - Twitter List Copy
 - [iamcal/oembed](https://github.com/iamcal/oembed) - The oEmbed Spec
