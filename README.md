@@ -3450,7 +3450,6 @@
 - [nasa-gibs/gibs-web-examples](https://github.com/nasa-gibs/gibs-web-examples) - Examples of using GIBS with various web mapping libraries
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [yahoo/blink-diff](https://github.com/yahoo/blink-diff) - A lightweight image comparison tool.
-- [yahoo/gifshot](https://github.com/yahoo/gifshot) - JavaScript library that can create animated GIFs from media streams, videos, or images.
 - [itteco/iframely](https://github.com/itteco/iframely) - oEmbed proxy. Supports over 1800 domains via custom parsers, oEmbed, Twitter Cards and Open Graph
 - [ellisonleao/sharer.js](https://github.com/ellisonleao/sharer.js) - :on: :bookmark: Create your own social share buttons. No jquery.
 - [vladocar/screenshoteer](https://github.com/vladocar/screenshoteer) - Make website screenshots and mobile emulations from the command line.
@@ -3505,7 +3504,7 @@
 - [devashishd12/twitter-user-classification](https://github.com/devashishd12/twitter-user-classification) - Twitter user classification tutorial at PyCon France 2016
 - [CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
 - [csaladenes/csaladenes.github.io](https://github.com/csaladenes/csaladenes.github.io) - Code behind my personal website (Dénes Csala)
-- [ecologize/CameraTraps](https://github.com/ecologize/CameraTraps) - Tools for training and running detectors and classifiers for wildlife images collected from motion-triggered cameras.
+- [microsoft/CameraTraps](https://github.com/microsoft/CameraTraps) - To gain access, please finish setting up this repository now at:  https://repos.opensource.microsoft.com/microsoft/wizard?existingreponame=CameraTraps&existingrepoid=152634113
 - [MiteshPuthran/Speech-Emotion-Analyzer](https://github.com/MiteshPuthran/Speech-Emotion-Analyzer) - The neural network model is capable of detecting five different male/female emotions from audio speeches. (Deep Learning, NLP, Python)
 - [GoogleCloudPlatform/keras-idiomatic-programmer](https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer) - Books, Presentations, Workshops, Notebook Labs, and Model Zoo  for Software Engineers and Data Scientists wanting to learn the TF.Keras Machine Learning framework
 - [ilyankou/passport-index-dataset](https://github.com/ilyankou/passport-index-dataset) - Passport Index 2023: visa requirements for 199 countries, in .csv
@@ -3604,6 +3603,7 @@
 
 ## Makefile 
 
+- [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [LibreELEC/LibreELEC.tv](https://github.com/LibreELEC/LibreELEC.tv) - Just enough OS for KODI
 - [cloud-gov/cg-compliance-docs](https://github.com/cloud-gov/cg-compliance-docs) - cloud.gov security policies and procedures
@@ -3723,7 +3723,7 @@
 - [mariuszostrowski/subway](https://github.com/mariuszostrowski/subway) - Subway is a set of 306 pixel perfect crafted icons optimized for iOS, Apple Watch, Windows and BlackBerry 10.
 - [docbook/wiki](https://github.com/docbook/wiki) - The rebooted DocBook wiki
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
-- [IvanGoncharov/graphql-apis](https://github.com/IvanGoncharov/graphql-apis) - 📜 A collective list of public GraphQL APIs
+- [graphql-kit/graphql-apis](https://github.com/graphql-kit/graphql-apis) - 📜 A collective list of public GraphQL APIs
 - [fecgov/FEC](https://github.com/fecgov/FEC) - A general discussion forum for FEC.gov. This is the best place to submit general feedback.
 - [josephrexme/knowledge](https://github.com/josephrexme/knowledge) - Documenting every knowledge
 - [tumblr/policy](https://github.com/tumblr/policy) - Tumblr policies and guidelines
@@ -5333,7 +5333,7 @@
 - [anbuksv/avantation](https://github.com/anbuksv/avantation) - Build OpenAPI3.0 specification from HAR.
 - [kevinschaich/mintable](https://github.com/kevinschaich/mintable) - 🍃 Automate your personal finances – for free, with no ads, and no data collection.
 - [Keyang/node-csvtojson](https://github.com/Keyang/node-csvtojson) - Blazing fast and Comprehensive CSV Parser for Node.JS / Browser / Command Line.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love.
 - [TommyX12/VIR](https://github.com/TommyX12/VIR) - An intelligent time manager.
 - [1inch/shieldy](https://github.com/1inch/shieldy) - @shieldy_bot Telegram bot repository
 - [ExperienceLovelace/ha-floorplan](https://github.com/ExperienceLovelace/ha-floorplan) - Bring new life to Home Assistant. By mapping entities to a SVG-object, you're able to control devices, show states, calling services - and much more. Add custom styling on top, to visualize whatever y
@@ -5463,7 +5463,7 @@
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [mathjax/MathJax-src](https://github.com/mathjax/MathJax-src) - MathJax source code for version 3 and beyond
 - [thlorenz/typo](https://github.com/thlorenz/typo) - ⌨️The platformer 10 finger typing game
-- [IvanGoncharov/graphql-voyager](https://github.com/IvanGoncharov/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
+- [graphql-kit/graphql-voyager](https://github.com/graphql-kit/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
 - [itopmoon/floorplan-angular](https://github.com/itopmoon/floorplan-angular) - Prototype to draw floorplan of rooms. (Angular 13 + Fabric.js)
 - [probot/auth-routes](https://github.com/probot/auth-routes) - 🔀🔒 Helpful authentication routes for Node.js GitHub integrations
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
