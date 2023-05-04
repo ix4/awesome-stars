@@ -193,7 +193,7 @@
 - [maxmind/libmaxminddb](https://github.com/maxmind/libmaxminddb) - C library for the MaxMind DB file format
 - [MapServer/MapServer](https://github.com/MapServer/MapServer) - Source code of the MapServer project.  Please submit pull requests to the 'main' branch.
 - [mozilla/mozjpeg](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder.
-- [OpenWaterAnalytics/Stormwater-Management-Model](https://github.com/OpenWaterAnalytics/Stormwater-Management-Model) - Open Water Analytics Stormwater Management Model repository
+- [pyswmm/Stormwater-Management-Model](https://github.com/pyswmm/Stormwater-Management-Model) - Open Water Analytics Stormwater Management Model repository
 - [USEPA/Stormwater-Management-Model](https://github.com/USEPA/Stormwater-Management-Model) - Dynamic hydrology-hydraulic water quality simulation model
 - [ArtifexSoftware/mupdf](https://github.com/ArtifexSoftware/mupdf) - mupdf mirror
 - [centricular/gstwebrtc-demos](https://github.com/centricular/gstwebrtc-demos) - Superseded by https://gitlab.freedesktop.org/gstreamer/gstreamer/-/tree/main/subprojects/gst-examples/webrtc - Demo apps for using gstreamer's webrtc implementation
@@ -208,7 +208,7 @@
 - [google/eddystone](https://github.com/google/eddystone) - Specification for Eddystone, an open beacon format from Google
 - [SensorsIot/Wi-Fi-Sniffer-as-a-Human-detector](https://github.com/SensorsIot/Wi-Fi-Sniffer-as-a-Human-detector) - Code for Youtube video #163
 - [ascii-boxes/boxes](https://github.com/ascii-boxes/boxes) - Command line ASCII boxes unlimited!
-- [ETS-PoliTO/esp32-sniffer](https://github.com/ETS-PoliTO/esp32-sniffer) - ESP32 firmware that sniffs PROBE REQUEST packets sent from smartphones looking for a Wi-Fi connection in order to extract different types of information.
+- [ETS-PoliTO/esp32-sniffer](https://github.com/ETS-PoliTO/esp32-sniffer) - ESP32 firmware that sniffs PROBE REQUEST packets sent from smartphones looking for a Wi-Fi connection in order to extract different types of information
 - [unpaper/unpaper](https://github.com/unpaper/unpaper) - A post-processing tool for scanned sheets of paper.
 - [ValdikSS/p0f-mtu](https://github.com/ValdikSS/p0f-mtu) - p0f with patches to save MTU value and export it via API (for VPN detection)
 - [hasherezade/hollows_hunter](https://github.com/hasherezade/hollows_hunter) - Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches).
@@ -808,6 +808,7 @@
 - [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
 - [cfpb/source-code-policy](https://github.com/cfpb/source-code-policy) - The CFPB's official Source Code Policy.
+- [alphagov/govuk-developer-docs](https://github.com/alphagov/govuk-developer-docs) - 📖 Tech docs for everyone working on GOV.UK
 - [w3c/wcag](https://github.com/w3c/wcag) - Web Content Accessibility Guidelines
 - [18F/handbook](https://github.com/18F/handbook) - The home of policies and guidelines that make up TTS.
 - [18F/development-guide](https://github.com/18F/development-guide) - A set of guidelines and best practices for an awesome software engineering team
@@ -820,7 +821,6 @@
 - [Codepoints/Codepoints.net](https://github.com/Codepoints/Codepoints.net) - A visual guide to the wonders of Unicode
 - [hyperhype/hyperscript](https://github.com/hyperhype/hyperscript) - Create HyperText with JavaScript.
 - [themefisher/educenter-hugo](https://github.com/themefisher/educenter-hugo) - Educenter is an educational website template powered by Hugo. It can be used as an online teaching platform, school and university website.
-- [themefisher/dot-hugo](https://github.com/themefisher/dot-hugo) - Dot - Hugo Documentation Theme
 - [google/docsy-example](https://github.com/google/docsy-example) - An example documentation site using the Docsy Hugo theme
 - [parcel-bundler/website](https://github.com/parcel-bundler/website) - 🌎 Parcel website
 - [github/training-kit](https://github.com/github/training-kit) - Open source courseware for Git and GitHub
@@ -838,7 +838,7 @@
 - [MinnPost/minnpost-elections-dashboard](https://github.com/MinnPost/minnpost-elections-dashboard) - An elections results dashboard for MN elections.
 - [mattcone/markdown-guide](https://github.com/mattcone/markdown-guide) - The comprehensive Markdown reference guide.
 - [Templarian/MaterialDesign-Font-Build](https://github.com/Templarian/MaterialDesign-Font-Build) - NodeJS Webfont builder tailored for MDI w/ cli support
-- [rahul-bothra/parchment](https://github.com/rahul-bothra/parchment) - Jekyll theme for minimalists. Live at https://rahul-bothra.github.io/parchment
+- [rhl-bthr/parchment](https://github.com/rhl-bthr/parchment) - Jekyll theme for minimalists. Live at https://rahul-bothra.github.io/parchment
 - [hydecorp/hydejack-starter-kit](https://github.com/hydecorp/hydejack-starter-kit) - A quicker, cleaner way to get started blogging with Hydejack.
 - [shd101wyy/markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) - One of the 'BEST' markdown preview extensions for Atom editor!
 - [planetoftheweb/postcsslayouts](https://github.com/planetoftheweb/postcsslayouts) - This is the repository for my course, Building a Responsive Single-Page Design with PostCSS on LinkedIn Learning and Lynda.com.
@@ -3489,7 +3489,7 @@
 - [plotly/graphing-library-docs](https://github.com/plotly/graphing-library-docs) - Plotly's graphing libraries documentation.
 - [NUKnightLab/studio-documenters](https://github.com/NUKnightLab/studio-documenters) - Explorations for the Documenters.org project
 - [andrewray/iocaml](https://github.com/andrewray/iocaml) - An OCaml kernel for the IPython notebook
-- [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic) - 🎓 Hugo Academic Theme 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo, GitHub, and Netlify.
+- [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic) - 🎓 Hugo Academic Theme 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo and GitHub.
 - [PAIR-code/facets](https://github.com/PAIR-code/facets) - Visualizations for machine learning datasets
 - [cs231n/cs231n.github.io](https://github.com/cs231n/cs231n.github.io) - Public facing notes page
 - [sphinxteam/mlcourse_2019](https://github.com/sphinxteam/mlcourse_2019) - INTRODUCTION TO MACHINE LEARNING: An introductory practical course by Florent Krzakala and Antoine Baker
@@ -3765,7 +3765,7 @@
 - [xbmc/repo-scripts](https://github.com/xbmc/repo-scripts) - Official source repository for Kodi script add-ons
 - [xbmc/repo-plugins](https://github.com/xbmc/repo-plugins) - Official source repository for Kodi plugin add-ons
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
-- [jorgebucaran/hyperawesome](https://github.com/jorgebucaran/hyperawesome) - A curated list of awesome projects built with Hyperapp & more.
+- [jorgebucaran/hyperawesome](https://github.com/jorgebucaran/hyperawesome) - A curated list of awesome projects built with Hyperapp + more
 - [letsvalidate/api](https://github.com/letsvalidate/api) - API that uncovers the technologies used on websites and generates thumbnail from screenshot of website
 - [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
 - [ASCIIwwdc/wwdc-session-transcripts](https://github.com/ASCIIwwdc/wwdc-session-transcripts) - WWDC Session Transcripts
@@ -4879,7 +4879,6 @@
 - [jekyll/jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from) - :twisted_rightwards_arrows: Seamlessly specify multiple redirections URLs for your pages and posts.
 - [refinery/refinerycms](https://github.com/refinery/refinerycms) - An extendable Ruby on Rails CMS that supports Rails 6.0+
 - [rubygems/bundler](https://github.com/rubygems/bundler) - Manage your Ruby application's gem dependencies
-- [alphagov/govuk-developer-docs](https://github.com/alphagov/govuk-developer-docs) - 📖 Tech docs for everyone working on GOV.UK
 - [alphagov/govspeak](https://github.com/alphagov/govspeak) - Markdown extension library for Government editors
 - [usnationalarchives/federal_register](https://github.com/usnationalarchives/federal_register) - Ruby API Client for FederalRegister.gov that handles searching articles and getting information about agencies
 - [openc/openc-schema](https://github.com/openc/openc-schema) - JSON schemas for OpenCorporates data
@@ -5024,6 +5023,7 @@
 - [thingsym/hugo-theme-techdoc](https://github.com/thingsym/hugo-theme-techdoc) - The Techdoc is a Hugo Theme for technical documentation.
 - [tzuehlke/jekyll-uno-timeline](https://github.com/tzuehlke/jekyll-uno-timeline) - A Jekyll Theme, based on the Uno-Theme with some adjustments.
 - [textile/textile-lang-com-website](https://github.com/textile/textile-lang-com-website) - Official website of the Textile markup language.
+- [themefisher/dot-hugo](https://github.com/themefisher/dot-hugo) - Dot - Hugo Documentation Theme
 - [gopro/jekyll-theme-labs](https://github.com/gopro/jekyll-theme-labs) - Stylesheet for GoPro Labs
 - [ungoldman/style.css](https://github.com/ungoldman/style.css) - :beginner: Classless stylesheet for HTML documents.
 - [govau/design-system-starter](https://github.com/govau/design-system-starter) - 🚀 The Australian Government Design System - Starter
