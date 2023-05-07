@@ -771,7 +771,7 @@
 - [jsonresume/jsonresume-theme-boilerplate](https://github.com/jsonresume/jsonresume-theme-boilerplate) - Boilerplate theme for JSON Resume.
 - [cultofmetatron/jquery-autobars](https://github.com/cultofmetatron/jquery-autobars) - A convenient library for loading handlebars templates
 - [despo/issuehub.io](https://github.com/despo/issuehub.io) - Find open source issues to work on! (domain update)
-- [jsonresume/resume-website](https://github.com/jsonresume/resume-website) - Website for JSON Resume. 🏡
+- [jsonresume/resume-website](https://github.com/jsonresume/resume-website) - Website for JSON Resume. 🏡 DEPRECATED - SEE MONO
 - [jashkenas/docco](https://github.com/jashkenas/docco) - Literate Programming can be Quick and Dirty.
 - [nzherald/vaccination-rates](https://github.com/nzherald/vaccination-rates) - Exploration and interactive for vaccination rates story
 - [briancrink/dotfiles](https://github.com/briancrink/dotfiles) - alias, bash, brewfile, duti, function, i3, irssi, iterm2, jailbreak, macos, prompt, refind, searchengines, sessionbuddy, vscode, zsh
