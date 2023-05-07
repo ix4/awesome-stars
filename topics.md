@@ -2422,7 +2422,7 @@
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [oscarmorrison/md-page](https://github.com/oscarmorrison/md-page) - 📝 create a webpage with just markdown
 - [nielsenramon/kickster](https://github.com/nielsenramon/kickster) - Worry-free deploying to GitHub Pages using Jekyll
-- [jsonresume/resume-website](https://github.com/jsonresume/resume-website) - Website for JSON Resume. 🏡
+- [jsonresume/resume-website](https://github.com/jsonresume/resume-website) - Website for JSON Resume. 🏡 DEPRECATED - SEE MONO
 - [sighingnow/jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook) - Build Jekyll site with GitBook style!
 - [nextbitlabs/Rapido](https://github.com/nextbitlabs/Rapido) - Write your blog posts with semantic HTML.
 - [rehypejs/rehype](https://github.com/rehypejs/rehype) - HTML processor powered by plugins part of the @unifiedjs collective
@@ -3215,7 +3215,7 @@
 - [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) - :inbox_tray: The "jekyll import" command for importing from various blogs to Jekyll format.
 - [lazee/premonition](https://github.com/lazee/premonition) - Premonition is a Jekyll extension that makes it possible to add block-styled content to your site.  Like summaries, notes, hints or warnings.
 - [nielsenramon/kickster](https://github.com/nielsenramon/kickster) - Worry-free deploying to GitHub Pages using Jekyll
-- [jsonresume/resume-website](https://github.com/jsonresume/resume-website) - Website for JSON Resume. 🏡
+- [jsonresume/resume-website](https://github.com/jsonresume/resume-website) - Website for JSON Resume. 🏡 DEPRECATED - SEE MONO
 - [thiagorossener/jekflix-template](https://github.com/thiagorossener/jekflix-template) - A Jekyll theme inspired by Netflix. 🎬
 - [cisagov/cyber.dhs.gov](https://github.com/cisagov/cyber.dhs.gov) - A site for CISA directives
 - [envygeeks/jekyll-assets](https://github.com/envygeeks/jekyll-assets) - :art: Asset pipelines for Jekyll.
@@ -3426,7 +3426,7 @@
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [vasanthv/jsonbox](https://github.com/vasanthv/jsonbox) - HTTP-based JSON storage.
 - [jsonresume/jsonresume-theme-boilerplate](https://github.com/jsonresume/jsonresume-theme-boilerplate) - Boilerplate theme for JSON Resume.
-- [jsonresume/resume-website](https://github.com/jsonresume/resume-website) - Website for JSON Resume. 🏡
+- [jsonresume/resume-website](https://github.com/jsonresume/resume-website) - Website for JSON Resume. 🏡 DEPRECATED - SEE MONO
 - [json-editor/json-editor](https://github.com/json-editor/json-editor) - JSON Schema Based Editor
 - [portabletext/portabletext](https://github.com/portabletext/portabletext) - Portable Text is a JSON based rich text specification for modern content editing platforms.
 - [mdn/data](https://github.com/mdn/data) - This repository contains general data for Web technologies
@@ -5638,7 +5638,6 @@
 - [joonson/yousaidthat](https://github.com/joonson/yousaidthat) - You Said That?: Synthesising Talking Faces from Audio
 - [GoogleWebComponents/google-map](https://github.com/GoogleWebComponents/google-map) - Google Maps web components
 - [mccutchen/sketches](https://github.com/mccutchen/sketches) - A little collection of visual experiments.
-- [mccutchen/strftime.org](https://github.com/mccutchen/strftime.org) - A single-serving-site that provides a reference for Python's strftime formatting options
 - [fraziern/schedule](https://github.com/fraziern/schedule) - React/Redux-based volunteer scheduling web app.
 - [tanyuan/metamorphosis](https://github.com/tanyuan/metamorphosis) - 🐛 js13kGames 2017 (A-Frame) Entry by Steff & Tanyuan
 - [mdn/webaudio-examples](https://github.com/mdn/webaudio-examples) - Code examples that accompany the MDN Web Docs pages relating to Web Audio.
@@ -7682,6 +7681,7 @@
 - [nickoala/telepot](https://github.com/nickoala/telepot) - Python framework for Telegram Bot API
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
+- [mccutchen/strftime.org](https://github.com/mccutchen/strftime.org) - A single-serving-site that provides a reference for Python's strftime formatting options
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [vulnersCom/api](https://github.com/vulnersCom/api) - Vulners Python API wrapper
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
@@ -9077,7 +9077,7 @@
 - [expressjs/expressjs.com](https://github.com/expressjs/expressjs.com) - 
 - [nasa/Open-Source-Catalog](https://github.com/nasa/Open-Source-Catalog) - Contains the NASA open source software catalog for automatic deployment to code.nasa.gov
 - [taocpp/taocpp.github.io](https://github.com/taocpp/taocpp.github.io) - The Art of C++ Website
-- [jsonresume/resume-website](https://github.com/jsonresume/resume-website) - Website for JSON Resume. 🏡
+- [jsonresume/resume-website](https://github.com/jsonresume/resume-website) - Website for JSON Resume. 🏡 DEPRECATED - SEE MONO
 - [dart-lang/site-www](https://github.com/dart-lang/site-www) - Source for Dart website
 - [nextbitlabs/Rapido](https://github.com/nextbitlabs/Rapido) - Write your blog posts with semantic HTML.
 - [babel/website](https://github.com/babel/website) - :globe_with_meridians: The Babel documentation website
