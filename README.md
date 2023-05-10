@@ -632,6 +632,7 @@
 - [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List
 - [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
 - [boombuler/barcode](https://github.com/boombuler/barcode) - a barcode creation lib for golang
+- [moul/depviz](https://github.com/moul/depviz) - 👓 dependency visualizer for GitHub & GitLab (a.k.a., "auto-roadmap")
 - [FiloSottile/whoami.filippo.io](https://github.com/FiloSottile/whoami.filippo.io) - A ssh server that knows who you are. $ ssh whoami.filippo.io
 - [FiloSottile/captive-browser](https://github.com/FiloSottile/captive-browser) - A dedicated Chrome instance to log into captive portals without messing with DNS settings.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
@@ -1339,7 +1340,6 @@
 - [PDF417/pdf417-android](https://github.com/PDF417/pdf417-android) - PDF417 and QR code scanning SDK for Android
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
-- [android/tv-samples](https://github.com/android/tv-samples) - Multiple samples showing best practices in app development on Android TV.
 - [google-ar/sceneform-android-sdk](https://github.com/google-ar/sceneform-android-sdk) - Sceneform SDK for Android
 - [googlesamples/sceneform-samples](https://github.com/googlesamples/sceneform-samples) - Sceneform samples for 3D rendering for ARCore in Java.
 - [oduwsdl/MobileMink](https://github.com/oduwsdl/MobileMink) - An Android Application for the viewing and creating of archived verisons of mobile and desktop pages using the Memento Framework.
@@ -1979,7 +1979,6 @@
 - [feimosi/baguetteBox.js](https://github.com/feimosi/baguetteBox.js) - :zap: Simple and easy to use lightbox script written in pure JavaScript
 - [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library.
 - [brunnolou/streaming-room](https://github.com/brunnolou/streaming-room) - Streaming room in Node.js, rtmp, hsl, html5 videojs player
-- [moul/depviz](https://github.com/moul/depviz) - 👓 dependency visualizer for GitHub & GitLab (a.k.a., "auto-roadmap")
 - [netdata/dashboard](https://github.com/netdata/dashboard) - UI for Netdata Agent
 - [LingDong-/PoseOSC](https://github.com/LingDong-/PoseOSC) - 📹🤸‍♂️🤾‍♀️🤺 PoseNet + OSC: send realtime human pose estimation data to your apps
 - [LingDong-/ndwfc](https://github.com/LingDong-/ndwfc) - 🌊💥 N-dimensional Wave Function Collapse with infinite canvas
@@ -2601,7 +2600,7 @@
 - [eduolalo/moment-business-days](https://github.com/eduolalo/moment-business-days) - This is a momentJS plugin that allows you to use only business days (Monday to Friday)
 - [carvin/sf-election-results](https://github.com/carvin/sf-election-results) - 
 - [enjalot/blockbuilder](https://github.com/enjalot/blockbuilder) - Create, fork and edit d3.js code snippets for use with bl.ocks.org right in the browser, no terminal required.
-- [finallyayo/realtime-d3-graph](https://github.com/finallyayo/realtime-d3-graph) - 
+- [damilolaolatunji/realtime-d3-graph](https://github.com/damilolaolatunji/realtime-d3-graph) - 
 - [bauripalash/penme](https://github.com/bauripalash/penme) - Penme is a lightweight open source note taking app focused on privacy!
 - [bauripalash/fossurl](https://github.com/bauripalash/fossurl) - Your Own Url Shortner Without any fancy server side processing and support for custom url , which can even be hosted on GitHub Pages
 - [abcnews/groupyteller](https://github.com/abcnews/groupyteller) - A scrollyteller with grouped dots.
@@ -3558,6 +3557,7 @@
 - [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android
 - [mozilla-mobile/firefox-tv](https://github.com/mozilla-mobile/firefox-tv) - Firefox for Amazon's Fire TV
 - [badboy/firefox-tv](https://github.com/badboy/firefox-tv) - Firefox for Amazon's Fire TV
+- [android/tv-samples](https://github.com/android/tv-samples) - Multiple samples showing best practices in app development on Android TV.
 - [square/picasso](https://github.com/square/picasso) - A powerful image downloading and caching library for Android
 
 ## Less 
@@ -3614,6 +3614,7 @@
 
 ## Markdown 
 
+- [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs) - Open source documentation of Microsoft Azure
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
@@ -3889,6 +3890,7 @@
 - [regl-project/awesome-regl](https://github.com/regl-project/awesome-regl) - List of resources, projects and tools for regl
 - [mathisonian/awesome-visualization-research](https://github.com/mathisonian/awesome-visualization-research) - A list of recommended research papers and other readings on data visualization
 - [bpb27/trump_tweet_data_archive](https://github.com/bpb27/trump_tweet_data_archive) - Up-to-date Archive of Trump Tweets
+- [Kylmakalle/Telescopy](https://github.com/Kylmakalle/Telescopy) - Telegram Bot that converts square Videos to Video Messages
 - [rajikaimal/awesome-express](https://github.com/rajikaimal/awesome-express) - :octocat: A curated list of awesome express.js resources
 - [ebertti/awesome-telegram](https://github.com/ebertti/awesome-telegram) - Collection great groups, channels, bots and libraries for Telegram
 - [planetjekyll/awesome-jekyll-plugins](https://github.com/planetjekyll/awesome-jekyll-plugins) - A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)
@@ -4089,7 +4091,6 @@
 
 - [mgeeky/Penetration-Testing-Tools](https://github.com/mgeeky/Penetration-Testing-Tools) - A collection of more than 170+ tools, scripts, cheatsheets and other loots that I've developed over years for Red Teaming/Pentesting/IT Security audits purposes.
 - [hak5/bashbunny-payloads](https://github.com/hak5/bashbunny-payloads) - The Official Bash Bunny Payload Repository
-- [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs) - Open source documentation of Microsoft Azure
 - [peewpw/Invoke-PSImage](https://github.com/peewpw/Invoke-PSImage) - Encodes a PowerShell script in the pixels of a PNG file and generates a oneliner to execute
 - [nsacyber/CodeGov](https://github.com/nsacyber/CodeGov) - Creates a code.gov code inventory JSON file based on GitHub repository information. #nsacyber
 
@@ -4701,7 +4702,6 @@
 - [hubert3/iSniff-GPS](https://github.com/hubert3/iSniff-GPS) - Passive sniffing tool for capturing and visualising WiFi location data disclosed by iOS devices
 - [datadesk/notebooks](https://github.com/datadesk/notebooks) - All of our computational notebooks
 - [SumitAgr/PictureofTheDay-Bot](https://github.com/SumitAgr/PictureofTheDay-Bot) - Telegram Bot that retrieves NASA's Image of the Day with a single command.
-- [Kylmakalle/Telescopy](https://github.com/Kylmakalle/Telescopy) - Telegram Bot that converts square Videos to Video Messages
 - [zeshuaro/telegram-pdf-bot](https://github.com/zeshuaro/telegram-pdf-bot) - A Telegram bot that can do a lot of things related to PDF files
 - [bronydell/telegram-memebot](https://github.com/bronydell/telegram-memebot) - Bot for creating memes
 - [AmanoTeam/EduuRobot](https://github.com/AmanoTeam/EduuRobot) - EduuRobot Telegram bot source code.
