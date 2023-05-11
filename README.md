@@ -238,6 +238,7 @@
 
 ## C++ 
 
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [G4lile0/tinyGS](https://github.com/G4lile0/tinyGS) - 📡 Open Ground Station Network  🛰
 - [Project-OSRM/osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
 - [FD-/RPiPlay](https://github.com/FD-/RPiPlay) - An open-source AirPlay mirroring server for the Raspberry Pi. Supports iOS 9 and up.
@@ -782,7 +783,7 @@
 - [DFE-Digital/technical-guidance](https://github.com/DFE-Digital/technical-guidance) - Principles, standards and guidance for digital delivery teams
 - [bcgov/design-system](https://github.com/bcgov/design-system) - British Columbia Government Design System for Digital Services
 - [ministryofjustice/technical-guidance](https://github.com/ministryofjustice/technical-guidance) - How we build and operate products at the Ministry of Justice.
-- [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
+- [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
 - [google/typedoc-neo-theme](https://github.com/google/typedoc-neo-theme) - 
 - [vHanda/google-keep-exporter](https://github.com/vHanda/google-keep-exporter) - Export google keep notes to markdown
@@ -4116,7 +4117,6 @@
 ## Python 
 
 - [iam-py-test/uBlock-combo](https://github.com/iam-py-test/uBlock-combo) - A filter list complied out of other major lists to fight malware, ads, scams, and trackers in uBlock Origin
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [tomellericcardo/EVIL-ESP](https://github.com/tomellericcardo/EVIL-ESP) - A super portable evil device, based on the ESP8266 board, running Micropython and equipped with a single button and a small OLED display
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [everythingishacked/Truthsayer](https://github.com/everythingishacked/Truthsayer) - Remote lie detector and heart rate monitor
@@ -5333,7 +5333,7 @@
 - [anbuksv/avantation](https://github.com/anbuksv/avantation) - Build OpenAPI3.0 specification from HAR.
 - [kevinschaich/mintable](https://github.com/kevinschaich/mintable) - 🍃 Automate your personal finances – for free, with no ads, and no data collection.
 - [Keyang/node-csvtojson](https://github.com/Keyang/node-csvtojson) - Blazing fast and Comprehensive CSV Parser for Node.JS / Browser / Command Line.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
 - [TommyX12/VIR](https://github.com/TommyX12/VIR) - An intelligent time manager.
 - [1inch/shieldy](https://github.com/1inch/shieldy) - @shieldy_bot Telegram bot repository
 - [ExperienceLovelace/ha-floorplan](https://github.com/ExperienceLovelace/ha-floorplan) - Bring new life to Home Assistant. By mapping entities to a SVG-object, you're able to control devices, show states, calling services - and much more. Add custom styling on top, to visualize whatever y
