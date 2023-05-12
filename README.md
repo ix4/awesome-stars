@@ -1900,7 +1900,6 @@
 - [juliangarnier/3D-Hartwig-chess-set](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done in HTML/CSS/JS
 - [mgechev/javascript-algorithms](https://github.com/mgechev/javascript-algorithms) - 💻 JavaScript implementations of computer science algorithms
 - [addyosmani/oust](https://github.com/addyosmani/oust) - Extract URLs to stylesheets, scripts, links, images or HTML imports from HTML
-- [yeoman/generator](https://github.com/yeoman/generator) - Rails-inspired generator system that provides scaffolding for your apps
 - [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 - [addyosmani/backbone-fundamentals](https://github.com/addyosmani/backbone-fundamentals) - :book: A creative-commons book on Backbone.js for beginners and advanced users alike
 - [jeromegn/Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorage) - A localStorage adapter for Backbone.js
@@ -2752,6 +2751,7 @@
 - [CapacitorSet/box-js](https://github.com/CapacitorSet/box-js) - A tool for studying JavaScript malware.
 - [mdn/js-examples](https://github.com/mdn/js-examples) - Code examples that accompany the MDN JavaScript/ECMAScript documentation
 - [webrecorder/behaviors](https://github.com/webrecorder/behaviors) - Webrecorder Automated In-Page Behavior Framework
+- [dauxio/daux.io](https://github.com/dauxio/daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer f
 - [chrisrzhou/quotes](https://github.com/chrisrzhou/quotes) - A simple UI built around quotes written in markdown
 - [chrisrzhou/react-globe](https://github.com/chrisrzhou/react-globe) - Create beautiful and interactive React + ThreeJS globe visualizations with ease.
 - [chrisrzhou/react-3d-globe](https://github.com/chrisrzhou/react-3d-globe) - [DEPRECATED] React ThreeJS Globe
@@ -3297,6 +3297,7 @@
 - [jwasilgeo/Leaflet.ParallaxMarker](https://github.com/jwasilgeo/Leaflet.ParallaxMarker) - 
 - [dagjomar/Leaflet.ParallaxMarker](https://github.com/dagjomar/Leaflet.ParallaxMarker) - 
 - [google/WebFundamentals](https://github.com/google/WebFundamentals) - Former git repo for WebFundamentals on developers.google.com
+- [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [finnp/gitter-irc-bot](https://github.com/finnp/gitter-irc-bot) - :speech_balloon: Bot that synchronises messages from gitter and irc
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [imaya/CanvasTool.PngEncoder](https://github.com/imaya/CanvasTool.PngEncoder) - JavaScript Canvas PNG Encoder
@@ -4004,7 +4005,6 @@
 - [MIT-Mobile/MIT-Mobile-Web](https://github.com/MIT-Mobile/MIT-Mobile-Web) - The web portion of the MIT Mobile Framework
 - [dagd/dagd](https://github.com/dagd/dagd) - A URL shortener with various other utilities, backed by a custom lightweight framework.
 - [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
-- [dauxio/daux.io](https://github.com/dauxio/daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer f
 - [Noleli/listcopy](https://github.com/Noleli/listcopy) - Twitter List Copy
 - [iamcal/oembed](https://github.com/iamcal/oembed) - The oEmbed Spec
 - [simplepie/simplepie](https://github.com/simplepie/simplepie) - A simple Atom/RSS parsing library for PHP.
@@ -5426,6 +5426,7 @@
 - [rvdleun/onoffice](https://github.com/rvdleun/onoffice) - The open-source Virtual Office, powered by WebVR
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
 - [airform/airform](https://github.com/airform/airform) - Functional HTML forms for Front-End Developers.
+- [yeoman/generator](https://github.com/yeoman/generator) - Rails-inspired generator system that provides scaffolding for your apps
 - [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
 - [intel/ui-widget-toolkit](https://github.com/intel/ui-widget-toolkit) - 
 - [jakearchibald/idb-keyval](https://github.com/jakearchibald/idb-keyval) - A super-simple-small promise-based keyval store implemented with IndexedDB
@@ -5662,7 +5663,6 @@
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [muuvmuuv/vscode-sundial](https://github.com/muuvmuuv/vscode-sundial) - Changes your VS Code theme based on your sunset and sunrise
-- [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [probot/smee-client](https://github.com/probot/smee-client) - 🔴 Receives payloads then sends them to your local server
 - [auth0-blog/angular-d3-socketio](https://github.com/auth0-blog/angular-d3-socketio) - 
 - [cozmo/jsQR](https://github.com/cozmo/jsQR) - A pure javascript QR code reading library. This library takes in raw images and will locate, extract and parse any QR code found within.
