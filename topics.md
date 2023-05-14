@@ -541,8 +541,6 @@
 ## awesome 
 
 - [jeffreytse/jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) - 🪂 A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
@@ -598,8 +596,6 @@
 
 ## awesome-list 
 
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [jnmcfly/awesome-startpage](https://github.com/jnmcfly/awesome-startpage) - This is a carefully compiled list of remarkable projects with the focus on startpages.
@@ -4555,7 +4551,7 @@
 - [gitcommitshow/auth-oauth2](https://github.com/gitcommitshow/auth-oauth2) - A demo to learn oAuth2.0 by reverse engineering
 - [egorovandreyrm/pcap-remote](https://github.com/egorovandreyrm/pcap-remote) - Non-root network sniffer app that features supporting Wireshark sshdump tool
 - [atc1441/DaFlasherFiles](https://github.com/atc1441/DaFlasherFiles) - Additional files for the DaFlasher App and the ATCwatch Firmware for the P8 Smartwatch
-- [LibraryOfCongress/data-exploration](https://github.com/LibraryOfCongress/data-exploration) - 
+- [LibraryOfCongress/data-exploration](https://github.com/LibraryOfCongress/data-exploration) - Tutorials for working with Library of Congress collections data
 - [slacka/WoeUSB](https://github.com/slacka/WoeUSB) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
 - [howsecureismypassword/modules-purescript](https://github.com/howsecureismypassword/modules-purescript) - A purescript rewrite of the core HSIMP modules
 - [PawelDecowski/jquery-creditcardvalidator](https://github.com/PawelDecowski/jquery-creditcardvalidator) - jQuery credit card validation and detection plugin
@@ -6778,7 +6774,7 @@
 - [jh0ker/welcomebot](https://github.com/jh0ker/welcomebot) - Telegram Python Bot. Welcomes everyone that enters a group chat that it's part of.
 - [jh0ker/texbot](https://github.com/jh0ker/texbot) - Python Telegram Bot - Converts LaTeX markup into an image
 - [falling-sky/source](https://github.com/falling-sky/source) - Main source for falling-sky.  Mostly  HTML, JavaScript.
-- [bogachenko/fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) - Filters for blocking pop-ups and anti-adblock bypass.
+- [bogachenko/fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) - Filters for blocking mining, pop-ups and anti-adblock bypass.
 - [scripting/electricPork](https://github.com/scripting/electricPork) - An Electron app that helps you write and publish threads on Twitter.
 - [Lucretiel/bobbin](https://github.com/Lucretiel/bobbin) - Bobbin is a webapp for viewing and sharing twitter threads
 - [gmellini/twitter-scraper](https://github.com/gmellini/twitter-scraper) - This project allows you to get a complete list of twitter thread replies and be notified new twitter threads replies
