@@ -1547,7 +1547,6 @@
 - [cdrini/wikidata-timeline](https://github.com/cdrini/wikidata-timeline) - web app for visualizing Wikidata items on a timeline
 - [kazysmaster/gnome-shell-extension-lockkeys](https://github.com/kazysmaster/gnome-shell-extension-lockkeys) - Numlock and Capslock indicator for gnome-shell
 - [TarikHuber/react-most-wanted](https://github.com/TarikHuber/react-most-wanted) - React starter kit with "Most Wanted" application features
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [kriasoft/react-firebase-starter](https://github.com/kriasoft/react-firebase-starter) - Boilerplate (seed) project for creating web apps with React.js, GraphQL.js and Relay
 - [johnkorzhuk/grabient](https://github.com/johnkorzhuk/grabient) - UI to generate linear-gradients
 - [windycom/leaflet-kml](https://github.com/windycom/leaflet-kml) - 🌎Leaflet KML layer plugin
@@ -3297,7 +3296,6 @@
 - [jwasilgeo/Leaflet.ParallaxMarker](https://github.com/jwasilgeo/Leaflet.ParallaxMarker) - 
 - [dagjomar/Leaflet.ParallaxMarker](https://github.com/dagjomar/Leaflet.ParallaxMarker) - 
 - [google/WebFundamentals](https://github.com/google/WebFundamentals) - Former git repo for WebFundamentals on developers.google.com
-- [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [finnp/gitter-irc-bot](https://github.com/finnp/gitter-irc-bot) - :speech_balloon: Bot that synchronises messages from gitter and irc
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [imaya/CanvasTool.PngEncoder](https://github.com/imaya/CanvasTool.PngEncoder) - JavaScript Canvas PNG Encoder
@@ -3482,7 +3480,7 @@
 ## Jupyter Notebook 
 
 - [nazliander/scrape-nr-of-deaths-istanbul](https://github.com/nazliander/scrape-nr-of-deaths-istanbul) - A scraper and simple time series analysis example with Selenium and Seaborn.
-- [LibraryOfCongress/data-exploration](https://github.com/LibraryOfCongress/data-exploration) - 
+- [LibraryOfCongress/data-exploration](https://github.com/LibraryOfCongress/data-exploration) - Tutorials for working with Library of Congress collections data
 - [nathanwilthomas/tomtom_live_traffic_scrape](https://github.com/nathanwilthomas/tomtom_live_traffic_scrape) - This code retrieves the live traffic json file from TomTom, and cleans this data to replicate the live chart shown on the webpage.
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [github/covid19-dashboard](https://github.com/github/covid19-dashboard) - A site that displays up to date COVID-19 stats, powered by fastpages.
@@ -3648,7 +3646,6 @@
 - [portainer/portainer-compose](https://github.com/portainer/portainer-compose) - Compose setup for Portainer
 - [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of filters to fill in the gaps
 - [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - articles
-- [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [clarketm/proxy-list](https://github.com/clarketm/proxy-list) - A list of free, public, forward proxy servers. UPDATED DAILY!
 - [hl2guide/AdGuard-Home-Whitelist](https://github.com/hl2guide/AdGuard-Home-Whitelist) - A strict curated whitelist for AdGuard Home.
 - [abhionlyone/us-car-models-data](https://github.com/abhionlyone/us-car-models-data) - Introducing the most comprehensive and up-to-date open source dataset on US car models on Github. With over 15,000 entries covering car models manufactured between 1992 and 2023, this repository offer
@@ -3864,7 +3861,7 @@
 - [googlecodelabs/photos-sharing](https://github.com/googlecodelabs/photos-sharing) - Code for the "Build a Photo Sharing app with Google Photos and Flutter" codelab
 - [google/transit](https://github.com/google/transit) - 
 - [google/uribeacon](https://github.com/google/uribeacon) - The Web Uri Open Beacon for the Internet of Things
-- [bogachenko/fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) - Filters for blocking pop-ups and anti-adblock bypass.
+- [bogachenko/fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) - Filters for blocking mining, pop-ups and anti-adblock bypass.
 - [georgemandis/jekyll-rss-feeds](https://github.com/georgemandis/jekyll-rss-feeds) - Templates for rendering RSS feeds for your Jekyll blog
 - [georgemandis/jekyll-json-feeds](https://github.com/georgemandis/jekyll-json-feeds) - Templates for rendering JSON feeds for your Jekyll blog
 - [iamadamdev/bypass-paywalls-firefox](https://github.com/iamadamdev/bypass-paywalls-firefox) - Bypass Paywalls for Firefox
@@ -4129,7 +4126,6 @@
 - [urban-labs/namematch](https://github.com/urban-labs/namematch) - Tool for probabilistically linking the records of individual entities (e.g. people) within and across datasets
 - [pedrovernetti/metagedit](https://github.com/pedrovernetti/metagedit) - gedit (GNOME text editor) plugin which adds multiple improvements and functionalities to it
 - [azmatt/chasing_your_tail](https://github.com/azmatt/chasing_your_tail) - Tool for using wireless signals to see if you're being followed.
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [AmmeySaini/Edu-Mail-Generator](https://github.com/AmmeySaini/Edu-Mail-Generator) - Generate Free Edu Mail(s) within minutes
@@ -5372,6 +5368,7 @@
 - [domoritz/himawari-8-chrome](https://github.com/domoritz/himawari-8-chrome) - 🛰 Experience the latest image from the Himawari, GOES, Meteosat, and DSCOVR satellites
 - [prisma/prisma-examples](https://github.com/prisma/prisma-examples) - 🚀 Ready-to-run Prisma example projects
 - [graphql/graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -5663,6 +5660,7 @@
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [muuvmuuv/vscode-sundial](https://github.com/muuvmuuv/vscode-sundial) - Changes your VS Code theme based on your sunset and sunrise
+- [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [probot/smee-client](https://github.com/probot/smee-client) - 🔴 Receives payloads then sends them to your local server
 - [auth0-blog/angular-d3-socketio](https://github.com/auth0-blog/angular-d3-socketio) - 
 - [cozmo/jsQR](https://github.com/cozmo/jsQR) - A pure javascript QR code reading library. This library takes in raw images and will locate, extract and parse any QR code found within.
