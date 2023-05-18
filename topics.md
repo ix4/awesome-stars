@@ -2871,7 +2871,7 @@
 - [sockjs/sockjs-client](https://github.com/sockjs/sockjs-client) - WebSocket emulation - Javascript client
 - [joewalnes/smoothie](https://github.com/joewalnes/smoothie) - Smoothie Charts: smooooooth JavaScript charts for realtime streaming data
 - [crossbario/autobahn-js](https://github.com/crossbario/autobahn-js) - WAMP in JavaScript for Browsers and NodeJS
-- [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
+- [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [nat-davydova/password-strength](https://github.com/nat-davydova/password-strength) - Password Strength Validator UI (HTML/Bootstrap/CSS/JS)
 - [mburakerman/numscrubberjs](https://github.com/mburakerman/numscrubberjs) - ↔️ Let's change values of input numbers by dragging the mouse left & right
 - [mburakerman/clap-emoji-generator](https://github.com/mburakerman/clap-emoji-generator) - Don't 👏 stop 👏🏻 emphasizing 👏🏼 your 👏🏽 point 👏🏾 by 👏🏿 putting 👏 clap 👏🏻 emojis 👏🏼 after 👏🏽 every 👏🏾 word
