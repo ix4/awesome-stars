@@ -928,7 +928,7 @@
 - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Get unified metadata from websites using Open Graph, Microdata, RDFa, Twitter Cards, JSON-LD, HTML, and more.
 - [okfn/opendefinition](https://github.com/okfn/opendefinition) - Open Definition source
-- [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
+- [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [mburakerman/clap-emoji-generator](https://github.com/mburakerman/clap-emoji-generator) - Don't 👏 stop 👏🏻 emphasizing 👏🏼 your 👏🏽 point 👏🏾 by 👏🏿 putting 👏 clap 👏🏻 emojis 👏🏼 after 👏🏽 every 👏🏾 word
 - [foundation/foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 - [jakesgordon/javascript-tetris](https://github.com/jakesgordon/javascript-tetris) - A simple javascript tetris game
