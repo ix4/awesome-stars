@@ -2247,7 +2247,7 @@
 - [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [meshesha/officetohtml](https://github.com/meshesha/officetohtml) - Office To Html
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
-- [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
+- [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
 - [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash) - A beautiful web dashboard for Linux
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 - [statsd/statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation
@@ -5627,7 +5627,7 @@
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [mozmorris/react-webcam](https://github.com/mozmorris/react-webcam) - Webcam component
-- [sw-yx/react-static-podcast-hosting](https://github.com/sw-yx/react-static-podcast-hosting) - react-static-podcast-hosting
+- [swyxio/react-static-podcast-hosting](https://github.com/swyxio/react-static-podcast-hosting) - react-static-podcast-hosting
 - [erikras/audiocard](https://github.com/erikras/audiocard) - ⏯️ AudioCard - Opinionated, responsive, audio player compatible with Twitter Cards
 - [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
 - [floschnell/flatcrawl-processors](https://github.com/floschnell/flatcrawl-processors) - A set of processors that will instantly inform users via a set of channels (ie. Telegram) of new flats that are found on different rental websites.
@@ -5635,7 +5635,7 @@
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 - [googleworkspace/md2googleslides](https://github.com/googleworkspace/md2googleslides) - Generate Google Slides from markdown
 - [ohtomi/react-whiteboard](https://github.com/ohtomi/react-whiteboard) - A whiteboard React component using SVG.
-- [fonoster/routr](https://github.com/fonoster/routr) - ⚡ The next-generation programmable SIP Server
+- [fonoster/routr](https://github.com/fonoster/routr) - ⚡ The future of Programmable SIP Servers
 - [onsip/SIP.js](https://github.com/onsip/SIP.js) - A simple, intuitive, and powerful JavaScript signaling library
 - [natzcam/firepeer](https://github.com/natzcam/firepeer) - secure p2p signalling and authentication for simple-peer using firebase realtime database
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
