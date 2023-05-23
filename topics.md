@@ -397,7 +397,7 @@
 - [swimlane/ngx-charts](https://github.com/swimlane/ngx-charts) - :bar_chart: Declarative Charting Framework for Angular
 - [Urigo/angular-meteor](https://github.com/Urigo/angular-meteor) - Angular and Meteor - The perfect stack
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
-- [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
+- [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
@@ -541,6 +541,8 @@
 ## awesome 
 
 - [jeffreytse/jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) - 🪂 A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
@@ -596,6 +598,8 @@
 
 ## awesome-list 
 
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [jnmcfly/awesome-startpage](https://github.com/jnmcfly/awesome-startpage) - This is a carefully compiled list of remarkable projects with the focus on startpages.
@@ -2258,7 +2262,7 @@
 - [php-telegram-bot/core](https://github.com/php-telegram-bot/core) - PHP Telegram Bot based on the official Telegram Bot API
 - [muety/telepush](https://github.com/muety/telepush) - 🤖 A simple bot to translate JSON HTTP requests into Telegram push messages
 - [googlemaps/google-maps-services-js](https://github.com/googlemaps/google-maps-services-js) - Node.js client library for Google Maps API Web Services
-- [amitmerchant1990/notepad](https://github.com/amitmerchant1990/notepad) - :ledger: An offline capable Notepad PWA powered by ServiceWorker
+- [amitmerchant1990/notepad](https://github.com/amitmerchant1990/notepad) - :ledger: An offline capable Notepad PWA
 - [amitmerchant1990/reverie](https://github.com/amitmerchant1990/reverie) - :art: A ridiculously elegant Jekyll theme.
 - [colbyfayock/gatsby-starter-leaflet](https://github.com/colbyfayock/gatsby-starter-leaflet) - 🍃 A Gatsby starter with Leafet to quickly build React apps with a map!
 - [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
@@ -2878,7 +2882,7 @@
 - [mburakerman/hrjs](https://github.com/mburakerman/hrjs) - 🔄 Tiny JavaScript plugin for highlighting and replacing text in the DOM
 - [csaladenes/csaladenes.github.io](https://github.com/csaladenes/csaladenes.github.io) - Code behind my personal website (Dénes Csala)
 - [googlemaps/google-maps-services-js](https://github.com/googlemaps/google-maps-services-js) - Node.js client library for Google Maps API Web Services
-- [amitmerchant1990/notepad](https://github.com/amitmerchant1990/notepad) - :ledger: An offline capable Notepad PWA powered by ServiceWorker
+- [amitmerchant1990/notepad](https://github.com/amitmerchant1990/notepad) - :ledger: An offline capable Notepad PWA
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
 - [GermaVinsmoke/bmi-calculator](https://github.com/GermaVinsmoke/bmi-calculator) - React Hooks app for calculating BMI
 - [vuestorefront/storefront-ui](https://github.com/vuestorefront/storefront-ui) - A frontend library for Vue and React that helps developers quickly build fast, accessible, and beautiful storefronts. Made with 💚 by Vue Storefront team and contributors.
@@ -3402,7 +3406,7 @@
 - [lusaxweb/Kursor](https://github.com/lusaxweb/Kursor) - Cursor style with javascript and css
 - [myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet) - The project has been migrated to @wolf-table/table https://github.com/wolf-table/table
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
-- [amitmerchant1990/notepad](https://github.com/amitmerchant1990/notepad) - :ledger: An offline capable Notepad PWA powered by ServiceWorker
+- [amitmerchant1990/notepad](https://github.com/amitmerchant1990/notepad) - :ledger: An offline capable Notepad PWA
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [javierbyte/control-user-cursor](https://github.com/javierbyte/control-user-cursor) - Small experiment to 'control' the user cursor with JavaScript and CSS.
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
@@ -6869,7 +6873,7 @@
 - [dilippuri/PAN-Card-OCR](https://github.com/dilippuri/PAN-Card-OCR) - Retrive meaningful information from PAN Card image using tesseract-ocr :sunglasses:
 - [prabhakar267/image2text](https://github.com/prabhakar267/image2text) - :clipboard: Python wrapper to grab text from images and save as text files using Tesseract Engine
 - [evoluteur/d3-table-cards](https://github.com/evoluteur/d3-table-cards) - Table/Cards views using D3.js for animated transitions on sorting and changing view.
-- [sw-yx/react-static-podcast-hosting](https://github.com/sw-yx/react-static-podcast-hosting) - react-static-podcast-hosting
+- [swyxio/react-static-podcast-hosting](https://github.com/swyxio/react-static-podcast-hosting) - react-static-podcast-hosting
 - [htdebeer/SVG-cards](https://github.com/htdebeer/SVG-cards) - A set of playing cards in SVG (now also with a rendering in PNG)
 - [microlinkhq/sdk](https://github.com/microlinkhq/sdk) - Make any URL embeddable. Turn any URL into a beautiful link preview.
 - [wp-api-libraries/wp-walkscore-api](https://github.com/wp-api-libraries/wp-walkscore-api) - A WordPress php library for interacting with the Walk Score API.
@@ -6925,7 +6929,7 @@
 - [paperjs/paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey
 - [JohnMcLear/draw](https://github.com/JohnMcLear/draw) - A real time collaborative drawing tool using nodejs, socket.io & paper.js
 - [ryzhak/explorer](https://github.com/ryzhak/explorer) - Ethereum Block Explorer (ETHExplorer V2) - Realtime Price Ticker, Shapeshift.io Integration, etc. (Project is currently not under active development, if you have a bug fix, please open a PR) My curren
-- [fonoster/routr](https://github.com/fonoster/routr) - ⚡ The next-generation programmable SIP Server
+- [fonoster/routr](https://github.com/fonoster/routr) - ⚡ The future of Programmable SIP Servers
 - [gitsummore/nile.js](https://github.com/gitsummore/nile.js) - Scalable peer to peer live video streaming built on torrents and webRTC
 - [streamproc/MediaStreamRecorder](https://github.com/streamproc/MediaStreamRecorder) - Cross browser audio/video/screen recording. It supports Chrome, Firefox, Opera and Microsoft Edge. It even works on Android browsers. It follows latest MediaRecorder API standards and provides similar
 - [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - Complete open source web conferencing system.
@@ -7567,6 +7571,7 @@
 - [dylantientcheu/manifesto-cli](https://github.com/dylantientcheu/manifesto-cli) - A CLI app that helps generate a manifest file for your PWA.
 - [dylantientcheu/manifesto](https://github.com/dylantientcheu/manifesto) - A Vue PWA that helps generate a manifest for your own PWA
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+- [amitmerchant1990/notepad](https://github.com/amitmerchant1990/notepad) - :ledger: An offline capable Notepad PWA
 - [pankajladhar/speedy-math](https://github.com/pankajladhar/speedy-math) - An application which allows user (small kids) to practice basic Mathematics operations
 - [vuestorefront/storefront-ui](https://github.com/vuestorefront/storefront-ui) - A frontend library for Vue and React that helps developers quickly build fast, accessible, and beautiful storefronts. Made with 💚 by Vue Storefront team and contributors.
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total cov
@@ -8058,7 +8063,7 @@
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [teambit/envs](https://github.com/teambit/envs) - Component development environments for the Bit community
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
-- [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
+- [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
 - [houndci/hound](https://github.com/houndci/hound) - Automated code review for GitHub pull requests.
 - [gitname/react-gh-pages](https://github.com/gitname/react-gh-pages) - Deploying a React App (created using create-react-app) to GitHub Pages
 - [evgeny-nadymov/telegram-react](https://github.com/evgeny-nadymov/telegram-react) - Experimental Telegram web client with tdlib, webassembly and react js under the hood
@@ -8902,7 +8907,7 @@
 - [sdras/page-transitions-travelapp](https://github.com/sdras/page-transitions-travelapp) - Travel App, Native-like Page Transitions
 - [sdras/cssgridgenerator](https://github.com/sdras/cssgridgenerator) - 🧮 Generate basic CSS Grid code to make dynamic layouts!
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
-- [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
+- [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [muhammed/mini-player](https://github.com/muhammed/mini-player) - 
@@ -9038,7 +9043,7 @@
 - [stefansundin/2fa-qr](https://github.com/stefansundin/2fa-qr) - :iphone: JavaScript 2FA QR code generator.
 - [chinchang/a11y-for-managers](https://github.com/chinchang/a11y-for-managers) - Translate Accessibility issues on a website into actual understandable feedback from dummy users.
 - [richardzcode/bootstrap-4-react](https://github.com/richardzcode/bootstrap-4-react) - Bootstrap 4 React components
-- [amitmerchant1990/notepad](https://github.com/amitmerchant1990/notepad) - :ledger: An offline capable Notepad PWA powered by ServiceWorker
+- [amitmerchant1990/notepad](https://github.com/amitmerchant1990/notepad) - :ledger: An offline capable Notepad PWA
 - [bauripalash/penme](https://github.com/bauripalash/penme) - Penme is a lightweight open source note taking app focused on privacy!
 - [nextapps-de/xone](https://github.com/nextapps-de/xone) - Mobile Application Development Kit / MVC Framework
 - [liyasthomas/saapshot](https://github.com/liyasthomas/saapshot) - 📷 Camera app
