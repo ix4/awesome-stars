@@ -190,6 +190,7 @@
 - [sass](#sass)
 - [scala](#scala)
 - [security](#security)
+- [self-hosted](#self-hosted)
 - [server](#server)
 - [serverless](#serverless)
 - [shell](#shell)
@@ -1147,7 +1148,6 @@
 - [jsconf/wwwtf.berlin](https://github.com/jsconf/wwwtf.berlin) - wwwtf, a ~week of events organized for and by the web community
 - [Esri/calcite-maps](https://github.com/Esri/calcite-maps) - A Bootstrap theme for designing, styling and creating modern map apps.
 - [bauripalash/fossurl](https://github.com/bauripalash/fossurl) - Your Own Url Shortner Without any fancy server side processing and support for custom url , which can even be hosted on GitHub Pages
-- [NYAG/TargetonTrafficking](https://github.com/NYAG/TargetonTrafficking) - Public repository of the D3.js, HTML and CSS code for the Target on Trafficking Report
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [assemble/assemble](https://github.com/assemble/assemble) - Get the rocks out of your socks! Assemble makes you fast at web development! Used by thousands of projects for rapid prototyping, themes, scaffolds, boilerplates, e-books, UI components, API documenta
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
@@ -2480,7 +2480,6 @@
 - [showdownjs/showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript
 - [tameemi/tesla-speedometer](https://github.com/tameemi/tesla-speedometer) - Tesla inspired speedometer created with pure JavaScript and html canvas
 - [bauripalash/fossurl](https://github.com/bauripalash/fossurl) - Your Own Url Shortner Without any fancy server side processing and support for custom url , which can even be hosted on GitHub Pages
-- [NYAG/TargetonTrafficking](https://github.com/NYAG/TargetonTrafficking) - Public repository of the D3.js, HTML and CSS code for the Target on Trafficking Report
 - [assemble/assemble](https://github.com/assemble/assemble) - Get the rocks out of your socks! Assemble makes you fast at web development! Used by thousands of projects for rapid prototyping, themes, scaffolds, boilerplates, e-books, UI components, API documenta
 - [fb55/htmlparser2](https://github.com/fb55/htmlparser2) - The fast & forgiving HTML and XML parser
 - [breakdance/breakdance](https://github.com/breakdance/breakdance) - It's time for your markup to get down! HTML to markdown converter. Breakdance is a highly pluggable, flexible and easy to use.
@@ -3985,7 +3984,7 @@
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [wowchemy/hugo-academic-cli](https://github.com/wowchemy/hugo-academic-cli) - 📚 Import academic publications from Bibtex to your Markdown website. 将Bibtex转换为Markdown网站
-- [Vizzuality/gfw](https://github.com/Vizzuality/gfw) - Global Forest Watch: An online, global, near-real time forest monitoring tool
+- [wri/gfw](https://github.com/wri/gfw) - Global Forest Watch: An online, global, near-real time forest monitoring tool
 
 ## nlp 
 
@@ -4464,12 +4463,10 @@
 - [AtomLinter/linter-shellcheck](https://github.com/AtomLinter/linter-shellcheck) - Linter plugin for Bash, using shellcheck.
 - [smfxfc/reddit-nickname-creator](https://github.com/smfxfc/reddit-nickname-creator) - Generate nicknames for all users of www.reddit.com/r/getnicknamed
 - [Gameye98/Lazymux](https://github.com/Gameye98/Lazymux) - termux tool installer
-- [ohmybahgosh/MTV-YTDLP](https://github.com/ohmybahgosh/MTV-YTDLP) - Simple script using YT-DLP do download an episode from MTV.com, and then merge the resulting multiple output MP4 files using ffmpeg.  MTV episodes are split in to multiple MP4 files, so resulting outp
 - [stephenquan/AAMVAtoJSON](https://github.com/stephenquan/AAMVAtoJSON) - Converts AAMVA DL/ID format to JSON
 - [mjc5/pdf417-barcode-gen](https://github.com/mjc5/pdf417-barcode-gen) - Able to generate a pdf417 barcode with aamva specifications
 - [BeastImran/all_utility_bot_public_repo](https://github.com/BeastImran/all_utility_bot_public_repo) - This repo hosts the README of all_utility_bot major project, which is private to me.  Any contributions, feature requests must be dealt here as an issue, pull or comment.
 - [goodtft/LCD-show](https://github.com/goodtft/LCD-show) - 2.4" 2.8"3.2" 3.5" 5.0" 7.0" TFT LCD driver for the Raspberry PI 3B+/A/A+/B/B+/PI2/ PI3/ZERO/ZERO W
-- [kikiklang/pomme-page](https://github.com/kikiklang/pomme-page) - Big buttons with easy click startpage for a browser.
 - [Movixme/Movix](https://github.com/Movixme/Movix) - 
 - [egargo/pwygit](https://github.com/egargo/pwygit) - :partly_sunny: A simple weather information tool.
 - [ltpitt/python-simple-notifications](https://github.com/ltpitt/python-simple-notifications) - A Python module to send out email (also with attachment) and push notifications (using pushbullet or pushover) from your applications
@@ -5003,7 +5000,6 @@
 - [Freeboard/freeboard](https://github.com/Freeboard/freeboard) - A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.
 - [cfpb/source-code-policy](https://github.com/cfpb/source-code-policy) - The CFPB's official Source Code Policy.
 - [Netflix/dispatch](https://github.com/Netflix/dispatch) - All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!
-- [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [anthonygarvan/marktwo](https://github.com/anthonygarvan/marktwo) - A seamless, speedy, syncing markdown editor
 - [Herohtar/netlify-cms-oauth-firebase](https://github.com/Herohtar/netlify-cms-oauth-firebase) - Firebase Cloud Function based OAuth2 GitHub backend for Netlify CMS
 - [kentico-ericd/kontent-google-sheets-add-on](https://github.com/kentico-ericd/kontent-google-sheets-add-on) - Using this Google Sheets add-on, you can import new content items in Kentico Kontent, or update existing items. This can be handy when migrating content from an external database or CMS, or if your ed
@@ -5248,7 +5244,7 @@
 - [mafintosh/csv-parser](https://github.com/mafintosh/csv-parser) - Streaming csv parser inspired by binary-csv that aims to be faster than everyone else
 - [mafintosh/torrent-mount](https://github.com/mafintosh/torrent-mount) - Mount a torrent (or magnet link) as a filesystem in real time using torrent-stream and fuse. AKA MAD SCIENCE!
 - [hypercore-protocol/hypertrie](https://github.com/hypercore-protocol/hypertrie) - Distributed single writer key/value store
-- [hypercore-protocol/hyperdrive](https://github.com/hypercore-protocol/hyperdrive) - Hyperdrive is a secure, real time distributed file system
+- [holepunchto/hyperdrive](https://github.com/holepunchto/hyperdrive) - Hyperdrive is a secure, real time distributed file system
 - [holepunchto/hypercore](https://github.com/holepunchto/hypercore) - Hypercore is a secure, distributed append-only log.
 - [mafintosh/webcat](https://github.com/mafintosh/webcat) - Mad science p2p pipe across the web using webrtc that uses your Github private/public key for authentication and a signalhub for discovery
 - [imfunniee/fimbo](https://github.com/imfunniee/fimbo) - free to use portfolio templates
@@ -8132,7 +8128,7 @@
 - [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
 - [ohtomi/react-whiteboard](https://github.com/ohtomi/react-whiteboard) - A whiteboard React component using SVG.
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
-- [Vizzuality/gfw](https://github.com/Vizzuality/gfw) - Global Forest Watch: An online, global, near-real time forest monitoring tool
+- [wri/gfw](https://github.com/wri/gfw) - Global Forest Watch: An online, global, near-real time forest monitoring tool
 - [generalpiston/react-autosuggest-geocoder](https://github.com/generalpiston/react-autosuggest-geocoder) - react-autosuggest with suggestions from pelias services, such as geocode.earth.
 - [sachinchoolur/lightGallery](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin.
 - [ivanseidel/Is-Now-Illegal](https://github.com/ivanseidel/Is-Now-Illegal) - 🚫 A NERD protest against Trump's Immigration ban
@@ -8221,7 +8217,7 @@
 - [chrisrzhou/quotes](https://github.com/chrisrzhou/quotes) - A simple UI built around quotes written in markdown
 - [praneetrohida/Twitter-Clone](https://github.com/praneetrohida/Twitter-Clone) - 
 - [zalmoxisus/redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension) - Redux DevTools extension.
-- [Vizzuality/gfw](https://github.com/Vizzuality/gfw) - Global Forest Watch: An online, global, near-real time forest monitoring tool
+- [wri/gfw](https://github.com/wri/gfw) - Global Forest Watch: An online, global, near-real time forest monitoring tool
 - [jvalen/pixel-art-react](https://github.com/jvalen/pixel-art-react) - Pixel art animation and drawing web app powered by React
 
 ## rest-api 
@@ -8438,6 +8434,19 @@
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) - A compilation of sites with dumb password rules.
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
+
+## self-hosted 
+
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
+- [ohmybahgosh/MTV-YTDLP](https://github.com/ohmybahgosh/MTV-YTDLP) - Simple script using YT-DLP do download an episode from MTV.com, and then merge the resulting multiple output MP4 files using ffmpeg.  MTV episodes are split in to multiple MP4 files, so resulting outp
+- [kikiklang/pomme-page](https://github.com/kikiklang/pomme-page) - Big buttons with easy click startpage for a browser.
+- [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
+- [berrnd/locory](https://github.com/berrnd/locory) - A private / self-hosted location history solution
+- [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted RSS reader.
+- [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [xtrime-ru/TelegramRSS](https://github.com/xtrime-ru/TelegramRSS) - Convert telegram posts to RSS or json in amphp server
+- [subspacecloud/subspace](https://github.com/subspacecloud/subspace) - A simple WireGuard VPN server GUI
 
 ## server 
 
