@@ -1429,7 +1429,7 @@
 - [stephenquan/AAMVAtoJSON](https://github.com/stephenquan/AAMVAtoJSON) - Converts AAMVA DL/ID format to JSON
 - [kikiklang/pomme-page](https://github.com/kikiklang/pomme-page) - Big buttons with easy click startpage for a browser.
 - [deep5050/memes-on-issues-action](https://github.com/deep5050/memes-on-issues-action) - greet the issue raiser with a custom message and a bonus programming meme :smile:
-- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube Extension: Enrich your YouTube experience & content [🧰80 lean Features][📌Longest-standing][Please👨‍👩‍👧‍👧docu. /HowTo's]⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪} Youtube Player Repeat Screenshot | Hide youtube distr
+- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube Extension (Top100): Enrich your experience & content [🧰80 lean Features][📌Longest-standing][Please👨‍👩‍👧‍👧write HowTo's]⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪} Youtube Player Repeat Screenshot | Hide youtube distr
 - [ubershmekel/redditp](https://github.com/ubershmekel/redditp) - Convert any reddit page to a presentation or slide show
 - [jiangts/JS-OTP](https://github.com/jiangts/JS-OTP) - 100% Javascript Implementation of HOTP and TOTP for Two-Factor Authentication.
 - [w3irdrobot/interactive-menu](https://github.com/w3irdrobot/interactive-menu) - Building an Interactive Menu in Vanilla JavaScript
