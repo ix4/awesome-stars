@@ -4225,7 +4225,7 @@
 - [s0md3v/Arjun](https://github.com/s0md3v/Arjun) - HTTP parameter discovery suite.
 - [s0md3v/Striker](https://github.com/s0md3v/Striker) - Striker is an offensive information and vulnerability scanner.
 - [seemoo-lab/internalblue](https://github.com/seemoo-lab/internalblue) - Bluetooth experimentation framework for Broadcom and Cypress chips.
-- [kimocoder/wifite2](https://github.com/kimocoder/wifite2) - Rewrite of the popular wireless network auditor, "wifite" - original source by @derv82
+- [kimocoder/wifite2](https://github.com/kimocoder/wifite2) - Rewrite of the popular wireless network auditor, "wifite" - original by @derv82
 - [UCSB-dataScience-ProjectGroup/youtube](https://github.com/UCSB-dataScience-ProjectGroup/youtube) - We are analyzing Youtube trends and comments to ultimately discover how youtubers become famous.
 - [egbertbouman/youtube-comment-downloader](https://github.com/egbertbouman/youtube-comment-downloader) - Simple script for downloading Youtube comments without using the Youtube API
 - [dddat1017/Scraping-Youtube-Comments](https://github.com/dddat1017/Scraping-Youtube-Comments) - Scrape comments from any Youtube video
@@ -4832,7 +4832,7 @@
 - [geocompx/geocompr](https://github.com/geocompx/geocompr) - Open source book: Geocomputation with R
 - [mkearney/tweetbotornot](https://github.com/mkearney/tweetbotornot) - 🤖 R package for detecting Twitter bots via machine learning
 - [mkearney/presidential_election_county_results_2016](https://github.com/mkearney/presidential_election_county_results_2016) - 🏁 presidential_election_county_results_2016
-- [USGS-VIZLAB/gage-conditions-gif](https://github.com/USGS-VIZLAB/gage-conditions-gif) - 
+- [DOI-USGS/gage-conditions-gif](https://github.com/DOI-USGS/gage-conditions-gif) - 
 
 ## ReScript 
 
