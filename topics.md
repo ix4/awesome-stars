@@ -885,7 +885,7 @@
 
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
 - [z0ccc/voat-extension](https://github.com/z0ccc/voat-extension) - An extension to replace Youtube comments with Reddit comments or view the Reddit comments of any webpage.
-- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube Extension: Enrich your YouTube experience & content [🧰80 lean Features][📌Longest-standing][Please👨‍👩‍👧‍👧docu. /HowTo's]⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪} Youtube Player Repeat Screenshot | Hide youtube distr
+- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube Extension (Top100): Enrich your experience & content [🧰80 lean Features][📌Longest-standing][Please👨‍👩‍👧‍👧write HowTo's]⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪} Youtube Player Repeat Screenshot | Hide youtube distr
 - [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
 - [VerifiedJoseph/Save-to-the-Wayback-Machine](https://github.com/VerifiedJoseph/Save-to-the-Wayback-Machine) - Browser extension for quickly saving web pages to the Internet Archive's Wayback Machine.
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
@@ -1072,7 +1072,7 @@
 ## css 
 
 - [ffoodd/a11y.css](https://github.com/ffoodd/a11y.css) - This CSS file intends to warn developers about possible risks and mistakes that exist in HTML code. It can also be used to roughly evaluate a site's quality by simply including it as an external style
-- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube Extension: Enrich your YouTube experience & content [🧰80 lean Features][📌Longest-standing][Please👨‍👩‍👧‍👧docu. /HowTo's]⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪} Youtube Player Repeat Screenshot | Hide youtube distr
+- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube Extension (Top100): Enrich your experience & content [🧰80 lean Features][📌Longest-standing][Please👨‍👩‍👧‍👧write HowTo's]⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪} Youtube Player Repeat Screenshot | Hide youtube distr
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [styled-components/awesome-styled-components](https://github.com/styled-components/awesome-styled-components) - A curated list of awesome styled-components resources 💅
 - [egoist/snackbar](https://github.com/egoist/snackbar) - A tiny browser library for showing a brief message at the bottom of the screen (1kB gzipped).
@@ -4587,7 +4587,7 @@
 - [s0md3v/Arjun](https://github.com/s0md3v/Arjun) - HTTP parameter discovery suite.
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [s0md3v/Striker](https://github.com/s0md3v/Striker) - Striker is an offensive information and vulnerability scanner.
-- [kimocoder/wifite2](https://github.com/kimocoder/wifite2) - Rewrite of the popular wireless network auditor, "wifite" - original source by @derv82
+- [kimocoder/wifite2](https://github.com/kimocoder/wifite2) - Rewrite of the popular wireless network auditor, "wifite" - original by @derv82
 - [Re4son/RPi-Tweaks](https://github.com/Re4son/RPi-Tweaks) - 
 - [UCSB-dataScience-ProjectGroup/youtube](https://github.com/UCSB-dataScience-ProjectGroup/youtube) - We are analyzing Youtube trends and comments to ultimately discover how youtubers become famous.
 - [philbot9/youtube-comment-scraper-cli](https://github.com/philbot9/youtube-comment-scraper-cli) - Command line utility for scraping YouTube comments.
@@ -7363,7 +7363,7 @@
 - [derekeder/FusionTable-Map-Template](https://github.com/derekeder/FusionTable-Map-Template) - :earth_americas: Searchable Map Template using Google Maps and Fusion Tables
 - [bazukas/obs-linuxbrowser](https://github.com/bazukas/obs-linuxbrowser) - OBS Linux Browser Plugin
 - [fitnr/nycre](https://github.com/fitnr/nycre) - Download and pre-process NYC real estate sales date
-- [USGS-VIZLAB/gage-conditions-gif](https://github.com/USGS-VIZLAB/gage-conditions-gif) - 
+- [DOI-USGS/gage-conditions-gif](https://github.com/DOI-USGS/gage-conditions-gif) - 
 - [The-Politico/meme](https://github.com/The-Politico/meme) - The POLITICO remix of the Data Desk remix of the Vox Meme generator
 - [cyburgee/ffmpeg-guide](https://github.com/cyburgee/ffmpeg-guide) - 
 - [zachwhalen/ssbot](https://github.com/zachwhalen/ssbot) - A Google Spreadsheet engine for a Twitter bot.
