@@ -152,7 +152,7 @@
 - [sandeepmistry/arduino-nRF5](https://github.com/sandeepmistry/arduino-nRF5) - Arduino Core for Nordic Semiconductor nRF5 based boards
 - [royhills/arp-scan](https://github.com/royhills/arp-scan) - The ARP Scanner
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
+- [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [seemoo-lab/nexmon](https://github.com/seemoo-lab/nexmon) - The C-based Firmware Patching Framework for Broadcom/Cypress WiFi Chips that enables Monitor Mode, Frame Injection and much more
 - [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
@@ -1428,6 +1428,7 @@
 - [AtomLinter/linter-shellcheck](https://github.com/AtomLinter/linter-shellcheck) - Linter plugin for Bash, using shellcheck.
 - [stephenquan/AAMVAtoJSON](https://github.com/stephenquan/AAMVAtoJSON) - Converts AAMVA DL/ID format to JSON
 - [kikiklang/pomme-page](https://github.com/kikiklang/pomme-page) - Big buttons with easy click startpage for a browser.
+- [z0ccc/voat-extension](https://github.com/z0ccc/voat-extension) - An extension to replace Youtube comments with Reddit comments or view the Reddit comments of any webpage.
 - [deep5050/memes-on-issues-action](https://github.com/deep5050/memes-on-issues-action) - greet the issue raiser with a custom message and a bonus programming meme :smile:
 - [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube Extension (Top100): Enrich your experience & content [🧰80 lean Features][📌Longest-standing][Please👨‍👩‍👧‍👧write HowTo's]⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪} Youtube Player Repeat Screenshot | Hide youtube distr
 - [ubershmekel/redditp](https://github.com/ubershmekel/redditp) - Convert any reddit page to a presentation or slide show
@@ -1494,7 +1495,6 @@
 - [neherlab/covid19_scenarios](https://github.com/neherlab/covid19_scenarios) - Models of COVID-19 outbreak trajectories and hospital demand
 - [someshkar/covid19india-cluster](https://github.com/someshkar/covid19india-cluster) - :microscope: Covid19 India Cluster Graph
 - [holtzy/Mortality](https://github.com/holtzy/Mortality) - Visualizing mortality linked with Mental Disorders
-- [styled-components/styled-components-website](https://github.com/styled-components/styled-components-website) - The styled-components website and documentation
 - [xiaokaike/vue-clipboard](https://github.com/xiaokaike/vue-clipboard) - vue-clipboard  clipboard directly for Vue.js
 - [anvaka/query-state](https://github.com/anvaka/query-state) - Application state in query string
 - [anvaka/streamlines](https://github.com/anvaka/streamlines) - Streamlines calculator
@@ -2693,7 +2693,6 @@
 - [spencermountain/compromise](https://github.com/spencermountain/compromise) - modest natural-language processing
 - [nlp-compromise/wordnet.js](https://github.com/nlp-compromise/wordnet.js) - an opinionated assembly of wordnet for javascript
 - [nlp-compromise/nlp-corpus](https://github.com/nlp-compromise/nlp-corpus) - varied english texts for modern NLP testing
-- [wavesurfer-js/wavesurfer.js](https://github.com/wavesurfer-js/wavesurfer.js) - Navigable waveform built on Web Audio and Canvas
 - [collab-project/videojs-wavesurfer](https://github.com/collab-project/videojs-wavesurfer) - video.js plugin that adds a navigable waveform for audio and video files
 - [collab-project/videojs-record](https://github.com/collab-project/videojs-record) - video.js plugin for recording audio/video/image files
 - [opentok/accelerator-screen-sharing-js](https://github.com/opentok/accelerator-screen-sharing-js) - Accelerator Screen Sharing JS provides an easy way to get started in implementing interoperable screen sharing using the OpenTok platform.
@@ -5336,7 +5335,6 @@
 - [TommyX12/VIR](https://github.com/TommyX12/VIR) - An intelligent time manager.
 - [1inch/shieldy](https://github.com/1inch/shieldy) - @shieldy_bot Telegram bot repository
 - [ExperienceLovelace/ha-floorplan](https://github.com/ExperienceLovelace/ha-floorplan) - Bring new life to Home Assistant. By mapping entities to a SVG-object, you're able to control devices, show states, calling services - and much more. Add custom styling on top, to visualize whatever y
-- [z0ccc/voat-extension](https://github.com/z0ccc/voat-extension) - An extension to replace Youtube comments with Reddit comments or view the Reddit comments of any webpage.
 - [Moldoteck/Beautifier](https://github.com/Moldoteck/Beautifier) - Bot that creates clean Telegraph pages from any link
 - [Yoctol/bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
 - [ruvkr/react-components-by-ruvkr](https://github.com/ruvkr/react-components-by-ruvkr) - A collection of Responsive Animated Mobile friendly Lightweight React Components
@@ -5359,6 +5357,7 @@
 - [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server) - Outline Manager, developed by Jigsaw. The Outline Manager application creates and manages Outline servers, powered by Shadowsocks. It uses the Electron framework to offer support for Windows, macOS an
 - [vercel/static-fun](https://github.com/vercel/static-fun) - A fun demo for wildcard domains
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
+- [styled-components/styled-components-website](https://github.com/styled-components/styled-components-website) - The styled-components website and documentation
 - [googleapis/google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client) - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
@@ -5580,6 +5579,7 @@
 - [canvg/canvg](https://github.com/canvg/canvg) - JavaScript SVG parser and renderer on Canvas
 - [fourcube/lambda-captcha](https://github.com/fourcube/lambda-captcha) - Generates captchas that can be verified decentrally.
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
+- [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player JS library
 - [MyPureCloud/webrtc-stats-gatherer](https://github.com/MyPureCloud/webrtc-stats-gatherer) - :chart_with_upwards_trend: :computer:  A module for collecting stats for webrtc connections
 - [cretz/myscreen.live](https://github.com/cretz/myscreen.live) - P2P Screen Sharing with WebRTC
 - [xcarpentier/gifted-chat-web-demo](https://github.com/xcarpentier/gifted-chat-web-demo) - Gifted chat web demo
