@@ -3947,7 +3947,7 @@
 - [muhammed/mini-player](https://github.com/muhammed/mini-player) - 
 - [jocelyn-stericker/hacklily](https://github.com/jocelyn-stericker/hacklily) - A web-based sheet music editor and publishing platform.
 - [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
-- [wavesurfer-js/wavesurfer.js](https://github.com/wavesurfer-js/wavesurfer.js) - Navigable waveform built on Web Audio and Canvas
+- [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player JS library
 - [guoyunhe/rabbit-lyrics](https://github.com/guoyunhe/rabbit-lyrics) - JavaScript audio and timed lyrics synchronizer.
 - [gpchelkin/scdlbot](https://github.com/gpchelkin/scdlbot) - Telegram Bot for downloading MP3 rips of tracks/sets from SoundCloud, Bandcamp, YouTube with tags and artwork.
 
@@ -4529,7 +4529,7 @@
 - [skdhg/TikTok-Search](https://github.com/skdhg/TikTok-Search) - Simple module to fetch data from TikTok.
 - [adriengibrat/torrent-rw](https://github.com/adriengibrat/torrent-rw) - php5  class to read and write .torrent files
 - [openSUSE/imagewriter](https://github.com/openSUSE/imagewriter) - Utility for writing raw disk images & hybrid isos to USB keys
-- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
+- [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [kaytat/exiftool-scripts-for-takeout](https://github.com/kaytat/exiftool-scripts-for-takeout) - Exiftool scripts for processing photos from Google Takeout
 - [kaytat/SimpleProtocolServer](https://github.com/kaytat/SimpleProtocolServer) - Simple Protocol Server for Windows
 - [ferromauro/bash-palette](https://github.com/ferromauro/bash-palette) - A bash script to easily manage text color features.
