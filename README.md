@@ -1428,7 +1428,7 @@
 - [AtomLinter/linter-shellcheck](https://github.com/AtomLinter/linter-shellcheck) - Linter plugin for Bash, using shellcheck.
 - [stephenquan/AAMVAtoJSON](https://github.com/stephenquan/AAMVAtoJSON) - Converts AAMVA DL/ID format to JSON
 - [kikiklang/pomme-page](https://github.com/kikiklang/pomme-page) - Big buttons with easy click startpage for a browser.
-- [z0ccc/voat-extension](https://github.com/z0ccc/voat-extension) - An extension to replace Youtube comments with Reddit comments or view the Reddit comments of any webpage.
+- [z0ccc/voat-extension](https://github.com/z0ccc/voat-extension) - Browser extension to replace Youtube comments with Reddit comments or view the Reddit comments of any webpage.
 - [deep5050/memes-on-issues-action](https://github.com/deep5050/memes-on-issues-action) - greet the issue raiser with a custom message and a bonus programming meme :smile:
 - [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube Extension (Top100): Enrich your experience & content [🧰80 lean Features][📌Longest-standing][Please👨‍👩‍👧‍👧write HowTo's]⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪} Youtube Player Repeat Screenshot | Hide youtube distr
 - [ubershmekel/redditp](https://github.com/ubershmekel/redditp) - Convert any reddit page to a presentation or slide show
@@ -5579,7 +5579,7 @@
 - [canvg/canvg](https://github.com/canvg/canvg) - JavaScript SVG parser and renderer on Canvas
 - [fourcube/lambda-captcha](https://github.com/fourcube/lambda-captcha) - Generates captchas that can be verified decentrally.
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
-- [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player JS library
+- [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
 - [MyPureCloud/webrtc-stats-gatherer](https://github.com/MyPureCloud/webrtc-stats-gatherer) - :chart_with_upwards_trend: :computer:  A module for collecting stats for webrtc connections
 - [cretz/myscreen.live](https://github.com/cretz/myscreen.live) - P2P Screen Sharing with WebRTC
 - [xcarpentier/gifted-chat-web-demo](https://github.com/xcarpentier/gifted-chat-web-demo) - Gifted chat web demo
