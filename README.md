@@ -1340,6 +1340,7 @@
 - [PDF417/pdf417-android](https://github.com/PDF417/pdf417-android) - PDF417 and QR code scanning SDK for Android
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
+- [android/tv-samples](https://github.com/android/tv-samples) - Multiple samples showing best practices in app development on Android TV.
 - [google-ar/sceneform-android-sdk](https://github.com/google-ar/sceneform-android-sdk) - Sceneform SDK for Android
 - [googlesamples/sceneform-samples](https://github.com/googlesamples/sceneform-samples) - Sceneform samples for 3D rendering for ARCore in Java.
 - [oduwsdl/MobileMink](https://github.com/oduwsdl/MobileMink) - An Android Application for the viewing and creating of archived verisons of mobile and desktop pages using the Memento Framework.
@@ -3556,7 +3557,6 @@
 - [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android
 - [mozilla-mobile/firefox-tv](https://github.com/mozilla-mobile/firefox-tv) - Firefox for Amazon's Fire TV
 - [badboy/firefox-tv](https://github.com/badboy/firefox-tv) - Firefox for Amazon's Fire TV
-- [android/tv-samples](https://github.com/android/tv-samples) - Multiple samples showing best practices in app development on Android TV.
 - [square/picasso](https://github.com/square/picasso) - A powerful image downloading and caching library for Android
 
 ## Less 
@@ -4113,6 +4113,7 @@
 
 ## Python 
 
+- [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
 - [MattTW/BlinkMonitorProtocol](https://github.com/MattTW/BlinkMonitorProtocol) - Unofficial documentation for the Blink Wire-Free HD Home Monitoring & Alert System
 - [iam-py-test/uBlock-combo](https://github.com/iam-py-test/uBlock-combo) - A filter list complied out of other major lists to fight malware, ads, scams, and trackers in uBlock Origin
 - [tomellericcardo/EVIL-ESP](https://github.com/tomellericcardo/EVIL-ESP) - A super portable evil device, based on the ESP8266 board, running Micropython and equipped with a single button and a small OLED display
