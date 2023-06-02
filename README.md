@@ -5379,7 +5379,7 @@
 - [fent/feedme.js](https://github.com/fent/feedme.js) - RSS/Atom/JSON feed parser
 - [Shopify/polaris](https://github.com/Shopify/polaris) - Shopify’s design system to help us work together to build a great experience for all of our merchants.
 - [mattermost/desktop](https://github.com/mattermost/desktop) - Mattermost Desktop application for Windows, Mac and Linux
-- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
+- [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [bcgov/business-create-ui](https://github.com/bcgov/business-create-ui) - BC Registry Services - Legal Entities - Create Incorporation Application
 - [balena-io/balena-cli](https://github.com/balena-io/balena-cli) - The official balena CLI tool.
 - [Dellos7/github-emoji-list](https://github.com/Dellos7/github-emoji-list) - Github Emoji List
@@ -5706,7 +5706,7 @@
 - [ashtonmeuser/vue-cloudwatch-dashboard](https://github.com/ashtonmeuser/vue-cloudwatch-dashboard) - A simple live dashboard for CloudWatch metrics
 - [mattbrailsford/vuepoint](https://github.com/mattbrailsford/vuepoint) - A vuejs based dashboard framework
 - [xiaokaike/vue-color](https://github.com/xiaokaike/vue-color) - :art: Vue Color Pickers for Sketch, Photoshop, Chrome & more   http://vue-color.surge.sh
-- [tokyo-metropolitan-gov/covid19](https://github.com/tokyo-metropolitan-gov/covid19) - 東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
+- [Tokyo-Metro-Gov/covid19](https://github.com/Tokyo-Metro-Gov/covid19) - 東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
 - [gavinr/arcgis-json-to-geojson](https://github.com/gavinr/arcgis-json-to-geojson) - ArcGIS JSON to GeoJSON
 - [IUNetSci/BotSlayer-CE](https://github.com/IUNetSci/BotSlayer-CE) - BotSlayer Community Edition
 - [bcgov/namerequest](https://github.com/bcgov/namerequest) - Public Front End for the Name Request System
