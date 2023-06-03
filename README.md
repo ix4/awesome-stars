@@ -5379,7 +5379,7 @@
 - [fent/feedme.js](https://github.com/fent/feedme.js) - RSS/Atom/JSON feed parser
 - [Shopify/polaris](https://github.com/Shopify/polaris) - Shopify’s design system to help us work together to build a great experience for all of our merchants.
 - [mattermost/desktop](https://github.com/mattermost/desktop) - Mattermost Desktop application for Windows, Mac and Linux
-- [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
+- [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [bcgov/business-create-ui](https://github.com/bcgov/business-create-ui) - BC Registry Services - Legal Entities - Create Incorporation Application
 - [balena-io/balena-cli](https://github.com/balena-io/balena-cli) - The official balena CLI tool.
 - [Dellos7/github-emoji-list](https://github.com/Dellos7/github-emoji-list) - Github Emoji List
