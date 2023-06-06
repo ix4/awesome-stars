@@ -1418,7 +1418,7 @@
 ## devops 
 
 - [devsecops/awesome-devsecops](https://github.com/devsecops/awesome-devsecops) - An authoritative list of awesome devsecops tools with the help from community experiments and contributions.
-- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - A cron monitoring tool written in Python & Django
+- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [hygieia/hygieia](https://github.com/hygieia/hygieia) - CapitalOne  DevOps Dashboard
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [openshift/origin](https://github.com/openshift/origin) - Conformance test suite for OpenShift
@@ -1439,7 +1439,7 @@
 
 ## django 
 
-- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - A cron monitoring tool written in Python & Django
+- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [propublica/django-collaborative](https://github.com/propublica/django-collaborative) - ProPublica's collaborative tip-gathering framework. Import and manage CSV, Google Sheets and Screendoor data with ease.
 - [bcgov/gwells](https://github.com/bcgov/gwells) - Groundwater Wells and Aquifers application for the Ministry of Environment
 - [cfpb/wagtail-flags](https://github.com/cfpb/wagtail-flags) - Feature flags for Wagtail sites
@@ -3916,7 +3916,7 @@
 
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [SkypLabs/probequest](https://github.com/SkypLabs/probequest) - Toolkit for Playing with Wi-Fi Probe Requests
-- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - A cron monitoring tool written in Python & Django
+- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [vudash/vudash](https://github.com/vudash/vudash) - Powerful, Flexible, Open Source dashboards for anything
 - [HorlogeSkynet/archey4](https://github.com/HorlogeSkynet/archey4) - :computer: Maintained fork of the original Archey (Linux) system tool
@@ -5613,7 +5613,7 @@
 - [colbyfayock/my-santa-tracker](https://github.com/colbyfayock/my-santa-tracker) - Demo for colbyfayock.com tutorial
 - [jeffersonRibeiro/website](https://github.com/jeffersonRibeiro/website) - Personal website hosted on Github Pages using jekyll
 - [alik0211/youtube-meta](https://github.com/alik0211/youtube-meta) - Shows meta information about the video on YouTube
-- [ahfarmer/emoji-search](https://github.com/ahfarmer/emoji-search) - Simple React app for searching emoji
+- [greatbunny/emoji-search](https://github.com/greatbunny/emoji-search) - Simple React app for searching emoji
 - [codeforgreenville/leaflet-google-sheets-template](https://github.com/codeforgreenville/leaflet-google-sheets-template) - Pull data from a public Google Sheet and create a Leaflet Map and shareable GeoJSON
 - [ilyankou/cfhc-residential-zoning-analysis](https://github.com/ilyankou/cfhc-residential-zoning-analysis) - Connecticut Zoning Initiative
 - [JackDougherty/Leaflet-Coordinates-Control](https://github.com/JackDougherty/Leaflet-Coordinates-Control) - Captures mouseclick and displays its coordinates with easy way to copy them.
