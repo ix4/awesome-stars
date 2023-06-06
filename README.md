@@ -2150,7 +2150,7 @@
 - [alik0211/youtube-meta](https://github.com/alik0211/youtube-meta) - Shows meta information about the video on YouTube
 - [alik0211/pokedex](https://github.com/alik0211/pokedex) - List of pokémon with live search
 - [insin/react-hn](https://github.com/insin/react-hn) - React-powered Hacker News client
-- [ahfarmer/emoji-search](https://github.com/ahfarmer/emoji-search) - Simple React app for searching emoji
+- [greatbunny/emoji-search](https://github.com/greatbunny/emoji-search) - Simple React app for searching emoji
 - [ilyankou/cfhc-residential-zoning-analysis](https://github.com/ilyankou/cfhc-residential-zoning-analysis) - Connecticut Zoning Initiative
 - [JackDougherty/Leaflet-Coordinates-Control](https://github.com/JackDougherty/Leaflet-Coordinates-Control) - Captures mouseclick and displays its coordinates with easy way to copy them.
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
@@ -4236,7 +4236,7 @@
 - [hkm/whoishere.py](https://github.com/hkm/whoishere.py) - WIFI Client Detection - Identify people by assigning a name to a device performing a wireless probe request.
 - [wlanslovenija/tunneldigger](https://github.com/wlanslovenija/tunneldigger) - L2TPv3 VPN tunneling solution
 - [SkypLabs/probequest](https://github.com/SkypLabs/probequest) - Toolkit for Playing with Wi-Fi Probe Requests
-- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - A cron monitoring tool written in Python & Django
+- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
 - [jefferyto/gedit-control-your-tabs](https://github.com/jefferyto/gedit-control-your-tabs) - A gedit plugin to switch between document tabs using Ctrl+Tab / Ctrl+Shift+Tab (most recently used order or tab row order) and Ctrl+PageUp / Ctrl+PageDown (tab row order)
 - [OnionIoT/Onion-Docs](https://github.com/OnionIoT/Onion-Docs) - Documentation for all things Onion
