@@ -934,7 +934,7 @@
 - [jakesgordon/javascript-tetris](https://github.com/jakesgordon/javascript-tetris) - A simple javascript tetris game
 - [amitmerchant1990/notepad](https://github.com/amitmerchant1990/notepad) - :ledger: An offline capable Notepad PWA
 - [StartBootstrap/startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
-- [codeforgreenville/leaflet-google-sheets-template](https://github.com/codeforgreenville/leaflet-google-sheets-template) - Pull data from a public Google Sheet and create a Leaflet Map and shareable GeoJSON
+- [hackgvl/leaflet-google-sheets-template](https://github.com/hackgvl/leaflet-google-sheets-template) - Pull data from a public Google Sheet and create a Leaflet Map and shareable GeoJSON
 - [max-barry/google-drive-cms](https://github.com/max-barry/google-drive-cms) - A content management system (CMS) built on an interface everyone understands (n.b. No longer maintained)
 - [en-wl/wordlist](https://github.com/en-wl/wordlist) - SCOWL (and friends).
 - [yyx990803/build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) - Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.
@@ -3613,7 +3613,6 @@
 
 ## Markdown 
 
-- [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs) - Open source documentation of Microsoft Azure
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
@@ -3696,6 +3695,7 @@
 - [opendevise/asciidoc-samples](https://github.com/opendevise/asciidoc-samples) - A repository of AsciiDoc source files for testing AsciiDoc rendering on GitHub.
 - [LineageOS/hudson](https://github.com/LineageOS/hudson) - 
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
+- [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs) - Open source documentation of Microsoft Azure
 - [mattermost/mattermost-handbook](https://github.com/mattermost/mattermost-handbook) - Mattermost Community and Staff Handbook
 - [DCCouncil/dc-law-xml-codified](https://github.com/DCCouncil/dc-law-xml-codified) - Codified laws of the District of Columbia
 - [ongov/Inclusive-Design-Toolkit](https://github.com/ongov/Inclusive-Design-Toolkit) - Inclusive design is designing for the full range of human diversity in ability, language, income, culture, gender, age and other characteristics.
