@@ -3453,7 +3453,6 @@
 - [ellisonleao/sharer.js](https://github.com/ellisonleao/sharer.js) - :on: :bookmark: Create your own social share buttons. No jquery.
 - [vladocar/screenshoteer](https://github.com/vladocar/screenshoteer) - Make website screenshots and mobile emulations from the command line.
 - [mbostock/gistup](https://github.com/mbostock/gistup) - Create a gist from terminal, then use git to update it.
-- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [The-Politico/meme](https://github.com/The-Politico/meme) - The POLITICO remix of the Data Desk remix of the Vox Meme generator
@@ -5268,6 +5267,7 @@
 - [mapsforge/mapsforge-creator](https://github.com/mapsforge/mapsforge-creator) - New automatic generation for Mapsforge maps / pois and GraphHopper graphs.
 - [ServerKite/bench.sh](https://github.com/ServerKite/bench.sh) - Server Benchmarking Script
 - [mkorthof/freenom-script](https://github.com/mkorthof/freenom-script) - Freenom.com Domain Renewal and Dynamic DNS script
+- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 
 ## Stata 
 
