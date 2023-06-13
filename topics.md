@@ -1465,6 +1465,7 @@
 
 ## docker 
 
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [portainer/portainer-compose](https://github.com/portainer/portainer-compose) - Compose setup for Portainer
 - [eficode/wait-for](https://github.com/eficode/wait-for) - ./wait-for is a script to wait for another service to become available.
 - [nazliander/scrape-nr-of-deaths-istanbul](https://github.com/nazliander/scrape-nr-of-deaths-istanbul) - A scraper and simple time series analysis example with Selenium and Seaborn.
@@ -2156,6 +2157,7 @@
 
 ## hacktoberfest 
 
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
 - [fronzbot/blinkpy](https://github.com/fronzbot/blinkpy) - A Python library for the Blink Camera system
 - [PeterDaveHello/ipinfo.tw](https://github.com/PeterDaveHello/ipinfo.tw) - 🐳 A self-host  🙅 non-tracking, AD-🆓 ➕ 🍪-🆓 solution to show your IP ℹ️ Super small (🤏10MB)
@@ -3914,6 +3916,7 @@
 
 ## monitoring 
 
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [SkypLabs/probequest](https://github.com/SkypLabs/probequest) - Toolkit for Playing with Wi-Fi Probe Requests
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
@@ -5613,7 +5616,7 @@
 - [colbyfayock/my-santa-tracker](https://github.com/colbyfayock/my-santa-tracker) - Demo for colbyfayock.com tutorial
 - [jeffersonRibeiro/website](https://github.com/jeffersonRibeiro/website) - Personal website hosted on Github Pages using jekyll
 - [alik0211/youtube-meta](https://github.com/alik0211/youtube-meta) - Shows meta information about the video on YouTube
-- [greatbunny/emoji-search](https://github.com/greatbunny/emoji-search) - Simple React app for searching emoji
+- [direbunny/emoji-search](https://github.com/direbunny/emoji-search) - Simple React app for searching emoji
 - [hackgvl/leaflet-google-sheets-template](https://github.com/hackgvl/leaflet-google-sheets-template) - Pull data from a public Google Sheet and create a Leaflet Map and shareable GeoJSON
 - [ilyankou/cfhc-residential-zoning-analysis](https://github.com/ilyankou/cfhc-residential-zoning-analysis) - Connecticut Zoning Initiative
 - [JackDougherty/Leaflet-Coordinates-Control](https://github.com/JackDougherty/Leaflet-Coordinates-Control) - Captures mouseclick and displays its coordinates with easy way to copy them.
@@ -8438,6 +8441,7 @@
 
 ## self-hosted 
 
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
 - [ohmybahgosh/MTV-YTDLP](https://github.com/ohmybahgosh/MTV-YTDLP) - Simple script using YT-DLP do download an episode from MTV.com, and then merge the resulting multiple output MP4 files using ffmpeg.  MTV episodes are split in to multiple MP4 files, so resulting outp
@@ -9045,6 +9049,7 @@
 
 ## webapp 
 
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [jmatth/ezprompt](https://github.com/jmatth/ezprompt) - An easy to use webapp for creating simple bash prompts.
 - [NexxonTech/NexxonTech-Startpage](https://github.com/NexxonTech/NexxonTech-Startpage) - NexxonTech StartPage Source Code
 - [ExpDev07/coronavirus-tracker-api](https://github.com/ExpDev07/coronavirus-tracker-api) - 🦠 A simple and fast (&lt; 200ms) API for tracking the global coronavirus (COVID-19, SARS-CoV-2) outbreak. It's written in python using the 🔥 FastAPI framework. Supports multiple sources!
