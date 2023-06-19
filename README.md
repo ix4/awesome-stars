@@ -304,7 +304,7 @@
 - [mapbox/tippecanoe](https://github.com/mapbox/tippecanoe) - Build vector tilesets from large collections of GeoJSON features.
 - [zerebubuth/planet-dump-ng](https://github.com/zerebubuth/planet-dump-ng) - Converts an OpenStreetMap database dump into planet files.
 - [usnistgov/psc-ns3](https://github.com/usnistgov/psc-ns3) - Public Safety Communication modeling tools based on ns-3
-- [fanout/pushpin](https://github.com/fanout/pushpin) - Proxy server for adding push to your API
+- [fastly/pushpin](https://github.com/fastly/pushpin) - Proxy server for adding push to your API
 - [ARMmbed/mbed-os-example-lorawan-fuota](https://github.com/ARMmbed/mbed-os-example-lorawan-fuota) - Mbed OS 5 Firmware update over LoRaWAN example application
 - [peku33/HikVision-EventReceiver](https://github.com/peku33/HikVision-EventReceiver) - Web-friendly solution for receiving, logging and browsing 'events' sent by HikVision IP Cameras
 - [Erkaman/poisson_blend](https://github.com/Erkaman/poisson_blend) - Seamless copy-and-paste of images with Poisson Blending.
@@ -3298,7 +3298,6 @@
 - [jwasilgeo/Leaflet.ParallaxMarker](https://github.com/jwasilgeo/Leaflet.ParallaxMarker) - 
 - [dagjomar/Leaflet.ParallaxMarker](https://github.com/dagjomar/Leaflet.ParallaxMarker) - 
 - [google/WebFundamentals](https://github.com/google/WebFundamentals) - Former git repo for WebFundamentals on developers.google.com
-- [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [finnp/gitter-irc-bot](https://github.com/finnp/gitter-irc-bot) - :speech_balloon: Bot that synchronises messages from gitter and irc
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [imaya/CanvasTool.PngEncoder](https://github.com/imaya/CanvasTool.PngEncoder) - JavaScript Canvas PNG Encoder
@@ -5050,7 +5049,7 @@
 - [kitian616/jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme) - 💎 🐳 A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.
 - [chrisbobbe/jekyll-theme-prologue](https://github.com/chrisbobbe/jekyll-theme-prologue) - A Jekyll version of the "Prologue" theme by HTML5 UP
 - [jhildenbiddle/docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE11+).
-- [kaiiiz/hexo-theme-book](https://github.com/kaiiiz/hexo-theme-book) - A simple, elegant, book-like hexo theme with some useful features.
+- [kaiiiz/hexo-theme-book](https://github.com/kaiiiz/hexo-theme-book) - [No Longer Maintained] A simple, elegant, book-like hexo theme with some useful features.
 - [mdo/code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
 - [travis-ci/docs-travis-ci-com](https://github.com/travis-ci/docs-travis-ci-com) - The Travis CI Documentation
 - [madeas/box-shadows.css](https://github.com/madeas/box-shadows.css) - :pisces: A cross-browser collection of CSS box-shadows
@@ -5668,6 +5667,7 @@
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [muuvmuuv/vscode-sundial](https://github.com/muuvmuuv/vscode-sundial) - Changes your VS Code theme based on your sunset and sunrise
+- [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [probot/smee-client](https://github.com/probot/smee-client) - 🔴 Receives payloads then sends them to your local server
 - [auth0-blog/angular-d3-socketio](https://github.com/auth0-blog/angular-d3-socketio) - 
 - [cozmo/jsQR](https://github.com/cozmo/jsQR) - A pure javascript QR code reading library. This library takes in raw images and will locate, extract and parse any QR code found within.
