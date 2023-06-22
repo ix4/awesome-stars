@@ -2174,7 +2174,6 @@
 - [tanyuan/metamorphosis](https://github.com/tanyuan/metamorphosis) - 🐛 js13kGames 2017 (A-Frame) Entry by Steff & Tanyuan
 - [TryHardHusky/csgo-sticker-signature-generator](https://github.com/TryHardHusky/csgo-sticker-signature-generator) - Generate your own custom Dreamhack sticker!
 - [mdn/simple-web-worker](https://github.com/mdn/simple-web-worker) - A simple web worker test.
-- [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org) - Repository for webpack documentation and more!
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [philipwalton/responsive-components](https://github.com/philipwalton/responsive-components) - A modern approach to styling elements based on the size of their container
 - [dpla/dpla-frontend](https://github.com/dpla/dpla-frontend) - React application for the Digital Public Library of America website
@@ -3604,6 +3603,7 @@
 
 ## MDX 
 
+- [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org) - Repository for webpack documentation and more!
 - [aws-amplify/docs](https://github.com/aws-amplify/docs) - AWS Amplify Framework Documentation
 
 ## Makefile 
