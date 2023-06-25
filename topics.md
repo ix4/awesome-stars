@@ -257,6 +257,7 @@
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [adblockradio/adblockradio](https://github.com/adblockradio/adblockradio) - An adblocker for live radio streams and podcasts. Machine learning meets Shazam.
 - [onmyway133/awesome-machine-learning](https://github.com/onmyway133/awesome-machine-learning) - 🎰 A curated list of machine learning resources, preferably CoreML
+- [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [archilogic-com/3dio-js](https://github.com/archilogic-com/3dio-js) - JavaScript toolkit for interior apps
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 
@@ -807,7 +808,6 @@
 - [albertoxamin/unimeal-bot](https://github.com/albertoxamin/unimeal-bot) - Telegram bot with overkill technologies to give you an idea about what you'll be eating today at the university canteen.
 - [botman/botman](https://github.com/botman/botman) - A framework agnostic PHP library to build chat bots
 - [RasaHQ/rasa](https://github.com/RasaHQ/rasa) - 💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
-- [botpress/botpress](https://github.com/botpress/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
 - [gunthercox/ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
@@ -836,7 +836,7 @@
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
-- [arkime/arkime](https://github.com/arkime/arkime) - Arkime (formerly Moloch) is an open source, large scale, full packet capturing, indexing, and database system.
+- [arkime/arkime](https://github.com/arkime/arkime) - Arkime is an open source, large scale, full packet capturing, indexing, and database system.
 - [MapServer/MapServer](https://github.com/MapServer/MapServer) - Source code of the MapServer project.  Please submit pull requests to the 'main' branch.
 - [USEPA/Stormwater-Management-Model](https://github.com/USEPA/Stormwater-Management-Model) - Dynamic hydrology-hydraulic water quality simulation model
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -846,6 +846,7 @@
 ## chatgpt 
 
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 
 ## chatgpt-api 
 
@@ -1181,7 +1182,7 @@
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [certtools/intelmq](https://github.com/certtools/intelmq) - IntelMQ is a solution for IT security teams for collecting and processing security feeds using a message queuing protocol.
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
-- [1N3/Sn1per](https://github.com/1N3/Sn1per) - External Attack Surface Management Platform
+- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform
 
 ## dart 
 
@@ -2152,7 +2153,7 @@
 - [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) - Next generation web scanner
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
 - [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - This repository contains cutting-edge open-source security tools (OST) for a red teamer and threat hunter.
-- [1N3/Sn1per](https://github.com/1N3/Sn1per) - External Attack Surface Management Platform
+- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform
 - [brannondorsey/sniff-probes](https://github.com/brannondorsey/sniff-probes) - Plug-and-play bash script for sniffing 802.11 probes requests :nose:
 - [xdavidhu/lanGhost](https://github.com/xdavidhu/lanGhost) - 👻 A LAN dropbox chatbot controllable via Telegram
 
@@ -2961,7 +2962,7 @@
 - [VividCortex/angular-recaptcha](https://github.com/VividCortex/angular-recaptcha) - AngularJS directive to add a reCaptcha widget to your form
 - [neo4j-contrib/neovis.js](https://github.com/neo4j-contrib/neovis.js) - Neo4j + vis.js = neovis.js. Graph visualizations in the browser with data from Neo4j.
 - [fuzzitdev/jsfuzz](https://github.com/fuzzitdev/jsfuzz) - coverage guided fuzz testing for javascript
-- [arkime/arkime](https://github.com/arkime/arkime) - Arkime (formerly Moloch) is an open source, large scale, full packet capturing, indexing, and database system.
+- [arkime/arkime](https://github.com/arkime/arkime) - Arkime is an open source, large scale, full packet capturing, indexing, and database system.
 - [cc-archive/cccatalog-frontend](https://github.com/cc-archive/cccatalog-frontend) - [PROJECT TRANSFERRED] CC Search is a search tool for CC-licensed and public domain content across the internet.
 - [jsconf/wwwtf.berlin](https://github.com/jsconf/wwwtf.berlin) - wwwtf, a ~week of events organized for and by the web community
 - [i18next/i18next](https://github.com/i18next/i18next) - i18next: learn once - translate everywhere
@@ -4002,7 +4003,7 @@
 - [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - Stanford CoreNLP: A Java suite of core NLP tools.
 - [Yale-LILY/TutorialBank](https://github.com/Yale-LILY/TutorialBank) - 
 - [RasaHQ/rasa](https://github.com/RasaHQ/rasa) - 💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
-- [botpress/botpress](https://github.com/botpress/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
+- [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [chiphuyen/stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials) - This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research.
 - [LexPredict/lexpredict-lexnlp](https://github.com/LexPredict/lexpredict-lexnlp) - LexNLP by LexPredict
 - [tensorflow/lingvo](https://github.com/tensorflow/lingvo) - Lingvo
@@ -5276,7 +5277,7 @@
 - [thomaspark/rotary](https://github.com/thomaspark/rotary) - A retro web input for phone numbers
 - [thomaspark/crapcha](https://github.com/thomaspark/crapcha) - Completely Ridiculous And Phony Captcha that Hassles for Amusement
 - [thomaspark/pubcss](https://github.com/thomaspark/pubcss) - Format academic publications in HTML & CSS
-- [xriley/CoderDocs-Theme](https://github.com/xriley/CoderDocs-Theme) - CoderDocs - Bootstrap 5 Documentation Template For Software Projects - https://themes.3rdwavemedia.com/bootstrap-templates/startup/coderdocs-free-bootstrap-5-documentation-template-for-software-projec
+- [xriley/CoderDocs-Theme](https://github.com/xriley/CoderDocs-Theme) - CoderDocs - Bootstrap 5 Documentation Template For Software Projects
 - [xriley/Developer-Theme](https://github.com/xriley/Developer-Theme) - FREE Bootstrap 5 Portfolio Theme for Developers -
 - [juliangarnier/3D-Hartwig-chess-set](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done in HTML/CSS/JS
 - [addyosmani/oust](https://github.com/addyosmani/oust) - Extract URLs to stylesheets, scripts, links, images or HTML imports from HTML
@@ -7446,7 +7447,7 @@
 - [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) - Next generation web scanner
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
-- [1N3/Sn1per](https://github.com/1N3/Sn1per) - External Attack Surface Management Platform
+- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform
 
 ## perl 
 
@@ -7600,6 +7601,7 @@
 
 ## python 
 
+- [fernzi/gedit-autosave](https://github.com/fernzi/gedit-autosave) - Gedit automatically saves as you type (and when the window is unfocused)
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [pedrovernetti/metagedit](https://github.com/pedrovernetti/metagedit) - gedit (GNOME text editor) plugin which adds multiple improvements and functionalities to it
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
@@ -8409,7 +8411,7 @@
 - [chromium/badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
-- [arkime/arkime](https://github.com/arkime/arkime) - Arkime (formerly Moloch) is an open source, large scale, full packet capturing, indexing, and database system.
+- [arkime/arkime](https://github.com/arkime/arkime) - Arkime is an open source, large scale, full packet capturing, indexing, and database system.
 - [securityfirst/Umbrella_content](https://github.com/securityfirst/Umbrella_content) - Open source Android, iOS and Web app for learning about and managing digital and physical security. From how to send a secure message to dealing with a kidnap. Umbrella has best practice guides in ove
 - [securityfirst/Umbrella_android](https://github.com/securityfirst/Umbrella_android) - Open source Android, iOS and Web app for learning about and managing digital and physical security. From how to send a secure message to dealing with a kidnap. Umbrella has best practice guides in ove
 - [evilsocket/xray](https://github.com/evilsocket/xray) - XRay is a tool for recon, mapping and OSINT gathering from public networks.
@@ -8437,7 +8439,7 @@
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
 - [WithSecureLabs/drozer](https://github.com/WithSecureLabs/drozer) - The Leading Security Assessment Framework for Android.
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
-- [1N3/Sn1per](https://github.com/1N3/Sn1per) - External Attack Surface Management Platform
+- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform
 - [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, collect and analyse network intelligenc
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
