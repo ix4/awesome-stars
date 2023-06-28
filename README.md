@@ -1008,7 +1008,6 @@
 - [mapio/docker-tutorial](https://github.com/mapio/docker-tutorial) - A collection of Dockerfiles and scripts used for a simple introduction to docker
 - [Outdooractive/leaflet-singleclick_0.7](https://github.com/Outdooractive/leaflet-singleclick_0.7) - singleclick event support for L.Map
 - [paulrouget/dzslides](https://github.com/paulrouget/dzslides) - DZSlides is a one-file HTML template to build slides in HTML5 and CSS3.
-- [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [BernhardZuba/d3js-orgchart](https://github.com/BernhardZuba/d3js-orgchart) - D3.js Organizational chart
 - [securityfirst/Umbrella_content](https://github.com/securityfirst/Umbrella_content) - Open source Android, iOS and Web app for learning about and managing digital and physical security. From how to send a secure message to dealing with a kidnap. Umbrella has best practice guides in ove
 - [controlshift/website-v2](https://github.com/controlshift/website-v2) - A static set of pages for new marketing site
@@ -1407,7 +1406,6 @@
 - [standard/semistandard](https://github.com/standard/semistandard) - :icecream: All the goodness of `standard/standard` with semicolons sprinkled on top.
 - [labnol/unsubscribe-gmail](https://github.com/labnol/unsubscribe-gmail) - Gmail Unsubscriber is a Google Apps Script for unsubscribing from unwanted newsletters and other bulk emails.
 - [jakubgarfield/expenses](https://github.com/jakubgarfield/expenses) - 💰Expense tracker using Google Sheets 📉 as a storage written in React
-- [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) - Google Sheets API (v4) wrapper for Node.js
 - [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
@@ -2465,6 +2463,7 @@
 - [bespokejs/bespoke](https://github.com/bespokejs/bespoke) - DIY Presentation Micro-Framework
 - [imakewebthings/deck.js](https://github.com/imakewebthings/deck.js) - Modern HTML Presentations
 - [astefanutti/decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations
+- [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [vega/vega-lite-api](https://github.com/vega/vega-lite-api) - A JavaScript API for Vega-Lite.
 - [observablehq/parser](https://github.com/observablehq/parser) - The Observable parser.
 - [agektmr/payment-request-show](https://github.com/agektmr/payment-request-show) - Payment Request API demo site
@@ -2576,7 +2575,7 @@
 - [tumblr/webpack-web-app-manifest-plugin](https://github.com/tumblr/webpack-web-app-manifest-plugin) - A webpack plugin that generates a PWA manifest and integrates with the assets JSON.
 - [cga-harvard/geoexplorer-worldmap-client](https://github.com/cga-harvard/geoexplorer-worldmap-client) - GeoExplorer customized client for WorldMap
 - [openlayers/openlayers](https://github.com/openlayers/openlayers) - OpenLayers
-- [GeoNode/geonode-client](https://github.com/GeoNode/geonode-client) - OL3 - React map client for GeoNode
+- [GeoNode/geonode-client](https://github.com/GeoNode/geonode-client) - OL3 - React map client for GeoNode (DEPRECATED)
 - [mapcentia/geocloud2](https://github.com/mapcentia/geocloud2) - The GC2 framework helps you build a spatial data infrastructure quickly and easily. Powered using open source components for a scalable solution focused on freedom rather than fees.
 - [beaugunderson/beau-status](https://github.com/beaugunderson/beau-status) - 📐 a status API for myself
 - [beaugunderson/tracery-writer](https://github.com/beaugunderson/tracery-writer) - 📚 a simple playground for writing Tracery grammars
@@ -4620,7 +4619,6 @@
 - [oduwsdl/raintale](https://github.com/oduwsdl/raintale) - A Python utility for publishing a social media story built from archived web pages to multiple services.
 - [oduwsdl/archivenow](https://github.com/oduwsdl/archivenow) - A Tool To Push Web Resources Into Web Archives
 - [palewire/storytracker](https://github.com/palewire/storytracker) - Tools for tracking stories on news homepages
-- [palewire/savemy.news](https://github.com/palewire/savemy.news) - Save My News: A personal, permanent clipping service
 - [palewire/savepagenow](https://github.com/palewire/savepagenow) - A simple Python wrapper and command-line interface for archive.org’s "Save Page Now" capturing service
 - [palewire/archiveis](https://github.com/palewire/archiveis) - A simple Python wrapper for the archive.is capturing service
 - [Terminus2049/ArchiveTeleBot](https://github.com/Terminus2049/ArchiveTeleBot) - a telegram bot that saves urls to archive.is & archive.org
@@ -4874,7 +4872,7 @@
 - [asciidoctor/jekyll-asciidoc](https://github.com/asciidoctor/jekyll-asciidoc) - :syringe: A Jekyll plugin that converts AsciiDoc source files in your site to HTML pages using Asciidoctor.
 - [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 - [department-of-veterans-affairs/vets-api](https://github.com/department-of-veterans-affairs/vets-api) - API powering VA.gov
-- [x-govuk/govuk-formbuilder](https://github.com/x-govuk/govuk-formbuilder) - A form builder for Ruby on Rails that’s compatible with the GOV.UK Design System
+- [x-govuk/govuk-formbuilder](https://github.com/x-govuk/govuk-formbuilder) - A form builder for Ruby on Rails that’s compatible with the GOV.UK Design System.
 - [Shopify/browser_sniffer](https://github.com/Shopify/browser_sniffer) - Properly detect what browser you are dealing with
 - [ministryofjustice/hmcts-common-platform-mock-api](https://github.com/ministryofjustice/hmcts-common-platform-mock-api) - Mock for HMCTS Common Platform API
 - [ministryofjustice/Claim-for-Crown-Court-Defence](https://github.com/ministryofjustice/Claim-for-Crown-Court-Defence) - Claim for Crown Court Defence, formerly Advocate Defence Payments (ADP), aka Crime Billing Online (CBO)
@@ -5080,6 +5078,7 @@
 - [fecgov/fec-eregs](https://github.com/fecgov/fec-eregs) - The Federal Election Commission's web-based application that makes regulations easier to find, read and understand.
 - [nat-davydova/tab-navigation](https://github.com/nat-davydova/tab-navigation) - HTML/CSS/JS Tabs experiment
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
+- [palewire/savemy.news](https://github.com/palewire/savemy.news) - Save My News: A personal, permanent clipping service
 - [daviddarnes/alembic](https://github.com/daviddarnes/alembic) - ⚗️ A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
 - [heiswayi/the-plain](https://github.com/heiswayi/the-plain) - A minimalist Jekyll theme, ideally designed for your personal blog use.
 - [brianmaierjr/long-haul](https://github.com/brianmaierjr/long-haul) - A minimal, type-focused Jekyll theme.
@@ -5340,6 +5339,7 @@
 - [lachenmayer/graphql-scraper](https://github.com/lachenmayer/graphql-scraper) - Extract structured data from the web using GraphQL.
 - [anbuksv/avantation](https://github.com/anbuksv/avantation) - Build OpenAPI3.0 specification from HAR.
 - [kevinschaich/mintable](https://github.com/kevinschaich/mintable) - 🍃 Automate your personal finances – for free, with no ads, and no data collection.
+- [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) - Google Sheets API (v4) wrapper for Node.js
 - [Keyang/node-csvtojson](https://github.com/Keyang/node-csvtojson) - Blazing fast and Comprehensive CSV Parser for Node.JS / Browser / Command Line.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
 - [TommyX12/VIR](https://github.com/TommyX12/VIR) - An intelligent time manager.
