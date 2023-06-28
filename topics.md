@@ -86,6 +86,7 @@
 - [game](#game)
 - [game-development](#game-development)
 - [game-engine](#game-engine)
+- [gamedev](#gamedev)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -1897,6 +1898,10 @@
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [ioquake/ioq3](https://github.com/ioquake/ioq3) - The ioquake3 community effort to continue supporting/developing id's Quake III Arena
 
+## gamedev 
+
+- [game-icons/icons](https://github.com/game-icons/icons) - All SVG icons available on http://game-icons.net
+
 ## git 
 
 - [Drassil/git-wiki-theme](https://github.com/Drassil/git-wiki-theme) - A revolutionary full-featured wiki for github pages and jekyll. You don't need to compile it!
@@ -2342,7 +2347,6 @@
 - [PJijin/Cover-Image-Generator](https://github.com/PJijin/Cover-Image-Generator) - 📕 Generate a cover image for your blog post 📝 https://blogcover.now.sh/
 - [kevinzg/facebook-scraper](https://github.com/kevinzg/facebook-scraper) - Scrape Facebook public pages without an API key
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [telegraf/telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node.js
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
@@ -6191,7 +6195,7 @@
 - [tumblr/webpack-web-app-manifest-plugin](https://github.com/tumblr/webpack-web-app-manifest-plugin) - A webpack plugin that generates a PWA manifest and integrates with the assets JSON.
 - [cga-harvard/geoexplorer-worldmap-client](https://github.com/cga-harvard/geoexplorer-worldmap-client) - GeoExplorer customized client for WorldMap
 - [GeoNode/gsimporter](https://github.com/GeoNode/gsimporter) - 
-- [GeoNode/geonode-client](https://github.com/GeoNode/geonode-client) - OL3 - React map client for GeoNode
+- [GeoNode/geonode-client](https://github.com/GeoNode/geonode-client) - OL3 - React map client for GeoNode (DEPRECATED)
 - [GeoNode/geonode.github.com](https://github.com/GeoNode/geonode.github.com) - GeoNode's Website
 - [mapcentia/geocloud2](https://github.com/mapcentia/geocloud2) - The GC2 framework helps you build a spatial data infrastructure quickly and easily. Powered using open source components for a scalable solution focused on freedom rather than fees.
 - [beaugunderson/beau-status](https://github.com/beaugunderson/beau-status) - 📐 a status API for myself
@@ -6312,7 +6316,6 @@
 - [naver/billboard.js](https://github.com/naver/billboard.js) - :bar_chart: Re-usable, easy interface JavaScript chart library based on D3.js
 - [axiomhq/puppeteer-request-intercepter](https://github.com/axiomhq/puppeteer-request-intercepter) - Intercept API Requests and return Mocked Data
 - [inkscape/inkscape](https://github.com/inkscape/inkscape) - Project Website: https://inkscape.org - Code Repository: https://gitlab.com/inkscape/inkscape - Draw freely. 🖌
-- [game-icons/icons](https://github.com/game-icons/icons) - All SVG icons available on http://game-icons.net
 - [gka/canvid](https://github.com/gka/canvid) - tiny js library for playing video on canvas elements (without audio)
 - [datawrapper/snippets](https://github.com/datawrapper/snippets) - ✂ Small but useful code snippets from folks who work at Datawrapper
 - [gka/chroma.js](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations
@@ -7918,7 +7921,7 @@
 - [sj26/mailcatcher](https://github.com/sj26/mailcatcher) - Catches mail and serves it through a dream.
 - [macournoyer/thin](https://github.com/macournoyer/thin) - A very fast & simple Ruby web server
 - [department-of-veterans-affairs/vets-api](https://github.com/department-of-veterans-affairs/vets-api) - API powering VA.gov
-- [x-govuk/govuk-formbuilder](https://github.com/x-govuk/govuk-formbuilder) - A form builder for Ruby on Rails that’s compatible with the GOV.UK Design System
+- [x-govuk/govuk-formbuilder](https://github.com/x-govuk/govuk-formbuilder) - A form builder for Ruby on Rails that’s compatible with the GOV.UK Design System.
 - [ministryofjustice/Claim-for-Crown-Court-Defence](https://github.com/ministryofjustice/Claim-for-Crown-Court-Defence) - Claim for Crown Court Defence, formerly Advocate Defence Payments (ADP), aka Crime Billing Online (CBO)
 - [refinery/refinerycms](https://github.com/refinery/refinerycms) - An extendable Ruby on Rails CMS that supports Rails 6.0+
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
@@ -8276,7 +8279,7 @@
 - [nielsenramon/kickster](https://github.com/nielsenramon/kickster) - Worry-free deploying to GitHub Pages using Jekyll
 - [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 - [department-of-veterans-affairs/vets-api](https://github.com/department-of-veterans-affairs/vets-api) - API powering VA.gov
-- [x-govuk/govuk-formbuilder](https://github.com/x-govuk/govuk-formbuilder) - A form builder for Ruby on Rails that’s compatible with the GOV.UK Design System
+- [x-govuk/govuk-formbuilder](https://github.com/x-govuk/govuk-formbuilder) - A form builder for Ruby on Rails that’s compatible with the GOV.UK Design System.
 - [ministryofjustice/Claim-for-Crown-Court-Defence](https://github.com/ministryofjustice/Claim-for-Crown-Court-Defence) - Claim for Crown Court Defence, formerly Advocate Defence Payments (ADP), aka Crime Billing Online (CBO)
 - [jekyll/jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from) - :twisted_rightwards_arrows: Seamlessly specify multiple redirections URLs for your pages and posts.
 - [refinery/refinerycms](https://github.com/refinery/refinerycms) - An extendable Ruby on Rails CMS that supports Rails 6.0+
