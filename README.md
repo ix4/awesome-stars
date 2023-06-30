@@ -399,6 +399,7 @@
 - [twbs/ratchet](https://github.com/twbs/ratchet) - Build mobile apps with simple HTML, CSS, and JavaScript components.
 - [twbs/rfs](https://github.com/twbs/rfs) - ✩ Automates responsive resizing ✩
 - [philipwalton/solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
+- [usgpo/uslm](https://github.com/usgpo/uslm) - United States Legislative Markup (USLM) XML Schema
 - [sdras/productive-twitter](https://github.com/sdras/productive-twitter) - Chrome extension: Minimal and friendly theme for productive twitter use
 - [facette/docs](https://github.com/facette/docs) - Facette project documentation web site
 - [widget-/slack-black-theme](https://github.com/widget-/slack-black-theme) - A darker, more contrasty, Slack theme.
@@ -2898,7 +2899,6 @@
 - [Code-dot-mil/code.mil](https://github.com/Code-dot-mil/code.mil) - An experiment in open source at the Department of Defense.
 - [harvard-lil/perma](https://github.com/harvard-lil/perma) - Indelible links
 - [harvard-lil/h2o](https://github.com/harvard-lil/h2o) - H2O is a web app for creating and reading open educational resources, primarily in the legal field
-- [freelawproject/free.law](https://github.com/freelawproject/free.law) - The homepage for Free Law Project
 - [regardscitoyens/the-law-factory](https://github.com/regardscitoyens/the-law-factory) - Track the french law-making process
 - [btplat/map-data](https://github.com/btplat/map-data) - Repo for the map data, eg geojson layers
 - [mrdoob/htmleditor](https://github.com/mrdoob/htmleditor) - Simple editor for messing around.
@@ -3604,6 +3604,7 @@
 - [styled-components/styled-components-website](https://github.com/styled-components/styled-components-website) - The styled-components website and documentation
 - [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org) - Repository for webpack documentation and more!
 - [aws-amplify/docs](https://github.com/aws-amplify/docs) - AWS Amplify Framework Documentation
+- [freelawproject/free.law](https://github.com/freelawproject/free.law) - The homepage for Free Law Project
 
 ## Makefile 
 
@@ -3787,7 +3788,6 @@
 - [whatwg/whatwg.org](https://github.com/whatwg/whatwg.org) - The WHATWG website and other static resources
 - [supercomputra/SF-Mono-Font](https://github.com/supercomputra/SF-Mono-Font) - SF Mono Font
 - [croqaz/awesome-markup](https://github.com/croqaz/awesome-markup) - 🕶 Awesome list of markdown-like goodies
-- [usgpo/uslm](https://github.com/usgpo/uslm) - United States Legislative Markup (USLM) XML Schema
 - [usecue/fork-me-on-github-svg-ribbons](https://github.com/usecue/fork-me-on-github-svg-ribbons) - SVG versions of the ‘Fork me on GitHub’ ribbons
 - [newTendermint/awesome-bigdata](https://github.com/newTendermint/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
