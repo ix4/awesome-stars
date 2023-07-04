@@ -7921,7 +7921,7 @@
 - [sj26/mailcatcher](https://github.com/sj26/mailcatcher) - Catches mail and serves it through a dream.
 - [macournoyer/thin](https://github.com/macournoyer/thin) - A very fast & simple Ruby web server
 - [department-of-veterans-affairs/vets-api](https://github.com/department-of-veterans-affairs/vets-api) - API powering VA.gov
-- [x-govuk/govuk-formbuilder](https://github.com/x-govuk/govuk-formbuilder) - A form builder for Ruby on Rails that’s compatible with the GOV.UK Design System.
+- [x-govuk/govuk-form-builder](https://github.com/x-govuk/govuk-form-builder) - A form builder for Ruby on Rails that’s compatible with the GOV.UK Design System.
 - [ministryofjustice/Claim-for-Crown-Court-Defence](https://github.com/ministryofjustice/Claim-for-Crown-Court-Defence) - Claim for Crown Court Defence, formerly Advocate Defence Payments (ADP), aka Crime Billing Online (CBO)
 - [refinery/refinerycms](https://github.com/refinery/refinerycms) - An extendable Ruby on Rails CMS that supports Rails 6.0+
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
@@ -8279,7 +8279,7 @@
 - [nielsenramon/kickster](https://github.com/nielsenramon/kickster) - Worry-free deploying to GitHub Pages using Jekyll
 - [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 - [department-of-veterans-affairs/vets-api](https://github.com/department-of-veterans-affairs/vets-api) - API powering VA.gov
-- [x-govuk/govuk-formbuilder](https://github.com/x-govuk/govuk-formbuilder) - A form builder for Ruby on Rails that’s compatible with the GOV.UK Design System.
+- [x-govuk/govuk-form-builder](https://github.com/x-govuk/govuk-form-builder) - A form builder for Ruby on Rails that’s compatible with the GOV.UK Design System.
 - [ministryofjustice/Claim-for-Crown-Court-Defence](https://github.com/ministryofjustice/Claim-for-Crown-Court-Defence) - Claim for Crown Court Defence, formerly Advocate Defence Payments (ADP), aka Crime Billing Online (CBO)
 - [jekyll/jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from) - :twisted_rightwards_arrows: Seamlessly specify multiple redirections URLs for your pages and posts.
 - [refinery/refinerycms](https://github.com/refinery/refinerycms) - An extendable Ruby on Rails CMS that supports Rails 6.0+
