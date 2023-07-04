@@ -767,6 +767,7 @@
 - [coolwanglu/pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 - [stefansundin/traceroute-mapper](https://github.com/stefansundin/traceroute-mapper) - Map your traceroutes easily.
 - [stefansundin/2fa-qr](https://github.com/stefansundin/2fa-qr) - :iphone: JavaScript 2FA QR code generator.
+- [gavinr/city-flags-map](https://github.com/gavinr/city-flags-map) - Map of city flags.
 - [BetaNYC/BoardStat](https://github.com/BetaNYC/BoardStat) - Workplace to build out BoardStat, an interactive NYC 311 dashboard built with Community Boards for Community Boards.
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
 - [mysociety/whatdotheyknow-theme](https://github.com/mysociety/whatdotheyknow-theme) - The Alaveteli theme for WhatDoTheyKnow (UK)
@@ -1555,7 +1556,6 @@
 - [StephSaephan/leaflet-map-example](https://github.com/StephSaephan/leaflet-map-example) - A simple leaflet map example
 - [gavinr/web-appbuilder-bikeshare](https://github.com/gavinr/web-appbuilder-bikeshare) - Custom Web Appbuilder widget that allows display of GBFS bikeshare locations.
 - [gavinr/geojson-viewer](https://github.com/gavinr/geojson-viewer) - View GeoJSON from a URL (with permalinks)
-- [gavinr/city-flags-map](https://github.com/gavinr/city-flags-map) - Map of city flags.
 - [gavinr/csv-to-geojson](https://github.com/gavinr/csv-to-geojson) - Convert a CSV to GeoJSON
 - [datanews/tik-tok](https://github.com/datanews/tik-tok) - Tik Tok is a Javascript tool to easily create beautiful, simple, mobile-friendly, vertical timelines.
 - [nasa/Open-Source-Catalog](https://github.com/nasa/Open-Source-Catalog) - Contains the NASA open source software catalog for automatic deployment to code.nasa.gov
@@ -2620,7 +2620,6 @@
 - [openbudgets/budget-vis](https://github.com/openbudgets/budget-vis) - D3-based Visualization for OpenBudgets.eu
 - [fbi-cde/crime-data-frontend](https://github.com/fbi-cde/crime-data-frontend) - Visualization and download tools for exploring the FBI’s Uniform Crime Reporting (UCR) data
 - [Datawheel/canon](https://github.com/Datawheel/canon) - Reusable React environment and components for creating visualization engines.
-- [kingxia/law_journal_citator](https://github.com/kingxia/law_journal_citator) - Pull secondary cites from CAP to find where legal journals are cited in case law
 - [daneden/contrast-swatch](https://github.com/daneden/contrast-swatch) - 🅰️ Image microservice for color contrast information
 - [jxnblk/contrast-swatch](https://github.com/jxnblk/contrast-swatch) - 🅰️ Image microservice for color contrast information
 - [daneden/who-would-win](https://github.com/daneden/who-would-win) - 🥊 A Twitter bot that pits emoji against one another
@@ -4528,6 +4527,7 @@
 - [littlecolumns/little-geocoder](https://github.com/littlecolumns/little-geocoder) - A tool to allow US addresses to be geocoded/georeferenced easily, without using Python or the command line or paid services or anything.
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
+- [kingxia/law_journal_citator](https://github.com/kingxia/law_journal_citator) - Pull secondary cites from CAP to find where legal journals are cited in case law
 - [ankush-me/SynthText](https://github.com/ankush-me/SynthText) - Code for generating synthetic text images as described in "Synthetic Data for Text Localisation in Natural Images", Ankush Gupta, Andrea Vedaldi, Andrew Zisserman, CVPR 2016.
 - [ITCoders/Human-detection-and-Tracking](https://github.com/ITCoders/Human-detection-and-Tracking) - Human-detection-and-Tracking
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
