@@ -4011,7 +4011,7 @@
 - [iamcal/oembed](https://github.com/iamcal/oembed) - The oEmbed Spec
 - [simplepie/simplepie](https://github.com/simplepie/simplepie) - A simple Atom/RSS parsing library for PHP.
 - [flexyourrights/openpolice](https://github.com/flexyourrights/openpolice) - OpenPolice empowers people to prepare, file, and track police misconduct complaints. By allowing users to publish reports online, we aim to establish an independent and transparent repository of polic
-- [nysenate/NYSenate.gov](https://github.com/nysenate/NYSenate.gov) - Designed to increase public participation in the legislative process, this web application serves as the central digital presence of the New York State Senate.
+- [nysenate/NYSenate.gov-D7](https://github.com/nysenate/NYSenate.gov-D7) - Designed to increase public participation in the legislative process, this web application serves as the central digital presence of the New York State Senate.
 - [Ph3nol/NotificationPusher](https://github.com/Ph3nol/NotificationPusher) - Standalone PHP library for easy devices notifications push.
 - [liyasthomas/konnect](https://github.com/liyasthomas/konnect) - ✨ Intranet for NCERC - Private network accessible only to an organization's staff
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
@@ -5339,7 +5339,7 @@
 - [lachenmayer/graphql-scraper](https://github.com/lachenmayer/graphql-scraper) - Extract structured data from the web using GraphQL.
 - [anbuksv/avantation](https://github.com/anbuksv/avantation) - Build OpenAPI3.0 specification from HAR.
 - [kevinschaich/mintable](https://github.com/kevinschaich/mintable) - 🍃 Automate your personal finances – for free, with no ads, and no data collection.
-- [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) - Google Sheets API (v4) wrapper for Node.js
+- [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) - Google Sheets API wrapper for Javascript / Typescript
 - [Keyang/node-csvtojson](https://github.com/Keyang/node-csvtojson) - Blazing fast and Comprehensive CSV Parser for Node.JS / Browser / Command Line.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
 - [TommyX12/VIR](https://github.com/TommyX12/VIR) - An intelligent time manager.
