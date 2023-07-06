@@ -2061,7 +2061,7 @@
 
 - [googlemaps/openapi-specification](https://github.com/googlemaps/openapi-specification) - OpenAPI specification for Google Maps Platform API
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
-- [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) - Google Sheets API (v4) wrapper for Node.js
+- [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) - Google Sheets API wrapper for Javascript / Typescript
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
 - [spatie/laravel-google-calendar](https://github.com/spatie/laravel-google-calendar) - Manage events on a Google Calendar
 - [googleapis/google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client) - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
@@ -4059,7 +4059,7 @@
 
 - [marcosrg9/YouTubeTV](https://github.com/marcosrg9/YouTubeTV) - Simple YouTube TV client for desktop based on electron.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
-- [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) - Google Sheets API (v4) wrapper for Node.js
+- [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) - Google Sheets API wrapper for Javascript / Typescript
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 - [Badisi/samsung-tv-remote](https://github.com/Badisi/samsung-tv-remote) - 📺 NodeJS module to remotely control Samsung SmartTV starting from 2016
@@ -6667,7 +6667,7 @@
 - [fecgov/fec-eregs](https://github.com/fecgov/fec-eregs) - The Federal Election Commission's web-based application that makes regulations easier to find, read and understand.
 - [usnistgov/psc-ns3](https://github.com/usnistgov/psc-ns3) - Public Safety Communication modeling tools based on ns-3
 - [serratus/quaggaJS](https://github.com/serratus/quaggaJS) - An advanced barcode-scanner written in JavaScript
-- [nysenate/NYSenate.gov](https://github.com/nysenate/NYSenate.gov) - Designed to increase public participation in the legislative process, this web application serves as the central digital presence of the New York State Senate.
+- [nysenate/NYSenate.gov-D7](https://github.com/nysenate/NYSenate.gov-D7) - Designed to increase public participation in the legislative process, this web application serves as the central digital presence of the New York State Senate.
 - [github/government.github.com](https://github.com/github/government.github.com) - Gather, curate, and feature stories of public servants and civic hackers using GitHub as part of their open government innovations
 - [eth-sri/UnuglifyJS](https://github.com/eth-sri/UnuglifyJS) - A simpler open-source version of JavaScript deobfuscator JSNice
 - [bkuzmic/pdf417-js](https://github.com/bkuzmic/pdf417-js) - PDF417 - 2D barcode generator in Javascript
@@ -8768,6 +8768,7 @@
 
 ## typescript 
 
+- [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) - Google Sheets API wrapper for Javascript / Typescript
 - [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio
 - [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
