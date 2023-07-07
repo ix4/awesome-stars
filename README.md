@@ -304,7 +304,6 @@
 - [mapbox/tippecanoe](https://github.com/mapbox/tippecanoe) - Build vector tilesets from large collections of GeoJSON features.
 - [zerebubuth/planet-dump-ng](https://github.com/zerebubuth/planet-dump-ng) - Converts an OpenStreetMap database dump into planet files.
 - [usnistgov/psc-ns3](https://github.com/usnistgov/psc-ns3) - Public Safety Communication modeling tools based on ns-3
-- [fastly/pushpin](https://github.com/fastly/pushpin) - Proxy server for adding push to your API
 - [ARMmbed/mbed-os-example-lorawan-fuota](https://github.com/ARMmbed/mbed-os-example-lorawan-fuota) - Mbed OS 5 Firmware update over LoRaWAN example application
 - [peku33/HikVision-EventReceiver](https://github.com/peku33/HikVision-EventReceiver) - Web-friendly solution for receiving, logging and browsing 'events' sent by HikVision IP Cameras
 - [Erkaman/poisson_blend](https://github.com/Erkaman/poisson_blend) - Seamless copy-and-paste of images with Poisson Blending.
@@ -5002,6 +5001,7 @@
 - [rust-lang/crates.io](https://github.com/rust-lang/crates.io) - The Rust package registry
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [13rac1/file-vis](https://github.com/13rac1/file-vis) - Visualizing binary file formats to make deterministic art https://13rac1.github.io/file-vis/
+- [fastly/pushpin](https://github.com/fastly/pushpin) - Proxy server for adding push to your API
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
 - [softprops/emoji-clock](https://github.com/softprops/emoji-clock) - 🕒 🐇 I'm late I'm late for a very important date
 - [rickycodes/moonmoji](https://github.com/rickycodes/moonmoji) - :first_quarter_moon_with_face: Return an emoji representing the current moon phase.
@@ -5528,7 +5528,7 @@
 - [alfa-code/pomodoro-time](https://github.com/alfa-code/pomodoro-time) - Time management service
 - [mariusGundersen/Ekkiog](https://github.com/mariusGundersen/Ekkiog) - NAND logic
 - [karanlyons/murmurHash3.js](https://github.com/karanlyons/murmurHash3.js) - MurmurHash3, in JavaScript.
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Compared to Fingerprint Pro has limited accuracy (40 - 60%), but is fully open source.
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Compared to Fingerprint Pro has limited accuracy (40 - 60%).
 - [dojo/examples](https://github.com/dojo/examples) - :rocket: Dojo - example applications.
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [javierbyte/canvas-image-utils](https://github.com/javierbyte/canvas-image-utils) - Utils for image data.
