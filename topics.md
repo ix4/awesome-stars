@@ -1987,7 +1987,7 @@
 - [asticode/go-astisub](https://github.com/asticode/go-astisub) - Manipulate subtitles in GO (.srt, .ssa/.ass, .stl, .ttml, .vtt (webvtt), teletext, etc.)
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
-- [gorilla/websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go.
+- [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
@@ -2029,7 +2029,7 @@
 - [tpaschalis/gophersub](https://github.com/tpaschalis/gophersub) - (Rough, WIP) Go library and command-line utility to work with subtitle files.
 - [asticode/go-astisub](https://github.com/asticode/go-astisub) - Manipulate subtitles in GO (.srt, .ssa/.ass, .stl, .ttml, .vtt (webvtt), teletext, etc.)
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
-- [gorilla/websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go.
+- [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
 - [mccutchen/go-httpbin](https://github.com/mccutchen/go-httpbin) - A reasonably complete and well-tested golang port of httpbin, with zero dependencies outside the go stdlib.
 - [itsjavi/mediatidy](https://github.com/itsjavi/mediatidy) - 🗂 Command-line tool to organize large directories of media files recursively by date, detecting duplicates.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
