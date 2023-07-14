@@ -1746,6 +1746,7 @@
 - [stackcss/css-extract](https://github.com/stackcss/css-extract) - Extract CSS from a browserify bundle
 - [terser/terser](https://github.com/terser/terser) - 🗜 JavaScript parser, mangler and compressor toolkit for ES6+
 - [hughsk/envify](https://github.com/hughsk/envify) - :wrench: Selectively replace Node-style environment variables with plain strings.
+- [themefisher/dot-hugo](https://github.com/themefisher/dot-hugo) - Dot - Hugo Documentation Theme
 - [mqttjs/MQTT.js](https://github.com/mqttjs/MQTT.js) - The MQTT client for Node.js and the browser
 - [gucong3000/postcss-markdown](https://github.com/gucong3000/postcss-markdown) - PostCSS Syntax for parsing Markdown
 - [AtomLinter/linter-jshint](https://github.com/AtomLinter/linter-jshint) - Atom linter plugin for JavaScript, using jshint.
@@ -2871,7 +2872,7 @@
 - [opendocsg/editor](https://github.com/opendocsg/editor) - Opendoc Markdown Editor
 - [mwilliamson/mammoth.js](https://github.com/mwilliamson/mammoth.js) - Convert Word documents (.docx files) to HTML
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
-- [opendocsg/pdf2md](https://github.com/opendocsg/pdf2md) - A PDF to Markdown converter
+- [opengovsg/pdf2md](https://github.com/opengovsg/pdf2md) - A PDF to Markdown converter
 - [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
 - [uwolfer/mrz-scanner](https://github.com/uwolfer/mrz-scanner) - mrz-scanner is a PWA (progressive web app) for recognizing MRZ lines used on ID cards and passports
 - [moaazsidat/react-native-qrcode-scanner](https://github.com/moaazsidat/react-native-qrcode-scanner) - A QR code scanner component for React Native.
@@ -4398,7 +4399,7 @@
 - [ecprice/newsdiffs](https://github.com/ecprice/newsdiffs) - Automatic scraper that tracks changes in news articles over time.
 - [mathjax/MathJax-docs](https://github.com/mathjax/MathJax-docs) - MathJax documentation. Beautiful math in all browsers. Beautifully documented.
 - [google/youtube-8m](https://github.com/google/youtube-8m) - Starter code for working with the YouTube-8M dataset.
-- [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
+- [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.
 - [grebtsew/FloorplanToBlender3d](https://github.com/grebtsew/FloorplanToBlender3d) - Create 3d rooms in blender from floorplans.
 - [art-programmer/FloorNet](https://github.com/art-programmer/FloorNet) - 
 - [pikepdf/pikepdf](https://github.com/pikepdf/pikepdf) - A Python library for reading and writing PDF, powered by qpdf
@@ -4942,7 +4943,7 @@
 - [projectblacklight/spotlight](https://github.com/projectblacklight/spotlight) - Spotlight enables librarians, curators, and others who are responsible for digital collections to create  attractive, feature-rich websites that highlight these collections.
 - [twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) - Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.
 - [thundergolfer/automated-github-organization-invites](https://github.com/thundergolfer/automated-github-organization-invites) - Quickly host a webpage allowing people to click and receive an invite to your Github Organization.
-- [consuldemocracy/consul](https://github.com/consuldemocracy/consul) - Consul Democracy - Open Government and E-Participation Web Software
+- [consuldemocracy/consuldemocracy](https://github.com/consuldemocracy/consuldemocracy) - Consul Democracy - Open Government and E-Participation Web Software
 - [archivesunleashed/warclight](https://github.com/archivesunleashed/warclight) - A Rails engine supporting the discovery of web archives.
 - [opendocsg/opendoc-supreme-court-practice-directions](https://github.com/opendocsg/opendoc-supreme-court-practice-directions) - OpenDoc for the Supreme Court Practice Directions | https://epd.supremecourt.gov.sg
 - [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
@@ -5028,7 +5029,6 @@
 - [thingsym/hugo-theme-techdoc](https://github.com/thingsym/hugo-theme-techdoc) - The Techdoc is a Hugo Theme for technical documentation.
 - [tzuehlke/jekyll-uno-timeline](https://github.com/tzuehlke/jekyll-uno-timeline) - A Jekyll Theme, based on the Uno-Theme with some adjustments.
 - [textile/textile-lang-com-website](https://github.com/textile/textile-lang-com-website) - Official website of the Textile markup language.
-- [themefisher/dot-hugo](https://github.com/themefisher/dot-hugo) - Dot - Hugo Documentation Theme
 - [gopro/jekyll-theme-labs](https://github.com/gopro/jekyll-theme-labs) - Stylesheet for GoPro Labs
 - [ungoldman/style.css](https://github.com/ungoldman/style.css) - :beginner: Classless stylesheet for HTML documents.
 - [govau/design-system-starter](https://github.com/govau/design-system-starter) - 🚀 The Australian Government Design System - Starter
@@ -5583,7 +5583,7 @@
 - [naver/egjs-list-differ](https://github.com/naver/egjs-list-differ) - ➕➖🔄 A module that checks the diff when values are added, removed, or changed in an array.
 - [naver/egjs-agent](https://github.com/naver/egjs-agent) - Extracts browser and operating system information from the user agent string or user agent object(userAgentData).
 - [naver/egjs-view360](https://github.com/naver/egjs-view360) - 360 integrated viewing solution
-- [naver/billboard.js](https://github.com/naver/billboard.js) - :bar_chart: Re-usable, easy interface JavaScript chart library based on D3.js
+- [naver/billboard.js](https://github.com/naver/billboard.js) - 📊 Re-usable, easy interface JavaScript chart library based on D3.js
 - [axiomhq/puppeteer-request-intercepter](https://github.com/axiomhq/puppeteer-request-intercepter) - Intercept API Requests and return Mocked Data
 - [canvg/canvg](https://github.com/canvg/canvg) - JavaScript SVG parser and renderer on Canvas
 - [fourcube/lambda-captcha](https://github.com/fourcube/lambda-captcha) - Generates captchas that can be verified decentrally.
