@@ -7097,7 +7097,6 @@
 - [apilayer/numverify-API](https://github.com/apilayer/numverify-API) - Free global phone number validation & lookup JSON API
 - [apilayer/screenshotlayer-API](https://github.com/apilayer/screenshotlayer-API) - Screenshotlayer is a lighweight REST API built to deliver high quality PNG, JPEG & GIF website screenshots at unparalleled speeds and through a simple interface.
 - [domainr/whois](https://github.com/domainr/whois) - Whois client for Go.
-- [joepie91/python-whois](https://github.com/joepie91/python-whois) - A python module for retrieving and parsing WHOIS data
 - [jhvanderschee/jekyllcodex](https://github.com/jhvanderschee/jekyllcodex) - A website for front-end developers who want to learn Jekyll.
 - [OpenNewsLabs/polls-vs-reality](https://github.com/OpenNewsLabs/polls-vs-reality) - Visualizing the "polls vs reality" data
 - [scanner-research/tv-news-viewer](https://github.com/scanner-research/tv-news-viewer) - Interactive exploration of a decade of TV news
@@ -7689,7 +7688,7 @@
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 - [grebtsew/FloorplanToBlender3d](https://github.com/grebtsew/FloorplanToBlender3d) - Create 3d rooms in blender from floorplans.
-- [pikepdf/pikepdf](https://github.com/pikepdf/pikepdf) - A Python library for reading and writing PDF, powered by qpdf
+- [pikepdf/pikepdf](https://github.com/pikepdf/pikepdf) - A Python library for reading and writing PDF, powered by QPDF
 - [CenterForOpenScience/waterbutler](https://github.com/CenterForOpenScience/waterbutler) - WaterButler is a Python web application for interacting with various file storage services via a single RESTful API, developed at Center for Open Science.
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
