@@ -4402,7 +4402,7 @@
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.
 - [grebtsew/FloorplanToBlender3d](https://github.com/grebtsew/FloorplanToBlender3d) - Create 3d rooms in blender from floorplans.
 - [art-programmer/FloorNet](https://github.com/art-programmer/FloorNet) - 
-- [pikepdf/pikepdf](https://github.com/pikepdf/pikepdf) - A Python library for reading and writing PDF, powered by qpdf
+- [pikepdf/pikepdf](https://github.com/pikepdf/pikepdf) - A Python library for reading and writing PDF, powered by QPDF
 - [log2timeline/plaso](https://github.com/log2timeline/plaso) - Super timeline all the things
 - [obsidianforensics/unfurl](https://github.com/obsidianforensics/unfurl) - Extract and Visualize Data from URLs using Unfurl
 - [vmonaco/keystroke-obfuscation](https://github.com/vmonaco/keystroke-obfuscation) - Obfuscate keystroke timings to help protect privacy
@@ -4716,7 +4716,6 @@
 - [phil-r/asciifacesbot](https://github.com/phil-r/asciifacesbot) - :smiley: Telegram Bot @asciifacesbot that allows you to append ascii faces to your messages ¯\_(ツ)_/¯
 - [apilayer/ratesapi](https://github.com/apilayer/ratesapi) - Forex conversion exchange rates api for free
 - [secynic/ipwhois](https://github.com/secynic/ipwhois) - Retrieve and parse whois data for IPv4 and IPv6 addresses
-- [joepie91/python-whois](https://github.com/joepie91/python-whois) - A python module for retrieving and parsing WHOIS data
 - [scanner-research/esper](https://github.com/scanner-research/esper) - Query, analysis, and visualization of large video collections
 - [kroitor/asciichart](https://github.com/kroitor/asciichart) - Nice-looking lightweight console ASCII line charts ╭┈╯ for NodeJS, browsers and terminal, no dependencies
 - [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
