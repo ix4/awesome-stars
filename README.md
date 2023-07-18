@@ -2347,7 +2347,6 @@
 - [OpenNewsLabs/guri-vr](https://github.com/OpenNewsLabs/guri-vr) - https://gurivr.com
 - [OpenNewsLabs/onechart-twelvechartinglibraries](https://github.com/OpenNewsLabs/onechart-twelvechartinglibraries) - The code for twelve charting libraries which I tried for my blogpost
 - [edent/PirateMuseum](https://github.com/edent/PirateMuseum) - A virtual museum of stolen artworks
-- [openbenches/openbenches.org](https://github.com/openbenches/openbenches.org) - OpenBenches.org - an open data repository for memorial benches
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [twitter/typeahead.js](https://github.com/twitter/typeahead.js) - typeahead.js is a fast and fully-featured autocomplete library
 - [reddit/jsapi-example-consumer](https://github.com/reddit/jsapi-example-consumer) - 
@@ -3999,6 +3998,7 @@
 - [octobercms/october](https://github.com/octobercms/october) - Self-hosted CMS platform based on the Laravel PHP Framework.
 - [RefactoringGuru/design-patterns-php](https://github.com/RefactoringGuru/design-patterns-php) - Design Pattern Examples in PHP
 - [jkphl/micrometa](https://github.com/jkphl/micrometa) - A meta parser for extracting micro information out of web documents, currently supporting Microformats 1+2, HTML Microdata, RDFa Lite 1.1, JSON-LD and Link Types, written in PHP
+- [openbenches/openbenches.org](https://github.com/openbenches/openbenches.org) - OpenBenches.org - an open data repository for memorial benches
 - [laravel/cashier-stripe](https://github.com/laravel/cashier-stripe) - Laravel Cashier provides an expressive, fluent interface to Stripe's subscription billing services.
 - [GoogleCloudPlatform/getting-started-php](https://github.com/GoogleCloudPlatform/getting-started-php) - A tutorial for creating a complete application using PHP on Google Cloud Platform
 - [berrnd/locory](https://github.com/berrnd/locory) - A private / self-hosted location history solution
