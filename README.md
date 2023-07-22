@@ -156,7 +156,7 @@
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [seemoo-lab/nexmon](https://github.com/seemoo-lab/nexmon) - The C-based Firmware Patching Framework for Broadcom/Cypress WiFi Chips that enables Monitor Mode, Frame Injection and much more
 - [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your terminal from anywhere via the web.
 - [angt/glorytun](https://github.com/angt/glorytun) - Multipath UDP tunnel
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
@@ -1376,6 +1376,7 @@
 
 ## JavaScript 
 
+- [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - The best free email forwarding for custom domains (Web Server)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [RonnyWinkler/homey.blink](https://github.com/RonnyWinkler/homey.blink) - Blink app for Homey
 - [colinbendell/homebridge-blink-for-home](https://github.com/colinbendell/homebridge-blink-for-home) - Blink For Home Camera Homebridge plugin
@@ -1412,7 +1413,6 @@
 - [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 - [polotno-project/polotno-studio](https://github.com/polotno-project/polotno-studio) - Free online Design Editor.
 - [jkingsman/Nobody.live](https://github.com/jkingsman/Nobody.live) - View twitch streamers with zero viewers at nobody.live
-- [Badisi/samsung-tv-remote](https://github.com/Badisi/samsung-tv-remote) - 📺 NodeJS module to remotely control Samsung SmartTV starting from 2016
 - [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq) - WhatsApp Bot
 - [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - A chrome extension for suspending all tabs to free up memory, based on the original TGS 7.1.6, without tracking. Find more information about that on https://gioxx.org/tms
 - [gajus/gitdown](https://github.com/gajus/gitdown) - GitHub markdown preprocessor.
@@ -1747,7 +1747,6 @@
 - [terser/terser](https://github.com/terser/terser) - 🗜 JavaScript parser, mangler and compressor toolkit for ES6+
 - [hughsk/envify](https://github.com/hughsk/envify) - :wrench: Selectively replace Node-style environment variables with plain strings.
 - [themefisher/dot-hugo](https://github.com/themefisher/dot-hugo) - Dot - Hugo Documentation Theme
-- [mqttjs/MQTT.js](https://github.com/mqttjs/MQTT.js) - The MQTT client for Node.js and the browser
 - [gucong3000/postcss-markdown](https://github.com/gucong3000/postcss-markdown) - PostCSS Syntax for parsing Markdown
 - [AtomLinter/linter-jshint](https://github.com/AtomLinter/linter-jshint) - Atom linter plugin for JavaScript, using jshint.
 - [AtomLinter/linter-proselint](https://github.com/AtomLinter/linter-proselint) - A plugin for Atom Linter providing an interface to proselint.
@@ -4716,6 +4715,7 @@
 - [phil-r/asciifacesbot](https://github.com/phil-r/asciifacesbot) - :smiley: Telegram Bot @asciifacesbot that allows you to append ascii faces to your messages ¯\_(ツ)_/¯
 - [apilayer/ratesapi](https://github.com/apilayer/ratesapi) - Forex conversion exchange rates api for free
 - [secynic/ipwhois](https://github.com/secynic/ipwhois) - Retrieve and parse whois data for IPv4 and IPv6 addresses
+- [joepie91/python-whois](https://github.com/joepie91/python-whois) - A python module for retrieving and parsing WHOIS data
 - [scanner-research/esper](https://github.com/scanner-research/esper) - Query, analysis, and visualization of large video collections
 - [kroitor/asciichart](https://github.com/kroitor/asciichart) - Nice-looking lightweight console ASCII line charts ╭┈╯ for NodeJS, browsers and terminal, no dependencies
 - [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
@@ -5339,6 +5339,7 @@
 - [anbuksv/avantation](https://github.com/anbuksv/avantation) - Build OpenAPI3.0 specification from HAR.
 - [kevinschaich/mintable](https://github.com/kevinschaich/mintable) - 🍃 Automate your personal finances – for free, with no ads, and no data collection.
 - [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) - Google Sheets API wrapper for Javascript / Typescript
+- [Badisi/samsung-tv-remote](https://github.com/Badisi/samsung-tv-remote) - 📺 NodeJS module to remotely control Samsung SmartTV starting from 2016
 - [Keyang/node-csvtojson](https://github.com/Keyang/node-csvtojson) - Blazing fast and Comprehensive CSV Parser for Node.JS / Browser / Command Line.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place. Cloud is now available in public beta. 🌩
 - [TommyX12/VIR](https://github.com/TommyX12/VIR) - An intelligent time manager.
@@ -5406,6 +5407,7 @@
 - [compodoc/compodoc](https://github.com/compodoc/compodoc) - :notebook_with_decorative_cover: The missing documentation tool for your Angular, Nest & Stencil application
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [textlint/textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
+- [mqttjs/MQTT.js](https://github.com/mqttjs/MQTT.js) - The MQTT client for Node.js and the browser
 - [nimiq/qr-scanner](https://github.com/nimiq/qr-scanner) - Lightweight Javascript QR Code Scanner
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
@@ -5473,7 +5475,7 @@
 - [mathjax/MathJax-src](https://github.com/mathjax/MathJax-src) - MathJax source code for version 3 and beyond
 - [thlorenz/typo](https://github.com/thlorenz/typo) - ⌨️The platformer 10 finger typing game
 - [graphql-kit/graphql-voyager](https://github.com/graphql-kit/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
-- [itopmoon/floorplan-angular](https://github.com/itopmoon/floorplan-angular) - Prototype to draw floorplan of rooms. (Angular 13 + Fabric.js)
+- [critrange/floorplan-angular](https://github.com/critrange/floorplan-angular) - Prototype to draw floorplan of rooms. (Angular 13 + Fabric.js)
 - [probot/auth-routes](https://github.com/probot/auth-routes) - 🔀🔒 Helpful authentication routes for Node.js GitHub integrations
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
@@ -5527,7 +5529,7 @@
 - [alfa-code/pomodoro-time](https://github.com/alfa-code/pomodoro-time) - Time management service
 - [mariusGundersen/Ekkiog](https://github.com/mariusGundersen/Ekkiog) - NAND logic
 - [karanlyons/murmurHash3.js](https://github.com/karanlyons/murmurHash3.js) - MurmurHash3, in JavaScript.
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Compared to Fingerprint Pro has limited accuracy (40 - 60%).
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Compared to Fingerprint Identification, has limited accuracy (40 - 60%).
 - [dojo/examples](https://github.com/dojo/examples) - :rocket: Dojo - example applications.
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [javierbyte/canvas-image-utils](https://github.com/javierbyte/canvas-image-utils) - Utils for image data.
