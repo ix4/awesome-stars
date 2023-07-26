@@ -1746,7 +1746,7 @@
 - [stackcss/css-extract](https://github.com/stackcss/css-extract) - Extract CSS from a browserify bundle
 - [terser/terser](https://github.com/terser/terser) - 🗜 JavaScript parser, mangler and compressor toolkit for ES6+
 - [hughsk/envify](https://github.com/hughsk/envify) - :wrench: Selectively replace Node-style environment variables with plain strings.
-- [themefisher/dot-hugo](https://github.com/themefisher/dot-hugo) - Dot - Hugo Documentation Theme
+- [gethugothemes/dot-hugo](https://github.com/gethugothemes/dot-hugo) - Dot - Hugo Documentation Theme
 - [gucong3000/postcss-markdown](https://github.com/gucong3000/postcss-markdown) - PostCSS Syntax for parsing Markdown
 - [AtomLinter/linter-jshint](https://github.com/AtomLinter/linter-jshint) - Atom linter plugin for JavaScript, using jshint.
 - [AtomLinter/linter-proselint](https://github.com/AtomLinter/linter-proselint) - A plugin for Atom Linter providing an interface to proselint.
@@ -1854,7 +1854,7 @@
 - [Juris-M/legal-resource-registry](https://github.com/Juris-M/legal-resource-registry) - Jurisdiction ID and abbreviation data files for using with Jurism and other projects.
 - [sunlightlabs/spooky_sounds](https://github.com/sunlightlabs/spooky_sounds) - This is a small Flask app that uses websockets and webcam motion detection to trigger sounds using say from OSX.
 - [apertureless/vue-cookie-law](https://github.com/apertureless/vue-cookie-law) - 🍪 👮 Hackable EU Cookie Law Plugin for Vue.js
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of an entire web page in a single HTML file
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of a complete web page in a single HTML file
 - [gchq/iris-schedule-viewer](https://github.com/gchq/iris-schedule-viewer) - An IRIS component for displaying gantt-style categorised data over time.
 - [gchq/iris-timeline-viewer](https://github.com/gchq/iris-timeline-viewer) - An IRIS component for navigating and interacting with time based data.
 - [gchq/CyberChef-server](https://github.com/gchq/CyberChef-server) - A server providing RESTful access to CyberChef
@@ -4184,7 +4184,7 @@
 - [rbischoff/pyweather](https://github.com/rbischoff/pyweather) - Python based weather app.  Serves up Wunderground info and eventually local sensor data.
 - [LoveBootCaptain/WeatherPi_TFT](https://github.com/LoveBootCaptain/WeatherPi_TFT) - a weather display for a raspberry pi and a TFT display written in python3 and pygame
 - [Movixme/Movix](https://github.com/Movixme/Movix) - 
-- [egargo/pwygit](https://github.com/egargo/pwygit) - :partly_sunny: A simple weather information tool.
+- [cegargo/pwygit](https://github.com/cegargo/pwygit) - :partly_sunny: A simple weather information tool.
 - [ltpitt/python-simple-notifications](https://github.com/ltpitt/python-simple-notifications) - A Python module to send out email (also with attachment) and push notifications (using pushbullet or pushover) from your applications
 - [DIGITALCRIMINAL/OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans) - Scrape all the media from an OnlyFans account - Updated regularly
 - [tgalal/yowsup](https://github.com/tgalal/yowsup) - The WhatsApp lib
