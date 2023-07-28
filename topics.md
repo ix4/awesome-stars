@@ -209,6 +209,7 @@
 - [telegram](#telegram)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
+- [termux](#termux)
 - [terraform](#terraform)
 - [testing](#testing)
 - [twitter](#twitter)
@@ -2932,7 +2933,7 @@
 - [aslushnikov/latex-online](https://github.com/aslushnikov/latex-online) - Online latex compiler. You give it a link, it gives you PDF
 - [NV/CSSOM](https://github.com/NV/CSSOM) - Unmaintained! ⚠️ CSS Object Model implemented in pure JavaScript. Also, a CSS parser.
 - [karanlyons/murmurHash3.js](https://github.com/karanlyons/murmurHash3.js) - MurmurHash3, in JavaScript.
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Compared to Fingerprint Identification, has limited accuracy (40 - 60%).
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Compared to Fingerprint Identification Platform, has limited accuracy (40 - 60%).
 - [alyssaxuu/flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
 - [Stuk/jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
@@ -6628,7 +6629,7 @@
 - [Financial-Times/yield-curve-sonification](https://github.com/Financial-Times/yield-curve-sonification) - An experiment to sonify the yield curve
 - [Financial-Times/origami-website](https://github.com/Financial-Times/origami-website) - The Origami website
 - [Financial-Times/google-amp](https://github.com/Financial-Times/google-amp) - ⚡️ FT.com's implementation of the AMP project.
-- [Financial-Times/polyfill-service](https://github.com/Financial-Times/polyfill-service) - Automatic polyfill service.
+- [JakeChampion/polyfill-service](https://github.com/JakeChampion/polyfill-service) - Automatic polyfill service.
 - [datamade/clearstreets-web](https://github.com/datamade/clearstreets-web) - Website that tracks where Chicago plows have been during a snowstorm.
 - [datamade/chi-councilmatic](https://github.com/datamade/chi-councilmatic) - :eyes: keep tabs on Chicago city council
 - [derekeder/csv-to-html-table](https://github.com/derekeder/csv-to-html-table) - :arrow_down_small: Display any CSV (comma separated values) file as a searchable, filterable, pretty HTML table
@@ -8702,6 +8703,14 @@
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
+
+## termux 
+
+- [RandomCoderOrg/ubuntu-on-android](https://github.com/RandomCoderOrg/ubuntu-on-android) - Run Ubuntu with pre-installed Desktop Environments in android/termux with ease! Everything is preinstalled so just download install and done🚀🚀
+- [htr-tech/nexphisher](https://github.com/htr-tech/nexphisher) - Advanced Phishing tool
+- [termux/termux-api](https://github.com/termux/termux-api) - Termux add-on app which exposes device functionality as API to command line programs.
+- [adi1090x/termux-desktop](https://github.com/adi1090x/termux-desktop) - Setup A Beautiful Desktop/GUI In Termux
+- [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
 
 ## terraform 
 
