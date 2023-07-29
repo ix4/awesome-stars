@@ -4463,7 +4463,7 @@
 - [bhdresh/Whatsapp-IP-leak](https://github.com/bhdresh/Whatsapp-IP-leak) - Leak the IP address and Geolocation of target whatsapp user
 - [Sea-n/tgpe](https://github.com/Sea-n/tgpe) - Shortest URL Shortener for Telegram Bot
 - [waveshare/LCD-show](https://github.com/waveshare/LCD-show) - 
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
 - [Juhannuspukki/gatekeeper-bot](https://github.com/Juhannuspukki/gatekeeper-bot) - This Telegram bot automatically restricts every user, and provides a button with which they can redeem themselves.
 - [beothorn/botline](https://github.com/beothorn/botline) - Telegram bot that can run some commands
 - [grantjenks/python-wordsegment](https://github.com/grantjenks/python-wordsegment) - English word segmentation, written in pure-Python, and based on a trillion-word corpus.
