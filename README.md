@@ -4169,7 +4169,7 @@
 - [nshores/my_usps_notifications](https://github.com/nshores/my_usps_notifications) - Notifications module built around the MyUsps python Library
 - [maldevel/intelspy](https://github.com/maldevel/intelspy) - Perform automated network reconnaissance scans
 - [Kylmakalle/heroku-telegram-bot](https://github.com/Kylmakalle/heroku-telegram-bot) - Starter pack to host your Python Telegram Bot on Heroku for free.
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
 - [localhoct/Video-Downloader-Telegram-Bot](https://github.com/localhoct/Video-Downloader-Telegram-Bot) - This bot use youtube-dl to download video from URLs which you can't download from for example Youtube Videos
 - [Juhannuspukki/gatekeeper-bot](https://github.com/Juhannuspukki/gatekeeper-bot) - This Telegram bot automatically restricts every user, and provides a button with which they can redeem themselves.
 - [beothorn/botline](https://github.com/beothorn/botline) - Telegram bot that can run some commands
