@@ -1224,7 +1224,6 @@
 - [edgi-govdata-archiving/web-monitoring](https://github.com/edgi-govdata-archiving/web-monitoring) - Documentation and project-wide issues for the Website Monitoring project (a.k.a. "Scanner")
 - [Mottie/visualNav](https://github.com/Mottie/visualNav) - A jQuery plugin that modifies a navigation menu to highlight / change when the menu's target smooth scrolls into view
 - [json-schema-org/json-schema-org.github.io](https://github.com/json-schema-org/json-schema-org.github.io) - JSON Schema website
-- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [opensavannah/flood-map](https://github.com/opensavannah/flood-map) - A simple web map to visualize flood information on maps
 - [sunlightpolicy/trump-conflicts](https://github.com/sunlightpolicy/trump-conflicts) - Search Potential conflicts of interest
 - [oscarotero/memes-da-vida](https://github.com/oscarotero/memes-da-vida) - Xerador de memes con debuxos de Castelao
@@ -2479,7 +2478,6 @@
 - [code-corps/ember-stripe-elements](https://github.com/code-corps/ember-stripe-elements) - A simple Ember wrapper for Stripe Elements.
 - [google-map-react/google-map-react](https://github.com/google-map-react/google-map-react) - Google map library for react that allows rendering components as markers :tada:
 - [rastapasta/mapscii](https://github.com/rastapasta/mapscii) - 🗺  MapSCII is a Braille & ASCII world map renderer for your console - enter =&gt; telnet mapscii.me &lt;= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows
-- [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
 - [uber/react-vis](https://github.com/uber/react-vis) - Data Visualization Components
 - [soal/vue-mapbox](https://github.com/soal/vue-mapbox) - Vuejs 2 components for interacting with mapbox-gl-js
 - [fightforthefuture/digital-climate-strike](https://github.com/fightforthefuture/digital-climate-strike) - Repository for Digital #ClimateStrike widget: https://digital.globalclimatestrike.net/
@@ -3399,7 +3397,6 @@
 - [jlord/sheetsee-maps](https://github.com/jlord/sheetsee-maps) - Module for adding maps to sheetsee.js
 - [DocNow/docnow](https://github.com/DocNow/docnow) - A Twitter data collection and appraisal application.
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [bryanbraun/twitter-listbot](https://github.com/bryanbraun/twitter-listbot) - A simple twitter bot that retweets the contents of a twitter list.
 - [Noleli/isyontefearlythisyear](https://github.com/Noleli/isyontefearlythisyear) - 
 - [NUKnightLab/socialvideo-prototype](https://github.com/NUKnightLab/socialvideo-prototype) - Summer 2017 Student Project
@@ -4050,6 +4047,7 @@
 - [allanlaal/sunrise-calendar-feed](https://github.com/allanlaal/sunrise-calendar-feed) - simple! sunset-sunrise VCALENDAR calendar generator to be used in Google Calendar, your phone and elsewhere
 - [chrisblakley/Daylight-Calendar-ICS](https://github.com/chrisblakley/Daylight-Calendar-ICS) - Daylight Calendar is a dynamically generated .ics calendar that you can host and subscribe to in Google Calendar, iCal, or other calendar software.
 - [minube/solar-position](https://github.com/minube/solar-position) - 
+- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [googleapis/google-api-php-client](https://github.com/googleapis/google-api-php-client) - A PHP client library for accessing Google APIs
 - [simplepie/feed-locator](https://github.com/simplepie/feed-locator) - An ultra-liberal feed locator.
 - [willwashburn/mushroom](https://github.com/willwashburn/mushroom) - :mushroom: expand links to their final destination
@@ -5557,6 +5555,7 @@
 - [fuzzitdev/jsfuzz](https://github.com/fuzzitdev/jsfuzz) - coverage guided fuzz testing for javascript
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [tweenjs/tween.js](https://github.com/tweenjs/tween.js) - JavaScript/TypeScript animation engine
+- [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
 - [fusionjs/fusionjs](https://github.com/fusionjs/fusionjs) - Modern framework for fast, powerful React apps
 - [uber/baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Base design language
 - [visgl/react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
@@ -5684,6 +5683,7 @@
 - [automerge/pushpin](https://github.com/automerge/pushpin) - A collaborative corkboard app
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
 - [danvk/source-map-explorer](https://github.com/danvk/source-map-explorer) - Analyze and debug space usage through source maps
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
 - [vercel/xterm.js](https://github.com/vercel/xterm.js) - A terminal for the web
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
