@@ -1093,6 +1093,7 @@
 - [samdutton/simpl](https://github.com/samdutton/simpl) - Simplest possible examples of HTML, CSS and Javascript:
 - [openstreetmap/stateofthemap-2019](https://github.com/openstreetmap/stateofthemap-2019) - State of the Map 2019 website
 - [Polymer/polymer-project.org](https://github.com/Polymer/polymer-project.org) - Polymer Project site & blog.
+- [graphql/graphql.github.io](https://github.com/graphql/graphql.github.io) - GraphQL Documentation at graphql.org
 - [aws-amplify/aws-amplify.github.io](https://github.com/aws-amplify/aws-amplify.github.io) - Amplify Framework Website
 - [us-bea/econ-visual-guide](https://github.com/us-bea/econ-visual-guide) - 
 - [spotlightpa/poor-richard](https://github.com/spotlightpa/poor-richard) - Static site for Spotlight PA
@@ -2119,7 +2120,6 @@
 - [zalmoxisus/social-expert](https://github.com/zalmoxisus/social-expert) - Master your GitHub notifications by priority and weight.
 - [redux-form/redux-form](https://github.com/redux-form/redux-form) - A Higher Order Component using react-redux to keep form state in a Redux store
 - [gitname/solar-ui](https://github.com/gitname/solar-ui) - Example Web UI for a Solar Panel System Management Dashboard (built using React v16 & Redux)
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [leighhalliday/react-leaflet-demo](https://github.com/leighhalliday/react-leaflet-demo) - 
 - [mapbox/martini](https://github.com/mapbox/martini) - A JavaScript library for real-time RTIN terrain mesh generation
 - [rkaravia/MeshTiler](https://github.com/rkaravia/MeshTiler) - Get a 3D mesh of any place in the world using MapTiler.
@@ -5487,6 +5487,7 @@
 - [draft-js-plugins/draft-js-plugins](https://github.com/draft-js-plugins/draft-js-plugins) - React Plugin Architecture for Draft.js including Slack-Like Emojis, FB-Like Mentions and Stickers
 - [Fazendaaa/podsearch_bot](https://github.com/Fazendaaa/podsearch_bot) - Telegram bot that searches Podcast in iTunes store.
 - [backmeupplz/voicy](https://github.com/backmeupplz/voicy) - @voicybot Telegram bot main repository
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [googlemaps/google-maps-services-js](https://github.com/googlemaps/google-maps-services-js) - Node.js client library for Google Maps API Web Services
 - [vuestorefront/storefront-ui](https://github.com/vuestorefront/storefront-ui) - A frontend library for Vue and React that helps developers quickly build fast, accessible, and beautiful storefronts. Made with 💚 by Vue Storefront team and contributors.
@@ -5616,7 +5617,6 @@
 - [ClusterWS/ClusterWS](https://github.com/ClusterWS/ClusterWS) - :boom: Lightweight, fast and powerful framework for building scalable WebSocket applications in Node.js
 - [mjtognetti/pushpin-peer](https://github.com/mjtognetti/pushpin-peer) - A cloud peer for pushpin to keep data warm while your computer is sleeping.
 - [digidem/mapeo-mobile](https://github.com/digidem/mapeo-mobile) - Monitor and document the world around you
-- [graphql/graphql.github.io](https://github.com/graphql/graphql.github.io) - GraphQL Documentation at graphql.org
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [beccasafan/radio-promo-app](https://github.com/beccasafan/radio-promo-app) - 
