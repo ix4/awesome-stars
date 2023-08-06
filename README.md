@@ -1333,7 +1333,7 @@
 - [modesty/pdf2json](https://github.com/modesty/pdf2json) - A PDF file parser that converts PDF binaries to text based JSON, powered by a fork of PDF.JS
 - [ddssingsong/webrtc_android](https://github.com/ddssingsong/webrtc_android) - webrtc VideoCall VideoConference  视频通话 视频会议
 - [ShailuJain/DeskViewer](https://github.com/ShailuJain/DeskViewer) - A Java Project for screen sharing based on TCP protocol. Like TeamViewer
-- [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - Stanford CoreNLP: A Java suite of core NLP tools.
+- [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - CoreNLP: A Java suite of core NLP tools for tokenization, sentence segmentation, NER, parsing, coreference, sentiment analysis, etc.
 - [SaraTorrey/women-coders-bot](https://github.com/SaraTorrey/women-coders-bot) - A Twitter bot written in Java that retweets all things women who code.
 - [youtube/api-samples](https://github.com/youtube/api-samples) - Code samples for YouTube APIs, including the YouTube Data API, YouTube Analytics API, and YouTube Live Streaming API. The repo contains language-specific directories that contain the samples.
 - [FirebaseExtended/mlkit-material-android](https://github.com/FirebaseExtended/mlkit-material-android) - ML Kit Showcase App with Material Design
@@ -5142,7 +5142,7 @@
 - [topkecleon/telegram-bot-bash](https://github.com/topkecleon/telegram-bot-bash) - Telegram bot written in bash
 - [mortocks/bash-podcast-download](https://github.com/mortocks/bash-podcast-download) - A simple bash script to download all media from a podcast feed
 - [wick3dr0se/sysfetch](https://github.com/wick3dr0se/sysfetch) - A super tiny system information fetch script written in BASH
-- [nicokaiser/rpi-audio-receiver](https://github.com/nicokaiser/rpi-audio-receiver) - Raspberry Pi Audio Receiver with Bluetooth A2DP, AirPlay, and Spotify Connect
+- [nicokaiser/rpi-audio-receiver](https://github.com/nicokaiser/rpi-audio-receiver) - Raspberry Pi Audio Receiver with Bluetooth A2DP, AirPlay 2, and Spotify Connect
 - [l3x/helpers](https://github.com/l3x/helpers) - Helpful scripts
 - [RandomCoderOrg/ubuntu-on-android](https://github.com/RandomCoderOrg/ubuntu-on-android) - Run Ubuntu with pre-installed Desktop Environments in android/termux with ease! Everything is preinstalled so just download install and done🚀🚀
 - [MFDGaming/ubuntu-in-termux](https://github.com/MFDGaming/ubuntu-in-termux) - This is a script by which you can install Ubuntu in your termux application without a rooted device
