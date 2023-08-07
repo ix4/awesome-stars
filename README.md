@@ -118,6 +118,7 @@
 
 - [roadmapsh/next.roadmap.sh](https://github.com/roadmapsh/next.roadmap.sh) - Next version of roadmap.sh
 - [CSS-Tricks/serverless](https://github.com/CSS-Tricks/serverless) - The Power of Serverless for Front-End Developers
+- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 
 ## Awk 
 
@@ -2120,6 +2121,7 @@
 - [zalmoxisus/social-expert](https://github.com/zalmoxisus/social-expert) - Master your GitHub notifications by priority and weight.
 - [redux-form/redux-form](https://github.com/redux-form/redux-form) - A Higher Order Component using react-redux to keep form state in a Redux store
 - [gitname/solar-ui](https://github.com/gitname/solar-ui) - Example Web UI for a Solar Panel System Management Dashboard (built using React v16 & Redux)
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [leighhalliday/react-leaflet-demo](https://github.com/leighhalliday/react-leaflet-demo) - 
 - [mapbox/martini](https://github.com/mapbox/martini) - A JavaScript library for real-time RTIN terrain mesh generation
 - [rkaravia/MeshTiler](https://github.com/rkaravia/MeshTiler) - Get a 3D mesh of any place in the world using MapTiler.
@@ -3412,7 +3414,6 @@
 - [IMBurbank/trump-world-graph](https://github.com/IMBurbank/trump-world-graph) - TrumpWorld Associate Connections - Force Directed Graph
 - [francisrstokes/trump-chain](https://github.com/francisrstokes/trump-chain) - 
 - [davidgilbertson/trump-tweets](https://github.com/davidgilbertson/trump-tweets) - Two lies and a truth
-- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4
 - [texastribune/data-visuals-create](https://github.com/texastribune/data-visuals-create) - A tool for generating the scaffolding needed to create a project the Data Visuals way.
 - [Quartz/presidents-economy](https://github.com/Quartz/presidents-economy) - Tracking Trump's economic promises
 - [twitterdev/postman-twitter-ads-api](https://github.com/twitterdev/postman-twitter-ads-api) - Postman collection for the Twitter Ads API
@@ -5487,7 +5488,6 @@
 - [draft-js-plugins/draft-js-plugins](https://github.com/draft-js-plugins/draft-js-plugins) - React Plugin Architecture for Draft.js including Slack-Like Emojis, FB-Like Mentions and Stickers
 - [Fazendaaa/podsearch_bot](https://github.com/Fazendaaa/podsearch_bot) - Telegram bot that searches Podcast in iTunes store.
 - [backmeupplz/voicy](https://github.com/backmeupplz/voicy) - @voicybot Telegram bot main repository
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [googlemaps/google-maps-services-js](https://github.com/googlemaps/google-maps-services-js) - Node.js client library for Google Maps API Web Services
 - [vuestorefront/storefront-ui](https://github.com/vuestorefront/storefront-ui) - A frontend library for Vue and React that helps developers quickly build fast, accessible, and beautiful storefronts. Made with 💚 by Vue Storefront team and contributors.
