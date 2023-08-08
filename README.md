@@ -1094,7 +1094,6 @@
 - [samdutton/simpl](https://github.com/samdutton/simpl) - Simplest possible examples of HTML, CSS and Javascript:
 - [openstreetmap/stateofthemap-2019](https://github.com/openstreetmap/stateofthemap-2019) - State of the Map 2019 website
 - [Polymer/polymer-project.org](https://github.com/Polymer/polymer-project.org) - Polymer Project site & blog.
-- [graphql/graphql.github.io](https://github.com/graphql/graphql.github.io) - GraphQL Documentation at graphql.org
 - [aws-amplify/aws-amplify.github.io](https://github.com/aws-amplify/aws-amplify.github.io) - Amplify Framework Website
 - [us-bea/econ-visual-guide](https://github.com/us-bea/econ-visual-guide) - 
 - [spotlightpa/poor-richard](https://github.com/spotlightpa/poor-richard) - Static site for Spotlight PA
@@ -2476,7 +2475,7 @@
 - [cheeaun/busrouter-sg](https://github.com/cheeaun/busrouter-sg) - BusRouter SG: Singapore Bus Routes Explorer
 - [uwdata/voyager](https://github.com/uwdata/voyager) - Recommendation-Powered Visualization Tool for Data Exploration
 - [ft-interactive/d3-bootloader](https://github.com/ft-interactive/d3-bootloader) - Uses SystemJS to bootstrap in-browser D3.js via ES6 modules
-- [codeforamerica/brigade-project-index](https://github.com/codeforamerica/brigade-project-index) - Brigade Project Index
+- [hackforla/brigade-project-index](https://github.com/hackforla/brigade-project-index) - Brigade Project Index
 - [yourtion/vue-json-ui-editor](https://github.com/yourtion/vue-json-ui-editor) - Edit JSON in UI form with JSON Schema and Vue.js
 - [code-corps/ember-stripe-elements](https://github.com/code-corps/ember-stripe-elements) - A simple Ember wrapper for Stripe Elements.
 - [google-map-react/google-map-react](https://github.com/google-map-react/google-map-react) - Google map library for react that allows rendering components as markers :tada:
@@ -5617,6 +5616,7 @@
 - [ClusterWS/ClusterWS](https://github.com/ClusterWS/ClusterWS) - :boom: Lightweight, fast and powerful framework for building scalable WebSocket applications in Node.js
 - [mjtognetti/pushpin-peer](https://github.com/mjtognetti/pushpin-peer) - A cloud peer for pushpin to keep data warm while your computer is sleeping.
 - [digidem/mapeo-mobile](https://github.com/digidem/mapeo-mobile) - Monitor and document the world around you
+- [graphql/graphql.github.io](https://github.com/graphql/graphql.github.io) - GraphQL Documentation at graphql.org
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [beccasafan/radio-promo-app](https://github.com/beccasafan/radio-promo-app) - 
