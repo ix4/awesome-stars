@@ -6068,7 +6068,7 @@
 - [ft-interactive/d3-bootloader](https://github.com/ft-interactive/d3-bootloader) - Uses SystemJS to bootstrap in-browser D3.js via ES6 modules
 - [TixiaoShan/github_commands](https://github.com/TixiaoShan/github_commands) - useful GitHub commands and scripts
 - [mittrees/Treepedia_Public](https://github.com/mittrees/Treepedia_Public) - Treepedia package for public use
-- [codeforamerica/brigade-project-index](https://github.com/codeforamerica/brigade-project-index) - Brigade Project Index
+- [hackforla/brigade-project-index](https://github.com/hackforla/brigade-project-index) - Brigade Project Index
 - [drewrwilson/toolsforactivism](https://github.com/drewrwilson/toolsforactivism) - growing list of digital tools for activism things
 - [rastapasta/mapscii](https://github.com/rastapasta/mapscii) - 🗺  MapSCII is a Braille & ASCII world map renderer for your console - enter =&gt; telnet mapscii.me &lt;= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows
 - [controlshift/website-v2](https://github.com/controlshift/website-v2) - A static set of pages for new marketing site
