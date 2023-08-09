@@ -4153,7 +4153,7 @@
 - [diprajpatra/selenium-stealth](https://github.com/diprajpatra/selenium-stealth) - Trying to make python selenium more stealthy.
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [miloknowles/male-sorter](https://github.com/miloknowles/male-sorter) - Sort your males into bins.
-- [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [open-austin/ballotapi](https://github.com/open-austin/ballotapi) - Ballots for developers - https://ballotapi.org/
 - [urschrei/pypolyline](https://github.com/urschrei/pypolyline) - Fast Google Polyline encoding and decoding using a Rust binary
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
