@@ -5194,7 +5194,7 @@
 - [devspace/awesome-github-templates](https://github.com/devspace/awesome-github-templates) - :octocat: Curated list of GitHub Issues and Pull Requests templates
 - [Templarian/magnetic-tiles](https://github.com/Templarian/magnetic-tiles) - D20 Magnetic 1.25 inch 3D printed tiles
 - [Templarian/MaterialDesign-Font-Build](https://github.com/Templarian/MaterialDesign-Font-Build) - NodeJS Webfont builder tailored for MDI w/ cli support
-- [rhl-bthr/parchment](https://github.com/rhl-bthr/parchment) - Jekyll theme for minimalists. Live at https://rahul-bothra.github.io/parchment
+- [rhl-bthr/parchment](https://github.com/rhl-bthr/parchment) - Jekyll theme for minimalists. Live at https://rahulbothra.com/parchment
 - [hydecorp/hydejack-starter-kit](https://github.com/hydecorp/hydejack-starter-kit) - A quicker, cleaner way to get started blogging with Hydejack.
 - [jhpyle/docassemble-rpi](https://github.com/jhpyle/docassemble-rpi) - A test interview for running Docassemble on the Raspberry Pi
 - [jhpyle/docassemble](https://github.com/jhpyle/docassemble) - A free, open-source expert system for guided interviews and document assembly, based on Python, YAML, and Markdown.
