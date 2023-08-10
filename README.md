@@ -844,7 +844,7 @@
 - [MinnPost/minnpost-elections-dashboard](https://github.com/MinnPost/minnpost-elections-dashboard) - An elections results dashboard for MN elections.
 - [mattcone/markdown-guide](https://github.com/mattcone/markdown-guide) - The comprehensive Markdown reference guide.
 - [Templarian/MaterialDesign-Font-Build](https://github.com/Templarian/MaterialDesign-Font-Build) - NodeJS Webfont builder tailored for MDI w/ cli support
-- [rhl-bthr/parchment](https://github.com/rhl-bthr/parchment) - Jekyll theme for minimalists. Live at https://rahul-bothra.github.io/parchment
+- [rhl-bthr/parchment](https://github.com/rhl-bthr/parchment) - Jekyll theme for minimalists. Live at https://rahulbothra.com/parchment
 - [hydecorp/hydejack-starter-kit](https://github.com/hydecorp/hydejack-starter-kit) - A quicker, cleaner way to get started blogging with Hydejack.
 - [shd101wyy/markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) - One of the 'BEST' markdown preview extensions for Atom editor!
 - [planetoftheweb/postcsslayouts](https://github.com/planetoftheweb/postcsslayouts) - This is the repository for my course, Building a Responsive Single-Page Design with PostCSS on LinkedIn Learning and Lynda.com.
@@ -1738,7 +1738,6 @@
 - [Raynos/mercury](https://github.com/Raynos/mercury) - A truly modular frontend framework
 - [rexxars/react-chess](https://github.com/rexxars/react-chess) - Renders a chess board using React
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
-- [remarkjs/.github](https://github.com/remarkjs/.github) - Community health files for remark
 - [wooorm/short-words](https://github.com/wooorm/short-words) - visualise lengthy words
 - [wooorm/common-words](https://github.com/wooorm/common-words) - visualise rare words
 - [wooorm/write-music](https://github.com/wooorm/write-music) - visualise sentence length
@@ -5408,6 +5407,7 @@
 - [compodoc/compodoc](https://github.com/compodoc/compodoc) - :notebook_with_decorative_cover: The missing documentation tool for your Angular, Nest & Stencil application
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [textlint/textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
+- [remarkjs/.github](https://github.com/remarkjs/.github) - Community health files for remark
 - [mqttjs/MQTT.js](https://github.com/mqttjs/MQTT.js) - The MQTT client for Node.js and the browser
 - [nimiq/qr-scanner](https://github.com/nimiq/qr-scanner) - Lightweight Javascript QR Code Scanner
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
