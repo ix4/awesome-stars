@@ -5705,7 +5705,7 @@
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [usgpo/uslm](https://github.com/usgpo/uslm) - United States Legislative Markup (USLM) XML Schema
 - [usecue/fork-me-on-github-svg-ribbons](https://github.com/usecue/fork-me-on-github-svg-ribbons) - SVG versions of the ‘Fork me on GitHub’ ribbons
-- [mi-g/vdhcoapp](https://github.com/mi-g/vdhcoapp) - Companion application for Video DownloadHelper browser add-on
+- [aclap-dev/vdhcoapp](https://github.com/aclap-dev/vdhcoapp) - Companion application for Video DownloadHelper browser add-on
 - [mattiasw/ExifReader](https://github.com/mattiasw/ExifReader) - A JavaScript Exif info parser.
 - [osmcode/osm-gis-export](https://github.com/osmcode/osm-gis-export) - Export OSM data to GIS formats like Shapefiles, Spatialite or PostGIS.
 - [osmcode/osmcode.github.io](https://github.com/osmcode/osmcode.github.io) - osmcode.org website
