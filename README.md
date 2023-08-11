@@ -75,7 +75,6 @@
 - [Rust](#rust)
 - [SCSS](#scss)
 - [SVG](#svg)
-- [SWIG](#swig)
 - [Sass](#sass)
 - [Scala](#scala)
 - [Shell](#shell)
@@ -2200,7 +2199,7 @@
 - [mapbox/polyline](https://github.com/mapbox/polyline) - polyline encoding and decoding in javascript
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
-- [mi-g/vdhcoapp](https://github.com/mi-g/vdhcoapp) - Companion application for Video DownloadHelper browser add-on
+- [aclap-dev/vdhcoapp](https://github.com/aclap-dev/vdhcoapp) - Companion application for Video DownloadHelper browser add-on
 - [eduardoboucas/staticman](https://github.com/eduardoboucas/staticman) - 💪  User-generated content for Git-powered websites
 - [c3js/c3](https://github.com/c3js/c3) - :bar_chart: A D3-based reusable chart library
 - [mattiasw/ExifReader](https://github.com/mattiasw/ExifReader) - A JavaScript Exif info parser.
@@ -4538,6 +4537,7 @@
 - [LibraryOfCongress/concordia](https://github.com/LibraryOfCongress/concordia) - Crowdsourcing platform for full text transcription and tagging. https://crowd.loc.gov
 - [LibraryOfCongress/chronam](https://github.com/LibraryOfCongress/chronam) - This software project is no longer being actively developed at the Library of Congress. Consider using the Open-ONI (https://github.com/open-oni) fork of the chronam software. Project mailing list: ht
 - [algolia/docsearch-scraper](https://github.com/algolia/docsearch-scraper) - DocSearch - Scraper
+- [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is an enhanced Python binding for MuPDF – a lightweight PDF, XPS, and E-book viewer, renderer, and toolkit.
 - [wowchemy/hugo-academic-cli](https://github.com/wowchemy/hugo-academic-cli) - 📚 Import academic publications from Bibtex to your Markdown website. 将Bibtex转换为Markdown网站
 - [ekalinin/nodeenv](https://github.com/ekalinin/nodeenv) - Virtual environment for Node.js & integrator with virtualenv
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
@@ -5099,10 +5099,6 @@
 ## SVG 
 
 - [gilbarbara/logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos
-
-## SWIG 
-
-- [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is an enhanced Python binding for MuPDF – a lightweight PDF, XPS, and E-book viewer, renderer, and toolkit.
 
 ## Sass 
 
