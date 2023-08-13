@@ -1020,7 +1020,6 @@
 - [TerriaJS/TerriaMap](https://github.com/TerriaJS/TerriaMap) - Catalog-based web geospatial visualisation platform.
 - [brunob/leaflet.fullscreen](https://github.com/brunob/leaflet.fullscreen) - Leaflet.Control.FullScreen for Leaflet
 - [dj0001/Leaflet.timezones](https://github.com/dj0001/Leaflet.timezones) - Overlay timezones on a Leaflet Earth map
-- [programminghistorian/jekyll](https://github.com/programminghistorian/jekyll) - Jekyll-based static site for The Programming Historian
 - [dj0001/Leaflet.mytrack](https://github.com/dj0001/Leaflet.mytrack) - track my way on a map
 - [Leaflet/Leaflet.fullscreen](https://github.com/Leaflet/Leaflet.fullscreen) - A fullscreen control for Leaflet
 - [wet-boew/wet-boew.github.io](https://github.com/wet-boew/wet-boew.github.io) - Working Examples for the Web Experience Toolkit core. It contains working examples for the latest version of each major branch as well as the latest stable release for each of those branches
@@ -3501,6 +3500,7 @@
 - [laconicllama/google-locations](https://github.com/laconicllama/google-locations) - This code accompanies the ShmooCon 2018 talk: "OK Google, Tell Me About Myself."  With this code, I attempt to infer information about my daily life (i.e., identify significant locations in my life su
 - [descarteslabs/tutorials](https://github.com/descarteslabs/tutorials) - Public repository for sharing tutorials. For the full client documentation, visit https://docs.descarteslabs.com/
 - [GIScience/openrouteservice-examples](https://github.com/GIScience/openrouteservice-examples) - :books: (Mostly) real-world examples and inspirations to use the full breadth of ORS services and clients
+- [programminghistorian/jekyll](https://github.com/programminghistorian/jekyll) - Jekyll-based static site for The Programming Historian
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [planetlabs/notebooks](https://github.com/planetlabs/notebooks) - interactive notebooks from Planet Engineering
 - [dbpedia/gfs](https://github.com/dbpedia/gfs) - DBpedia, which frequently crawls and analyses over 120 Wikipedia language editions has near complete information about (1) which facts are in infoboxes across all Wikipedias (2) where Wikidata is alre
@@ -3536,7 +3536,7 @@
 
 ## Kotlin 
 
-- [4f77616973/Wristkey](https://github.com/4f77616973/Wristkey) - A free and open-source 2FA app for smartwatches.
+- [0x4f53/Wristkey](https://github.com/0x4f53/Wristkey) - A free and open-source 2FA app for smartwatches.
 - [egorovandreyrm/pcap-remote](https://github.com/egorovandreyrm/pcap-remote) - Non-root network sniffer app that features supporting Wireshark sshdump tool
 - [PortSwigger/turbo-intruder](https://github.com/PortSwigger/turbo-intruder) - Turbo Intruder is a Burp Suite extension for sending large numbers of HTTP requests and analyzing the results.
 - [google/ground-android](https://github.com/google/ground-android) - Ground mobile data collection app for Android
