@@ -803,7 +803,6 @@
 - [nisrulz/javadoc-themer](https://github.com/nisrulz/javadoc-themer) - [Javadoc Tool] Give your boooring javadocs a splash of colors!
 - [Sigil-Ebook/PageEdit](https://github.com/Sigil-Ebook/PageEdit) - ePub XHTML Visual Editor
 - [Sigil-Ebook/sigil-user-guide](https://github.com/Sigil-Ebook/sigil-user-guide) - 
-- [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [openshift/openshift-docs](https://github.com/openshift/openshift-docs) - OpenShift 3 and 4 product and community documentation
 - [nginxinc/nginx-wiki](https://github.com/nginxinc/nginx-wiki) - ARCHIVED -- Source for the now archived NGINX Wiki section of https://www.nginx.com
@@ -5392,6 +5391,7 @@
 - [ChromeDevTools/devtools-frontend](https://github.com/ChromeDevTools/devtools-frontend) - The Chrome DevTools UI
 - [styleguidist/react-docgen-typescript](https://github.com/styleguidist/react-docgen-typescript) - A simple parser for react properties defined in typescript instead of propTypes.
 - [gitpod-io/retired-gatsby-website](https://github.com/gitpod-io/retired-gatsby-website) - Gitpod website and documentation
+- [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [SocialGouv/dila-api-client](https://github.com/SocialGouv/dila-api-client) - a client for the DILA API that publishes the french law
 - [babel/website](https://github.com/babel/website) - :globe_with_meridians: The Babel documentation website
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets
