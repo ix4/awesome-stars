@@ -1781,7 +1781,7 @@
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [guess-js/guess-js.github.io](https://github.com/guess-js/guess-js.github.io) - The website of Guess.js
 - [GoogleChromeLabs/pwacompat](https://github.com/GoogleChromeLabs/pwacompat) - PWACompat to bring Web App Manifest to older browsers
-- [ostera/tldr.jsx](https://github.com/ostera/tldr.jsx) - 📚 A Reactive web client for tldr-pages
+- [leostera/tldr.jsx](https://github.com/leostera/tldr.jsx) - 📚 A Reactive web client for tldr-pages
 - [diit/overtime-cli](https://github.com/diit/overtime-cli) - Easy time-overlap tables for remote teams.
 - [andOTP/WebDecrypt](https://github.com/andOTP/WebDecrypt) - Decryption for password-protected backups using JavaScript
 - [c0bra/deviceframe](https://github.com/c0bra/deviceframe) - :iphone: Put device frames around your mobile/web/progressive app screenshots.
@@ -3186,7 +3186,7 @@
 - [hallahan/LeafletPlayback](https://github.com/hallahan/LeafletPlayback) - This is a Leaflet plug-in that plays back points that have a time stamp synchronized to a clock.
 - [perliedman/leaflet-realtime](https://github.com/perliedman/leaflet-realtime) - Put realtime data on a Leaflet map
 - [tyrasd/osmtogeojson](https://github.com/tyrasd/osmtogeojson) - convert osm to geojson
-- [koopjs/koop](https://github.com/koopjs/koop) - :crystal_ball: Transform, query, and download geospatial data on the web.
+- [koopjs/koop](https://github.com/koopjs/koop) - Transform, query, and download geospatial data on the web.
 - [geoman-io/leaflet-geoman](https://github.com/geoman-io/leaflet-geoman) - 🍂🗺️ The most powerful leaflet plugin for drawing and editing geometry layers
 - [Esri/terraformer](https://github.com/Esri/terraformer) - A geographic toolkit for dealing with geometry, geography, formats, and building geo databases
 - [ustroetz/gimmeOSM](https://github.com/ustroetz/gimmeOSM) - Gives you OSM as GeoJSON based on the feature ID
@@ -5700,7 +5700,7 @@
 ## Vim Script 
 
 - [dominee/Termux-dotfiles](https://github.com/dominee/Termux-dotfiles) - .files for the Termux android terminal
-- [ostera/dotfiles](https://github.com/ostera/dotfiles) - :floppy_disk: ~/.*
+- [leostera/dotfiles](https://github.com/leostera/dotfiles) - :floppy_disk: ~/.*
 - [gregsexton/gitv](https://github.com/gregsexton/gitv) - gitk for Vim.
 - [mattn/vim-gist](https://github.com/mattn/vim-gist) - Vim plugin for Gist
 
