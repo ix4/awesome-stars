@@ -87,6 +87,7 @@
 - [game-development](#game-development)
 - [game-engine](#game-engine)
 - [gamedev](#gamedev)
+- [gis](#gis)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -392,7 +393,7 @@
 - [zhongsp/TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org
 - [ZEISS/rectangly](https://github.com/ZEISS/rectangly) - A React renderer for Angular 4+. :triangular_ruler:
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
-- [critrange/floorplan-angular](https://github.com/critrange/floorplan-angular) - Prototype to draw floorplan of rooms. (Angular 13 + Fabric.js)
+- [andsilver/floorplan-angular](https://github.com/andsilver/floorplan-angular) - Prototype to draw floorplan of rooms. (Angular 13 + Fabric.js)
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
 - [swimlane/ngx-dnd](https://github.com/swimlane/ngx-dnd) - 🕶  Drag, Drop and Sorting Library for Angular2 and beyond!
 - [swimlane/ngx-ui](https://github.com/swimlane/ngx-ui) - 🚀  Style and Component Library for Angular
@@ -465,7 +466,7 @@
 - [palewire/archiveis](https://github.com/palewire/archiveis) - A simple Python wrapper for the archive.is capturing service
 - [maxisoft/Freenom-dns-updater](https://github.com/maxisoft/Freenom-dns-updater) - A tool to update freenom's dns records
 - [tamarasaurus/immo-feed](https://github.com/tamarasaurus/immo-feed) - A extensible app for scraping property listings
-- [koopjs/koop](https://github.com/koopjs/koop) - :crystal_ball: Transform, query, and download geospatial data on the web.
+- [koopjs/koop](https://github.com/koopjs/koop) - Transform, query, and download geospatial data on the web.
 - [apilayer/ratesapi](https://github.com/apilayer/ratesapi) - Forex conversion exchange rates api for free
 - [apilayer/locate.now](https://github.com/apilayer/locate.now) - A simple API for IP address & geolocation lookup.
 - [sunsetwx/sunburst.js](https://github.com/sunsetwx/sunburst.js) - This library provides authorization handling and methods for accessing the Sunburst API.
@@ -1902,6 +1903,42 @@
 ## gamedev 
 
 - [game-icons/icons](https://github.com/game-icons/icons) - All SVG icons available on http://game-icons.net
+
+## gis 
+
+- [urschrei/pypolyline](https://github.com/urschrei/pypolyline) - Fast Google Polyline encoding and decoding using a Rust binary
+- [derhuerst/parse-gml-polygon](https://github.com/derhuerst/parse-gml-polygon) - Convert a GML Polygon into GeoJSON.
+- [Flexberry/Leaflet.Export](https://github.com/Flexberry/Leaflet.Export) - Leaflet.Export support additional methods for export, download and print maps
+- [CesiumGS/cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps :earth_americas:
+- [nypl-spacetime/qgis-trace-tutorial](https://github.com/nypl-spacetime/qgis-trace-tutorial) - Tutorial: Tracing Historical Streets with QGIS
+- [SuperMap/iClient-JavaScript](https://github.com/SuperMap/iClient-JavaScript) - Modern GIS Web Client for JavaScript, based on Leaflet\OpenLayers\MapboxGL-JS\Classic(iClient8C), enhanced with ECharts\D3\MapV etc. Contributed by SuperMap & community.
+- [nickpeihl/ags-walk](https://github.com/nickpeihl/ags-walk) - Walks an ArcGIS Server Rest API and returns all services
+- [FCC/c2hgis-web](https://github.com/FCC/c2hgis-web) - Connect2Health - Mapping Broadband Health in America
+- [FCC/contours-api-node](https://github.com/FCC/contours-api-node) - Enterprise Contours Node API
+- [FCC/pirateaction2](https://github.com/FCC/pirateaction2) - pirate action version 2
+- [pmacMaps/get-zoning-by-parcel-app](https://github.com/pmacMaps/get-zoning-by-parcel-app) - Get the zoning district information for a parcel by entering the parcel's identification number or street address.
+- [proj4js/proj4js](https://github.com/proj4js/proj4js) - JavaScript library to transform coordinates from one coordinate system to another, including datum transformations
+- [GeoTIFF/geoblaze](https://github.com/GeoTIFF/geoblaze) - Blazing Fast JavaScript Raster Processing Engine
+- [GeoTIFF/geotiff.io](https://github.com/GeoTIFF/geotiff.io) - Static website for viewing and analyzing GeoTIFF's in the browser
+- [wavded/ogre](https://github.com/wavded/ogre) - ogr2ogr geojson-focused web client
+- [koopjs/FeatureServer](https://github.com/koopjs/FeatureServer) - An open source Geoservices Implementation (deprecated)
+- [cugos/dropchop](https://github.com/cugos/dropchop) - :fork_and_knife: browser-based spatial operations
+- [angular-ui/ui-leaflet](https://github.com/angular-ui/ui-leaflet) - AngularJS directive to embed an interact with maps managed by Leaflet library
+- [stefanocudini/leaflet-search](https://github.com/stefanocudini/leaflet-search) - Search stuff in a Leaflet map
+- [noncomputable/AgentMaps](https://github.com/noncomputable/AgentMaps) - Make social simulations on real maps! Agent-based modeling for the web.
+- [tannerjt/AGStoShapefile](https://github.com/tannerjt/AGStoShapefile) - Convert ArcGIS Server Dynamic Map Service to GeoJSON and Shapefile
+- [geosolutions-it/MapStore2](https://github.com/geosolutions-it/MapStore2) - Modern webmapping with OpenLayers, Leaflet, Cesium and React
+- [koopjs/koop](https://github.com/koopjs/koop) - Transform, query, and download geospatial data on the web.
+- [geoman-io/leaflet-geoman](https://github.com/geoman-io/leaflet-geoman) - 🍂🗺️ The most powerful leaflet plugin for drawing and editing geometry layers
+- [openwisp/django-rest-framework-gis](https://github.com/openwisp/django-rest-framework-gis) - Geographic add-ons for Django REST Framework. Maintained by the OpenWISP Project.
+- [mbloch/mapshaper](https://github.com/mbloch/mapshaper) - Tools for editing Shapefile, GeoJSON, TopoJSON and CSV files
+- [Turfjs/turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript
+- [flopp/go-staticmaps](https://github.com/flopp/go-staticmaps) - A go (golang) library and command line tool to render static map images using OpenStreetMap tiles.
+- [mousebird-consulting-inc/WhirlyGlobe](https://github.com/mousebird-consulting-inc/WhirlyGlobe) - WhirlyGlobe Development
+- [mapnik/mapnik](https://github.com/mapnik/mapnik) - Mapnik is an open source toolkit for developing mapping applications
+- [googlemaps/nyc-subway-station-locator](https://github.com/googlemaps/nyc-subway-station-locator) - NYC Subway Station Locator Solution
+- [nvkelso/natural-earth-vector](https://github.com/nvkelso/natural-earth-vector) - A global, public domain map dataset available at three scales and featuring tightly integrated vector and raster data.
+- [sshuair/awesome-gis](https://github.com/sshuair/awesome-gis) - 😎Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some ama
 
 ## git 
 
@@ -3753,7 +3790,7 @@
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [pforret/bash-boilerplate](https://github.com/pforret/bash-boilerplate) - Bash script template // archived, please use https://github.com/pforret/bashew
 - [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - This repository is outdated and no longer maintained. A new version of massCode is available! https://github.com/massCodeIO/massCode. A free and open source code snippets manager for developers.
-- [ostera/dotfiles](https://github.com/ostera/dotfiles) - :floppy_disk: ~/.*
+- [leostera/dotfiles](https://github.com/leostera/dotfiles) - :floppy_disk: ~/.*
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [etigerstudio/typora-misty-theme](https://github.com/etigerstudio/typora-misty-theme) - Yet another elegant Typora theme designed with aesthetics in mind.
 - [maddox/mac-api](https://github.com/maddox/mac-api) - Command your Mac from afar
@@ -4202,7 +4239,7 @@
 - [graphile/worker](https://github.com/graphile/worker) - High performance Node.js/PostgreSQL job queue (also suitable for getting jobs generated by PostgreSQL triggers/functions out into a different work queue)
 - [MrLuit/EtherScamDB](https://github.com/MrLuit/EtherScamDB) - Keep track of all current ethereum scams in a large database
 - [Chicago/opengrid](https://github.com/Chicago/opengrid) - A user-friendly, map-based tool to combine and explore real-time or historical data.
-- [koopjs/koop](https://github.com/koopjs/koop) - :crystal_ball: Transform, query, and download geospatial data on the web.
+- [koopjs/koop](https://github.com/koopjs/koop) - Transform, query, and download geospatial data on the web.
 - [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 - [ivanseidel/Is-Now-Illegal](https://github.com/ivanseidel/Is-Now-Illegal) - 🚫 A NERD protest against Trump's Immigration ban
 - [rajikaimal/awesome-express](https://github.com/rajikaimal/awesome-express) - :octocat: A curated list of awesome express.js resources
@@ -4888,7 +4925,6 @@
 - [derhuerst/svg-patterns](https://github.com/derhuerst/svg-patterns) - SVG patterns for Data Visualization.
 - [derhuerst/vbb-map-routing](https://github.com/derhuerst/vbb-map-routing) - Use VBB interactively, using a map.
 - [derhuerst/merge-vbb-stations](https://github.com/derhuerst/merge-vbb-stations) - Heuristic to find VBB stations & stops that should be one.
-- [derhuerst/parse-gml-polygon](https://github.com/derhuerst/parse-gml-polygon) - Convert a GML Polygon into GeoJSON.
 - [highsource/Germany-The-Beautiful-Travel-Country-1935-vs-1936](https://github.com/highsource/Germany-The-Beautiful-Travel-Country-1935-vs-1936) - 
 - [highsource/confluence-to-markdown-converter](https://github.com/highsource/confluence-to-markdown-converter) - Converts the Confluence storage format to Markdown format.
 - [highsource/jsonix](https://github.com/highsource/jsonix) - Powerful XML&lt;-&gt;JSON JavaScript mapping library.
@@ -5140,14 +5176,13 @@
 - [davidmarkclements/fast-redact](https://github.com/davidmarkclements/fast-redact) - very fast object redaction
 - [davidmarkclements/rfdc](https://github.com/davidmarkclements/rfdc) - Really Fast Deep Clone
 - [JoshData/pdf-redactor](https://github.com/JoshData/pdf-redactor) - A general purpose PDF text-layer redaction tool for Python 2/3.
-- [Flexberry/Leaflet.Export](https://github.com/Flexberry/Leaflet.Export) - Leaflet.Export support additional methods for export, download and print maps
 - [stathissideris/ditaa](https://github.com/stathissideris/ditaa) - ditaa is a small command-line utility that can convert diagrams drawn using ascii art ('drawings' that contain characters that resemble lines like | / - ), into proper bitmap graphics.
 - [wavedrom/wavedrom.github.io](https://github.com/wavedrom/wavedrom.github.io) - Digital timing diagram editor
 - [markdown-it/markdown-it-footnote](https://github.com/markdown-it/markdown-it-footnote) - Footnotes plugin for markdown-it markdown parser
 - [algolia/jekyll-algolia](https://github.com/algolia/jekyll-algolia) - Add fast and relevant search to your Jekyll site
 - [davidbgk/open-source-template](https://github.com/davidbgk/open-source-template) - A README template to encourage open-source contributions
 - [guess-js/guess-js.github.io](https://github.com/guess-js/guess-js.github.io) - The website of Guess.js
-- [ostera/tldr.jsx](https://github.com/ostera/tldr.jsx) - 📚 A Reactive web client for tldr-pages
+- [leostera/tldr.jsx](https://github.com/leostera/tldr.jsx) - 📚 A Reactive web client for tldr-pages
 - [diit/overtime-cli](https://github.com/diit/overtime-cli) - Easy time-overlap tables for remote teams.
 - [andOTP/WebDecrypt](https://github.com/andOTP/WebDecrypt) - Decryption for password-protected backups using JavaScript
 - [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup) - Git-integrated backup tool for macOS and Linux devs.
@@ -5909,7 +5944,6 @@
 - [CreateJS/EaselJS](https://github.com/CreateJS/EaselJS) - The Easel Javascript library provides a full, hierarchical display list, a core interaction model, and helper classes to make working with the HTML5 Canvas element much easier.
 - [CreateJS/SoundJS](https://github.com/CreateJS/SoundJS) - A Javascript library for working with Audio. It provides a consistent API for loading and playing audio on different browsers and devices. Currently supports WebAudio, HTML5 Audio, Cordova / PhoneGap,
 - [nypl-spacetime/nyc-historical-streets](https://github.com/nypl-spacetime/nyc-historical-streets) - Historical street Shapefiles for New York City
-- [nypl-spacetime/qgis-trace-tutorial](https://github.com/nypl-spacetime/qgis-trace-tutorial) - Tutorial: Tracing Historical Streets with QGIS
 - [nypl-spacetime/nypl-warper](https://github.com/nypl-spacetime/nypl-warper) - NYPL Map Warper
 - [nypl-spacetime/digital-collections-tab](https://github.com/nypl-spacetime/digital-collections-tab) - A photo from NYPL’s Digital Collections, every time you open a new tab!
 - [nypl-spacetime/trace-maps](https://github.com/nypl-spacetime/trace-maps) - Crowdsourced map tracing for brick-by-brick
@@ -6555,8 +6589,6 @@
 - [mjtognetti/pushpin-peer](https://github.com/mjtognetti/pushpin-peer) - A cloud peer for pushpin to keep data warm while your computer is sleeping.
 - [calvinmetcalf/leaflet.shapefile](https://github.com/calvinmetcalf/leaflet.shapefile) - Shapefile in Leaflet
 - [GeoTIFF/georaster-to-canvas](https://github.com/GeoTIFF/georaster-to-canvas) - Converts a GeoRaster into a Canvas
-- [GeoTIFF/geoblaze](https://github.com/GeoTIFF/geoblaze) - Blazing Fast JavaScript Raster Processing Engine
-- [GeoTIFF/geotiff.io](https://github.com/GeoTIFF/geotiff.io) - Static website for viewing and analyzing GeoTIFF's in the browser
 - [shapely/shapely](https://github.com/shapely/shapely) - Manipulation and analysis of geometric objects
 - [umap-project/umap](https://github.com/umap-project/umap) - uMap lets you create maps with OpenStreetMap layers in a minute and embed them in your site.
 - [solvi-ab/exif-js](https://github.com/solvi-ab/exif-js) - JavaScript library for reading EXIF image metadata
@@ -6619,7 +6651,6 @@
 - [GSA/digitalgov.gov](https://github.com/GSA/digitalgov.gov) - Digital.gov — Helping the government community deliver better digital services.
 - [eregs/regulations-site](https://github.com/eregs/regulations-site) - Web interface for viewing U.S. federal regulations and other regulatory information
 - [cisagov/dotgov-home](https://github.com/cisagov/dotgov-home) - Homepage for the .gov registry
-- [wavded/ogre](https://github.com/wavded/ogre) - ogr2ogr geojson-focused web client
 - [susielu/d3-annotation](https://github.com/susielu/d3-annotation) - Use d3-annotation with built-in annotation types, or extend it to make custom annotations. It is made for d3-v4 in SVG.
 - [amitp/mapgen2](https://github.com/amitp/mapgen2) - Map generator for games. Generates island maps with a focus on mountains, rivers, coastlines.
 - [redblobgames/mapgen2](https://github.com/redblobgames/mapgen2) - JavaScript version of mapgen2 polygon map generator algorithms
@@ -7007,22 +7038,17 @@
 - [windycom/API](https://github.com/windycom/API) - 🏄Windy API, or Windy Leaflet Plugin, let you put animated weather map into your website and enjoy rich ecosystem of Leaflet library.
 - [Leaflet/Leaflet.Editable](https://github.com/Leaflet/Leaflet.Editable) - Make geometries editable in Leaflet.
 - [SINTEF-9012/PruneCluster](https://github.com/SINTEF-9012/PruneCluster) - Fast and realtime marker clustering for Leaflet
-- [stefanocudini/leaflet-search](https://github.com/stefanocudini/leaflet-search) - Search stuff in a Leaflet map
 - [smeijer/leaflet-geosearch](https://github.com/smeijer/leaflet-geosearch) - A geocoding/address-lookup library supporting various api providers.
 - [Leaflet/Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster) - Marker Clustering plugin for Leaflet
-- [tannerjt/AGStoShapefile](https://github.com/tannerjt/AGStoShapefile) - Convert ArcGIS Server Dynamic Map Service to GeoJSON and Shapefile
 - [hallahan/LeafletPlayback](https://github.com/hallahan/LeafletPlayback) - This is a Leaflet plug-in that plays back points that have a time stamp synchronized to a clock.
 - [perliedman/leaflet-realtime](https://github.com/perliedman/leaflet-realtime) - Put realtime data on a Leaflet map
 - [skeate/Leaflet.timeline](https://github.com/skeate/Leaflet.timeline) - Display arbitrary GeoJSON on a map with a timeline slider and play button
-- [geoman-io/leaflet-geoman](https://github.com/geoman-io/leaflet-geoman) - 🍂🗺️ The most powerful leaflet plugin for drawing and editing geometry layers
 - [ustroetz/gimmeOSM](https://github.com/ustroetz/gimmeOSM) - Gives you OSM as GeoJSON based on the feature ID
 - [node-geojson/geojson-stream](https://github.com/node-geojson/geojson-stream) - Stream features into and out of GeoJSON objects and Feature Collections.
 - [node-geojson/openflights-geojson](https://github.com/node-geojson/openflights-geojson) - Download and reformat OpenFlights.org data into GeoJSON.
 - [geojson-xyz/geojson-xyz.github.io](https://github.com/geojson-xyz/geojson-xyz.github.io) - 
 - [geojson-xyz/geojson-xyz](https://github.com/geojson-xyz/geojson-xyz) - just get the geojson
-- [mbloch/mapshaper](https://github.com/mbloch/mapshaper) - Tools for editing Shapefile, GeoJSON, TopoJSON and CSV files
 - [Turfjs/awesome-turf](https://github.com/Turfjs/awesome-turf) - A collection of awesome projects in the turfjs ecosystem
-- [flopp/go-staticmaps](https://github.com/flopp/go-staticmaps) - A go (golang) library and command line tool to render static map images using OpenStreetMap tiles.
 - [ENT8R/blacklistr](https://github.com/ENT8R/blacklistr) - A website for visualizing country specific data
 - [streetcomplete/streetcomplete-mapstyle](https://github.com/streetcomplete/streetcomplete-mapstyle) - 🌎 Simple, minimalist yet modern map style
 - [tangrams/tangram-play](https://github.com/tangrams/tangram-play) - Text editor web app for Tangram scenes
@@ -7306,7 +7332,7 @@
 - [datadesk/copyboy](https://github.com/datadesk/copyboy) - Copyboy is our fork of GitHub's Campfire bot, hubot. He is aware of all Internet traditions.
 - [googleapis/google-api-php-client](https://github.com/googleapis/google-api-php-client) - A PHP client library for accessing Google APIs
 - [mapbox/geojson.io](https://github.com/mapbox/geojson.io) - A quick, simple tool for creating, viewing, and sharing spatial data
-- [dthpham/butterflow](https://github.com/dthpham/butterflow) - Make motion interpolated and fluid slow motion videos from the command line.
+- [dthpham/sminterpolate](https://github.com/dthpham/sminterpolate) - Make motion interpolated and fluid slow motion videos from the command line.
 - [focusconsulting/housing-insights](https://github.com/focusconsulting/housing-insights) - Bringing open data to affordable housing decision makers in Washington DC. A D3/Javascript based website to visualize data related to affordable housing in Washington DC. Data processing with Python.
 - [opensavannah/flood-map](https://github.com/opensavannah/flood-map) - A simple web map to visualize flood information on maps
 - [jlord/sheetsee-calendar](https://github.com/jlord/sheetsee-calendar) - Website with calendar of events from a Google Spreadsheet
@@ -7360,7 +7386,6 @@
 - [words/moby](https://github.com/words/moby) - :closed_book: The largest English-language thesaurus
 - [zeke/all-the-cities](https://github.com/zeke/all-the-cities) - 🌆 All the 138,398 cities of the world with a population of at least 1000 inhabitants, in a big JSON array.
 - [nodesocket/quote-stream](https://github.com/nodesocket/quote-stream) - Push JSON stock quotes in real-time over websockets.
-- [nvkelso/natural-earth-vector](https://github.com/nvkelso/natural-earth-vector) - A global, public domain map dataset available at three scales and featuring tightly integrated vector and raster data.
 - [weld-io/freenom-renewer](https://github.com/weld-io/freenom-renewer) - Node app that renews all your freenom domains about to expire
 - [Sefaria/Sefaria-Project](https://github.com/Sefaria/Sefaria-Project) - New Interfaces for Jewish Texts
 - [gregjacobs/Autolinker.js](https://github.com/gregjacobs/Autolinker.js) - Utility to Automatically Link URLs, Email Addresses, Phone Numbers, Twitter handles, and Hashtags in a given block of text/HTML
@@ -8486,7 +8511,7 @@
 - [xtrime-ru/TelegramRSS](https://github.com/xtrime-ru/TelegramRSS) - Convert telegram posts to RSS or json in amphp server
 - [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 - [webtorrent/bittorrent-tracker](https://github.com/webtorrent/bittorrent-tracker) - 🌊 Simple, robust, BitTorrent tracker (client & server) implementation
-- [koopjs/koop](https://github.com/koopjs/koop) - :crystal_ball: Transform, query, and download geospatial data on the web.
+- [koopjs/koop](https://github.com/koopjs/koop) - Transform, query, and download geospatial data on the web.
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 
 ## serverless 
@@ -8886,7 +8911,7 @@
 ## vim 
 
 - [alrra/dotfiles](https://github.com/alrra/dotfiles) - 💻 macOS / Ubuntu dotfiles
-- [ostera/dotfiles](https://github.com/ostera/dotfiles) - :floppy_disk: ~/.*
+- [leostera/dotfiles](https://github.com/leostera/dotfiles) - :floppy_disk: ~/.*
 - [mattn/vim-gist](https://github.com/mattn/vim-gist) - Vim plugin for Gist
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 
