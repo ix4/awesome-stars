@@ -4769,7 +4769,7 @@
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources
 - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
 - [datadesk/census-data-downloader](https://github.com/datadesk/census-data-downloader) - Download U.S. census data and reformat it for humans
-- [dthpham/butterflow](https://github.com/dthpham/butterflow) - Make motion interpolated and fluid slow motion videos from the command line.
+- [dthpham/sminterpolate](https://github.com/dthpham/sminterpolate) - Make motion interpolated and fluid slow motion videos from the command line.
 - [focusconsulting/housing-insights](https://github.com/focusconsulting/housing-insights) - Bringing open data to affordable housing decision makers in Washington DC. A D3/Javascript based website to visualize data related to affordable housing in Washington DC. Data processing with Python.
 - [DocNow/twarc](https://github.com/DocNow/twarc) - A command line tool (and Python library) for archiving Twitter JSON
 - [gwu-libraries/TweetSets](https://github.com/gwu-libraries/TweetSets) - Service for creating Twitter datasets for research and archiving.
@@ -5472,7 +5472,7 @@
 - [mathjax/MathJax-src](https://github.com/mathjax/MathJax-src) - MathJax source code for version 3 and beyond
 - [thlorenz/typo](https://github.com/thlorenz/typo) - ⌨️The platformer 10 finger typing game
 - [graphql-kit/graphql-voyager](https://github.com/graphql-kit/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
-- [critrange/floorplan-angular](https://github.com/critrange/floorplan-angular) - Prototype to draw floorplan of rooms. (Angular 13 + Fabric.js)
+- [andsilver/floorplan-angular](https://github.com/andsilver/floorplan-angular) - Prototype to draw floorplan of rooms. (Angular 13 + Fabric.js)
 - [probot/auth-routes](https://github.com/probot/auth-routes) - 🔀🔒 Helpful authentication routes for Node.js GitHub integrations
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
