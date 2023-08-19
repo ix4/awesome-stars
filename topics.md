@@ -3221,7 +3221,7 @@
 - [schmich/instascan](https://github.com/schmich/instascan) - HTML5 QR code scanner using your webcam
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
-- [corihudson/crossorigin.me](https://github.com/corihudson/crossorigin.me) - A CORS proxy for everyone.
+- [hyperobject/crossorigin.me](https://github.com/hyperobject/crossorigin.me) - A CORS proxy for everyone.
 - [select2/select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
 - [jvalen/pixel-art-react](https://github.com/jvalen/pixel-art-react) - Pixel art animation and drawing web app powered by React
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
