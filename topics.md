@@ -2423,7 +2423,7 @@
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [MapStory/mapstory](https://github.com/MapStory/mapstory) - MapStory is the free atlas of change that everyone can edit
 - [select2/select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
-- [openaddresses/openaddresses](https://github.com/openaddresses/openaddresses) - A repository of global open address data.
+- [openaddresses/openaddresses](https://github.com/openaddresses/openaddresses) - A global repository of open address data.
 - [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
@@ -3097,7 +3097,7 @@
 - [sindresorhus/is-online](https://github.com/sindresorhus/is-online) - Check if the internet connection is up
 - [mozilla-services/screenshots](https://github.com/mozilla-services/screenshots) - Firefox Screenshots: the best way to take screenshots on the web.
 - [staticallyio/statically](https://github.com/staticallyio/statically) - The CDN for developers.
-- [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
+- [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
 - [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify) - :closed_book: A minimal Markdown editor desktop app
 - [mike-zarandona/PrettyEmbed.js](https://github.com/mike-zarandona/PrettyEmbed.js) - Prettier embeds for your YouTubes - with nice options like high-res preview images, advanced customization of embed options, and optional FitVids support.
 - [mrdoob/frame.js](https://github.com/mrdoob/frame.js) - JavaScript Sequence Editor
@@ -5599,7 +5599,7 @@
 - [jamaps/city-guesser](https://github.com/jamaps/city-guesser) - a map-based quiz game
 - [jamaps/blueprint_maps](https://github.com/jamaps/blueprint_maps) - An alternate cartography for Google Maps
 - [kaazing/template-simple-chat-app](https://github.com/kaazing/template-simple-chat-app) - A simple customer/agent chat application
-- [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in a language-agnostic way. Set up once and forever.
+- [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably. Set up once and forever.
 - [lioneltay/onyamind](https://github.com/lioneltay/onyamind) - Simple note taking
 - [mmarcon/rmi.js](https://github.com/mmarcon/rmi.js) - Remote Method Invocation (RMI) for JavaScript
 - [Laverna/laverna](https://github.com/Laverna/laverna) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
