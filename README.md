@@ -643,7 +643,7 @@
 - [tpaschalis/gophersub](https://github.com/tpaschalis/gophersub) - (Rough, WIP) Go library and command-line utility to work with subtitle files.
 - [gitfu/manifesto](https://github.com/gitfu/manifesto) - Manifesto is an HLS tool for creating multiple variants, a master.m3u8 file, and converting 608 captions to segmented webvtt subtitles via ffmpeg.
 - [asticode/go-astisub](https://github.com/asticode/go-astisub) - Manipulate subtitles in GO (.srt, .ssa/.ass, .stl, .ttml, .vtt (webvtt), teletext, etc.)
-- [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in a language-agnostic way. Set up once and forever.
+- [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably. Set up once and forever.
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
@@ -2787,7 +2787,7 @@
 - [nicola/tubemaps](https://github.com/nicola/tubemaps) - :mountain_cableway: Browser, NodeJs library and command-line tool for handling tube data
 - [rrag/react-stockcharts](https://github.com/rrag/react-stockcharts) - Highly customizable stock charts with ReactJS and d3
 - [haya14busa/github-action-brandings](https://github.com/haya14busa/github-action-brandings) - GitHub Actions Branding Cheat Sheet
-- [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
+- [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
 - [amitmerchant1990/markdownify-web](https://github.com/amitmerchant1990/markdownify-web) - :orange_book: Web version of Markdownify app. (Not actively maintaining)
 - [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify) - :closed_book: A minimal Markdown editor desktop app
 - [davatron5000/Lettering.js](https://github.com/davatron5000/Lettering.js) - A lightweight, easy to use Javascript &lt;span&gt; injector for radical Web Typography
@@ -3349,7 +3349,7 @@
 - [square/crossfilter](https://github.com/square/crossfilter) - Fast n-dimensional filtering and grouping of records.
 - [andrewharvey/geojson-mesh](https://github.com/andrewharvey/geojson-mesh) - Command line tool to extract borders of GeoJSON Polygons into a non-overlapping set of LineString's
 - [andrewharvey/geojson-polygon-labels](https://github.com/andrewharvey/geojson-polygon-labels) - Command line tool to generate point labels from GeoJSON polygons
-- [openaddresses/openaddresses](https://github.com/openaddresses/openaddresses) - A repository of global open address data.
+- [openaddresses/openaddresses](https://github.com/openaddresses/openaddresses) - A global repository of open address data.
 - [mlevans/leaflet-hash](https://github.com/mlevans/leaflet-hash) - Add URL hashes to web pages with Leaflet maps.
 - [stamen/bluegreenway](https://github.com/stamen/bluegreenway) - Maps and events along SF's Blue Greenway
 - [stamen/open-redistricting](https://github.com/stamen/open-redistricting) - A collaborative, open legislative redistricting tool, built atop GitHub.
