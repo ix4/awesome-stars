@@ -6446,7 +6446,6 @@
 - [mermaidjs/mermaidjs.github.io](https://github.com/mermaidjs/mermaidjs.github.io) - Documentation has been moved to docs in https://github.com/mermaid-js/mermaid
 - [mozilla-mobile/firefox-tv](https://github.com/mozilla-mobile/firefox-tv) - Firefox for Amazon's Fire TV
 - [badboy/firefox-tv](https://github.com/badboy/firefox-tv) - Firefox for Amazon's Fire TV
-- [wappalyzer/wappalyzer](https://github.com/wappalyzer/wappalyzer) - Identify technology on websites.
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [ampproject/amp-readiness](https://github.com/ampproject/amp-readiness) - AMP Readiness is a chrome extension allows you to quickly see what technologies used on the page are AMP compatible.
 - [MehediH/Tweeten](https://github.com/MehediH/Tweeten) - An intuitive and powerful Twitter experience built for those who get real work done.
