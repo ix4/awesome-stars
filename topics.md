@@ -2658,7 +2658,7 @@
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [lrusso/bannerGenerator](https://github.com/lrusso/bannerGenerator) - Image Merger, Image Resizer, Image Distortion, Business Card, Radio Interview, Recruiting, Sharer OG Image, MacBook, Notebook, Play Store, GitHub, App with Text, Slides for Videos, Android and iPhone 
-- [CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework for Mac and iOS
+- [CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework for macOS, iOS, tvOS and watchOS
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [OWASP/owasp-mastg](https://github.com/OWASP/owasp-mastg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
 - [CartoDB/mobile-sdk](https://github.com/CartoDB/mobile-sdk) - CARTO Mobile SDK core project
@@ -3798,7 +3798,7 @@
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
-- [CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework for Mac and iOS
+- [CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework for macOS, iOS, tvOS and watchOS
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [keeferrourke/la-capitaine-icon-theme](https://github.com/keeferrourke/la-capitaine-icon-theme) - La Capitaine is an icon pack designed to integrate with most desktop environments. The set of icons takes inspiration from the latest iterations of macOS and Google's Material Design.
@@ -4281,7 +4281,7 @@
 ## objective-c 
 
 - [apache/cordova-plugin-battery-status](https://github.com/apache/cordova-plugin-battery-status) - Apache Cordova Plugin battery-status
-- [CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework for Mac and iOS
+- [CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework for macOS, iOS, tvOS and watchOS
 - [CartoDB/mobile-sdk](https://github.com/CartoDB/mobile-sdk) - CARTO Mobile SDK core project
 - [mapbox/mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) - Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL
 
@@ -8618,7 +8618,7 @@
 ## swift 
 
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place. Cloud is now available in public beta. 🌩
-- [CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework for Mac and iOS
+- [CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework for macOS, iOS, tvOS and watchOS
 - [Carthage/Carthage](https://github.com/Carthage/Carthage) - A simple, decentralized dependency manager for Cocoa
 - [mapbox/mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) - Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL
 - [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
