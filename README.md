@@ -2645,8 +2645,8 @@
 - [GoogleChromeLabs/devwebfeed](https://github.com/GoogleChromeLabs/devwebfeed) - Firehose of team++ resources
 - [speedtracker/speedtracker](https://github.com/speedtracker/speedtracker) - 📉 Visualisation layer and data store for SpeedTracker
 - [brackets-beautify/brackets-beautify](https://github.com/brackets-beautify/brackets-beautify) - Beautify HTML, CSS, and Javascript in Adobe Brackets
-- [codewithkristian/bytesized](https://github.com/codewithkristian/bytesized) - 🧠 The brains of the whole operation
-- [codewithkristian/workers-qr-code-generator](https://github.com/codewithkristian/workers-qr-code-generator) - 
+- [kristianfreeman/bytesized](https://github.com/kristianfreeman/bytesized) - 🧠 The brains of the whole operation
+- [kristianfreeman/workers-qr-code-generator](https://github.com/kristianfreeman/workers-qr-code-generator) - 
 - [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
 - [robb0wen/tornis](https://github.com/robb0wen/tornis) - Tornis helps you watch and respond to changes in your browser's viewport 🌲
 - [kolber/audiojs](https://github.com/kolber/audiojs) - A cross-browser javascript wrapper for the html5 audio tag
@@ -3980,7 +3980,7 @@
 - [usdoj/foia-api](https://github.com/usdoj/foia-api) - Back-end for the National FOIA Portal
 - [droiter/openwrt-on-android](https://github.com/droiter/openwrt-on-android) - Openwrt on Android
 - [ElliottLandsborough/dog-ceo-api](https://github.com/ElliottLandsborough/dog-ceo-api) - The API hosted at dog.ceo
-- [phpMyDomo/phpMyDomo](https://github.com/phpMyDomo/phpMyDomo) - The ultimate Domotic web remote for the rest of us
+- [phpMyDomo/phpMyDomo](https://github.com/phpMyDomo/phpMyDomo) - The ultimate Domotic web remote for the rest of us. A web  frontend for Home automation software like Domoticz, OpenHab, Domotiga, etc...
 - [captioning/captioning](https://github.com/captioning/captioning) - A collection of tools made to help you create and edit subtitles in different formats (Subrip, WebVTT, Substation Alpha...)
 - [danog/MadelineProto](https://github.com/danog/MadelineProto) - Async PHP client API for the telegram MTProto protocol
 - [irazasyed/telegram-bot-sdk](https://github.com/irazasyed/telegram-bot-sdk) - 🤖 Telegram Bot API PHP SDK. Lets you build Telegram Bots easily! Supports Laravel out of the box.
@@ -4534,7 +4534,7 @@
 - [LibraryOfCongress/concordia](https://github.com/LibraryOfCongress/concordia) - Crowdsourcing platform for full text transcription and tagging. https://crowd.loc.gov
 - [LibraryOfCongress/chronam](https://github.com/LibraryOfCongress/chronam) - This software project is no longer being actively developed at the Library of Congress. Consider using the Open-ONI (https://github.com/open-oni) fork of the chronam software. Project mailing list: ht
 - [algolia/docsearch-scraper](https://github.com/algolia/docsearch-scraper) - DocSearch - Scraper
-- [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is an enhanced Python binding for MuPDF – a lightweight PDF, XPS, and E-book viewer, renderer, and toolkit.
+- [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
 - [wowchemy/hugo-academic-cli](https://github.com/wowchemy/hugo-academic-cli) - 📚 Import academic publications from Bibtex to your Markdown website. 将Bibtex转换为Markdown网站
 - [ekalinin/nodeenv](https://github.com/ekalinin/nodeenv) - Virtual environment for Node.js & integrator with virtualenv
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
