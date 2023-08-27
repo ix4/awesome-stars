@@ -1258,6 +1258,7 @@
 - [MiteshPuthran/Speech-Emotion-Analyzer](https://github.com/MiteshPuthran/Speech-Emotion-Analyzer) - The neural network model is capable of detecting five different male/female emotions from audio speeches. (Deep Learning, NLP, Python)
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
+- [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
 - [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 创建在线课程，学术简历或初创网站。#OpenScience
 - [Chicago/food-inspections-evaluation](https://github.com/Chicago/food-inspections-evaluation) - This repository contains the code to generate predictions of critical violations at food establishments in Chicago. It also contains the results of an evaluation of the effectiveness of those predicti
 - [plotly/dash-oil-and-gas-demo](https://github.com/plotly/dash-oil-and-gas-demo) - Dash Demo App - New York Oil and Gas
@@ -1823,7 +1824,7 @@
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [ycw/Babylon.Font](https://github.com/ycw/Babylon.Font) - Generate text mesh for BabylonJS using WASM, written in AssemblyScript.
 - [uswds/public-sans](https://github.com/uswds/public-sans) - A strong, neutral, principles-driven, open source typeface for text or display
-- [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is an enhanced Python binding for MuPDF – a lightweight PDF, XPS, and E-book viewer, renderer, and toolkit.
+- [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
 - [propublica/weepeople](https://github.com/propublica/weepeople) - A typeface of people sillhouettes, to make it easy to build web graphics featuring little people instead of dots.
 - [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
 - [Mottie/input-password-bullet](https://github.com/Mottie/input-password-bullet) - How to replace the input password bullet in most browsers
@@ -1868,7 +1869,7 @@
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
-- [phpMyDomo/phpMyDomo](https://github.com/phpMyDomo/phpMyDomo) - The ultimate Domotic web remote for the rest of us
+- [phpMyDomo/phpMyDomo](https://github.com/phpMyDomo/phpMyDomo) - The ultimate Domotic web remote for the rest of us. A web  frontend for Home automation software like Domoticz, OpenHab, Domotiga, etc...
 - [twbs/rfs](https://github.com/twbs/rfs) - ✩ Automates responsive resizing ✩
 - [javierbyte/cohesive-colors](https://github.com/javierbyte/cohesive-colors) - Tool that help you to create more cohesive color schemes. Add a tint to your existing colors.
 - [javierbyte/img2css](https://github.com/javierbyte/img2css) - Convert any image to pure CSS. Recreates images using only box-shadows.
@@ -2687,7 +2688,7 @@
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [pkozul/ha-floorplan](https://github.com/pkozul/ha-floorplan) - Floorplan for Home Assistant
-- [phpMyDomo/phpMyDomo](https://github.com/phpMyDomo/phpMyDomo) - The ultimate Domotic web remote for the rest of us
+- [phpMyDomo/phpMyDomo](https://github.com/phpMyDomo/phpMyDomo) - The ultimate Domotic web remote for the rest of us. A web  frontend for Home automation software like Domoticz, OpenHab, Domotiga, etc...
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 - [casenjo/home-assistant-config](https://github.com/casenjo/home-assistant-config) - Home Assistant config setup using Docker, includes Zwavejs2Mqtt and Mosquitto
@@ -6332,8 +6333,8 @@
 - [mozilla/mozjpeg](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder.
 - [pyswmm/Stormwater-Management-Model](https://github.com/pyswmm/Stormwater-Management-Model) - Open Water Analytics Stormwater Management Model repository
 - [algolia/autocomplete](https://github.com/algolia/autocomplete) - 🔮 Fast and full-featured autocomplete library
-- [codewithkristian/bytesized](https://github.com/codewithkristian/bytesized) - 🧠 The brains of the whole operation
-- [codewithkristian/workers-qr-code-generator](https://github.com/codewithkristian/workers-qr-code-generator) - 
+- [kristianfreeman/bytesized](https://github.com/kristianfreeman/bytesized) - 🧠 The brains of the whole operation
+- [kristianfreeman/workers-qr-code-generator](https://github.com/kristianfreeman/workers-qr-code-generator) - 
 - [shareaholic/shareaholic-api-docs](https://github.com/shareaholic/shareaholic-api-docs) - Shareaholic Public API & SDK documentation
 - [ArtifexSoftware/mupdf](https://github.com/ArtifexSoftware/mupdf) - mupdf mirror
 - [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
@@ -7507,7 +7508,7 @@
 - [GaneshKandu/Palette](https://github.com/GaneshKandu/Palette) - :art: Palette is a freehand CMS which allows to construct websites directly in a web-browser. It uses flat files for storage and provides an intuitive GUI
 - [xpressengine/xpressengine](https://github.com/xpressengine/xpressengine) - PHP Open Source CMS
 - [ElliottLandsborough/dog-ceo-api](https://github.com/ElliottLandsborough/dog-ceo-api) - The API hosted at dog.ceo
-- [phpMyDomo/phpMyDomo](https://github.com/phpMyDomo/phpMyDomo) - The ultimate Domotic web remote for the rest of us
+- [phpMyDomo/phpMyDomo](https://github.com/phpMyDomo/phpMyDomo) - The ultimate Domotic web remote for the rest of us. A web  frontend for Home automation software like Domoticz, OpenHab, Domotiga, etc...
 - [danog/MadelineProto](https://github.com/danog/MadelineProto) - Async PHP client API for the telegram MTProto protocol
 - [irazasyed/telegram-bot-sdk](https://github.com/irazasyed/telegram-bot-sdk) - 🤖 Telegram Bot API PHP SDK. Lets you build Telegram Bots easily! Supports Laravel out of the box.
 - [php-telegram-bot/core](https://github.com/php-telegram-bot/core) - PHP Telegram Bot based on the official Telegram Bot API
@@ -7764,7 +7765,7 @@
 - [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
 - [ThoughtfulDev/SupergirlOnCrypt](https://github.com/ThoughtfulDev/SupergirlOnCrypt) - CryptoTrojan in Python (For educational purpose ONLY)
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
-- [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is an enhanced Python binding for MuPDF – a lightweight PDF, XPS, and E-book viewer, renderer, and toolkit.
+- [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
 - [ekalinin/nodeenv](https://github.com/ekalinin/nodeenv) - Virtual environment for Node.js & integrator with virtualenv
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy) - A full fledged GUI integration for the award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
@@ -9054,7 +9055,7 @@
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [lrusso/SQLiteOnline](https://github.com/lrusso/SQLiteOnline) - SQLite Online developed in JavaScript
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
-- [phpMyDomo/phpMyDomo](https://github.com/phpMyDomo/phpMyDomo) - The ultimate Domotic web remote for the rest of us
+- [phpMyDomo/phpMyDomo](https://github.com/phpMyDomo/phpMyDomo) - The ultimate Domotic web remote for the rest of us. A web  frontend for Home automation software like Domoticz, OpenHab, Domotiga, etc...
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [gitname/solar-ui](https://github.com/gitname/solar-ui) - Example Web UI for a Solar Panel System Management Dashboard (built using React v16 & Redux)
 - [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
