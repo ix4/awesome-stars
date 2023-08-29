@@ -1096,7 +1096,6 @@
 - [GSA/digitalgov.gov](https://github.com/GSA/digitalgov.gov) - Digital.gov — Helping the government community deliver better digital services.
 - [wavded/ogre](https://github.com/wavded/ogre) - ogr2ogr geojson-focused web client
 - [Chicago/food-inspections-evaluation](https://github.com/Chicago/food-inspections-evaluation) - This repository contains the code to generate predictions of critical violations at food establishments in Chicago. It also contains the results of an evaluation of the effectiveness of those predicti
-- [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [CloudCannon/justice-jekyll-template](https://github.com/CloudCannon/justice-jekyll-template) - :office: Law firm themed business template for Jekyll
 - [Norkart/Leaflet-MiniMap](https://github.com/Norkart/Leaflet-MiniMap) - A minimap control plugin for Leaflet
 - [bmcbride/mhlc](https://github.com/bmcbride/mhlc) - Mohawk Hudson Land Conservancy Mapping App
@@ -1447,7 +1446,7 @@
 - [Syncthetic/MorseCode](https://github.com/Syncthetic/MorseCode) - JavaScript Library to encode and decode morse code.
 - [cowlicks/privacypossum](https://github.com/cowlicks/privacypossum) - Privacy Possum makes tracking you less profitable
 - [CesiumLabs/morsecode.js](https://github.com/CesiumLabs/morsecode.js) - Simple package to encode/decode morse code.
-- [skdhg/TikTok-Search](https://github.com/skdhg/TikTok-Search) - Simple module to fetch data from TikTok.
+- [twlite/TikTok-Search](https://github.com/twlite/TikTok-Search) - Simple module to fetch data from TikTok.
 - [cbdevnet/ipmagnet](https://github.com/cbdevnet/ipmagnet) - Check which IP adresses your BitTorrent client is handing out to trackers
 - [gielcobben/caption](https://github.com/gielcobben/caption) - Get Caption, start watching.
 - [googlesamples/google-photos](https://github.com/googlesamples/google-photos) - Samples for the Google Photos Library API 📸
@@ -2626,7 +2625,7 @@
 - [jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://g
 - [CSAILVision/LabelMeAnnotationTool](https://github.com/CSAILVision/LabelMeAnnotationTool) - Source code for the LabelMe annotation tool.
 - [reactjs/translations.react.dev](https://github.com/reactjs/translations.react.dev) - Nexus of resources and tools for translating the React docs.
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 - [weareoutman/markdoc](https://github.com/weareoutman/markdoc) - An online markdown editor
 - [weareoutman/clockpicker](https://github.com/weareoutman/clockpicker) - A clock-style timepicker for Bootstrap (or jQuery). Sorry but no longer maintained.
 - [objectivehtml/FlipClock](https://github.com/objectivehtml/FlipClock) - 
@@ -3668,7 +3667,6 @@
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
 - [jkrejcha/AdmiraList](https://github.com/jkrejcha/AdmiraList) - A text-based list of 1000+ Admiral domains and IP addresses
-- [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [kaytat/exiftool-scripts-for-takeout](https://github.com/kaytat/exiftool-scripts-for-takeout) - Exiftool scripts for processing photos from Google Takeout
 - [atc1441/DaFlasherFiles](https://github.com/atc1441/DaFlasherFiles) - Additional files for the DaFlasher App and the ATCwatch Firmware for the P8 Smartwatch
 - [slacka/WoeUSB](https://github.com/slacka/WoeUSB) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
@@ -4044,7 +4042,7 @@
 - [allanlaal/sunrise-calendar-feed](https://github.com/allanlaal/sunrise-calendar-feed) - simple! sunset-sunrise VCALENDAR calendar generator to be used in Google Calendar, your phone and elsewhere
 - [chrisblakley/Daylight-Calendar-ICS](https://github.com/chrisblakley/Daylight-Calendar-ICS) - Daylight Calendar is a dynamically generated .ics calendar that you can host and subscribe to in Google Calendar, iCal, or other calendar software.
 - [minube/solar-position](https://github.com/minube/solar-position) - 
-- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
+- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [googleapis/google-api-php-client](https://github.com/googleapis/google-api-php-client) - A PHP client library for accessing Google APIs
 - [simplepie/feed-locator](https://github.com/simplepie/feed-locator) - An ultra-liberal feed locator.
 - [willwashburn/mushroom](https://github.com/willwashburn/mushroom) - :mushroom: expand links to their final destination
@@ -4578,6 +4576,7 @@
 - [datamade/probablepeople](https://github.com/datamade/probablepeople) - :family: a python library for parsing unstructured western names into name components.
 - [openstates/openstates-scrapers](https://github.com/openstates/openstates-scrapers) - source for Open States scrapers
 - [harvard-lil/webrecorder](https://github.com/harvard-lil/webrecorder) - Web Archiving For All!
+- [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [JoshData/crs-reports-website](https://github.com/JoshData/crs-reports-website) - The build process for EveryCRSReport.com.
 - [adelevie/crs-reports-website](https://github.com/adelevie/crs-reports-website) - The build process for EveryCRSReport.com.
 - [MuckRock/API-examples](https://github.com/MuckRock/API-examples) - A collection of scripts using the MuckRock API.
