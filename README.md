@@ -3667,6 +3667,7 @@
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
 - [jkrejcha/AdmiraList](https://github.com/jkrejcha/AdmiraList) - A text-based list of 1000+ Admiral domains and IP addresses
+- [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [kaytat/exiftool-scripts-for-takeout](https://github.com/kaytat/exiftool-scripts-for-takeout) - Exiftool scripts for processing photos from Google Takeout
 - [atc1441/DaFlasherFiles](https://github.com/atc1441/DaFlasherFiles) - Additional files for the DaFlasher App and the ATCwatch Firmware for the P8 Smartwatch
 - [slacka/WoeUSB](https://github.com/slacka/WoeUSB) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
