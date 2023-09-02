@@ -1060,7 +1060,6 @@
 - [expandjs/xp-starter-kit](https://github.com/expandjs/xp-starter-kit) - A starting point for expand.js based web applications
 - [harvard-lil/alter-space](https://github.com/harvard-lil/alter-space) - An immersive library experience that gives visitors control over light, color, sound, and space.
 - [davesantos/tumblr-boilerplate](https://github.com/davesantos/tumblr-boilerplate) - :zap: A true bare bones Tumblr theme for a quick jump-start
-- [tumblr/tumblr.js](https://github.com/tumblr/tumblr.js) - JavaScript client for the Tumblr API
 - [Yale-LILY/TutorialBank](https://github.com/Yale-LILY/TutorialBank) - 
 - [mermaidjs/mermaidjs.github.io](https://github.com/mermaidjs/mermaidjs.github.io) - Documentation has been moved to docs in https://github.com/mermaid-js/mermaid
 - [badboy/whatrustisit](https://github.com/badboy/whatrustisit) - What Rust is it?
@@ -1775,6 +1774,7 @@
 - [othree/smartypants.js](https://github.com/othree/smartypants.js) - JavaScript port of SmartyPants.pl
 - [Flexberry/Leaflet.Export](https://github.com/Flexberry/Leaflet.Export) - Leaflet.Export support additional methods for export, download and print maps
 - [wavedrom/wavedrom.github.io](https://github.com/wavedrom/wavedrom.github.io) - Digital timing diagram editor
+- [shd101wyy/mume](https://github.com/shd101wyy/mume) - Powerful markdown tool
 - [markdown-it/markdown-it-footnote](https://github.com/markdown-it/markdown-it-footnote) - Footnotes plugin for markdown-it markdown parser
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [guess-js/guess-js.github.io](https://github.com/guess-js/guess-js.github.io) - The website of Guess.js
@@ -2706,6 +2706,7 @@
 - [LinkedInAttic/hopscotch](https://github.com/LinkedInAttic/hopscotch) - A framework to make it easy for developers to add product tours to their pages.
 - [linkedin/linkedin.github.com](https://github.com/linkedin/linkedin.github.com) - Listing of all our public GitHub projects.
 - [IdentityModel/oidc-client-js](https://github.com/IdentityModel/oidc-client-js) - OpenID Connect (OIDC) and OAuth2 protocol support for browser-based JavaScript applications
+- [tumblr/tumblr.js](https://github.com/tumblr/tumblr.js) - JavaScript client for the Tumblr API
 - [kiali/kiali.io](https://github.com/kiali/kiali.io) - Source code for www.kiali.io
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [ampproject/amp-readiness](https://github.com/ampproject/amp-readiness) - AMP Readiness is a chrome extension allows you to quickly see what technologies used on the page are AMP compatible.
@@ -4114,7 +4115,7 @@
 - [fernzi/gedit-autosave](https://github.com/fernzi/gedit-autosave) - Gedit automatically saves as you type (and when the window is unfocused)
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
 - [MattTW/BlinkMonitorProtocol](https://github.com/MattTW/BlinkMonitorProtocol) - Unofficial documentation for the Blink Wire-Free HD Home Monitoring & Alert System
-- [iam-py-test/uBlock-combo](https://github.com/iam-py-test/uBlock-combo) - A filter list complied out of other major lists to fight malware, ads, scams, and trackers in uBlock Origin
+- [iam-py-test/uBlock-combo](https://github.com/iam-py-test/uBlock-combo) - A filter list complied out of other lists to fight malware, ads, scams, and trackers in uBlock Origin
 - [tomellericcardo/EVIL-ESP](https://github.com/tomellericcardo/EVIL-ESP) - A super portable evil device, based on the ESP8266 board, running Micropython and equipped with a single button and a small OLED display
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [everythingishacked/Truthsayer](https://github.com/everythingishacked/Truthsayer) - Remote lie detector and heart rate monitor
@@ -5410,7 +5411,6 @@
 - [hotwired/stimulus](https://github.com/hotwired/stimulus) - A modest JavaScript framework for the HTML you already have
 - [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
 - [CMSgov/design-system](https://github.com/CMSgov/design-system) - Open source design and front-end development resources for creating Section 508 compliant, responsive, and consistent websites.
-- [shd101wyy/mume](https://github.com/shd101wyy/mume) - Powerful markdown tool
 - [guess-js/guess](https://github.com/guess-js/guess) - 🔮 Libraries & tools for enabling Machine Learning driven user-experiences on the web
 - [getmoro/moro](https://github.com/getmoro/moro) - Simple CLI tool for tracking work hours. Note: Heavy changes are happening in this repository. Docs might not be up to date, and things might be broken. Only the released NPM version is stable.
 - [julianoappelklein/hokus](https://github.com/julianoappelklein/hokus) - A modern CMS for Hugo
