@@ -4378,7 +4378,7 @@
 - [inconvergent/tree](https://github.com/inconvergent/tree) - An algorithm that draws procedurally generated trees.
 - [fangpenlin/bugbuzz-python](https://github.com/fangpenlin/bugbuzz-python) - Fall in love with debugging
 - [lucyparsons/cpdsearchwarrants](https://github.com/lucyparsons/cpdsearchwarrants) - Five years of executed search warrants by Chicago Police (2012-2017)
-- [awesomedata/apd-core](https://github.com/awesomedata/apd-core) - Core repo for
+- [awesomedata/apd-core](https://github.com/awesomedata/apd-core) - Core meta for awesome-public-datasets. Contribute new data here!
 - [MuckRock/geocode](https://github.com/MuckRock/geocode) - Geocode agency addresses
 - [MuckRock/cpuprofile](https://github.com/MuckRock/cpuprofile) - A simple Python package to profile CPU speed by computing the Fibonacci sequence
 - [MuckRock/muckrock](https://github.com/MuckRock/muckrock) - MuckRock's source code - Please report bugs, issues and feature requests to info@muckrock.com
