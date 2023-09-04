@@ -1247,7 +1247,7 @@
 - [github/covid19-dashboard](https://github.com/github/covid19-dashboard) - A site that displays up to date COVID-19 stats, powered by fastpages.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
-- [awesomedata/apd-core](https://github.com/awesomedata/apd-core) - Core repo for
+- [awesomedata/apd-core](https://github.com/awesomedata/apd-core) - Core meta for awesome-public-datasets. Contribute new data here!
 - [CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [benjaminmbrown/real-time-data-viz-d3-crossfilter-websocket-tutorial](https://github.com/benjaminmbrown/real-time-data-viz-d3-crossfilter-websocket-tutorial) - Tutorial on real-time data visualization. Python websocket server & d3.js + crossfilter.js frontend
@@ -4291,7 +4291,7 @@
 - [CDCgov/opencdc](https://github.com/CDCgov/opencdc) - This is the repository for the openCDC web site. Entire site is generated from data files describing CDC Open Technology types for data, api, code, and events. All CDC programs are welcome to submit p
 - [Chicago/RSocrata](https://github.com/Chicago/RSocrata) - Provides easier interaction with Socrata open data portals http://dev.socrata.com. Users can provide a 'Socrata' data set resource URL, or a 'Socrata' Open Data API (SoDA) web query, or a 'Socrata' "h
 - [GetDKAN/dkan](https://github.com/GetDKAN/dkan) - DKAN Open Data Portal
-- [awesomedata/apd-core](https://github.com/awesomedata/apd-core) - Core repo for
+- [awesomedata/apd-core](https://github.com/awesomedata/apd-core) - Core meta for awesome-public-datasets. Contribute new data here!
 - [okfn/opendefinition](https://github.com/okfn/opendefinition) - Open Definition source
 - [codyogden/killedbygoogle](https://github.com/codyogden/killedbygoogle) - Part guillotine, part graveyard for Google's doomed apps, services, and hardware.
 - [common-voice/common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
