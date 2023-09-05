@@ -3852,7 +3852,7 @@
 - [pandoc/pandoc-action-example](https://github.com/pandoc/pandoc-action-example) - using the pandoc document converter on GitHub Actions
 - [jez/pandoc-starter](https://github.com/jez/pandoc-starter) - 📄 My pandoc markdown templates and makefiles
 - [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
-- [shd101wyy/mume](https://github.com/shd101wyy/mume) - Powerful markdown tool
+- [shd101wyy/crossnote](https://github.com/shd101wyy/crossnote) - Powerful markdown tool
 - [visit1985/mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
 - [mattcone/markdown-guide](https://github.com/mattcone/markdown-guide) - The comprehensive Markdown reference guide.
 - [mplewis/csvtomd](https://github.com/mplewis/csvtomd) - 📝📊 Convert your CSV files into Markdown tables.
@@ -8872,6 +8872,7 @@
 - [openplayerjs/openplayerjs](https://github.com/openplayerjs/openplayerjs) - Lightweight HTML5 video/audio player with smooth controls and ability to play VAST/VPAID/VMAP ads
 - [guoyunhe/rabbit-lyrics](https://github.com/guoyunhe/rabbit-lyrics) - JavaScript audio and timed lyrics synchronizer.
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
+- [sakihet/textrator](https://github.com/sakihet/textrator) - Text image generator on HTML canvas
 - [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
 - [justadudewhohacks/face-recognition.js](https://github.com/justadudewhohacks/face-recognition.js) - Simple Node.js package for robust face detection and face recognition. JavaScript and TypeScript API.
 - [postlight/secretmsg](https://github.com/postlight/secretmsg) - 🕵 Encrypt messages for easy sharing
@@ -8991,7 +8992,7 @@
 - [harvard-lil/alter-space](https://github.com/harvard-lil/alter-space) - An immersive library experience that gives visitors control over light, color, sound, and space.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [m1guelpf/send-to-things](https://github.com/m1guelpf/send-to-things) - A PWA to add tasks to Things from pretty much anywhere
-- [sakihet/textrator](https://github.com/sakihet/textrator) - A text image generator
+- [sakihet/textrator](https://github.com/sakihet/textrator) - Text image generator on HTML canvas
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
 - [LucasLeandro1204/vue-content-loading](https://github.com/LucasLeandro1204/vue-content-loading) - Vue component to easily build (or use presets) SVG loading cards Facebook like.
