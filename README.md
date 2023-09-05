@@ -159,6 +159,7 @@
 - [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your terminal from anywhere via the web.
 - [angt/glorytun](https://github.com/angt/glorytun) - Multipath UDP tunnel
+- [zhaojh329/oui](https://github.com/zhaojh329/oui) - 🐛  A framework used to develop Web interface for OpenWrt. Use Lua-eco + Vue3 + Vite + Naive-ui.
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [Bodmer/TFT_eSPI](https://github.com/Bodmer/TFT_eSPI) - Arduino and PlatformIO IDE compatible TFT library optimised for the Raspberry Pi Pico (RP2040), STM32, ESP8266 and ESP32 that supports different driver chips
 - [lewisxhe/esp32-camera-series](https://github.com/lewisxhe/esp32-camera-series) - 🔰 Compatible with all TTGO camera products
@@ -1484,7 +1485,6 @@
 - [nteract/semiotic](https://github.com/nteract/semiotic) - A data visualization framework combining React & D3
 - [susielu/d3-legend](https://github.com/susielu/d3-legend) - A reusable d3 legend component.
 - [SmartThingsCommunity/generator-smartthings](https://github.com/SmartThingsCommunity/generator-smartthings) - Yeoman generator to bootstrap a SmartThings Cloud SDK-based app
-- [zhaojh329/oui](https://github.com/zhaojh329/oui) - 🐛  A framework used to develop Web interface for OpenWrt. Use Lua-eco + Vue3 + Vite + Naive-ui.
 - [shadowsocks/shadowsocks-manager](https://github.com/shadowsocks/shadowsocks-manager) - A shadowsocks manager tool for multi user and traffic control.
 - [VincentChanX/shadowsocks-over-websocket](https://github.com/VincentChanX/shadowsocks-over-websocket) - 免费使用 Heroku 部署 shadowsocks
 - [neherlab/covid19_scenarios](https://github.com/neherlab/covid19_scenarios) - Models of COVID-19 outbreak trajectories and hospital demand
@@ -1774,7 +1774,7 @@
 - [othree/smartypants.js](https://github.com/othree/smartypants.js) - JavaScript port of SmartyPants.pl
 - [Flexberry/Leaflet.Export](https://github.com/Flexberry/Leaflet.Export) - Leaflet.Export support additional methods for export, download and print maps
 - [wavedrom/wavedrom.github.io](https://github.com/wavedrom/wavedrom.github.io) - Digital timing diagram editor
-- [shd101wyy/mume](https://github.com/shd101wyy/mume) - Powerful markdown tool
+- [shd101wyy/crossnote](https://github.com/shd101wyy/crossnote) - Powerful markdown tool
 - [markdown-it/markdown-it-footnote](https://github.com/markdown-it/markdown-it-footnote) - Footnotes plugin for markdown-it markdown parser
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [guess-js/guess-js.github.io](https://github.com/guess-js/guess-js.github.io) - The website of Guess.js
@@ -5744,7 +5744,7 @@
 - [fightforthefuture/fftf-starter-template](https://github.com/fightforthefuture/fftf-starter-template) - Nuxt 2 starter site for campaigns
 - [fightforthefuture/defendcrypto.org](https://github.com/fightforthefuture/defendcrypto.org) - 
 - [fengyuanchen/photo-editor](https://github.com/fengyuanchen/photo-editor) - A simple photo editing application.
-- [sakihet/textrator](https://github.com/sakihet/textrator) - A text image generator
+- [sakihet/textrator](https://github.com/sakihet/textrator) - Text image generator on HTML canvas
 - [LucasLeandro1204/vue-content-loading](https://github.com/LucasLeandro1204/vue-content-loading) - Vue component to easily build (or use presets) SVG loading cards Facebook like.
 - [CityOfPhiladelphia/phila-vue-mapping](https://github.com/CityOfPhiladelphia/phila-vue-mapping) - a library of vue components used by mapping applications
 - [etewiah/pwb-admin-vuetify](https://github.com/etewiah/pwb-admin-vuetify) - New admin interface for PropertyWebBuilder
