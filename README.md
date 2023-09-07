@@ -795,6 +795,7 @@
 - [presidential-innovation-fellows/pif-website](https://github.com/presidential-innovation-fellows/pif-website) - PIF website, jekyll flavored
 - [US-CBP/cbp-style-guide](https://github.com/US-CBP/cbp-style-guide) - The CBP Style Guide to compliment the CBP Theme.  The style guide describes CBP theme components and patterns and how to use them.
 - [ocaml/v2.ocaml.org](https://github.com/ocaml/v2.ocaml.org) - Implementation of the ocaml.org website.
+- [todogroup/todogroup.org](https://github.com/todogroup/todogroup.org) - Official TODO Website that containts TODO Guides, OSPO use cases and more resources to advance in the OSPO journey
 - [highsource/confluence-to-markdown-converter](https://github.com/highsource/confluence-to-markdown-converter) - Converts the Confluence storage format to Markdown format.
 - [jasmine/jasmine.github.io](https://github.com/jasmine/jasmine.github.io) - Source for Jasmine's documentation
 - [UNSCEB-HLCM/unsceb-hlcm.github.io](https://github.com/UNSCEB-HLCM/unsceb-hlcm.github.io) - Akoma Ntoso Guidelines
@@ -813,6 +814,7 @@
 - [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
 - [cfpb/source-code-policy](https://github.com/cfpb/source-code-policy) - The CFPB's official Source Code Policy.
+- [alphagov/govuk-developer-docs](https://github.com/alphagov/govuk-developer-docs) - 📖 Tech docs for everyone working on GOV.UK
 - [w3c/wcag](https://github.com/w3c/wcag) - Web Content Accessibility Guidelines
 - [18F/handbook](https://github.com/18F/handbook) - The home of policies and guidelines that make up TTS.
 - [18F/development-guide](https://github.com/18F/development-guide) - A set of guidelines and best practices for an awesome software engineering team
@@ -4880,7 +4882,6 @@
 - [jekyll/jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from) - :twisted_rightwards_arrows: Seamlessly specify multiple redirections URLs for your pages and posts.
 - [refinery/refinerycms](https://github.com/refinery/refinerycms) - An extendable Ruby on Rails CMS that supports Rails 6.0+
 - [rubygems/bundler](https://github.com/rubygems/bundler) - Manage your Ruby application's gem dependencies
-- [alphagov/govuk-developer-docs](https://github.com/alphagov/govuk-developer-docs) - 📖 Tech docs for everyone working on GOV.UK
 - [alphagov/govspeak](https://github.com/alphagov/govspeak) - Markdown extension library for Government editors
 - [usnationalarchives/federal_register](https://github.com/usnationalarchives/federal_register) - Ruby API Client for FederalRegister.gov that handles searching articles and getting information about agencies
 - [openc/openc-schema](https://github.com/openc/openc-schema) - JSON schemas for OpenCorporates data
@@ -5016,7 +5017,6 @@
 - [cisagov/cyber.dhs.gov](https://github.com/cisagov/cyber.dhs.gov) - A site for CISA directives
 - [18F/brand](https://github.com/18F/brand) - 18F Brand
 - [18F/methods](https://github.com/18F/methods) - The methods 18F uses to practice human-centered design.
-- [todogroup/todogroup.org](https://github.com/todogroup/todogroup.org) - Official TODO Website that containts TODO Guides, OSPO use cases and more resources to advance in the OSPO journey
 - [fedspendingtransparency/fedspendingtransparency.github.io](https://github.com/fedspendingtransparency/fedspendingtransparency.github.io) - Federal Spending Transparency
 - [middleman/middlemanapp.com](https://github.com/middleman/middlemanapp.com) - Documentation for Middleman
 - [SassDoc/sassdoc-theme-default](https://github.com/SassDoc/sassdoc-theme-default) - Default theme for SassDoc.
