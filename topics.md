@@ -1310,7 +1310,7 @@
 - [cugos/dropchop](https://github.com/cugos/dropchop) - :fork_and_knife: browser-based spatial operations
 - [plotly/dash-oil-and-gas-demo](https://github.com/plotly/dash-oil-and-gas-demo) - Dash Demo App - New York Oil and Gas
 - [humangeo/leaflet-dvf](https://github.com/humangeo/leaflet-dvf) - Leaflet Data Visualization Framework
-- [HandsOnDataViz/book](https://github.com/HandsOnDataViz/book) - Hands-On Data Visualization: Interactive Storytelling from Spreadsheets to Code is an open-access book-in-progress, under contract with O'Reilly Media.
+- [HandsOnDataViz/book](https://github.com/HandsOnDataViz/book) - Hands-On Data Visualization: Interactive Storytelling from Spreadsheets to Code is an open-access book, also published with O'Reilly Media.
 - [Antonvb/meteor-map](https://github.com/Antonvb/meteor-map) - Visualising Meteor Data
 - [edgi-govdata-archiving/100days](https://github.com/edgi-govdata-archiving/100days) - Website for EDGI 100 Days Report
 - [jessepinho/trumpymctweetface.com](https://github.com/jessepinho/trumpymctweetface.com) - Trump's face gets more orange when his tweets are louder. That's about it.
@@ -2387,6 +2387,7 @@
 - [PJijin/Cover-Image-Generator](https://github.com/PJijin/Cover-Image-Generator) - 📕 Generate a cover image for your blog post 📝 https://blogcover.now.sh/
 - [kevinzg/facebook-scraper](https://github.com/kevinzg/facebook-scraper) - Scrape Facebook public pages without an API key
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [telegraf/telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node.js
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
