@@ -5312,7 +5312,7 @@
 - [sandhose/pandoc-invoices](https://github.com/sandhose/pandoc-invoices) - Mes factures via Pandoc.
 - [aaronwolen/pandoc-letter](https://github.com/aaronwolen/pandoc-letter) - Pandoc template for writing letters in markdown
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
-- [HandsOnDataViz/book](https://github.com/HandsOnDataViz/book) - Hands-On Data Visualization: Interactive Storytelling from Spreadsheets to Code is an open-access book-in-progress, under contract with O'Reilly Media.
+- [HandsOnDataViz/book](https://github.com/HandsOnDataViz/book) - Hands-On Data Visualization: Interactive Storytelling from Spreadsheets to Code is an open-access book, also published with O'Reilly Media.
 - [iandennismiller/mueller-report](https://github.com/iandennismiller/mueller-report) - Open Source Mueller Report is an enhanced edition of the Mueller Report.
 - [saadq/resumake.io](https://github.com/saadq/resumake.io) - 📝 A website for automatically generating elegant LaTeX resumes.
 
