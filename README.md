@@ -1428,7 +1428,7 @@
 - [kikiklang/pomme-page](https://github.com/kikiklang/pomme-page) - Big buttons with easy click startpage for a browser.
 - [z0ccc/voat-extension](https://github.com/z0ccc/voat-extension) - Browser extension to replace Youtube comments with Reddit comments or view the Reddit comments of any webpage.
 - [deep5050/memes-on-issues-action](https://github.com/deep5050/memes-on-issues-action) - greet the issue raiser with a custom message and a bonus programming meme :smile:
-- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube Extension (Top100): Enrich your experience & content [🧰80 lean Features][📌Longest-standing][Please👨‍👩‍👧‍👧write HowTo's]⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪} Youtube Player Repeat Screenshot | Hide youtube distr
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Top ~ 100 Extension. Enrich your YouTube & Video experience & choice [🧰80 lean Features][📌Longest-standing][Please👨‍👩‍👧‍👧help]⚙️⋮⋮🎛️☕🎧🔊⏯️🎞️🎬📈🧩🎨⋮⋮ youtube playback, youtube content discovery, youtube p
 - [ubershmekel/redditp](https://github.com/ubershmekel/redditp) - Convert any reddit page to a presentation or slide show
 - [jiangts/JS-OTP](https://github.com/jiangts/JS-OTP) - 100% Javascript Implementation of HOTP and TOTP for Two-Factor Authentication.
 - [w3irdrobot/interactive-menu](https://github.com/w3irdrobot/interactive-menu) - Building an Interactive Menu in Vanilla JavaScript
@@ -4334,6 +4334,7 @@
 - [NYPL/catalog_of_copyright_entries_project](https://github.com/NYPL/catalog_of_copyright_entries_project) - NYPL Project to transcribe and parse pages from the US Catalog of Copyright Entries
 - [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
 - [jwilk/mwic](https://github.com/jwilk/mwic) - Misspelled Words In Context
+- [leostera/dotfiles](https://github.com/leostera/dotfiles) - :floppy_disk: ~/.*
 - [mozilla/kitsune](https://github.com/mozilla/kitsune) - Platform for Mozilla Support
 - [JoshData/pdf-redactor](https://github.com/JoshData/pdf-redactor) - A general purpose PDF text-layer redaction tool for Python 2/3.
 - [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org) - The source code that powers readthedocs.org
@@ -5699,7 +5700,6 @@
 ## Vim Script 
 
 - [dominee/Termux-dotfiles](https://github.com/dominee/Termux-dotfiles) - .files for the Termux android terminal
-- [leostera/dotfiles](https://github.com/leostera/dotfiles) - :floppy_disk: ~/.*
 - [gregsexton/gitv](https://github.com/gregsexton/gitv) - gitk for Vim.
 - [mattn/vim-gist](https://github.com/mattn/vim-gist) - Vim plugin for Gist
 
