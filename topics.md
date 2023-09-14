@@ -1509,7 +1509,7 @@
 - [oduwsdl/MementoEmbed](https://github.com/oduwsdl/MementoEmbed) - A service that provides archive-aware oEmbed-compatible embeddable surrogates (social cards, thumbnails, etc.) for archived web pages (mementos).
 - [maxisoft/Freenom-dns-updater](https://github.com/maxisoft/Freenom-dns-updater) - A tool to update freenom's dns records
 - [diegovalle/new.crimenmexico](https://github.com/diegovalle/new.crimenmexico) - Website for elcri.men
-- [fonoster/routr](https://github.com/fonoster/routr) - ⚡ The future of programmable SIP servers
+- [fonoster/routr](https://github.com/fonoster/routr) - ⚡ The future of programmable SIP servers.
 - [subspacecloud/subspace](https://github.com/subspacecloud/subspace) - A simple WireGuard VPN server GUI
 - [scanner-research/esper-tv](https://github.com/scanner-research/esper-tv) - Esper instance for TV news analysis
 - [Yelp/dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
@@ -2410,6 +2410,7 @@
 - [juliuste/parliament-svg](https://github.com/juliuste/parliament-svg) - Generate parliament charts as virtual-dom SVG
 - [alltheplaces/alltheplaces](https://github.com/alltheplaces/alltheplaces) - A set of spiders and scrapers to extract location information from places that post their location on the internet.
 - [geosolutions-it/MapStore2](https://github.com/geosolutions-it/MapStore2) - Modern webmapping with OpenLayers, Leaflet, Cesium and React
+- [koopjs/koop](https://github.com/koopjs/koop) - Transform, query, and download geospatial data on the web.
 - [openwisp/django-rest-framework-gis](https://github.com/openwisp/django-rest-framework-gis) - Geographic add-ons for Django REST Framework. Maintained by the OpenWISP Project.
 - [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
 - [vega/editor](https://github.com/vega/editor) - Editor/IDE for Vega and Vega-Lite
@@ -3546,7 +3547,7 @@
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 - [kubernetes/dns](https://github.com/kubernetes/dns) - Kubernetes DNS service
-- [fonoster/routr](https://github.com/fonoster/routr) - ⚡ The future of programmable SIP servers
+- [fonoster/routr](https://github.com/fonoster/routr) - ⚡ The future of programmable SIP servers.
 - [helm/charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
 
 ## language 
@@ -4414,7 +4415,7 @@
 - [colinbendell/homebridge-blink-for-home](https://github.com/colinbendell/homebridge-blink-for-home) - Blink For Home Camera Homebridge plugin
 - [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.
 - [iam-py-test/uBlock-combo](https://github.com/iam-py-test/uBlock-combo) - A filter list complied out of other lists to fight malware, ads, scams, and trackers in uBlock Origin
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
 - [ariakis/houdini](https://github.com/ariakis/houdini) - Script to bypass WiFi captive portals (e.g. at hotels, cruise ships etc.)
 - [tomellericcardo/EVIL-ESP](https://github.com/tomellericcardo/EVIL-ESP) - A super portable evil device, based on the ESP8266 board, running Micropython and equipped with a single button and a small OLED display
 - [FluxionNetwork/fluxion](https://github.com/FluxionNetwork/fluxion) - Fluxion is a remake of linset by vk496 with enhanced functionality.
@@ -8513,6 +8514,7 @@
 - [koopjs/FeatureServer](https://github.com/koopjs/FeatureServer) - An open source Geoservices Implementation (deprecated)
 - [xtrime-ru/TelegramRSS](https://github.com/xtrime-ru/TelegramRSS) - Convert telegram posts to RSS or json in amphp server
 - [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
+- [fonoster/routr](https://github.com/fonoster/routr) - ⚡ The future of programmable SIP servers.
 - [webtorrent/bittorrent-tracker](https://github.com/webtorrent/bittorrent-tracker) - 🌊 Simple, robust, BitTorrent tracker (client & server) implementation
 - [koopjs/koop](https://github.com/koopjs/koop) - Transform, query, and download geospatial data on the web.
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
@@ -9214,7 +9216,7 @@
 ## wordpress 
 
 - [google/site-kit-wp](https://github.com/google/site-kit-wp) - Site Kit is a one-stop solution for WordPress users to use everything Google has to offer to make them successful on the web.
-- [TablePress/TablePress](https://github.com/TablePress/TablePress) - TablePress is the most popular and highest rated table plugin for WordPress. Create and embed attractive and interactive tables on your website!
+- [TablePress/TablePress](https://github.com/TablePress/TablePress) - TablePress is the most popular and highest-rated table plugin for WordPress. Create and embed attractive and interactive tables on your website!
 - [live-composer/live-composer-page-builder](https://github.com/live-composer/live-composer-page-builder) - Free page builder plugin for WordPress https://livecomposerplugin.com
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [duracelltomi/gtm4wp](https://github.com/duracelltomi/gtm4wp) - Google Tag Manager plugin for WordPress
