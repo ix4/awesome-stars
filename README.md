@@ -239,7 +239,7 @@
 
 ## C++ 
 
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
 - [G4lile0/tinyGS](https://github.com/G4lile0/tinyGS) - 📡 Open Ground Station Network  🛰
 - [Project-OSRM/osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
 - [FD-/RPiPlay](https://github.com/FD-/RPiPlay) - An open-source AirPlay mirroring server for the Raspberry Pi. Supports iOS 9 and up.
@@ -3972,7 +3972,7 @@
 - [wikimedia/mediawiki](https://github.com/wikimedia/mediawiki) - 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing.
 - [tecnickcom/TCPDF](https://github.com/tecnickcom/TCPDF) - Official clone of PHP library to generate PDF documents and barcodes
 - [soderlind/wxr2pdf](https://github.com/soderlind/wxr2pdf) - Convert an WordPress Export File to PDF
-- [TablePress/TablePress](https://github.com/TablePress/TablePress) - TablePress is the most popular and highest rated table plugin for WordPress. Create and embed attractive and interactive tables on your website!
+- [TablePress/TablePress](https://github.com/TablePress/TablePress) - TablePress is the most popular and highest-rated table plugin for WordPress. Create and embed attractive and interactive tables on your website!
 - [GetDKAN/dkan](https://github.com/GetDKAN/dkan) - DKAN Open Data Portal
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [GaneshKandu/Palette](https://github.com/GaneshKandu/Palette) - :art: Palette is a freehand CMS which allows to construct websites directly in a web-browser. It uses flat files for storage and provides an intuitive GUI
@@ -5644,7 +5644,7 @@
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 - [googleworkspace/md2googleslides](https://github.com/googleworkspace/md2googleslides) - Generate Google Slides from markdown
 - [ohtomi/react-whiteboard](https://github.com/ohtomi/react-whiteboard) - A whiteboard React component using SVG.
-- [fonoster/routr](https://github.com/fonoster/routr) - ⚡ The future of programmable SIP servers
+- [fonoster/routr](https://github.com/fonoster/routr) - ⚡ The future of programmable SIP servers.
 - [onsip/SIP.js](https://github.com/onsip/SIP.js) - A simple, intuitive, and powerful JavaScript signaling library
 - [natzcam/firepeer](https://github.com/natzcam/firepeer) - secure p2p signalling and authentication for simple-peer using firebase realtime database
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
