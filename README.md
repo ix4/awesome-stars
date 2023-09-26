@@ -2146,7 +2146,7 @@
 - [alik0211/youtube-meta](https://github.com/alik0211/youtube-meta) - Shows meta information about the video on YouTube
 - [alik0211/pokedex](https://github.com/alik0211/pokedex) - List of pokémon with live search
 - [insin/react-hn](https://github.com/insin/react-hn) - React-powered Hacker News client
-- [direbunny/emoji-search](https://github.com/direbunny/emoji-search) - Simple React app for searching emoji
+- [andrewagain/emoji-search](https://github.com/andrewagain/emoji-search) - Simple React app for searching emoji
 - [ilyankou/cfhc-residential-zoning-analysis](https://github.com/ilyankou/cfhc-residential-zoning-analysis) - Connecticut Zoning Initiative
 - [JackDougherty/Leaflet-Coordinates-Control](https://github.com/JackDougherty/Leaflet-Coordinates-Control) - Captures mouseclick and displays its coordinates with easy way to copy them.
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
