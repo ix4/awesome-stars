@@ -3242,7 +3242,7 @@
 - [ivanseidel/Is-Now-Illegal](https://github.com/ivanseidel/Is-Now-Illegal) - 🚫 A NERD protest against Trump's Immigration ban
 - [mooz/node-pdf-image](https://github.com/mooz/node-pdf-image) - Provides an interface to convert PDF's pages to png files in Node.js by using ImageMagick
 - [kohchihao/pdf2ppt](https://github.com/kohchihao/pdf2ppt) - PDF2PPT Telegram bot
-- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - Detect Browser, Engine, OS, CPU, and Device type/model from User-Agent & Client-Hints data. Supports browser & node.js environment.
+- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - The most comprehensive, compact, & up-to-date JavaScript library to detect user's Browser, Engine, OS, CPU, and Device type/model. Runs either in browser (client-side) or node.js (server
 - [dotenorio/freeloader-of-data](https://github.com/dotenorio/freeloader-of-data) - A simple crawler or scraper to get open graph and other meta data from any website.
 - [beeman/micro-unfurl](https://github.com/beeman/micro-unfurl) - Small microservice that unfurls a URL and returns the OpenGraph meta data
 - [yfxie/jekpack](https://github.com/yfxie/jekpack) - Jekyll + Webpack = Jekpack 🛠
@@ -3517,7 +3517,7 @@
 - [binder-examples/jupyterlab](https://github.com/binder-examples/jupyterlab) - Demonstrating how to get JupyterLab working with Binder
 - [edsu/spn](https://github.com/edsu/spn) - Playing around with SavePageNow data.
 - [harvard-lil/cap-examples](https://github.com/harvard-lil/cap-examples) - Examples for getting started using https://case.law
-- [ocropus/ocropy](https://github.com/ocropus/ocropy) - Python-based tools for document analysis and OCR
+- [ocropus-archive/DUP-ocropy](https://github.com/ocropus-archive/DUP-ocropy) - Python-based tools for document analysis and OCR
 - [chervonij/DFL-Colab](https://github.com/chervonij/DFL-Colab) - DeepFaceLab fork which provides IPython Notebook to use DFL with Google Colab
 - [denadai2/real-estate-neighborhood-prediction](https://github.com/denadai2/real-estate-neighborhood-prediction) - Code to repeat the experiments of "The economic value of neighborhoods: Predicting real estate prices from the urban environment"
 - [josephofiowa/pydata-dc-2018](https://github.com/josephofiowa/pydata-dc-2018) - @matthewbrems and I presented "Recreating, Understanding, and Visualizing FiveThirtyEight's Elections Forecast" at PyData DC 2018
