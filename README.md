@@ -1017,7 +1017,6 @@
 - [tomitm/appmanifest](https://github.com/tomitm/appmanifest) - Web App Manifest Generator
 - [cloudfour/pwastats](https://github.com/cloudfour/pwastats) - A directory of Progressive Web App case studies.
 - [cofounders/legal](https://github.com/cofounders/legal) - Boilerplate legal templates for startups in Singapore
-- [makinacorpus/Leaflet.TextPath](https://github.com/makinacorpus/Leaflet.TextPath) - Show text along Polyline with Leaflet
 - [TerriaJS/TerriaMap](https://github.com/TerriaJS/TerriaMap) - Catalog-based web geospatial visualisation platform.
 - [brunob/leaflet.fullscreen](https://github.com/brunob/leaflet.fullscreen) - Leaflet.Control.FullScreen for Leaflet
 - [dj0001/Leaflet.timezones](https://github.com/dj0001/Leaflet.timezones) - Overlay timezones on a Leaflet Earth map
@@ -2488,6 +2487,7 @@
 - [nagix/mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d) - A real-time 3D digital map of Tokyo's public transport system
 - [chartjs/chartjs-plugin-datalabels](https://github.com/chartjs/chartjs-plugin-datalabels) - Chart.js plugin to display labels on data elements
 - [chartjs/chartjs-chart-financial](https://github.com/chartjs/chartjs-chart-financial) - Chart.js module for charting financial securities
+- [makinacorpus/Leaflet.TextPath](https://github.com/makinacorpus/Leaflet.TextPath) - Show text along Polyline with Leaflet
 - [makinacorpus/Leaflet.AlmostOver](https://github.com/makinacorpus/Leaflet.AlmostOver) - Trigger mouse events when cursor is "almost" over a layer
 - [makinacorpus/Leaflet.Snap](https://github.com/makinacorpus/Leaflet.Snap) - Enables snapping of draggable markers to polylines and other layers
 - [TerriaJS/nationalmap](https://github.com/TerriaJS/nationalmap) - Australia's NationalMap
@@ -3242,7 +3242,7 @@
 - [ivanseidel/Is-Now-Illegal](https://github.com/ivanseidel/Is-Now-Illegal) - 🚫 A NERD protest against Trump's Immigration ban
 - [mooz/node-pdf-image](https://github.com/mooz/node-pdf-image) - Provides an interface to convert PDF's pages to png files in Node.js by using ImageMagick
 - [kohchihao/pdf2ppt](https://github.com/kohchihao/pdf2ppt) - PDF2PPT Telegram bot
-- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - The most comprehensive, compact, & up-to-date JavaScript library to detect user's Browser, Engine, OS, CPU, and Device type/model. Runs either in browser (client-side) or node.js (server
+- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - The open-source JavaScript library to detect user's Browser, Engine, OS, CPU, and Device type/model. Runs either in browser (client-side) or node.js (server-side).
 - [dotenorio/freeloader-of-data](https://github.com/dotenorio/freeloader-of-data) - A simple crawler or scraper to get open graph and other meta data from any website.
 - [beeman/micro-unfurl](https://github.com/beeman/micro-unfurl) - Small microservice that unfurls a URL and returns the OpenGraph meta data
 - [yfxie/jekpack](https://github.com/yfxie/jekpack) - Jekyll + Webpack = Jekpack 🛠
