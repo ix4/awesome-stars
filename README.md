@@ -417,7 +417,7 @@
 - [mapshakers/leaflet-mapkey-icon](https://github.com/mapshakers/leaflet-mapkey-icon) - New dimension of markers for Leaflet. Based on MapkeyIcons
 - [jamalhassouni/pwa-news-Application](https://github.com/jamalhassouni/pwa-news-Application) - Simple Progressive Web App (PWA)  written in JavaScript
 - [pan-unit42/playbook_viewer](https://github.com/pan-unit42/playbook_viewer) - 
-- [EhsaanIqbal/tensorchat](https://github.com/EhsaanIqbal/tensorchat) - A p2p chat application built with webrtc.
+- [EhsaanIqbal/tensorchat](https://github.com/EhsaanIqbal/tensorchat) - A p2p chat application built with webrtc
 - [TrustTheVote-Project/horatio-client](https://github.com/TrustTheVote-Project/horatio-client) - A client for an absentee ballot request form.
 - [hack4impact-upenn/cls](https://github.com/hack4impact-upenn/cls) - (Community Legal Services Fall 2016): Processing millions of Google Location Data points into court admissible legal documents...all on the frontend
 - [michaelravedoni/jekyll-book-framework](https://github.com/michaelravedoni/jekyll-book-framework) - A Jekyll framework for publishing book in multiple format (HTML, PDF, epub)
