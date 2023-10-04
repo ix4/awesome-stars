@@ -1680,7 +1680,6 @@
 - [ivanvanderbyl/ember-hackernews-pwa](https://github.com/ivanvanderbyl/ember-hackernews-pwa) - An Ember implementation of the HackerNews client as a Progressive Web App
 - [code-corps/ember-stripe-elements](https://github.com/code-corps/ember-stripe-elements) - A simple Ember wrapper for Stripe Elements.
 - [skylines-project/skylines](https://github.com/skylines-project/skylines) - Live tracking, flight database and competition framework
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
 - [esbanarango/ember-credit-card](https://github.com/esbanarango/ember-credit-card) - "make your credit card form dreamy in one line of code"
 - [szimek/sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
