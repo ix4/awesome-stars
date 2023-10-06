@@ -3852,6 +3852,7 @@
 - [Lagranmomia/tvmund](https://github.com/Lagranmomia/tvmund) - 
 - [tolomaps/resources](https://github.com/tolomaps/resources) - Somewhat comprehensive list of cartography / map / web design resources
 - [marktron/fakenews](https://github.com/marktron/fakenews) - An in-progress collection of sites that spread clickbait, hoaxes, propaganda and disinformation.
+- [casenjo/home-assistant-config](https://github.com/casenjo/home-assistant-config) - Home Assistant config setup using Docker, includes Zwavejs2Mqtt and Mosquitto
 - [postlight/awesome-cms](https://github.com/postlight/awesome-cms) - 📚 A collection of open and closed source Content Management Systems (CMS) for your perusal.
 - [anitawoodruff/inline-notification-replies](https://github.com/anitawoodruff/inline-notification-replies) - Notification Inline Replies Explainer
 - [googlecodelabs/photos-sharing](https://github.com/googlecodelabs/photos-sharing) - Code for the "Build a Photo Sharing app with Google Photos and Flutter" codelab
@@ -5244,7 +5245,6 @@
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [tronprotocol/protocol](https://github.com/tronprotocol/protocol) - 
-- [casenjo/home-assistant-config](https://github.com/casenjo/home-assistant-config) - Home Assistant config setup using Docker, includes Zwavejs2Mqtt and Mosquitto
 - [roth-a/Bash-Scripts](https://github.com/roth-a/Bash-Scripts) - Bash scripts, including an incremental backup script using rsync. Also a script to convert many videos using ffmpeg
 - [pvtl/scripts](https://github.com/pvtl/scripts) - Automation for setting up fresh projects on Wordpress, Magento2 and Laravel
 - [NYCPlanning/labs-geosearch-docker](https://github.com/NYCPlanning/labs-geosearch-docker) - Main repository for running the Planning Labs geosearch API powered by pelias
