@@ -24,7 +24,6 @@
 - [aws](#aws)
 - [azure](#azure)
 - [babel](#babel)
-- [backend](#backend)
 - [bash](#bash)
 - [bioinformatics](#bioinformatics)
 - [bitcoin](#bitcoin)
@@ -684,12 +683,6 @@
 - [developit/htm](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 - [documentationjs/documentation](https://github.com/documentationjs/documentation) - :book: documentation for modern JavaScript
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
-
-## backend 
-
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
-- [octobercms/october](https://github.com/octobercms/october) - Self-hosted CMS platform based on the Laravel PHP Framework.
-- [hooram/ownphotos](https://github.com/hooram/ownphotos) - Self hosted alternative to Google Photos
 
 ## bash 
 
