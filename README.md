@@ -1293,7 +1293,7 @@
 - [google/google-authenticator](https://github.com/google/google-authenticator) - Open source version of Google Authenticator (except the Android app)
 - [nulab/zxcvbn4j](https://github.com/nulab/zxcvbn4j) - This is a java port of zxcvbn, which is a JavaScript password strength generator.
 - [mendhak/gpslogger](https://github.com/mendhak/gpslogger) - :satellite: Lightweight GPS Logging Application For Android.
-- [asciidocfx/AsciidocFX](https://github.com/asciidocfx/AsciidocFX) - Asciidoc Editor and Toolchain written with JavaFX 19 (Build PDF, Epub, Mobi and HTML books, documents and slides)
+- [asciidocfx/AsciidocFX](https://github.com/asciidocfx/AsciidocFX) - Asciidoc Editor and Toolchain written with JavaFX 21 (Build PDF, Epub, Mobi and HTML books, documents and slides)
 - [ministryofjustice/offender-assessments-api](https://github.com/ministryofjustice/offender-assessments-api) - 
 - [google/closure-templates](https://github.com/google/closure-templates) - A client- and server-side templating system that helps you dynamically build reusable HTML and UI elements
 - [google/closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
@@ -1450,7 +1450,6 @@
 - [gielcobben/caption](https://github.com/gielcobben/caption) - Get Caption, start watching.
 - [googlesamples/google-photos](https://github.com/googlesamples/google-photos) - Samples for the Google Photos Library API 📸
 - [ignoreintuition/websocket](https://github.com/ignoreintuition/websocket) - Websocket & Data Visualization
-- [NexxonTech/NexxonTech-Startpage](https://github.com/NexxonTech/NexxonTech-Startpage) - NexxonTech StartPage Source Code
 - [jeroenpardon/sui](https://github.com/jeroenpardon/sui) - a startpage for your server and / or new tab page
 - [codetheweb/tuyapi](https://github.com/codetheweb/tuyapi) - 🌧 An easy-to-use API for devices that use Tuya's cloud services. Documentation: https://codetheweb.github.io/tuyapi.
 - [TheAgentK/tuya-mqtt](https://github.com/TheAgentK/tuya-mqtt) - Nodejs-Script to combine tuyaapi and openhab via mqtt
@@ -2039,7 +2038,7 @@
 - [thlorenz/browserify-markdown-editor](https://github.com/thlorenz/browserify-markdown-editor) - A demo showing how to build a markdown editor with browserify and marked.
 - [browserify/browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
-- [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
+- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run linters on git staged files
 - [jigsawpieces/react-tv-guide](https://github.com/jigsawpieces/react-tv-guide) - TV guide showing what's on television for the current day using the TVMaze API
 - [Semantic-Org/Semantic-UI-Docs](https://github.com/Semantic-Org/Semantic-UI-Docs) - Official Documentation for Semantic UI
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
@@ -5743,7 +5742,7 @@
 - [fightforthefuture/fftf-starter-template](https://github.com/fightforthefuture/fftf-starter-template) - Nuxt 2 starter site for campaigns
 - [fightforthefuture/defendcrypto.org](https://github.com/fightforthefuture/defendcrypto.org) - 
 - [fengyuanchen/photo-editor](https://github.com/fengyuanchen/photo-editor) - A simple photo editing application.
-- [sakihet/textrator](https://github.com/sakihet/textrator) - Text image generator on HTML canvas
+- [sakihet/textrator](https://github.com/sakihet/textrator) - ✏️ Text image generator on HTML canvas
 - [LucasLeandro1204/vue-content-loading](https://github.com/LucasLeandro1204/vue-content-loading) - Vue component to easily build (or use presets) SVG loading cards Facebook like.
 - [CityOfPhiladelphia/phila-vue-mapping](https://github.com/CityOfPhiladelphia/phila-vue-mapping) - a library of vue components used by mapping applications
 - [etewiah/pwb-admin-vuetify](https://github.com/etewiah/pwb-admin-vuetify) - New admin interface for PropertyWebBuilder
