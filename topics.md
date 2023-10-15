@@ -1732,7 +1732,7 @@
 - [Shopify/web-configs](https://github.com/Shopify/web-configs) - Common configurations for building web apps at Shopify
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
-- [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
+- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run linters on git staged files
 - [verekia/js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
 - [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
@@ -1959,7 +1959,7 @@
 - [X1011/git-directory-deploy](https://github.com/X1011/git-directory-deploy) - deploy a directory as a git branch
 - [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
 - [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
-- [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
+- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run linters on git staged files
 - [nicoespeon/gitgraph.js](https://github.com/nicoespeon/gitgraph.js) - 👋 [Looking for maintainers] - A JavaScript library to draw pretty git graphs in the browser
 - [tomgi/git_stats](https://github.com/tomgi/git_stats) - GitStats is a git repository statistics generator.
 - [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank) - 🕷️Github China/Global User Ranking, Global Warehouse Star Ranking (Github Action is automatically updated daily).
@@ -2724,7 +2724,7 @@
 - [apache/cordova-plugin-battery-status](https://github.com/apache/cordova-plugin-battery-status) - Apache Cordova Plugin battery-status
 - [nulab/zxcvbn4j](https://github.com/nulab/zxcvbn4j) - This is a java port of zxcvbn, which is a JavaScript password strength generator.
 - [mendhak/gpslogger](https://github.com/mendhak/gpslogger) - :satellite: Lightweight GPS Logging Application For Android.
-- [asciidocfx/AsciidocFX](https://github.com/asciidocfx/AsciidocFX) - Asciidoc Editor and Toolchain written with JavaFX 19 (Build PDF, Epub, Mobi and HTML books, documents and slides)
+- [asciidocfx/AsciidocFX](https://github.com/asciidocfx/AsciidocFX) - Asciidoc Editor and Toolchain written with JavaFX 21 (Build PDF, Epub, Mobi and HTML books, documents and slides)
 - [mockito/mockito](https://github.com/mockito/mockito) - Most popular Mocking framework for unit tests written in Java
 - [coala/coala-bears](https://github.com/coala/coala-bears) - Bears for coala
 - [oracle/opengrok](https://github.com/oracle/opengrok) - OpenGrok is a fast and usable source code search and cross reference engine, written in Java
@@ -2759,7 +2759,7 @@
 
 ## javafx 
 
-- [asciidocfx/AsciidocFX](https://github.com/asciidocfx/AsciidocFX) - Asciidoc Editor and Toolchain written with JavaFX 19 (Build PDF, Epub, Mobi and HTML books, documents and slides)
+- [asciidocfx/AsciidocFX](https://github.com/asciidocfx/AsciidocFX) - Asciidoc Editor and Toolchain written with JavaFX 21 (Build PDF, Epub, Mobi and HTML books, documents and slides)
 
 ## javascript 
 
@@ -2805,7 +2805,7 @@
 - [kriasoft/react-firebase-starter](https://github.com/kriasoft/react-firebase-starter) - Boilerplate (seed) project for creating web apps with React.js, GraphQL.js and Relay
 - [gavinr/geojson-viewer](https://github.com/gavinr/geojson-viewer) - View GeoJSON from a URL (with permalinks)
 - [gavinr/csv-to-geojson](https://github.com/gavinr/csv-to-geojson) - Convert a CSV to GeoJSON
-- [asciidocfx/AsciidocFX](https://github.com/asciidocfx/AsciidocFX) - Asciidoc Editor and Toolchain written with JavaFX 19 (Build PDF, Epub, Mobi and HTML books, documents and slides)
+- [asciidocfx/AsciidocFX](https://github.com/asciidocfx/AsciidocFX) - Asciidoc Editor and Toolchain written with JavaFX 21 (Build PDF, Epub, Mobi and HTML books, documents and slides)
 - [QuickCorp/QCObjects](https://github.com/QuickCorp/QCObjects) - Full Stack Javascript Framework for Modern Software Development
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [BrianOtto/ui-builder](https://github.com/BrianOtto/ui-builder) - UI Builder
@@ -4357,6 +4357,7 @@
 - [StartBootstrap/startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
 - [StartBootstrap/startbootstrap-stylish-portfolio](https://github.com/StartBootstrap/startbootstrap-stylish-portfolio) - A stylish, one page, Bootstrap portfolio theme created by Start Bootstrap
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total cov
+- [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [programminghistorian/jekyll](https://github.com/programminghistorian/jekyll) - Jekyll-based static site for The Programming Historian
@@ -8897,7 +8898,7 @@
 - [openplayerjs/openplayerjs](https://github.com/openplayerjs/openplayerjs) - Lightweight HTML5 video/audio player with smooth controls and ability to play VAST/VPAID/VMAP ads
 - [guoyunhe/rabbit-lyrics](https://github.com/guoyunhe/rabbit-lyrics) - JavaScript audio and timed lyrics synchronizer.
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
-- [sakihet/textrator](https://github.com/sakihet/textrator) - Text image generator on HTML canvas
+- [sakihet/textrator](https://github.com/sakihet/textrator) - ✏️ Text image generator on HTML canvas
 - [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
 - [justadudewhohacks/face-recognition.js](https://github.com/justadudewhohacks/face-recognition.js) - Simple Node.js package for robust face detection and face recognition. JavaScript and TypeScript API.
 - [postlight/secretmsg](https://github.com/postlight/secretmsg) - 🕵 Encrypt messages for easy sharing
@@ -9016,7 +9017,7 @@
 - [harvard-lil/alter-space](https://github.com/harvard-lil/alter-space) - An immersive library experience that gives visitors control over light, color, sound, and space.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [m1guelpf/send-to-things](https://github.com/m1guelpf/send-to-things) - A PWA to add tasks to Things from pretty much anywhere
-- [sakihet/textrator](https://github.com/sakihet/textrator) - Text image generator on HTML canvas
+- [sakihet/textrator](https://github.com/sakihet/textrator) - ✏️ Text image generator on HTML canvas
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
 - [LucasLeandro1204/vue-content-loading](https://github.com/LucasLeandro1204/vue-content-loading) - Vue component to easily build (or use presets) SVG loading cards Facebook like.
@@ -9128,7 +9129,6 @@
 
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [jmatth/ezprompt](https://github.com/jmatth/ezprompt) - An easy to use webapp for creating simple bash prompts.
-- [NexxonTech/NexxonTech-Startpage](https://github.com/NexxonTech/NexxonTech-Startpage) - NexxonTech StartPage Source Code
 - [ExpDev07/coronavirus-tracker-api](https://github.com/ExpDev07/coronavirus-tracker-api) - 🦠 A simple and fast (&lt; 200ms) API for tracking the global coronavirus (COVID-19, SARS-CoV-2) outbreak. It's written in python using the 🔥 FastAPI framework. Supports multiple sources!
 - [stefansundin/traceroute-mapper](https://github.com/stefansundin/traceroute-mapper) - Map your traceroutes easily.
 - [stefansundin/github-activity](https://github.com/stefansundin/github-activity) - :computer: RSS Feed for GitHub gist comments.
