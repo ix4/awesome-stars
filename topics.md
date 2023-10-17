@@ -2387,7 +2387,7 @@
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify) - :closed_book: A minimal Markdown editor desktop app
 - [ioquake/ioq3](https://github.com/ioquake/ioq3) - The ioquake3 community effort to continue supporting/developing id's Quake III Arena
@@ -3110,7 +3110,7 @@
 - [openplayerjs/openplayerjs](https://github.com/openplayerjs/openplayerjs) - Lightweight HTML5 video/audio player with smooth controls and ability to play VAST/VPAID/VMAP ads
 - [shaka-project/shaka-player](https://github.com/shaka-project/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [guoyunhe/rabbit-lyrics](https://github.com/guoyunhe/rabbit-lyrics) - JavaScript audio and timed lyrics synchronizer.
@@ -4221,7 +4221,7 @@
 - [vergecurrency/vergecurrency.com](https://github.com/vergecurrency/vergecurrency.com) - https://VergeCurrency.com - Official Site of Verge Currency ($XVG) :globe_with_meridians:
 - [Netflix/pollyjs](https://github.com/Netflix/pollyjs) - Record, Replay, and Stub HTTP Interactions.
 - [Jrc356/analytics-dashboard](https://github.com/Jrc356/analytics-dashboard) - A custom analytics dashboard built with nodejs and react
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [mapbox/mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) - Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL
 - [ariya/uainfer](https://github.com/ariya/uainfer) - Infer the user agent from its User Agent string
 - [sindresorhus/is-online](https://github.com/sindresorhus/is-online) - Check if the internet connection is up
@@ -7616,7 +7616,7 @@
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [michaelravedoni/jekyll-book-framework](https://github.com/michaelravedoni/jekyll-book-framework) - A Jekyll framework for publishing book in multiple format (HTML, PDF, epub)
 - [chrisanthropic/Open-Publisher](https://github.com/chrisanthropic/Open-Publisher) - Using Jekyll to create outputs that can be used as Pandoc inputs. In short - input markdown, output mobi, epub, pdf, and print-ready pdf. With a focus on fiction.
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 
 ## pwa 
