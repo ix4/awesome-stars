@@ -461,7 +461,6 @@
 - [mattvh/jekyllthemes](https://github.com/mattvh/jekyllthemes) - A directory of the best-looking themes for Jekyll blogs
 - [samanyougarg/hanuman](https://github.com/samanyougarg/hanuman) - A responsive, lightning-fast Jekyll theme built using AMP (Accelerated Mobile Pages) to speed up your blogs and websites.
 - [ageitgey/amplify](https://github.com/ageitgey/amplify) - A Jekyll html theme in the vague style of Medium.com built using Google AMP
-- [alexlitel/mirrored-image-generator](https://github.com/alexlitel/mirrored-image-generator) - Small app using HTML Canvas and JavaScript to generate mirrored versions of images.
 - [PJijin/Stylish-Card](https://github.com/PJijin/Stylish-Card) - 🗃️ Stylish card using HTML, CSS
 - [thecaffeinedev/Real-Estate-Django-Web-App](https://github.com/thecaffeinedev/Real-Estate-Django-Web-App) - Real Estate Django Web App
 - [samuelklam/real-estate-ecommerce](https://github.com/samuelklam/real-estate-ecommerce) - Real Estate Ecommerce Store built with Angular, Express, PostgreSQL and Node.js
@@ -1474,7 +1473,7 @@
 - [OnsenUI/OnsenUI](https://github.com/OnsenUI/OnsenUI) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React 
 - [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
 - [CesarBalzer/telefones_uteis](https://github.com/CesarBalzer/telefones_uteis) - Projeto de código aberto para telefones de emergência
-- [apache/cordova-plugin-battery-status](https://github.com/apache/cordova-plugin-battery-status) - Apache Cordova Plugin battery-status
+- [apache/cordova-plugin-battery-status](https://github.com/apache/cordova-plugin-battery-status) - Apache Cordova Battery Status Plugin
 - [nknorg/nkn-sdk-js](https://github.com/nknorg/nkn-sdk-js) - JavaScript Implementation of NKN Client and Wallet SDK
 - [shawnbot/tito](https://github.com/shawnbot/tito) - Tables In, Tables Out
 - [colorjs/get-image-colors](https://github.com/colorjs/get-image-colors) - Extract colors from GIF, PNG, JPG, and SVG images
@@ -3059,6 +3058,7 @@
 - [kdzwinel/JS-OCR-demo](https://github.com/kdzwinel/JS-OCR-demo) - JavaScript optical character recognition demo
 - [mbloch/catty](https://github.com/mbloch/catty) - 
 - [alexlitel/congresstweets-automator](https://github.com/alexlitel/congresstweets-automator) - Self-updating Node app collecting Congress' daily Twitter output and compiling into publicly accessible form.
+- [alexlitel/mirrored-image-generator](https://github.com/alexlitel/mirrored-image-generator) - Small app using HTML Canvas and JavaScript to generate mirrored versions of images.
 - [NYCPlanning/labs-tax-lot-selector](https://github.com/NYCPlanning/labs-tax-lot-selector) - A simple map-based tool for selecting multiple NYC tax lots and downloading a CSV or shapefile of their PLUTO data
 - [NYCPlanning/labs-migration-viz](https://github.com/NYCPlanning/labs-migration-viz) - A single-page interactive visualization of historic U.S. Census migration data for New York City
 - [NYCPlanning/labs-zola](https://github.com/NYCPlanning/labs-zola) - NYC Planning's Zoning and Land Use App
@@ -3473,7 +3473,7 @@
 - [plotly/graphing-library-docs](https://github.com/plotly/graphing-library-docs) - Plotly's graphing libraries documentation.
 - [NUKnightLab/studio-documenters](https://github.com/NUKnightLab/studio-documenters) - Explorations for the Documenters.org project
 - [andrewray/iocaml](https://github.com/andrewray/iocaml) - An OCaml kernel for the IPython notebook
-- [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic) - 🎓 Hugo Academic Theme 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo and GitHub.
+- [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic) - 🎓 Hugo Academic Theme 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo and GitHub. No code.
 - [PAIR-code/facets](https://github.com/PAIR-code/facets) - Visualizations for machine learning datasets
 - [cs231n/cs231n.github.io](https://github.com/cs231n/cs231n.github.io) - Public facing notes page
 - [sphinxteam/mlcourse_2019](https://github.com/sphinxteam/mlcourse_2019) - INTRODUCTION TO MACHINE LEARNING: An introductory practical course by Florent Krzakala and Antoine Baker
@@ -5065,7 +5065,7 @@
 - [bullgit/bullgit.github.io](https://github.com/bullgit/bullgit.github.io) - The amazing bullgit homepage
 - [GSA/resources.data.gov](https://github.com/GSA/resources.data.gov) - Resources for open data and enterprise data inventory management
 - [mmistakes/jekyll-theme-basically-basic](https://github.com/mmistakes/jekyll-theme-basically-basic) - Your new Jekyll default theme.
-- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 创建在线课程，学术简历或初创网站。#OpenScience
+- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
 - [MehediH/Tweeten](https://github.com/MehediH/Tweeten) - An intuitive and powerful Twitter experience built for those who get real work done.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [twitter/opensource-website](https://github.com/twitter/opensource-website) - Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
