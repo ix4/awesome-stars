@@ -1970,7 +1970,7 @@
 - [feimosi/baguetteBox.js](https://github.com/feimosi/baguetteBox.js) - :zap: Simple and easy to use lightbox script written in pure JavaScript
 - [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library.
 - [brunnolou/streaming-room](https://github.com/brunnolou/streaming-room) - Streaming room in Node.js, rtmp, hsl, html5 videojs player
-- [netdata/dashboard](https://github.com/netdata/dashboard) - UI for Netdata Agent
+- [netdata/dashboard](https://github.com/netdata/dashboard) - Netdata Agent v1 Dashboard (deprecated)
 - [LingDong-/PoseOSC](https://github.com/LingDong-/PoseOSC) - 📹🤸‍♂️🤾‍♀️🤺 PoseNet + OSC: send realtime human pose estimation data to your apps
 - [LingDong-/ndwfc](https://github.com/LingDong-/ndwfc) - 🌊💥 N-dimensional Wave Function Collapse with infinite canvas
 - [LingDong-/cope](https://github.com/LingDong-/cope) - A modern IDE for writing classical Chinese poetry 格律诗编辑程序
