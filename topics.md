@@ -5456,7 +5456,7 @@
 - [sourcey/webrtc-builds](https://github.com/sourcey/webrtc-builds) - Automated WebRTC build scripts for Linux, Windows, Mac, Android and iOS.
 - [moul/docker-icecast](https://github.com/moul/docker-icecast) - :radio: Icecast 2 in Dockerfile (Docker container, compatible with liquidsoap)
 - [mjradwin/geonames-sqlite](https://github.com/mjradwin/geonames-sqlite) - Import GeoNames.org data into a SQLite database for full-text search and autocomplete
-- [netdata/dashboard](https://github.com/netdata/dashboard) - UI for Netdata Agent
+- [netdata/dashboard](https://github.com/netdata/dashboard) - Netdata Agent v1 Dashboard (deprecated)
 - [FiloSottile/whoami.filippo.io](https://github.com/FiloSottile/whoami.filippo.io) - A ssh server that knows who you are. $ ssh whoami.filippo.io
 - [FiloSottile/captive-browser](https://github.com/FiloSottile/captive-browser) - A dedicated Chrome instance to log into captive portals without messing with DNS settings.
 - [LingDong-/shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) - Procedurally generated Chinese landscape painting.
