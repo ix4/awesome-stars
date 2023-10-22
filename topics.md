@@ -2229,6 +2229,7 @@
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
 - [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation
+- [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv) - :necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!
 - [joshdk/tty-qlock](https://github.com/joshdk/tty-qlock) - A minimal, curses-based clock for your terminal
 - [LibreELEC/LibreELEC.tv](https://github.com/LibreELEC/LibreELEC.tv) - Just enough OS for KODI
@@ -4556,7 +4557,7 @@
 - [Movixme/Movix](https://github.com/Movixme/Movix) - 
 - [egargo/pwygit](https://github.com/egargo/pwygit) - :partly_sunny: A simple weather information tool.
 - [ltpitt/python-simple-notifications](https://github.com/ltpitt/python-simple-notifications) - A Python module to send out email (also with attachment) and push notifications (using pushbullet or pushover) from your applications
-- [DIGITALCRIMINAL/OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans) - Scrape all the media from an OnlyFans account - Updated regularly
+- [DIGITALCRIMINAL/UltimaScraper](https://github.com/DIGITALCRIMINAL/UltimaScraper) - Scrape all the media from an OnlyFans account - Updated regularly
 - [tgalal/yowsup](https://github.com/tgalal/yowsup) - The WhatsApp lib
 - [ubershmekel/redditp](https://github.com/ubershmekel/redditp) - Convert any reddit page to a presentation or slide show
 - [aegis1980/WifiHotSpot](https://github.com/aegis1980/WifiHotSpot) - A bit of a hack I wrote to fix Trigger's issue with not controlling wifi hotspot in Oreo. Turned into sovling two issues:
