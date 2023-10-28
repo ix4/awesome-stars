@@ -1425,7 +1425,7 @@
 - [kikiklang/pomme-page](https://github.com/kikiklang/pomme-page) - Big buttons with easy click startpage for a browser.
 - [z0ccc/comet](https://github.com/z0ccc/comet) - Browser extension to replace Youtube comments with Reddit comments or view the Reddit comments of any webpage.
 - [deep5050/memes-on-issues-action](https://github.com/deep5050/memes-on-issues-action) - greet the issue raiser with a custom message and a bonus programming meme :smile:
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Top~100 Extension. Enrich your YouTube- & Video-experience & -choice [🧰80 lean Features 📌Longest-standing 👨‍👩‍👧‍👧🧩Please help] ⋮⚙️🎛️☕🎧🎞️📈🎨⏯️🎬🔊 youtube playback, content discovery, player, extra button
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Top~100 Extension. Enrich your YouTube- & Video-experience & -choice [🧰90 lean Features 📌Longest-standing 👨‍👩‍👧‍👧🧩Please help] ⋮⚙️🎛️☕🎧🎞️📈🎨⏯️🎬🔊 youtube playback, content discovery, player, extra button
 - [ubershmekel/redditp](https://github.com/ubershmekel/redditp) - Convert any reddit page to a presentation or slide show
 - [jiangts/JS-OTP](https://github.com/jiangts/JS-OTP) - 100% Javascript Implementation of HOTP and TOTP for Two-Factor Authentication.
 - [w3irdrobot/interactive-menu](https://github.com/w3irdrobot/interactive-menu) - Building an Interactive Menu in Vanilla JavaScript
@@ -2927,7 +2927,6 @@
 - [1j01/she-has-what](https://github.com/1j01/she-has-what) - ⚪ Homestuck Doc Scratch text effect GIF generator
 - [EdernClemente/TypeLighterJS-Typewriter](https://github.com/EdernClemente/TypeLighterJS-Typewriter) - Take a stride into the world of dynamic and appealing typewriters. You can be sure that you will never even think of looking back.
 - [alexmacarthur/typeit](https://github.com/alexmacarthur/typeit) - The most versatile JavaScript typewriter effect library on the planet.
-- [janelin612/tagged-troll-image-maker](https://github.com/janelin612/tagged-troll-image-maker) - 一個最近莫名有點紅的標籤梗圖產生器
 - [pashcovich/RandomImageJs](https://github.com/pashcovich/RandomImageJs) - JavaScript Random Image Generator
 - [Mrcomputer1/PostCountProgressBar](https://github.com/Mrcomputer1/PostCountProgressBar) - Source code of Mrcomputer1's post count progress bar
 - [pistatium/unique_ogp](https://github.com/pistatium/unique_ogp) - "Unique OGP" automatically produces unique OGP image.
@@ -4344,7 +4343,7 @@
 - [wustho/epr](https://github.com/wustho/epr) - CLI Epub Reader
 - [linode/docs](https://github.com/linode/docs) - Linode guides and tutorials.
 - [gavinrozzi/electionleaflets](https://github.com/gavinrozzi/electionleaflets) - :postbox: A Django port of the original PHP code from electionleaflets.org
-- [codefordc/ancfinder](https://github.com/codefordc/ancfinder) - A website about DC's Advisory Neighborhood Commission system.
+- [civictechdc/ancfinder](https://github.com/civictechdc/ancfinder) - A website about DC's Advisory Neighborhood Commission system.
 - [tabatkins/railroad-diagrams](https://github.com/tabatkins/railroad-diagrams) - :steam_locomotive: A small JS+SVG library for drawing railroad syntax diagrams, like on JSON.org. Now with a Python port!
 - [mplewis/csvtomd](https://github.com/mplewis/csvtomd) - 📝📊 Convert your CSV files into Markdown tables.
 - [jhpyle/docassemble-rpi](https://github.com/jhpyle/docassemble-rpi) - A test interview for running Docassemble on the Raspberry Pi
@@ -5094,7 +5093,7 @@
 - [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
 - [guardian/mobile-apps-article-templates](https://github.com/guardian/mobile-apps-article-templates) - Templates for articles on The Guardian iOS and Android apps
 - [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 5 Material Design Admin
-- [cloud-gov/pages-uswds-jekyll](https://github.com/cloud-gov/pages-uswds-jekyll) - Reference implementation of USWDS 2.0 for Jekyll on Federalist.  Demo -&gt;
+- [cloud-gov/pages-uswds-jekyll](https://github.com/cloud-gov/pages-uswds-jekyll) - Reference implementation of USWDS 2.0 for Jekyll on Cloud.gov.  Demo -&gt;
 
 ## SVG 
 
