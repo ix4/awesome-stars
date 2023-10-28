@@ -42,6 +42,7 @@
 - [code-review](#code-review)
 - [coding](#coding)
 - [compiler](#compiler)
+- [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
 - [continuous-integration](#continuous-integration)
 - [covid-19](#covid-19)
@@ -895,7 +896,7 @@
 
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
 - [z0ccc/comet](https://github.com/z0ccc/comet) - Browser extension to replace Youtube comments with Reddit comments or view the Reddit comments of any webpage.
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Top~100 Extension. Enrich your YouTube- & Video-experience & -choice [🧰80 lean Features 📌Longest-standing 👨‍👩‍👧‍👧🧩Please help] ⋮⚙️🎛️☕🎧🎞️📈🎨⏯️🎬🔊 youtube playback, content discovery, player, extra button
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Top~100 Extension. Enrich your YouTube- & Video-experience & -choice [🧰90 lean Features 📌Longest-standing 👨‍👩‍👧‍👧🧩Please help] ⋮⚙️🎛️☕🎧🎞️📈🎨⏯️🎬🔊 youtube playback, content discovery, player, extra button
 - [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
 - [VerifiedJoseph/Save-to-the-Wayback-Machine](https://github.com/VerifiedJoseph/Save-to-the-Wayback-Machine) - Browser extension for quickly saving web pages to the Internet Archive's Wayback Machine.
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
@@ -1006,6 +1007,10 @@
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 
+## computer-science 
+
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
+
 ## computer-vision 
 
 - [ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset) - We are building an open database of COVID-19 cases with chest X-ray or CT images.
@@ -1081,7 +1086,7 @@
 ## css 
 
 - [ffoodd/a11y.css](https://github.com/ffoodd/a11y.css) - This CSS file intends to warn developers about possible risks and mistakes that exist in HTML code. It can also be used to roughly evaluate a site's quality by simply including it as an external style
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Top~100 Extension. Enrich your YouTube- & Video-experience & -choice [🧰80 lean Features 📌Longest-standing 👨‍👩‍👧‍👧🧩Please help] ⋮⚙️🎛️☕🎧🎞️📈🎨⏯️🎬🔊 youtube playback, content discovery, player, extra button
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Top~100 Extension. Enrich your YouTube- & Video-experience & -choice [🧰90 lean Features 📌Longest-standing 👨‍👩‍👧‍👧🧩Please help] ⋮⚙️🎛️☕🎧🎞️📈🎨⏯️🎬🔊 youtube playback, content discovery, player, extra button
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [styled-components/awesome-styled-components](https://github.com/styled-components/awesome-styled-components) - A curated list of awesome styled-components resources 💅
 - [egoist/snackbar](https://github.com/egoist/snackbar) - A tiny browser library for showing a brief message at the bottom of the screen (1kB gzipped).
@@ -2223,7 +2228,7 @@
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
 - [jnmcfly/awesome-startpage](https://github.com/jnmcfly/awesome-startpage) - This is a carefully compiled list of remarkable projects with the focus on startpages.
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Top~100 Extension. Enrich your YouTube- & Video-experience & -choice [🧰80 lean Features 📌Longest-standing 👨‍👩‍👧‍👧🧩Please help] ⋮⚙️🎛️☕🎧🎞️📈🎨⏯️🎬🔊 youtube playback, content discovery, player, extra button
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Top~100 Extension. Enrich your YouTube- & Video-experience & -choice [🧰90 lean Features 📌Longest-standing 👨‍👩‍👧‍👧🧩Please help] ⋮⚙️🎛️☕🎧🎞️📈🎨⏯️🎬🔊 youtube playback, content discovery, player, extra button
 - [davidteather/TikTok-Api](https://github.com/davidteather/TikTok-Api) - The Unofficial TikTok API Wrapper In Python
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
@@ -5245,7 +5250,7 @@
 - [nprapps/nprapps.github.com](https://github.com/nprapps/nprapps.github.com) - The NPR visuals team's blog.
 - [nprapps/quotable](https://github.com/nprapps/quotable) - REPO DEPRECATED; see the current version in Lunchbox http://github.com/nprapps/lunchbox
 - [MinnPost/minnpost-elections-dashboard](https://github.com/MinnPost/minnpost-elections-dashboard) - An elections results dashboard for MN elections.
-- [codefordc/ancfinder](https://github.com/codefordc/ancfinder) - A website about DC's Advisory Neighborhood Commission system.
+- [civictechdc/ancfinder](https://github.com/civictechdc/ancfinder) - A website about DC's Advisory Neighborhood Commission system.
 - [MinnPost/simple-map-d3](https://github.com/MinnPost/simple-map-d3) - A very simple "choropleth" style map with D3.  All you need is a GeoJSON of polygons.
 - [Quartz/Chartbuilder](https://github.com/Quartz/Chartbuilder) - A front-end charting application that facilitates easy creation of simple beautiful charts
 - [csaladenes/sankey](https://github.com/csaladenes/sankey) - D3 Sankey Diagram Generator with self-loops
@@ -6758,7 +6763,6 @@
 - [niksudan/lemongen](https://github.com/niksudan/lemongen) - 🍋  Funny face generator
 - [1j01/she-has-what](https://github.com/1j01/she-has-what) - ⚪ Homestuck Doc Scratch text effect GIF generator
 - [EdernClemente/TypeLighterJS-Typewriter](https://github.com/EdernClemente/TypeLighterJS-Typewriter) - Take a stride into the world of dynamic and appealing typewriters. You can be sure that you will never even think of looking back.
-- [janelin612/tagged-troll-image-maker](https://github.com/janelin612/tagged-troll-image-maker) - 一個最近莫名有點紅的標籤梗圖產生器
 - [xxx/fakeimage](https://github.com/xxx/fakeimage) - A dummy image generator a la dummyimage.com, but written in Ruby.
 - [pistatium/unique_ogp](https://github.com/pistatium/unique_ogp) - "Unique OGP" automatically produces unique OGP image.
 - [theatlantic/citylab-data](https://github.com/theatlantic/citylab-data) - Resources, data, and methodology for CityLab data journalism projects
@@ -7421,7 +7425,7 @@
 - [michael-lynch/open-weather](https://github.com/michael-lynch/open-weather) - A simple, lightweight jQuery plugin used to display the current weather of any city using the free OpenWeatherMap API.
 - [nityanandagohain/keep_clone](https://github.com/nityanandagohain/keep_clone) - a google keep clone
 - [mkearney/presidential_election_county_results_2016](https://github.com/mkearney/presidential_election_county_results_2016) - 🏁 presidential_election_county_results_2016
-- [cloud-gov/pages-uswds-jekyll](https://github.com/cloud-gov/pages-uswds-jekyll) - Reference implementation of USWDS 2.0 for Jekyll on Federalist.  Demo -&gt;
+- [cloud-gov/pages-uswds-jekyll](https://github.com/cloud-gov/pages-uswds-jekyll) - Reference implementation of USWDS 2.0 for Jekyll on Cloud.gov.  Demo -&gt;
 - [gka/todayspaper](https://github.com/gka/todayspaper) - Direct-link to today's NYT frontpage PDF (for bookmarking purposes)
 - [mapbox/mapboxgl-jupyter](https://github.com/mapbox/mapboxgl-jupyter) - Use Mapbox GL JS to visualize data in a Python Jupyter notebook
 - [simonepri/geo-maps](https://github.com/simonepri/geo-maps) - 🗺 High Quality GeoJSON maps programmatically generated.
