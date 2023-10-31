@@ -2234,7 +2234,6 @@
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
 - [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation
-- [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv) - :necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!
 - [joshdk/tty-qlock](https://github.com/joshdk/tty-qlock) - A minimal, curses-based clock for your terminal
 - [LibreELEC/LibreELEC.tv](https://github.com/LibreELEC/LibreELEC.tv) - Just enough OS for KODI
@@ -4199,6 +4198,7 @@
 - [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
 - [crossbario/autobahn-js](https://github.com/crossbario/autobahn-js) - WAMP in JavaScript for Browsers and NodeJS
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+- [heroku/heroku-buildpack-nodejs](https://github.com/heroku/heroku-buildpack-nodejs) - Heroku's buildpack for Node.js applications.
 - [googlemaps/google-maps-services-js](https://github.com/googlemaps/google-maps-services-js) - Node.js client library for Google Maps API Web Services
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [JasonEtco/flintcms](https://github.com/JasonEtco/flintcms) - 🔥💥 A Node.js CMS
@@ -5665,7 +5665,6 @@
 - [zertrin/duplicity-backup.sh](https://github.com/zertrin/duplicity-backup.sh) - Bash wrapper script for automated backups with duplicity supporting Amazon's S3 online storage as well as other storage destinations (ftp, rsync, sftp, local storage...).
 - [koalaman/linuxatemyram.com](https://github.com/koalaman/linuxatemyram.com) - The contents on linuxatemyram.com
 - [senglk/telegram-bot-store-info-sqlite-database](https://github.com/senglk/telegram-bot-store-info-sqlite-database) - Telegram bot that stores data on a SQLite database as user interacts with the bot
-- [heroku/heroku-buildpack-nodejs](https://github.com/heroku/heroku-buildpack-nodejs) - The official Heroku buildpack for Node.js apps.
 - [eternnoir/rss2irc](https://github.com/eternnoir/rss2irc) - Post rss to IRC channel.
 - [dizballanze/m00dbot](https://github.com/dizballanze/m00dbot) - Telegram bot for self-testing of anxiety and depression
 - [RhoInc/Webcharts](https://github.com/RhoInc/Webcharts) - Reusable, flexible, interactive charts with JavaScript
