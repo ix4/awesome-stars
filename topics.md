@@ -165,6 +165,7 @@
 - [package-manager](#package-manager)
 - [parsing](#parsing)
 - [penetration-testing](#penetration-testing)
+- [pentesting](#pentesting)
 - [perl](#perl)
 - [php](#php)
 - [pixel-art](#pixel-art)
@@ -279,7 +280,7 @@
 - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [mapbox/earcut](https://github.com/mapbox/earcut) - The fastest and smallest JavaScript polygon triangulation library for your WebGL apps
 - [mourner/geokdbush](https://github.com/mourner/geokdbush) - The fastest spatial index for geographic locations in JavaScript
-- [Turfjs/turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript
+- [Turfjs/turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript and TypeScript
 
 ## amphp 
 
@@ -865,7 +866,7 @@
 
 ## chrome 
 
-- [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
+- [browserless/browserless](https://github.com/browserless/browserless) - The browserless service in Docker. Run on our cloud or bring your own.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [berstend/puppeteer-extra](https://github.com/berstend/puppeteer-extra) - 💯  Teach puppeteer new tricks through plugins.
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
@@ -1488,7 +1489,7 @@
 - [nazliander/scrape-nr-of-deaths-istanbul](https://github.com/nazliander/scrape-nr-of-deaths-istanbul) - A scraper and simple time series analysis example with Selenium and Seaborn.
 - [testdrivenio/selenium-grid-docker-swarm](https://github.com/testdrivenio/selenium-grid-docker-swarm) - web scraping in parallel with Selenium Grid and Docker
 - [PeterDaveHello/ipinfo.tw](https://github.com/PeterDaveHello/ipinfo.tw) - 🐳 A self-host  🙅 non-tracking, AD-🆓 ➕ 🍪-🆓 solution to show your IP ℹ️ Super small (🤏10MB)
-- [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
+- [browserless/browserless](https://github.com/browserless/browserless) - The browserless service in Docker. Run on our cloud or bring your own.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
@@ -1782,6 +1783,7 @@
 
 ## firefox 
 
+- [browserless/browserless](https://github.com/browserless/browserless) - The browserless service in Docker. Run on our cloud or bring your own.
 - [jnmcfly/awesome-startpage](https://github.com/jnmcfly/awesome-startpage) - This is a carefully compiled list of remarkable projects with the focus on startpages.
 - [z0ccc/comet](https://github.com/z0ccc/comet) - Browser extension to replace Youtube comments with Reddit comments or view the Reddit comments of any webpage.
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
@@ -1944,7 +1946,7 @@
 - [geoman-io/leaflet-geoman](https://github.com/geoman-io/leaflet-geoman) - 🍂🗺️ The most powerful leaflet plugin for drawing and editing geometry layers
 - [openwisp/django-rest-framework-gis](https://github.com/openwisp/django-rest-framework-gis) - Geographic add-ons for Django REST Framework. Maintained by the OpenWISP Project.
 - [mbloch/mapshaper](https://github.com/mbloch/mapshaper) - Tools for editing Shapefile, GeoJSON, TopoJSON and CSV files
-- [Turfjs/turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript
+- [Turfjs/turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript and TypeScript
 - [flopp/go-staticmaps](https://github.com/flopp/go-staticmaps) - A go (golang) library and command line tool to render static map images using OpenStreetMap tiles.
 - [mousebird-consulting-inc/WhirlyGlobe](https://github.com/mousebird-consulting-inc/WhirlyGlobe) - WhirlyGlobe Development
 - [mapnik/mapnik](https://github.com/mapnik/mapnik) - Mapnik is an open source toolkit for developing mapping applications
@@ -3218,7 +3220,7 @@
 - [geosolutions-it/MapStore2](https://github.com/geosolutions-it/MapStore2) - Modern webmapping with OpenLayers, Leaflet, Cesium and React
 - [tyrasd/osmtogeojson](https://github.com/tyrasd/osmtogeojson) - convert osm to geojson
 - [Esri/terraformer](https://github.com/Esri/terraformer) - A geographic toolkit for dealing with geometry, geography, formats, and building geo databases
-- [Turfjs/turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript
+- [Turfjs/turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript and TypeScript
 - [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
 - [Erkaman/regl-anim](https://github.com/Erkaman/regl-anim) - Some weird animations made with regl and WebGL
 - [regl-project/regl](https://github.com/regl-project/regl) - 👑 Functional WebGL
@@ -4134,6 +4136,7 @@
 - [sumithemmadi/truecallerjs](https://github.com/sumithemmadi/truecallerjs) - TruecallerJS: This is a library for retrieving phone number details using the Truecaller API.
 - [marcosrg9/YouTubeTV](https://github.com/marcosrg9/YouTubeTV) - Simple YouTube TV client for desktop based on electron.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
+- [browserless/browserless](https://github.com/browserless/browserless) - The browserless service in Docker. Run on our cloud or bring your own.
 - [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) - Google Sheets API wrapper for Javascript / Typescript
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
@@ -4670,8 +4673,6 @@
 - [eladnava/pikud-haoref-api](https://github.com/eladnava/pikud-haoref-api) - A Node.js wrapper library for Pikud Haoref's unofficial rocket alert API.
 - [jackj07/Response-Pattern-Matcher](https://github.com/jackj07/Response-Pattern-Matcher) - Adds extensibility to Burp by using a list of payloads to pattern match on HTTP responses highlighting interesting and potentially vulnerable areas.
 - [PortSwigger/turbo-intruder](https://github.com/PortSwigger/turbo-intruder) - Turbo Intruder is a Burp Suite extension for sending large numbers of HTTP requests and analyzing the results.
-- [cujanovic/Content-Bruteforcing-Wordlist](https://github.com/cujanovic/Content-Bruteforcing-Wordlist) - Wordlist for content(directory) bruteforce discovering with Burp or dirsearch
-- [cujanovic/Open-Redirect-Payloads](https://github.com/cujanovic/Open-Redirect-Payloads) - Open Redirect Payloads
 - [nadam/userinfobot](https://github.com/nadam/userinfobot) - Simple Java Telegram bot displaying user info when a message is forwarded to it
 - [ArchiveTeam/grab-site](https://github.com/ArchiveTeam/grab-site) - The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
@@ -4687,7 +4688,6 @@
 - [Mascobot/pandemic-ventilator-2.0](https://github.com/Mascobot/pandemic-ventilator-2.0) - Open Source Pandemic Ventilator with Raspberry Pi and Arduino
 - [0xjmux/InsanelyCheapElectronics](https://github.com/0xjmux/InsanelyCheapElectronics) - A compilation of links relating to electronics me and my friends have bought from China. It is online as a resource for others just starting out in electronics, and are looking for projects to do.
 - [eliddell1/Project-Blue-Fist](https://github.com/eliddell1/Project-Blue-Fist) - BLE Edition of the original FistBump (portable WPA handshake grabber)
-- [hak5/bashbunny-payloads](https://github.com/hak5/bashbunny-payloads) - The Official Bash Bunny Payload Repository
 - [eliddell1/FistBump](https://github.com/eliddell1/FistBump) - ProtoType for a handheld device used to grab WPA four way handshakes
 - [cisagov/check-your-pulse](https://github.com/cisagov/check-your-pulse) - This utility can help determine if indicators of compromise (IOCs) exist in the log files of a Pulse Secure VPN Appliance for CVE-2019-11510.
 - [kwsp/COVID-LCD](https://github.com/kwsp/COVID-LCD) - Display live Covid 19 data on a LCD display with a Raspberry Pi
@@ -6087,7 +6087,6 @@
 - [iizukanao/picam-streamer](https://github.com/iizukanao/picam-streamer) - Out-of-the-box SD card image for live streaming with Raspberry Pi
 - [felixhayashi/TW5-TiddlyMap](https://github.com/felixhayashi/TW5-TiddlyMap) - Map drawing and topic visualization for your wiki
 - [phaag/nfdump](https://github.com/phaag/nfdump) - Netflow processing tools
-- [tanprathan/MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics.
 - [SpatialServer/Leaflet.MapboxVectorTile](https://github.com/SpatialServer/Leaflet.MapboxVectorTile) - A Leaflet Plugin that renders Mapbox Vector Tiles on HTML5 Canvas.
 - [locana-co/PGRestAPI](https://github.com/locana-co/PGRestAPI) - Node.js REST API for PostGres Spatial Entities. AKA: SpatialServer
 - [perliedman/leaflet-underneath](https://github.com/perliedman/leaflet-underneath) - Find interesting features is in your map using Mapbox Vector Tiles data
@@ -7173,7 +7172,7 @@
 - [OpenNewsLabs/c-span_opened_captions_server](https://github.com/OpenNewsLabs/c-span_opened_captions_server) - c-span opened captions node buffer server + google docs apps script
 - [OpenNewsLabs/news-graphics-team](https://github.com/OpenNewsLabs/news-graphics-team) - A list of all the graphics teams in newsrooms around the world.
 - [GSA/project-open-data-dashboard](https://github.com/GSA/project-open-data-dashboard) - Project Open Data Dashboard
-- [wbkd/awesome-interactive-journalism](https://github.com/wbkd/awesome-interactive-journalism) - A list of awesome interactive journalism projects.
+- [xyflow/awesome-interactive-journalism](https://github.com/xyflow/awesome-interactive-journalism) - A list of awesome interactive journalism projects.
 - [hebcal/hebcal-js](https://github.com/hebcal/hebcal-js) - ⛔️ DEPRECATED - a perpetual Jewish Calendar (JavaScript)
 - [voxmedia/pixelpunch](https://github.com/voxmedia/pixelpunch) - http://pixelpunch.voxmedia.com
 - [voxmedia/meme](https://github.com/voxmedia/meme) - Meme generator
@@ -7515,6 +7514,39 @@
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
 - [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform
+
+## pentesting 
+
+- [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
+- [Leviathan36/kaboom](https://github.com/Leviathan36/kaboom) - A tool to automate penetration tests
+- [maldevel/PenTestKit](https://github.com/maldevel/PenTestKit) - Tools, scripts and tips useful during Penetration Testing engagements.
+- [mgeeky/Penetration-Testing-Tools](https://github.com/mgeeky/Penetration-Testing-Tools) - A collection of more than 170+ tools, scripts, cheatsheets and other loots that I've developed over years for Red Teaming/Pentesting/IT Security audits purposes.
+- [ASHWIN990/ADB-Toolkit](https://github.com/ASHWIN990/ADB-Toolkit) - ADB-Toolkit V2 for easy ADB tricks with many perks in all one. ENJOY!
+- [cujanovic/Content-Bruteforcing-Wordlist](https://github.com/cujanovic/Content-Bruteforcing-Wordlist) - Wordlist for content(directory) bruteforce discovering with Burp or dirsearch
+- [cujanovic/Open-Redirect-Payloads](https://github.com/cujanovic/Open-Redirect-Payloads) - Open Redirect Payloads
+- [hak5/bashbunny-payloads](https://github.com/hak5/bashbunny-payloads) - The Official Bash Bunny Payload Repository
+- [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
+- [androguard/androguard](https://github.com/androguard/androguard) - Reverse engineering and pentesting for Android applications
+- [tanprathan/MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics.
+- [OWASP/owasp-mastg](https://github.com/OWASP/owasp-mastg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
+- [si9int/cc.py](https://github.com/si9int/cc.py) - Extracting URLs of a specific target based on the results of "commoncrawl.org"
+- [m0rtem/CloudFail](https://github.com/m0rtem/CloudFail) - Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network
+- [bl4de/security-tools](https://github.com/bl4de/security-tools) - My collection of various security tools created mostly in Python and Bash. For CTFs and Bug Bounty.
+- [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
+- [UndeadSec/SocialFish](https://github.com/UndeadSec/SocialFish) - Phishing Tool & Information Collector
+- [almandin/fuxploider](https://github.com/almandin/fuxploider) - File upload vulnerability scanner and exploitation tool.
+- [xdavidhu/mitmAP](https://github.com/xdavidhu/mitmAP) - 📡 A python program to create a fake AP and sniff data.
+- [D4Vinci/Cr3dOv3r](https://github.com/D4Vinci/Cr3dOv3r) - Know the dangers of credential reuse attacks.
+- [v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) - This is a multi-use bash script for Linux systems to audit wireless networks.
+- [arismelachroinos/lscript](https://github.com/arismelachroinos/lscript) - The LAZY script will make your life easier, and of course faster.
+- [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) - Next generation web scanner
+- [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
+- [WithSecureLabs/drozer](https://github.com/WithSecureLabs/drozer) - The Leading Security Assessment Framework for Android.
+- [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - This repository contains cutting-edge open-source security tools (OST) for a red teamer and threat hunter.
+- [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
+- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform
+- [xdavidhu/lanGhost](https://github.com/xdavidhu/lanGhost) - 👻 A LAN dropbox chatbot controllable via Telegram
 
 ## perl 
 
@@ -8371,7 +8403,6 @@
 - [faker-ruby/faker](https://github.com/faker-ruby/faker) - A library for generating fake data such as names, addresses, and phone numbers.
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [everypolitician/everypolitician-data](https://github.com/everypolitician/everypolitician-data) - data for national legislatures worldwide
-- [forddavis/takeout-base-hours](https://github.com/forddavis/takeout-base-hours) - Simple script to determine hours spent at office using Google Takeout GPS data
 - [CJKinni/linked-parallel-table](https://github.com/CJKinni/linked-parallel-table) - ⚖️ An automated version of the Parallel Table of Authorities and Rules with links to legal texts
 - [benbalter/word-to-markdown](https://github.com/benbalter/word-to-markdown) - A ruby gem to liberate content from Microsoft Word documents
 - [projectblacklight/spotlight](https://github.com/projectblacklight/spotlight) - Spotlight enables librarians, curators, and others who are responsible for digital collections to create  attractive, feature-rich websites that highlight these collections.
@@ -8842,6 +8873,7 @@
 
 ## typescript 
 
+- [browserless/browserless](https://github.com/browserless/browserless) - The browserless service in Docker. Run on our cloud or bring your own.
 - [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) - Google Sheets API wrapper for Javascript / Typescript
 - [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio
 - [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
