@@ -1381,7 +1381,7 @@
 - [siffash/cookie-fucker](https://github.com/siffash/cookie-fucker) - Removes all cookie warnings. Light and open-sourced.
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
-- [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
+- [browserless/browserless](https://github.com/browserless/browserless) - The browserless service in Docker. Run on our cloud or bring your own.
 - [corgis-edu/corgis](https://github.com/corgis-edu/corgis) - The new version of the CORGIS Project, featuring Tabular datasets
 - [berstend/puppeteer-extra](https://github.com/berstend/puppeteer-extra) - 💯  Teach puppeteer new tricks through plugins.
 - [gurnec/removeddit](https://github.com/gurnec/removeddit) - View deleted stuff from reddit
@@ -3191,7 +3191,7 @@
 - [node-geojson/openflights-geojson](https://github.com/node-geojson/openflights-geojson) - Download and reformat OpenFlights.org data into GeoJSON.
 - [geojson-xyz/geojson-xyz](https://github.com/geojson-xyz/geojson-xyz) - just get the geojson
 - [mbloch/mapshaper](https://github.com/mbloch/mapshaper) - Tools for editing Shapefile, GeoJSON, TopoJSON and CSV files
-- [Turfjs/turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript
+- [Turfjs/turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript and TypeScript
 - [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
 - [ENT8R/blacklistr](https://github.com/ENT8R/blacklistr) - A website for visualizing country specific data
 - [generalpiston/react-autosuggest-geocoder](https://github.com/generalpiston/react-autosuggest-geocoder) - react-autosuggest with suggestions from pelias services, such as geocode.earth.
@@ -3890,7 +3890,7 @@
 - [apilayer/numverify-API](https://github.com/apilayer/numverify-API) - Free global phone number validation & lookup JSON API
 - [apilayer/screenshotlayer-API](https://github.com/apilayer/screenshotlayer-API) - Screenshotlayer is a lighweight REST API built to deliver high quality PNG, JPEG & GIF website screenshots at unparalleled speeds and through a simple interface.
 - [OpenNewsLabs/news-graphics-team](https://github.com/OpenNewsLabs/news-graphics-team) - A list of all the graphics teams in newsrooms around the world.
-- [wbkd/awesome-interactive-journalism](https://github.com/wbkd/awesome-interactive-journalism) - A list of awesome interactive journalism projects.
+- [xyflow/awesome-interactive-journalism](https://github.com/xyflow/awesome-interactive-journalism) - A list of awesome interactive journalism projects.
 - [aws-samples/aws-serverless-airline-booking](https://github.com/aws-samples/aws-serverless-airline-booking) - Airline Booking is a sample web application that provides Flight Search, Flight Payment, Flight Booking and Loyalty points including end-to-end testing, GraphQL and CI/CD. This web application was the
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
@@ -4934,7 +4934,6 @@
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [nypl-spacetime/nypl-warper](https://github.com/nypl-spacetime/nypl-warper) - NYPL Map Warper
 - [everypolitician/everypolitician-data](https://github.com/everypolitician/everypolitician-data) - data for national legislatures worldwide
-- [forddavis/takeout-base-hours](https://github.com/forddavis/takeout-base-hours) - Simple script to determine hours spent at office using Google Takeout GPS data
 - [chrisanthropic/Open-Publisher](https://github.com/chrisanthropic/Open-Publisher) - Using Jekyll to create outputs that can be used as Pandoc inputs. In short - input markdown, output mobi, epub, pdf, and print-ready pdf. With a focus on fiction.
 - [CJKinni/linked-parallel-table](https://github.com/CJKinni/linked-parallel-table) - ⚖️ An automated version of the Parallel Table of Authorities and Rules with links to legal texts
 - [benbalter/word-to-markdown](https://github.com/benbalter/word-to-markdown) - A ruby gem to liberate content from Microsoft Word documents
