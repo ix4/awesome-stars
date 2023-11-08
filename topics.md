@@ -954,7 +954,7 @@
 - [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
 - [natzcam/icetty](https://github.com/natzcam/icetty) - secure p2p command line access to any of your devices
 - [sdras/project-explorer](https://github.com/sdras/project-explorer) - 🎋A CLI tool to create an annotated tree visualization of any project
-- [wowchemy/bibtex-to-markdown](https://github.com/wowchemy/bibtex-to-markdown) - 📚 Import references from Bibtex to your Markdown website or book. 将Bibtex转换为Markdown网站
+- [GetRD/academic-file-converter](https://github.com/GetRD/academic-file-converter) - 📚 Import Bibtex publications and Jupyter Notebook blog posts into your Markdown website or book. 将Bibtex转换为Markdown网站
 - [datawrapper/cli](https://github.com/datawrapper/cli) - Command Line Utility to make project scaffolding and tooling setup simple.
 - [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
@@ -1271,7 +1271,7 @@
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
-- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
+- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
 - [Chicago/food-inspections-evaluation](https://github.com/Chicago/food-inspections-evaluation) - This repository contains the code to generate predictions of critical violations at food establishments in Chicago. It also contains the results of an evaluation of the effectiveness of those predicti
 - [plotly/dash-oil-and-gas-demo](https://github.com/plotly/dash-oil-and-gas-demo) - Dash Demo App - New York Oil and Gas
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
@@ -2287,7 +2287,7 @@
 - [rubygems/bundler-site](https://github.com/rubygems/bundler-site) - The Bundler documentation website
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [coala/coala-bears](https://github.com/coala/coala-bears) - Bears for coala
-- [rbenv/ruby-build](https://github.com/rbenv/ruby-build) - Compile and install Ruby
+- [rbenv/ruby-build](https://github.com/rbenv/ruby-build) - A tool to download, compile, and install Ruby on Unix-like systems.
 - [guess-js/guess](https://github.com/guess-js/guess) - 🔮 Libraries & tools for enabling Machine Learning driven user-experiences on the web
 - [sebastianfeldmann/phpbu](https://github.com/sebastianfeldmann/phpbu) - PHP Backup Utility - Creates and encrypts database and file backups, syncs your backups to other servers or cloud services and assists you monitor your backup process
 - [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
@@ -2298,7 +2298,6 @@
 - [NiallEccles/Hacktoberfest-animations](https://github.com/NiallEccles/Hacktoberfest-animations) - Small animation selector for Hacktoberfest
 - [airform/airform](https://github.com/airform/airform) - Functional HTML forms for Front-End Developers.
 - [mgechev/javascript-algorithms](https://github.com/mgechev/javascript-algorithms) - 💻 JavaScript implementations of computer science algorithms
-- [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
 - [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
@@ -3350,7 +3349,7 @@
 - [tasmo/reveal-jekyll](https://github.com/tasmo/reveal-jekyll) - Online presentation for GitHub Pages and Jekyll in Markdown using reveal.js with a Solarized Color Theme
 - [mmistakes/jekyll-theme-basically-basic](https://github.com/mmistakes/jekyll-theme-basically-basic) - Your new Jekyll default theme.
 - [benbalter/jekyll-style-guide](https://github.com/benbalter/jekyll-style-guide) - An opinionated guide to common Jekyll design patterns and anti-patterns.
-- [wowchemy/bibtex-to-markdown](https://github.com/wowchemy/bibtex-to-markdown) - 📚 Import references from Bibtex to your Markdown website or book. 将Bibtex转换为Markdown网站
+- [GetRD/academic-file-converter](https://github.com/GetRD/academic-file-converter) - 📚 Import Bibtex publications and Jupyter Notebook blog posts into your Markdown website or book. 将Bibtex转换为Markdown网站
 - [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) - 🎨 Simplistic, responsive jekyll based open source theme
 - [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
 - [CloudCannon/justice-jekyll-template](https://github.com/CloudCannon/justice-jekyll-template) - :office: Law firm themed business template for Jekyll
@@ -3632,7 +3631,7 @@
 - [yishn/tikzcd-editor](https://github.com/yishn/tikzcd-editor) - A simple visual editor for creating commutative diagrams.
 - [aslushnikov/latex-online](https://github.com/aslushnikov/latex-online) - Online latex compiler. You give it a link, it gives you PDF
 - [chrisanthropic/Open-Publisher](https://github.com/chrisanthropic/Open-Publisher) - Using Jekyll to create outputs that can be used as Pandoc inputs. In short - input markdown, output mobi, epub, pdf, and print-ready pdf. With a focus on fiction.
-- [wowchemy/bibtex-to-markdown](https://github.com/wowchemy/bibtex-to-markdown) - 📚 Import references from Bibtex to your Markdown website or book. 将Bibtex转换为Markdown网站
+- [GetRD/academic-file-converter](https://github.com/GetRD/academic-file-converter) - 📚 Import Bibtex publications and Jupyter Notebook blog posts into your Markdown website or book. 将Bibtex转换为Markdown网站
 - [rstudio/bookdown](https://github.com/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown
 - [hydecorp/hydejack](https://github.com/hydecorp/hydejack) - A boutique Jekyll theme for hackers, nerds, and academics
 - [saadq/resumake.io](https://github.com/saadq/resumake.io) - 📝 A website for automatically generating elegant LaTeX resumes.
@@ -3924,7 +3923,7 @@
 - [assemble/assemble](https://github.com/assemble/assemble) - Get the rocks out of your socks! Assemble makes you fast at web development! Used by thousands of projects for rapid prototyping, themes, scaffolds, boilerplates, e-books, UI components, API documenta
 - [breakdance/breakdance](https://github.com/breakdance/breakdance) - It's time for your markup to get down! HTML to markdown converter. Breakdance is a highly pluggable, flexible and easy to use.
 - [jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://g
-- [wowchemy/bibtex-to-markdown](https://github.com/wowchemy/bibtex-to-markdown) - 📚 Import references from Bibtex to your Markdown website or book. 将Bibtex转换为Markdown网站
+- [GetRD/academic-file-converter](https://github.com/GetRD/academic-file-converter) - 📚 Import Bibtex publications and Jupyter Notebook blog posts into your Markdown website or book. 将Bibtex转换为Markdown网站
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [dauxio/daux.io](https://github.com/dauxio/daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer f
 - [chrisrzhou/quotes](https://github.com/chrisrzhou/quotes) - A simple UI built around quotes written in markdown
@@ -4068,7 +4067,7 @@
 - [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
-- [wowchemy/bibtex-to-markdown](https://github.com/wowchemy/bibtex-to-markdown) - 📚 Import references from Bibtex to your Markdown website or book. 将Bibtex转换为Markdown网站
+- [GetRD/academic-file-converter](https://github.com/GetRD/academic-file-converter) - 📚 Import Bibtex publications and Jupyter Notebook blog posts into your Markdown website or book. 将Bibtex转换为Markdown网站
 - [wri/gfw](https://github.com/wri/gfw) - Global Forest Watch: An online, global, near-real time forest monitoring tool
 
 ## nlp 
@@ -5160,7 +5159,7 @@
 - [hughsk/disc](https://github.com/hughsk/disc) - :chart_with_upwards_trend: Visualise the module tree of browserify project bundles and track down bloat.
 - [stackcss/css-extract](https://github.com/stackcss/css-extract) - Extract CSS from a browserify bundle
 - [hughsk/envify](https://github.com/hughsk/envify) - :wrench: Selectively replace Node-style environment variables with plain strings.
-- [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic) - 🎓 无需编写任何代码即可轻松创建漂亮的学术网站 Easily create a beautiful academic résumé or educational website using Hugo and GitHub. No code.
+- [HugoBlox/theme-academic-cv](https://github.com/HugoBlox/theme-academic-cv) - 🎓 无需编写任何代码即可轻松创建漂亮的学术网站 Easily create a beautiful academic résumé or educational website using Hugo and GitHub. No code.
 - [themefisher/educenter-hugo](https://github.com/themefisher/educenter-hugo) - Educenter is an educational website template powered by Hugo. It can be used as an online teaching platform, school and university website.
 - [nimiq/qr-scanner](https://github.com/nimiq/qr-scanner) - Lightweight Javascript QR Code Scanner
 - [ellekasai/twemoji-awesome](https://github.com/ellekasai/twemoji-awesome) - [Unmaintained] Like Font Awesome, but for Twitter Emoji
@@ -5466,7 +5465,6 @@
 - [FiloSottile/whoami.filippo.io](https://github.com/FiloSottile/whoami.filippo.io) - A ssh server that knows who you are. $ ssh whoami.filippo.io
 - [FiloSottile/captive-browser](https://github.com/FiloSottile/captive-browser) - A dedicated Chrome instance to log into captive portals without messing with DNS settings.
 - [LingDong-/shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) - Procedurally generated Chinese landscape painting.
-- [braver/programmingfonts](https://github.com/braver/programmingfonts) - Test drive programming fonts online
 - [tonsky/datascript-todo](https://github.com/tonsky/datascript-todo) - DataScript ToDo Sample Application
 - [tonsky/rum](https://github.com/tonsky/rum) - Simple, decomplected, isomorphic HTML UI library for Clojure and ClojureScript
 - [LingDong-/linedraw](https://github.com/LingDong-/linedraw) - Convert images to vectorized line drawings for plotters.
@@ -6866,7 +6864,7 @@
 - [phl43/twitter-score](https://github.com/phl43/twitter-score) - A script that compute a score that is a better measure of someone's influence on Twitter than his number of followers. See this thread on Twitter for more details on the motivations and the computatio
 - [christopherkade/banner-generator](https://github.com/christopherkade/banner-generator) - :speech_balloon: Easily generate banners for your articles on dev.to
 - [roth-a/Bash-Scripts](https://github.com/roth-a/Bash-Scripts) - Bash scripts, including an incremental backup script using rsync. Also a script to convert many videos using ffmpeg
-- [guardianproject/proofmode-android](https://github.com/guardianproject/proofmode-android) - THIS REPOSITORY IS MIGRATING TO: https://gitlab.com/guardianproject/proofmode/proofmode-android
+- [guardianproject/proofmode-android](https://github.com/guardianproject/proofmode-android) - THIS REPOSITORY IS MIRROR OF: https://gitlab.com/guardianproject/proofmode/proofmode-android
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [oduwsdl/raintale](https://github.com/oduwsdl/raintale) - A Python utility for publishing a social media story built from archived web pages to multiple services.
 - [oduwsdl/archivenow](https://github.com/oduwsdl/archivenow) - A Tool To Push Web Resources Into Web Archives
@@ -7171,7 +7169,7 @@
 - [OpenNewsLabs/c-span_opened_captions_server](https://github.com/OpenNewsLabs/c-span_opened_captions_server) - c-span opened captions node buffer server + google docs apps script
 - [OpenNewsLabs/news-graphics-team](https://github.com/OpenNewsLabs/news-graphics-team) - A list of all the graphics teams in newsrooms around the world.
 - [GSA/project-open-data-dashboard](https://github.com/GSA/project-open-data-dashboard) - Project Open Data Dashboard
-- [xyflow/awesome-interactive-journalism](https://github.com/xyflow/awesome-interactive-journalism) - A list of awesome interactive journalism projects.
+- [wbkd/awesome-interactive-journalism](https://github.com/wbkd/awesome-interactive-journalism) - A list of awesome interactive journalism projects.
 - [hebcal/hebcal-js](https://github.com/hebcal/hebcal-js) - ⛔️ DEPRECATED - a perpetual Jewish Calendar (JavaScript)
 - [voxmedia/pixelpunch](https://github.com/voxmedia/pixelpunch) - http://pixelpunch.voxmedia.com
 - [voxmedia/meme](https://github.com/voxmedia/meme) - Meme generator
@@ -7640,6 +7638,7 @@
 
 ## programming 
 
+- [braver/programmingfonts](https://github.com/braver/programmingfonts) - Test drive programming fonts online: the definitive list of fonts for code.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 
 ## project-management 
@@ -7999,7 +7998,7 @@
 - [rte-antares-rpackage/leaflet.minicharts](https://github.com/rte-antares-rpackage/leaflet.minicharts) - Minicharts for dynamic leaflet maps
 - [daattali/shinyjs](https://github.com/daattali/shinyjs) - 💡 Easily improve the user experience of your Shiny apps in seconds
 - [datamapio/story](https://github.com/datamapio/story) - Cheatsheets, Tutorials, Articles etc.
-- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
+- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
 - [jbkunst/highcharter](https://github.com/jbkunst/highcharter) - R wrapper for highcharts
 - [dreamRs/apexcharter](https://github.com/dreamRs/apexcharter) - :bar_chart: R Htmlwidget for ApexCharts.js
 - [evanodell/parlitools](https://github.com/evanodell/parlitools) - A collection of useful tools for UK politics
@@ -8382,7 +8381,7 @@
 - [rubygems/bundler](https://github.com/rubygems/bundler) - Manage your Ruby application's gem dependencies
 - [github/gemoji](https://github.com/github/gemoji) - Emoji images and names.
 - [rubygems/bundler-site](https://github.com/rubygems/bundler-site) - The Bundler documentation website
-- [rbenv/ruby-build](https://github.com/rbenv/ruby-build) - Compile and install Ruby
+- [rbenv/ruby-build](https://github.com/rbenv/ruby-build) - A tool to download, compile, and install Ruby on Unix-like systems.
 - [markets/jekyll-timeago](https://github.com/markets/jekyll-timeago) - :hourglass: Ruby library to compute distance of dates in words. Originally built for Jekyll.
 - [souldanger/jekyll-pwa-workbox](https://github.com/souldanger/jekyll-pwa-workbox) - A Jekyll plugin using Workbox to make your PWA / Website available offline.
 - [inukshuk/jekyll-scholar](https://github.com/inukshuk/jekyll-scholar) - jekyll extensions for the blogging scholar
