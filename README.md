@@ -352,6 +352,7 @@
 - [darshandsoni/asciidoctor-skins](https://github.com/darshandsoni/asciidoctor-skins) - Control how your asciidoctor powered documentation looks
 - [asciidoctor/jekyll-asciidoc-quickstart](https://github.com/asciidoctor/jekyll-asciidoc-quickstart) - A template project for creating AsciiDoc-based websites using Jekyll.
 - [asciidoctor/docgist](https://github.com/asciidoctor/docgist) - Render AsciiDoc documents from Gists, GitHub, DropBox and other remote sources in the browser.
+- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
 - [cfpb/api](https://github.com/cfpb/api) - Documentation to support upcoming data platform API and data sets
 - [vsoch/docsy-jekyll](https://github.com/vsoch/docsy-jekyll) - A Jekyll version of the beautiful Docsy!
 - [ellekasai/twemoji-awesome](https://github.com/ellekasai/twemoji-awesome) - [Unmaintained] Like Font Awesome, but for Twitter Emoji
@@ -378,7 +379,7 @@
 - [poole/lanyon](https://github.com/poole/lanyon) - A content-first, sliding sidebar theme for Jekyll.
 - [vinitkumar/white-paper](https://github.com/vinitkumar/white-paper) - Simple, elegant and clean jekyll theme.
 - [artemsheludko/flexible-jekyll](https://github.com/artemsheludko/flexible-jekyll) - Flexible-Jekyll is a simple and clean theme for Jekyll
-- [braver/programmingfonts](https://github.com/braver/programmingfonts) - Test drive programming fonts online
+- [braver/programmingfonts](https://github.com/braver/programmingfonts) - Test drive programming fonts online: the definitive list of fonts for code.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [arkadianriver/spectral](https://github.com/arkadianriver/spectral) - A jekyll theme for the spectral template by html5up.net (@ajlkn). Demo: http://arkadianriver.github.io/spectral. How to jekyll: http://jekyllrb.com/docs/home/. If you intend to use this theme as a blo
 - [MuckRock/foiamachine](https://github.com/MuckRock/foiamachine) - Automate your FOIAs. The real, production version.
@@ -808,10 +809,8 @@
 - [openshift/openshift-docs](https://github.com/openshift/openshift-docs) - OpenShift 3 and 4 product and community documentation
 - [nginxinc/nginx-wiki](https://github.com/nginxinc/nginx-wiki) - ARCHIVED -- Source for the now archived NGINX Wiki section of https://www.nginx.com
 - [circlecell/jscompress.com](https://github.com/circlecell/jscompress.com) - Site to minify/compress javascript and combine multiple files into a single compressed file
-- [jsdoc/jsdoc.github.io](https://github.com/jsdoc/jsdoc.github.io) - JSDoc website
 - [whatwg/html](https://github.com/whatwg/html) - HTML Standard
 - [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
-- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
 - [cfpb/source-code-policy](https://github.com/cfpb/source-code-policy) - The CFPB's official Source Code Policy.
 - [w3c/wcag](https://github.com/w3c/wcag) - Web Content Accessibility Guidelines
 - [18F/handbook](https://github.com/18F/handbook) - The home of policies and guidelines that make up TTS.
@@ -1051,7 +1050,7 @@
 - [propublica/facebook-political-ads](https://github.com/propublica/facebook-political-ads) - Monitoring Facebook Political Ads
 - [curran/data](https://github.com/curran/data) - A collection of public data sets
 - [usnistgov/pfhub](https://github.com/usnistgov/pfhub) - The CHiMaD Phase Field Community Website
-- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
+- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
 - [srfdata/srfdata.github.io](https://github.com/srfdata/srfdata.github.io) - GitHub Page of SRF Data
 - [naver/egjs-visible](https://github.com/naver/egjs-visible) - A class that checks if an element is visible in the base element or viewport.
 - [hammerjs/hammerjs.github.io](https://github.com/hammerjs/hammerjs.github.io) - Website
@@ -1349,7 +1348,7 @@
 - [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted RSS reader.
 - [jberkel/sms-backup-plus](https://github.com/jberkel/sms-backup-plus) - Backup Android SMS, MMS and call log to Gmail / Gcal / IMAP
 - [google/physical-web](https://github.com/google/physical-web) - The Physical Web: walk up and use anything
-- [guardianproject/proofmode-android](https://github.com/guardianproject/proofmode-android) - THIS REPOSITORY IS MIGRATING TO: https://gitlab.com/guardianproject/proofmode/proofmode-android
+- [guardianproject/proofmode-android](https://github.com/guardianproject/proofmode-android) - THIS REPOSITORY IS MIRROR OF: https://gitlab.com/guardianproject/proofmode/proofmode-android
 - [open-keychain/open-keychain](https://github.com/open-keychain/open-keychain) - OpenKeychain is an OpenPGP implementation for Android.
 - [redsolution/xabber-android](https://github.com/redsolution/xabber-android) - Open-source XMPP client for Android
 - [levelup/palabre-extensions](https://github.com/levelup/palabre-extensions) - 
@@ -1381,7 +1380,6 @@
 - [siffash/cookie-fucker](https://github.com/siffash/cookie-fucker) - Removes all cookie warnings. Light and open-sourced.
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
-- [browserless/browserless](https://github.com/browserless/browserless) - The browserless service in Docker. Run on our cloud or bring your own.
 - [corgis-edu/corgis](https://github.com/corgis-edu/corgis) - The new version of the CORGIS Project, featuring Tabular datasets
 - [berstend/puppeteer-extra](https://github.com/berstend/puppeteer-extra) - 💯  Teach puppeteer new tricks through plugins.
 - [gurnec/removeddit](https://github.com/gurnec/removeddit) - View deleted stuff from reddit
@@ -2128,7 +2126,7 @@
 - [PButcher/a-million-times](https://github.com/PButcher/a-million-times) - A digital analogue clock
 - [Yakubovich/descendant_tree](https://github.com/Yakubovich/descendant_tree) - Uses d3.js to draw a descendant family tree
 - [StartBootstrap/startbootstrap-stylish-portfolio](https://github.com/StartBootstrap/startbootstrap-stylish-portfolio) - A stylish, one page, Bootstrap portfolio theme created by Start Bootstrap
-- [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
+- [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming.
 - [GermaVinsmoke/bmi-calculator](https://github.com/GermaVinsmoke/bmi-calculator) - React Hooks app for calculating BMI
 - [KarthikeyanRanasthala/react-todo-list](https://github.com/KarthikeyanRanasthala/react-todo-list) - https://karthikeyanranasthala.github.io/react-todo-list/
 - [KarthikeyanRanasthala/react-unit-converter](https://github.com/KarthikeyanRanasthala/react-unit-converter) - 
@@ -3473,7 +3471,7 @@
 - [plotly/graphing-library-docs](https://github.com/plotly/graphing-library-docs) - Plotly's graphing libraries documentation.
 - [NUKnightLab/studio-documenters](https://github.com/NUKnightLab/studio-documenters) - Explorations for the Documenters.org project
 - [andrewray/iocaml](https://github.com/andrewray/iocaml) - An OCaml kernel for the IPython notebook
-- [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic) - 🎓 无需编写任何代码即可轻松创建漂亮的学术网站 Easily create a beautiful academic résumé or educational website using Hugo and GitHub. No code.
+- [HugoBlox/theme-academic-cv](https://github.com/HugoBlox/theme-academic-cv) - 🎓 无需编写任何代码即可轻松创建漂亮的学术网站 Easily create a beautiful academic résumé or educational website using Hugo and GitHub. No code.
 - [PAIR-code/facets](https://github.com/PAIR-code/facets) - Visualizations for machine learning datasets
 - [cs231n/cs231n.github.io](https://github.com/cs231n/cs231n.github.io) - Public facing notes page
 - [sphinxteam/mlcourse_2019](https://github.com/sphinxteam/mlcourse_2019) - INTRODUCTION TO MACHINE LEARNING: An introductory practical course by Florent Krzakala and Antoine Baker
@@ -3615,6 +3613,7 @@
 
 ## Nunjucks 
 
+- [jsdoc/jsdoc.github.io](https://github.com/jsdoc/jsdoc.github.io) - JSDoc website
 - [jamstack/jamstack.org](https://github.com/jamstack/jamstack.org) - The official Jamstack site
 - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 - [GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev) - The frontend, backend, and content source code for web.dev
@@ -3890,7 +3889,7 @@
 - [apilayer/numverify-API](https://github.com/apilayer/numverify-API) - Free global phone number validation & lookup JSON API
 - [apilayer/screenshotlayer-API](https://github.com/apilayer/screenshotlayer-API) - Screenshotlayer is a lighweight REST API built to deliver high quality PNG, JPEG & GIF website screenshots at unparalleled speeds and through a simple interface.
 - [OpenNewsLabs/news-graphics-team](https://github.com/OpenNewsLabs/news-graphics-team) - A list of all the graphics teams in newsrooms around the world.
-- [xyflow/awesome-interactive-journalism](https://github.com/xyflow/awesome-interactive-journalism) - A list of awesome interactive journalism projects.
+- [wbkd/awesome-interactive-journalism](https://github.com/wbkd/awesome-interactive-journalism) - A list of awesome interactive journalism projects.
 - [aws-samples/aws-serverless-airline-booking](https://github.com/aws-samples/aws-serverless-airline-booking) - Airline Booking is a sample web application that provides Flight Search, Flight Payment, Flight Booking and Loyalty points including end-to-end testing, GraphQL and CI/CD. This web application was the
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
@@ -4537,7 +4536,7 @@
 - [LibraryOfCongress/chronam](https://github.com/LibraryOfCongress/chronam) - This software project is no longer being actively developed at the Library of Congress. Consider using the Open-ONI (https://github.com/open-oni) fork of the chronam software. Project mailing list: ht
 - [algolia/docsearch-scraper](https://github.com/algolia/docsearch-scraper) - DocSearch - Scraper
 - [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
-- [wowchemy/bibtex-to-markdown](https://github.com/wowchemy/bibtex-to-markdown) - 📚 Import references from Bibtex to your Markdown website or book. 将Bibtex转换为Markdown网站
+- [GetRD/academic-file-converter](https://github.com/GetRD/academic-file-converter) - 📚 Import Bibtex publications and Jupyter Notebook blog posts into your Markdown website or book. 将Bibtex转换为Markdown网站
 - [ekalinin/nodeenv](https://github.com/ekalinin/nodeenv) - Virtual environment for Node.js & integrator with virtualenv
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [nathanIL/openews](https://github.com/nathanIL/openews) - Experimental NLP (Natural Language Processing) project aimed to bundle various scattered updates
@@ -4943,7 +4942,6 @@
 - [thundergolfer/automated-github-organization-invites](https://github.com/thundergolfer/automated-github-organization-invites) - Quickly host a webpage allowing people to click and receive an invite to your Github Organization.
 - [consuldemocracy/consuldemocracy](https://github.com/consuldemocracy/consuldemocracy) - Consul Democracy - Open Government and E-Participation Web Software
 - [archivesunleashed/warclight](https://github.com/archivesunleashed/warclight) - A Rails engine supporting the discovery of web archives.
-- [opendocsg/opendoc-supreme-court-practice-directions](https://github.com/opendocsg/opendoc-supreme-court-practice-directions) - OpenDoc for the Supreme Court Practice Directions | https://epd.supremecourt.gov.sg
 - [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
 - [alphagov/e-petitions](https://github.com/alphagov/e-petitions) - This is the code base for the UK Government's e-petitions service (https://petition.parliament.uk)
 - [philnash/pwned](https://github.com/philnash/pwned) - 😱 An easy, Ruby way to use the Pwned Passwords API.
@@ -5187,7 +5185,7 @@
 - [hyecheol123/Cloudflare-Public-Dynamic-IP-Update](https://github.com/hyecheol123/Cloudflare-Public-Dynamic-IP-Update) - Updating public dynamic IP address to existing cloudflare DNS record
 - [pforret/networkcheck](https://github.com/pforret/networkcheck) - Linux network check script (sh/bash)
 - [pforret/bash-boilerplate](https://github.com/pforret/bash-boilerplate) - Bash script template // archived, please use https://github.com/pforret/bashew
-- [rbenv/ruby-build](https://github.com/rbenv/ruby-build) - Compile and install Ruby
+- [rbenv/ruby-build](https://github.com/rbenv/ruby-build) - A tool to download, compile, and install Ruby on Unix-like systems.
 - [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files
 - [teddysun/across](https://github.com/teddysun/across) - Across the Great Wall we can reach every corner in the world
 - [cheat/cheatsheets](https://github.com/cheat/cheatsheets) - Community-sourced cheatsheets
@@ -5325,6 +5323,7 @@
 - [marcosrg9/YouTubeTV](https://github.com/marcosrg9/YouTubeTV) - Simple YouTube TV client for desktop based on electron.
 - [veelenga/rblist](https://github.com/veelenga/rblist) - Russia Ban List
 - [azu/har-extractor](https://github.com/azu/har-extractor) - A CLI that extract har file to directory.
+- [browserless/browserless](https://github.com/browserless/browserless) - The browserless service in Docker. Run on our cloud or bring your own.
 - [coroo/docsify-share](https://github.com/coroo/docsify-share) - A simple sharing button for Docsify. Within this plugin, we hope you can have your own sharing social media button easily e.g facebook, twitter and many more.
 - [lachenmayer/graphql-scraper](https://github.com/lachenmayer/graphql-scraper) - Extract structured data from the web using GraphQL.
 - [anbuksv/avantation](https://github.com/anbuksv/avantation) - Build OpenAPI3.0 specification from HAR.
