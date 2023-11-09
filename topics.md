@@ -2955,7 +2955,7 @@
 - [csaladenes/csaladenes.github.io](https://github.com/csaladenes/csaladenes.github.io) - Code behind my personal website (Dénes Csala)
 - [googlemaps/google-maps-services-js](https://github.com/googlemaps/google-maps-services-js) - Node.js client library for Google Maps API Web Services
 - [amitmerchant1990/notepad](https://github.com/amitmerchant1990/notepad) - :ledger: An offline capable Notepad PWA
-- [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
+- [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming.
 - [GermaVinsmoke/bmi-calculator](https://github.com/GermaVinsmoke/bmi-calculator) - React Hooks app for calculating BMI
 - [vuestorefront/storefront-ui](https://github.com/vuestorefront/storefront-ui) - A frontend library for Vue and React that helps developers quickly build fast, accessible, and beautiful storefronts. Made with 💚 by Vue Storefront team and contributors.
 - [jeffersonRibeiro/react-shopping-cart](https://github.com/jeffersonRibeiro/react-shopping-cart) - 🛍️ Simple ecommerce cart application built with Typescript and React
@@ -6668,7 +6668,6 @@
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [DNSCrypt/dnscrypt-resolvers](https://github.com/DNSCrypt/dnscrypt-resolvers) - Lists of public DNSCrypt / DoH DNS servers and DNS relays
 - [aws-amplify/aws-amplify.github.io](https://github.com/aws-amplify/aws-amplify.github.io) - Amplify Framework Website
-- [opendocsg/opendoc-supreme-court-practice-directions](https://github.com/opendocsg/opendoc-supreme-court-practice-directions) - OpenDoc for the Supreme Court Practice Directions | https://epd.supremecourt.gov.sg
 - [opendocsg/opendoc-theme](https://github.com/opendocsg/opendoc-theme) - 
 - [opendocsg/editor](https://github.com/opendocsg/editor) - Opendoc Markdown Editor
 - [mwilliamson/mammoth.js](https://github.com/mwilliamson/mammoth.js) - Convert Word documents (.docx files) to HTML
