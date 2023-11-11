@@ -163,6 +163,7 @@
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [Bodmer/TFT_eSPI](https://github.com/Bodmer/TFT_eSPI) - Arduino and PlatformIO IDE compatible TFT library optimised for the Raspberry Pi Pico (RP2040), STM32, ESP8266 and ESP32 that supports different driver chips
 - [lewisxhe/esp32-camera-series](https://github.com/lewisxhe/esp32-camera-series) - 🔰 Compatible with all TTGO camera products
+- [Xinyuan-LilyGO/LilyGo-Camera-Series](https://github.com/Xinyuan-LilyGO/LilyGo-Camera-Series) - 🔰 Compatible with all TTGO camera products
 - [Xinyuan-LilyGO/TTGO-T-Display](https://github.com/Xinyuan-LilyGO/TTGO-T-Display) - 
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 - [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
@@ -256,7 +257,6 @@
 - [easytarget/esp32-cjmcu-531-demo](https://github.com/easytarget/esp32-cjmcu-531-demo) - CJMCU-531 and ESP32 Web Demo interfacing to a VL53L1X IR time-of-flight sensor
 - [vietquocnguyen/NodeMCU-ESP8266-Servo-Smart-Blinds](https://github.com/vietquocnguyen/NodeMCU-ESP8266-Servo-Smart-Blinds) - DIY Smart Blinds using NodeMCU V3/ESP8266 and an MG995 Servo
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
-- [Xinyuan-LilyGO/LilyGo-Camera-Series](https://github.com/Xinyuan-LilyGO/LilyGo-Camera-Series) - 🔰 Compatible with all TTGO camera products
 - [hevnsnt/NOTCHACOTCHA](https://github.com/hevnsnt/NOTCHACOTCHA) - NOTCHACOTCHA
 - [usnationalarchives/AVI-MetaEdit](https://github.com/usnationalarchives/AVI-MetaEdit) - NARA AVI-MetaEdit
 - [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
