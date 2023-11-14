@@ -2646,7 +2646,7 @@
 - [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
 - [robb0wen/tornis](https://github.com/robb0wen/tornis) - Tornis helps you watch and respond to changes in your browser's viewport 🌲
 - [kolber/audiojs](https://github.com/kolber/audiojs) - A cross-browser javascript wrapper for the html5 audio tag
-- [greensock/GSAP](https://github.com/greensock/GSAP) - GreenSock's GSAP JavaScript animation library (including Draggable).
+- [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
 - [naver/smarteditor2](https://github.com/naver/smarteditor2) - Javascript WYSIWYG HTML editor
 - [naver/image-maps](https://github.com/naver/image-maps) - jquery plugin which can be partially linked to the image
 - [hammerjs/hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
@@ -4968,7 +4968,6 @@
 - [juusaw/amp-jekyll](https://github.com/juusaw/amp-jekyll) - Build Accelerated Mobile Page versions of your Jekyll posts
 - [jekyll/jekyll-mentions](https://github.com/jekyll/jekyll-mentions) - :busts_in_silhouette: @mention support for your Jekyll site
 - [asciidoctor/asciidoctor](https://github.com/asciidoctor/asciidoctor) - :gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
-- [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg) - A curated list of SVG.
 - [github-developer/github-app-template](https://github.com/github-developer/github-app-template) - 
 - [alexdalitz/dnsruby](https://github.com/alexdalitz/dnsruby) - Dnsruby is a feature-complete DNS(SEC) client for Ruby, as used by many of the world's largest DNS registries and the OpenDNSSEC project
 - [gjtorikian/html-pipeline](https://github.com/gjtorikian/html-pipeline) - HTML processing filters and utilities
@@ -5253,6 +5252,7 @@
 - [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform
 - [brannondorsey/sniff-probes](https://github.com/brannondorsey/sniff-probes) - Plug-and-play bash script for sniffing 802.11 probes requests :nose:
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg) - A curated list of SVG.
 - [willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [snus-kin/weather-wrapper](https://github.com/snus-kin/weather-wrapper) - A bash wrapper for wttr.in
