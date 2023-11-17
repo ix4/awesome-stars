@@ -1371,7 +1371,7 @@
 
 ## JavaScript 
 
-- [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - The best free email forwarding for custom domains (Web Server)
+- [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [RonnyWinkler/homey.blink](https://github.com/RonnyWinkler/homey.blink) - Blink app for Homey
 - [colinbendell/homebridge-blink-for-home](https://github.com/colinbendell/homebridge-blink-for-home) - Blink For Home Camera Homebridge plugin
@@ -1417,7 +1417,7 @@
 - [LeaVerou/dabblet](https://github.com/LeaVerou/dabblet) - An interactive CSS playground
 - [ianperrin/MMM-NetworkScanner](https://github.com/ianperrin/MMM-NetworkScanner) - A module for MagicMirror which determines the status of devices on the network based on their MAC or IP address
 - [pawelgrzybek/snippet-generator](https://github.com/pawelgrzybek/snippet-generator) - Snippet generator for Visual Studio Code, Sublime Text and Atom
-- [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio
+- [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio.
 - [steelbrain/linter](https://github.com/steelbrain/linter) - A Base Linter with Cow Powers http://steelbrain.me/linter/
 - [AtomLinter/linter-shellcheck](https://github.com/AtomLinter/linter-shellcheck) - Linter plugin for Bash, using shellcheck.
 - [stephenquan/AAMVAtoJSON](https://github.com/stephenquan/AAMVAtoJSON) - Converts AAMVA DL/ID format to JSON
@@ -1826,7 +1826,7 @@
 - [novnc/websockify-js](https://github.com/novnc/websockify-js) - JavaScript WebSocket to TCP bridge
 - [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
 - [javve/list.js](https://github.com/javve/list.js) - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
-- [component/emitter](https://github.com/component/emitter) - Event emitter component
+- [sindresorhus/component-emitter](https://github.com/sindresorhus/component-emitter) - Event emitter component
 - [socketio/engine.io-client](https://github.com/socketio/engine.io-client) - The engine used in the Socket.IO JavaScript client, which manages the low-level transports such as HTTP long-polling, WebSocket and WebTransport.
 - [socketio/engine.io](https://github.com/socketio/engine.io) - The engine used in the Socket.IO JavaScript server, which manages the low-level transports such as HTTP long-polling and WebSocket.
 - [micromark/micromark](https://github.com/micromark/micromark) - small, safe, and great commonmark (optionally gfm) compliant markdown parser
@@ -3143,7 +3143,7 @@
 - [jashkenas/backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events
 - [cloudflarearchive/backgrid-filter](https://github.com/cloudflarearchive/backgrid-filter) - Server-side, client-side and full-text searching widgets for Backgrid.js
 - [MrLuit/EtherScamDB](https://github.com/MrLuit/EtherScamDB) - Keep track of all current ethereum scams in a large database
-- [datawrapper/datawrapper](https://github.com/datawrapper/datawrapper) - This is a read-only mirror of a part of our codebase.
+- [datawrapper/datawrapper](https://github.com/datawrapper/datawrapper) - Utility functions developed for Datawrapper
 - [iranopendata/catalog](https://github.com/iranopendata/catalog) - A catalog of public datasets
 - [iranopendata/iranopendata.github.io](https://github.com/iranopendata/iranopendata.github.io) - Making Iranian Data Available to the Public
 - [cmgiven/open-election-map](https://github.com/cmgiven/open-election-map) - Election map for DC's 2014 general election
@@ -3632,6 +3632,7 @@
 
 ## Others 
 
+- [GoogleChrome/ip-protection](https://github.com/GoogleChrome/ip-protection) - 
 - [anuraag488/Truecaller-Tasker](https://github.com/anuraag488/Truecaller-Tasker) - 
 - [portainer/portainer-compose](https://github.com/portainer/portainer-compose) - Compose setup for Portainer
 - [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of filters to fill in the gaps
