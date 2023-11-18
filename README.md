@@ -1826,7 +1826,7 @@
 - [novnc/websockify-js](https://github.com/novnc/websockify-js) - JavaScript WebSocket to TCP bridge
 - [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
 - [javve/list.js](https://github.com/javve/list.js) - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
-- [sindresorhus/component-emitter](https://github.com/sindresorhus/component-emitter) - Event emitter component
+- [sindresorhus/component-emitter](https://github.com/sindresorhus/component-emitter) - Simple event emitter
 - [socketio/engine.io-client](https://github.com/socketio/engine.io-client) - The engine used in the Socket.IO JavaScript client, which manages the low-level transports such as HTTP long-polling, WebSocket and WebTransport.
 - [socketio/engine.io](https://github.com/socketio/engine.io) - The engine used in the Socket.IO JavaScript server, which manages the low-level transports such as HTTP long-polling and WebSocket.
 - [micromark/micromark](https://github.com/micromark/micromark) - small, safe, and great commonmark (optionally gfm) compliant markdown parser
@@ -2145,7 +2145,6 @@
 - [ilyankou/cfhc-residential-zoning-analysis](https://github.com/ilyankou/cfhc-residential-zoning-analysis) - Connecticut Zoning Initiative
 - [JackDougherty/Leaflet-Coordinates-Control](https://github.com/JackDougherty/Leaflet-Coordinates-Control) - Captures mouseclick and displays its coordinates with easy way to copy them.
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [JasonEtco/flintcms](https://github.com/JasonEtco/flintcms) - 🔥💥 A Node.js CMS
 - [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
 - [Mailtrain-org/mailtrain](https://github.com/Mailtrain-org/mailtrain) - Self hosted newsletter app
@@ -5483,6 +5482,7 @@
 - [vuestorefront/storefront-ui](https://github.com/vuestorefront/storefront-ui) - A frontend library for Vue and React that helps developers quickly build fast, accessible, and beautiful storefronts. Made with 💚 by Vue Storefront team and contributors.
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total cov
 - [jeffersonRibeiro/react-shopping-cart](https://github.com/jeffersonRibeiro/react-shopping-cart) - 🛍️ Simple ecommerce cart application built with Typescript and React
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [JasonEtco/gist-box](https://github.com/JasonEtco/gist-box) - 📌📋 A helper class for updating a single-file Gist
 - [matchai/toolkit-utils](https://github.com/matchai/toolkit-utils) - 🛠 A set of reusable classes and utilities for creating toolkits
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
