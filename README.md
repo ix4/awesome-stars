@@ -812,6 +812,7 @@
 - [whatwg/html](https://github.com/whatwg/html) - HTML Standard
 - [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
 - [cfpb/source-code-policy](https://github.com/cfpb/source-code-policy) - The CFPB's official Source Code Policy.
+- [alphagov/govuk-developer-docs](https://github.com/alphagov/govuk-developer-docs) - 📖 Tech docs for everyone working on GOV.UK
 - [w3c/wcag](https://github.com/w3c/wcag) - Web Content Accessibility Guidelines
 - [18F/handbook](https://github.com/18F/handbook) - The home of policies and guidelines that make up TTS.
 - [18F/development-guide](https://github.com/18F/development-guide) - A set of guidelines and best practices for an awesome software engineering team
@@ -1424,7 +1425,7 @@
 - [kikiklang/pomme-page](https://github.com/kikiklang/pomme-page) - Big buttons with easy click startpage for a browser.
 - [z0ccc/comet](https://github.com/z0ccc/comet) - Browser extension to replace Youtube comments with Reddit comments or view the Reddit comments of any webpage.
 - [deep5050/memes-on-issues-action](https://github.com/deep5050/memes-on-issues-action) - greet the issue raiser with a custom message and a bonus programming meme :smile:
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Top~100 Extension. Enrich your YouTube- & Video-experience & -choice [🧰90 lean Features 📌Longest-standing 👨‍👩‍👧‍👧🧩Please help] ⋮⚙️🎛️☕🎧🎞️📈🎨⏯️🎬🔊 youtube playback, content discovery, player, extra button
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Top~3 YouTube Extension! Enrich your YouTube- & Video-experience & -choice [🧰90 lean Features 📌Longest-standing 👨‍👩‍👧‍👧🧩Please help] ⋮⚙️🎛️☕🎧🎞️📈🎨⏯️🎬🔊 youtube playback, content discovery, player, extra 
 - [ubershmekel/redditp](https://github.com/ubershmekel/redditp) - Convert any reddit page to a presentation or slide show
 - [jiangts/JS-OTP](https://github.com/jiangts/JS-OTP) - 100% Javascript Implementation of HOTP and TOTP for Two-Factor Authentication.
 - [w3irdrobot/interactive-menu](https://github.com/w3irdrobot/interactive-menu) - Building an Interactive Menu in Vanilla JavaScript
@@ -3822,7 +3823,6 @@
 - [shareaholic/shareaholic-api-docs](https://github.com/shareaholic/shareaholic-api-docs) - Shareaholic Public API & SDK documentation
 - [propublica/weepeople](https://github.com/propublica/weepeople) - A typeface of people sillhouettes, to make it easy to build web graphics featuring little people instead of dots.
 - [inkscape/inkscape](https://github.com/inkscape/inkscape) - Project Website: https://inkscape.org - Code Repository: https://gitlab.com/inkscape/inkscape - Draw freely. 🖌
-- [game-icons/icons](https://github.com/game-icons/icons) - All SVG icons available on http://game-icons.net
 - [sindresorhus/ponyfill](https://github.com/sindresorhus/ponyfill) - 🦄 Like polyfill but with pony pureness
 - [first20hours/google-10000-english](https://github.com/first20hours/google-10000-english) - This repo contains a list of the 10,000 most common English words in order of frequency, as determined by n-gram frequency analysis of the Google's Trillion Word Corpus.
 - [nytimes/data-training](https://github.com/nytimes/data-training) - Files from the NYT data training program, available for public use.
@@ -4880,7 +4880,6 @@
 - [jekyll/jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from) - :twisted_rightwards_arrows: Seamlessly specify multiple redirections URLs for your pages and posts.
 - [refinery/refinerycms](https://github.com/refinery/refinerycms) - An extendable Ruby on Rails CMS that supports Rails 6.0+
 - [rubygems/bundler](https://github.com/rubygems/bundler) - Manage your Ruby application's gem dependencies
-- [alphagov/govuk-developer-docs](https://github.com/alphagov/govuk-developer-docs) - 📖 Tech docs for everyone working on GOV.UK
 - [alphagov/govspeak](https://github.com/alphagov/govspeak) - Markdown extension library for Government editors
 - [usnationalarchives/federal_register](https://github.com/usnationalarchives/federal_register) - Ruby API Client for FederalRegister.gov that handles searching articles and getting information about agencies
 - [openc/openc-schema](https://github.com/openc/openc-schema) - JSON schemas for OpenCorporates data
@@ -5229,6 +5228,7 @@
 - [topojson/us-atlas](https://github.com/topojson/us-atlas) - Pre-built TopoJSON from the U.S. Census Bureau.
 - [grssnbchr/rddj-template](https://github.com/grssnbchr/rddj-template) - A template for bootstrapping reproducible RMarkdown documents for data journalistic purposes.
 - [grssnbchr/bivariate-maps-ggplot2-sf](https://github.com/grssnbchr/bivariate-maps-ggplot2-sf) - Beautiful bivariate thematic maps with ggplot2 and sf
+- [game-icons/icons](https://github.com/game-icons/icons) - All SVG icons available on https://game-icons.net
 - [bramus/freshinstall](https://github.com/bramus/freshinstall) - Automatically configure and install software onto your new Mac
 - [katspaugh/youtube-flashcards](https://github.com/katspaugh/youtube-flashcards) - Extract screenshots & audio clips from YouTube videos into Anki cards
 - [havfo/WEBRTC-to-SIP](https://github.com/havfo/WEBRTC-to-SIP) - Setup for a WEBRTC client and Kamailio server to call SIP clients
