@@ -1423,7 +1423,7 @@
 - [kikiklang/pomme-page](https://github.com/kikiklang/pomme-page) - Big buttons with easy click startpage for a browser.
 - [z0ccc/comet](https://github.com/z0ccc/comet) - Browser extension to replace Youtube comments with Reddit comments or view the Reddit comments of any webpage.
 - [deep5050/memes-on-issues-action](https://github.com/deep5050/memes-on-issues-action) - greet the issue raiser with a custom message and a bonus programming meme :smile:
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Top~3 YouTube Extension! Enrich your YouTube- & Video-experience & -choice [🧰90 lean Features 📌Longest-standing 👨‍👩‍👧‍👧🧩Please help] ⋮⚙️🎛️☕🎧🎞️📈🎨⏯️🎬🔊 youtube playback, content discovery, player, extra 
+- [code-charity/youtube](https://github.com/code-charity/youtube) - [Top~3 YouTube Extension][🧰90 lean Features📌consistent (set & forget)📌Longest-standing](👨‍👩‍👧‍👧🧩Please help) "Enrich your YouTube- & Video-experience & -choice" ⋮⚙️🎛️☕🎧🎞️📈🎨⏯️🎬🔊 youtube playback, conte
 - [ubershmekel/redditp](https://github.com/ubershmekel/redditp) - Convert any reddit page to a presentation or slide show
 - [jiangts/JS-OTP](https://github.com/jiangts/JS-OTP) - 100% Javascript Implementation of HOTP and TOTP for Two-Factor Authentication.
 - [w3irdrobot/interactive-menu](https://github.com/w3irdrobot/interactive-menu) - Building an Interactive Menu in Vanilla JavaScript
@@ -1898,7 +1898,7 @@
 - [fancyapps/fancybox](https://github.com/fancyapps/fancybox) - jQuery lightbox script for displaying images, videos and more. Touch enabled, responsive and fully customizable.
 - [NeXTs/Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily
 - [MaartenDesnouck/google-apps-script](https://github.com/MaartenDesnouck/google-apps-script) - 🛠  Manage and deploy your Google Apps Script projects using the command line
-- [contributorpw/google-apps-script-snippets](https://github.com/contributorpw/google-apps-script-snippets) - Google Apps Script snippets
+- [oshliaer/google-apps-script-snippets](https://github.com/oshliaer/google-apps-script-snippets) - Google Apps Script snippets
 - [googleworkspace/apps-script-oauth2](https://github.com/googleworkspace/apps-script-oauth2) - An OAuth2 library for Google Apps Script.
 - [wikimedia/WhoWroteThat](https://github.com/wikimedia/WhoWroteThat) - A Wikipedia gadget to a browser extension to display article contribution information. Powered by WikiWho.
 - [NelsonMinar/vector-river-map](https://github.com/NelsonMinar/vector-river-map) - Tutorial project demonstrating making a web map with vector tiles
@@ -2055,7 +2055,7 @@
 - [bennettfeely/brainsurvey](https://github.com/bennettfeely/brainsurvey) - Virtually dissecting the human brain at CMU
 - [bennettfeely/clippy](https://github.com/bennettfeely/clippy) - Shape up your website with CSS clip-paths
 - [keen/keen-analysis.js](https://github.com/keen/keen-analysis.js) - A light JavaScript client for Keen
-- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
+- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [henriquecustodia/json-translator](https://github.com/henriquecustodia/json-translator) - Translate i18n json using google translate
 - [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
@@ -3917,7 +3917,7 @@
 - [unitedstates/districts](https://github.com/unitedstates/districts) - GeoJSON and other shape files for the federal legislative districts of the US.
 - [heremaps/postman-collections](https://github.com/heremaps/postman-collections) - Postman collections for HERE REST APIs.
 - [esri-es/ArcGIS-REST-API](https://github.com/esri-es/ArcGIS-REST-API) - Postman collections for ArcGIS REST APIs || Introductory guide to Hosted Feature Services || Hosted Feature Services - Service Definition
-- [contributorpw/google-apps-script-awesome-list](https://github.com/contributorpw/google-apps-script-awesome-list) - The usual list of links to interesting resources for Google Apps Script
+- [oshliaer/google-apps-script-awesome-list](https://github.com/oshliaer/google-apps-script-awesome-list) - The usual list of links to interesting resources for Google Apps Script
 - [chrieke/awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - 🛰️ List of satellite image training datasets with annotations for computer vision and deep learning
 - [sshuair/awesome-gis](https://github.com/sshuair/awesome-gis) - 😎Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some ama
 - [cyburgee/ffmpeg-guide](https://github.com/cyburgee/ffmpeg-guide) - 
