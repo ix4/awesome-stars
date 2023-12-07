@@ -4439,7 +4439,6 @@
 ## others 
 
 - [GoogleChrome/ip-protection](https://github.com/GoogleChrome/ip-protection) - 
-- [anuraag488/Truecaller-Tasker](https://github.com/anuraag488/Truecaller-Tasker) - 
 - [DreadedLama/BaseCaller](https://github.com/DreadedLama/BaseCaller) - Use truecaller token to retrieve data
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
 - [MattTW/BlinkMonitorProtocol](https://github.com/MattTW/BlinkMonitorProtocol) - Unofficial documentation for the Blink Wire-Free HD Home Monitoring & Alert System
