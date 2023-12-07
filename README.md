@@ -732,6 +732,7 @@
 - [weibell/reverse-shell-generator](https://github.com/weibell/reverse-shell-generator) - Web-based reverse shell generator
 - [troyhunt/password-purgatory](https://github.com/troyhunt/password-purgatory) - Deliberately making password creation a true hell
 - [Cherry/placeholders.dev](https://github.com/Cherry/placeholders.dev) - Generate custom placeholder images, powered by Cloudflare Workers in 200+ edge locations
+- [jkingsman/Nobody.live](https://github.com/jkingsman/Nobody.live) - View twitch streamers with zero viewers at nobody.live
 - [tomgood18/Hertz-UTS-Car-Rental](https://github.com/tomgood18/Hertz-UTS-Car-Rental) - Car Rental system written in Javascript, HTML and CSS using JSON
 - [caiorss/bookmarklet-maker](https://github.com/caiorss/bookmarklet-maker) - Tool to create bookmarklet/ javascript apps to automate the web browser.
 - [mjc5/pdf417-barcode-gen](https://github.com/mjc5/pdf417-barcode-gen) - Able to generate a pdf417 barcode with aamva specifications
@@ -1116,7 +1117,6 @@
 - [perliedman/tiled-maps](https://github.com/perliedman/tiled-maps) - A short, free and open introduction to the concept of tiled maps
 - [w3c/web-share](https://github.com/w3c/web-share) - Web API proposal for sharing data from a web page
 - [liyasthomas/pineapple-notes](https://github.com/liyasthomas/pineapple-notes) - 🍍 A simple, clean note app - Get organized from everywhere on earth. https://pineapple-notes.firebaseapp.com/
-- [firebase/quickstart-js](https://github.com/firebase/quickstart-js) - Firebase Quickstart Samples for Web
 - [dyndna/lanyon-plus](https://github.com/dyndna/lanyon-plus) - Based on lanyon - A content-first, sliding sidebar theme for Jekyll. Demo at
 - [CloudCannon/bakery-store-jekyll-template](https://github.com/CloudCannon/bakery-store-jekyll-template) - :bread: Template used on CloudCannon Academy screencasts
 - [chrisdiana/cms.js-starter](https://github.com/chrisdiana/cms.js-starter) - Starter Template for CMS.js
@@ -1406,7 +1406,6 @@
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
 - [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 - [polotno-project/polotno-studio](https://github.com/polotno-project/polotno-studio) - Free online Design Editor.
-- [jkingsman/Nobody.live](https://github.com/jkingsman/Nobody.live) - View twitch streamers with zero viewers at nobody.live
 - [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq) - WhatsApp Bot
 - [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - A chrome extension for suspending all tabs to free up memory, based on the original TGS 7.1.6, without tracking. Find more information about that on https://gioxx.org/tms
 - [gajus/gitdown](https://github.com/gajus/gitdown) - GitHub markdown preprocessor.
@@ -2484,7 +2483,6 @@
 - [makinacorpus/Leaflet.TextPath](https://github.com/makinacorpus/Leaflet.TextPath) - Show text along Polyline with Leaflet
 - [makinacorpus/Leaflet.AlmostOver](https://github.com/makinacorpus/Leaflet.AlmostOver) - Trigger mouse events when cursor is "almost" over a layer
 - [makinacorpus/Leaflet.Snap](https://github.com/makinacorpus/Leaflet.Snap) - Enables snapping of draggable markers to polylines and other layers
-- [TerriaJS/nationalmap](https://github.com/TerriaJS/nationalmap) - Australia's NationalMap
 - [fulcrumapp/geojson-dashboard](https://github.com/fulcrumapp/geojson-dashboard) - A configurable framework for building a geographic "data dashboard" from a GeoJSON file.
 - [JJediny/json2yaml-editor](https://github.com/JJediny/json2yaml-editor) - A proof of concept data.json editor to generate pages for Static Hosted Websites
 - [project-open-data/datajson-editor](https://github.com/project-open-data/datajson-editor) - A proof of concept data.json editor to generate pages for Static Hosted Websites
@@ -3188,7 +3186,6 @@
 - [node-geojson/openflights-geojson](https://github.com/node-geojson/openflights-geojson) - Download and reformat OpenFlights.org data into GeoJSON.
 - [geojson-xyz/geojson-xyz](https://github.com/geojson-xyz/geojson-xyz) - just get the geojson
 - [mbloch/mapshaper](https://github.com/mbloch/mapshaper) - Tools for editing Shapefile, GeoJSON, TopoJSON and CSV files
-- [Turfjs/turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript and TypeScript
 - [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
 - [ENT8R/blacklistr](https://github.com/ENT8R/blacklistr) - A website for visualizing country specific data
 - [generalpiston/react-autosuggest-geocoder](https://github.com/generalpiston/react-autosuggest-geocoder) - react-autosuggest with suggestions from pelias services, such as geocode.earth.
@@ -3631,7 +3628,6 @@
 ## Others 
 
 - [GoogleChrome/ip-protection](https://github.com/GoogleChrome/ip-protection) - 
-- [anuraag488/Truecaller-Tasker](https://github.com/anuraag488/Truecaller-Tasker) - 
 - [portainer/portainer-compose](https://github.com/portainer/portainer-compose) - Compose setup for Portainer
 - [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of filters to fill in the gaps
 - [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - articles
@@ -3807,6 +3803,7 @@
 - [drewrwilson/toolsforactivism](https://github.com/drewrwilson/toolsforactivism) - growing list of digital tools for activism things
 - [OpenSourceActivismTech/us-governors](https://github.com/OpenSourceActivismTech/us-governors) - US Governors Contact Info
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
+- [TerriaJS/nationalmap](https://github.com/TerriaJS/nationalmap) - Australia's NationalMap
 - [openmaptiles/dark-matter-gl-style](https://github.com/openmaptiles/dark-matter-gl-style) - Dark Matter GL Style using OpenMapTiles
 - [kentcdodds/netlify-shortener-example](https://github.com/kentcdodds/netlify-shortener-example) - Short URLs example for netlify
 - [sdras/night-owl-vscode-theme](https://github.com/sdras/night-owl-vscode-theme) - 🌌 NIGHT OWL: A VS Code dark theme for contrast for nighttime coding, 🦉 LIGHT OWL: a daytime light theme
@@ -4245,7 +4242,6 @@
 - [ihmeuw-msca/CurveFit](https://github.com/ihmeuw-msca/CurveFit) - Generic curve fitting package with nonlinear mixed effects model
 - [geopy/geopy](https://github.com/geopy/geopy) - Geocoding library for Python.
 - [backtrackbaba/covid-api](https://github.com/backtrackbaba/covid-api) - API's to interact with COVID19 dataset by John Hopkins University
-- [subalterngames/AquaticCalendar](https://github.com/subalterngames/AquaticCalendar) - Tools for making an Aquatic Jewish calendar.
 - [ExpDev07/coronavirus-tracker-api](https://github.com/ExpDev07/coronavirus-tracker-api) - 🦠 A simple and fast (&lt; 200ms) API for tracking the global coronavirus (COVID-19, SARS-CoV-2) outbreak. It's written in python using the 🔥 FastAPI framework. Supports multiple sources!
 - [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2023, WikiTeam has preserved more than 350,000 wikis.
 - [nickspaargaren/no-amazon](https://github.com/nickspaargaren/no-amazon) - Completely block Amazon and its services
@@ -5291,6 +5287,7 @@
 - [scottkosty/install-tl-ubuntu](https://github.com/scottkosty/install-tl-ubuntu) - Install script for TeX Live on Ubuntu
 - [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv) - :necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!
 - [midas-network/COVID-19](https://github.com/midas-network/COVID-19) - 2019 novel coronavirus repository
+- [subalterngames/AquaticCalendar](https://github.com/subalterngames/AquaticCalendar) - Tools for making an Aquatic Jewish calendar.
 - [ptlharit/JScrypt](https://github.com/ptlharit/JScrypt) - A JavaScript based encryption library
 - [manuels/texlive.js](https://github.com/manuels/texlive.js) - Compiling LaTeX (TeX live) in your browser
 - [mrzool/letter-boilerplate](https://github.com/mrzool/letter-boilerplate) - Finest letter typesetting from the command line
@@ -5621,6 +5618,7 @@
 - [allartk/leaflet.offline](https://github.com/allartk/leaflet.offline) - Leaflet offline layer
 - [perliedman/leaflet-control-geocoder](https://github.com/perliedman/leaflet-control-geocoder) - A simple geocoder form to locate places. Easily extended to multiple data providers.
 - [ChromeDevTools/devtools-protocol](https://github.com/ChromeDevTools/devtools-protocol) - Chrome DevTools Protocol
+- [firebase/quickstart-js](https://github.com/firebase/quickstart-js) - Firebase Quickstart Samples for Web
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [postlight/secretmsg](https://github.com/postlight/secretmsg) - 🕵 Encrypt messages for easy sharing
 - [expo/snack-web](https://github.com/expo/snack-web) - 
@@ -5653,6 +5651,7 @@
 - [TerriaJS/terriajs](https://github.com/TerriaJS/terriajs) - A library for building rich, web-based geospatial data platforms.
 - [smeijer/leaflet-geosearch](https://github.com/smeijer/leaflet-geosearch) - A geocoding/address-lookup library supporting various api providers.
 - [skeate/Leaflet.timeline](https://github.com/skeate/Leaflet.timeline) - Display arbitrary GeoJSON on a map with a timeline slider and play button
+- [Turfjs/turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript and TypeScript
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
 - [vega/voyager](https://github.com/vega/voyager) - Visualization Tool for Data Exploration
 - [vega/editor](https://github.com/vega/editor) - Editor/IDE for Vega and Vega-Lite
