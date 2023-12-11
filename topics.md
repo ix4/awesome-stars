@@ -171,6 +171,7 @@
 - [pixel-art](#pixel-art)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
+- [privacy](#privacy)
 - [programming](#programming)
 - [project-management](#project-management)
 - [publishing](#publishing)
@@ -328,7 +329,7 @@
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
 - [appleboy/gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
 - [ASHWIN990/ADB-Toolkit](https://github.com/ASHWIN990/ADB-Toolkit) - ADB-Toolkit V2 for easy ADB tricks with many perks in all one. ENJOY!
-- [eladnava/redalert-android](https://github.com/eladnava/redalert-android) - An Android app that provides real-time rocket alerts for Israeli citizens.
+- [eladnava/redalert-android](https://github.com/eladnava/redalert-android) - An Android app that provides real-time emergency alerts for Israeli citizens.
 - [seemoo-lab/internalblue](https://github.com/seemoo-lab/internalblue) - Bluetooth experimentation framework for Broadcom and Cypress chips.
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [OnsenUI/OnsenUI](https://github.com/OnsenUI/OnsenUI) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React 
@@ -345,7 +346,7 @@
 - [microsoft/demo-first-response-online](https://github.com/microsoft/demo-first-response-online) - First Response Online is a communication and collaboration platform built to support first responders. It lets police officers, fire fighters, and paramedics share critical data with each other in nea
 - [meefik/linuxdeploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
-- [lrusso/bannerGenerator](https://github.com/lrusso/bannerGenerator) - Image Merger, Image Resizer, Image Distortion, Business Card, Radio Interview, Recruiting, Sharer OG Image, MacBook, Notebook, Play Store, GitHub, App with Text, Slides for Videos, Android and iPhone 
+- [lrusso/bannerGenerator](https://github.com/lrusso/bannerGenerator) - Image Merger, Image Resizer, Image Distortion, Business Card, Radio Interview, Recruiting, Sharer OG Image, MacBook, Notebook, Play Store, GitHub, App with Text, Slides for Videos, Wallpapers for Vide
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [getodk/collect](https://github.com/getodk/collect) - ODK Collect is an Android app for filling out forms. It's been used to collect billions of data points in challenging environments around the world. Contribute and make the world a better place! ✨📋✨
 - [androguard/androguard](https://github.com/androguard/androguard) - Reverse engineering and pentesting for Android applications
@@ -898,7 +899,7 @@
 
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
 - [z0ccc/comet](https://github.com/z0ccc/comet) - Browser extension to replace Youtube comments with Reddit comments or view the Reddit comments of any webpage.
-- [code-charity/youtube](https://github.com/code-charity/youtube) - [Top~3 YouTube Extension][🧰90 lean Features📌consistent (set & forget)📌Longest-standing](👨‍👩‍👧‍👧🧩Please help) "Enrich your YouTube- & Video-experience & -choice" ⋮⚙️🎛️☕🎧🎞️📈🎨⏯️🎬🔊 youtube playback, conte
+- [code-charity/youtube](https://github.com/code-charity/youtube) - [Top~3 YouTube & Video Extension]🧰90 clever features📌set & forget📌Longest-standing (Please help🧩👨‍👩‍👧‍👧) "Enrich your experience & -choice!"  -  ..⋮  {playback|content discovery|player|extra buttons|d
 - [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
 - [VerifiedJoseph/Save-to-the-Wayback-Machine](https://github.com/VerifiedJoseph/Save-to-the-Wayback-Machine) - Browser extension for quickly saving web pages to the Internet Archive's Wayback Machine.
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
@@ -962,6 +963,7 @@
 - [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
 - [maxisoft/Freenom-dns-updater](https://github.com/maxisoft/Freenom-dns-updater) - A tool to update freenom's dns records
 - [summera/retscli](https://github.com/summera/retscli) - CLI for querying RETS servers and searching metadata.
+- [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [juliuste/transit-map](https://github.com/juliuste/transit-map) - Generate a schematic map (“metro map”) for a given (transit) network graph using Mixed Integer Programming.
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
@@ -1088,7 +1090,6 @@
 ## css 
 
 - [ffoodd/a11y.css](https://github.com/ffoodd/a11y.css) - This CSS file intends to warn developers about possible risks and mistakes that exist in HTML code. It can also be used to roughly evaluate a site's quality by simply including it as an external style
-- [code-charity/youtube](https://github.com/code-charity/youtube) - [Top~3 YouTube Extension][🧰90 lean Features📌consistent (set & forget)📌Longest-standing](👨‍👩‍👧‍👧🧩Please help) "Enrich your YouTube- & Video-experience & -choice" ⋮⚙️🎛️☕🎧🎞️📈🎨⏯️🎬🔊 youtube playback, conte
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [styled-components/awesome-styled-components](https://github.com/styled-components/awesome-styled-components) - A curated list of awesome styled-components resources 💅
 - [egoist/snackbar](https://github.com/egoist/snackbar) - A tiny browser library for showing a brief message at the bottom of the screen (1kB gzipped).
@@ -1994,7 +1995,6 @@
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [moul/depviz](https://github.com/moul/depviz) - 👓 dependency visualizer for GitHub & GitLab (a.k.a., "auto-roadmap")
 - [neoascetic/rawgithack](https://github.com/neoascetic/rawgithack) - Serves files from github, bitbucket and gitlab, but with the correct content types
-- [lrusso/bannerGenerator](https://github.com/lrusso/bannerGenerator) - Image Merger, Image Resizer, Image Distortion, Business Card, Radio Interview, Recruiting, Sharer OG Image, MacBook, Notebook, Play Store, GitHub, App with Text, Slides for Videos, Android and iPhone 
 - [probot/auth-routes](https://github.com/probot/auth-routes) - 🔀🔒 Helpful authentication routes for Node.js GitHub integrations
 - [glitch-tools/sync-glitch-cli](https://github.com/glitch-tools/sync-glitch-cli) - :flags: Sync changes in your GitHub repository to glitch.com
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
@@ -2231,7 +2231,6 @@
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
 - [jnmcfly/awesome-startpage](https://github.com/jnmcfly/awesome-startpage) - This is a carefully compiled list of remarkable projects with the focus on startpages.
-- [code-charity/youtube](https://github.com/code-charity/youtube) - [Top~3 YouTube Extension][🧰90 lean Features📌consistent (set & forget)📌Longest-standing](👨‍👩‍👧‍👧🧩Please help) "Enrich your YouTube- & Video-experience & -choice" ⋮⚙️🎛️☕🎧🎞️📈🎨⏯️🎬🔊 youtube playback, conte
 - [davidteather/TikTok-Api](https://github.com/davidteather/TikTok-Api) - The Unofficial TikTok API Wrapper In Python
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
@@ -2685,7 +2684,7 @@
 - [prscX/react-native-lock-screen](https://github.com/prscX/react-native-lock-screen) - React Native: Lock Screen
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
-- [lrusso/bannerGenerator](https://github.com/lrusso/bannerGenerator) - Image Merger, Image Resizer, Image Distortion, Business Card, Radio Interview, Recruiting, Sharer OG Image, MacBook, Notebook, Play Store, GitHub, App with Text, Slides for Videos, Android and iPhone 
+- [lrusso/bannerGenerator](https://github.com/lrusso/bannerGenerator) - Image Merger, Image Resizer, Image Distortion, Business Card, Radio Interview, Recruiting, Sharer OG Image, MacBook, Notebook, Play Store, GitHub, App with Text, Slides for Videos, Wallpapers for Vide
 - [CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework for macOS, iOS, tvOS and watchOS
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [OWASP/owasp-mastg](https://github.com/OWASP/owasp-mastg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
@@ -4613,7 +4612,6 @@
 - [cloudflare/cloudflare-docs-engine](https://github.com/cloudflare/cloudflare-docs-engine) - A documentation engine built on Gatsby, powering Cloudflare’s docs https://github.com/cloudflare/cloudflare-docs
 - [Thor77/Blueproximity](https://github.com/Thor77/Blueproximity) - Run a command once a bluetooth device is in/out of a range
 - [yous/YousList](https://github.com/yous/YousList) - Block filter for advertisements, mainly on Korean sites
-- [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
 - [google/lipsync](https://github.com/google/lipsync) - 
 - [9Axes/9axes.github.io](https://github.com/9Axes/9axes.github.io) - 
 - [sixtriangles/sixtriangles.github.io](https://github.com/sixtriangles/sixtriangles.github.io) - 
@@ -4780,7 +4778,6 @@
 - [openexchangerates/javascript-sandbox-console](https://github.com/openexchangerates/javascript-sandbox-console) - a mini interactive javascript console for library/plugin demos and homepages
 - [openexchangerates/accounting.js](https://github.com/openexchangerates/accounting.js) - A lightweight JavaScript library for number, money and currency formatting - fully localisable, zero dependencies.
 - [calibreapp/geckoboard](https://github.com/calibreapp/geckoboard) - Receive Calibre snapshot webhooks, push to Geckoboard datasets.
-- [nickspaargaren/no-amazon](https://github.com/nickspaargaren/no-amazon) - Completely block Amazon and its services
 - [mendhak/SeenFromSpace](https://github.com/mendhak/SeenFromSpace) - A 'live' earth wallpaper which includes day/night phases, night lights, clouds and satellites in different projections
 - [mendhak/angular-intro.js](https://github.com/mendhak/angular-intro.js) - AngularJS directives for intro.js
 - [ptlharit/JScrypt](https://github.com/ptlharit/JScrypt) - A JavaScript based encryption library
@@ -4800,7 +4797,6 @@
 - [cdrini/wikidata-timeline](https://github.com/cdrini/wikidata-timeline) - web app for visualizing Wikidata items on a timeline
 - [hevnsnt/NOTCHACOTCHA](https://github.com/hevnsnt/NOTCHACOTCHA) - NOTCHACOTCHA
 - [kazysmaster/gnome-shell-extension-lockkeys](https://github.com/kazysmaster/gnome-shell-extension-lockkeys) - Numlock and Capslock indicator for gnome-shell
-- [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
 - [johnkorzhuk/grabient](https://github.com/johnkorzhuk/grabient) - UI to generate linear-gradients
 - [okfde/fragdenstaat.de-ansible](https://github.com/okfde/fragdenstaat.de-ansible) - Ansible Deployment for fragdenstaat.de
 - [jcalazan/ansible-django-stack](https://github.com/jcalazan/ansible-django-stack) - Ansible Playbook for setting up a Django app with Nginx, Gunicorn, PostgreSQL, Celery, RabbitMQ, Supervisor, Virtualenv, and Memcached. A Vagrantfile for provisioning a VirtualBox virtual machine is i
@@ -5079,8 +5075,6 @@
 - [ghybs/leaflet-defaulticon-compatibility](https://github.com/ghybs/leaflet-defaulticon-compatibility) - Retrieve all Leaflet Default Icon options from CSS, in particular all icon images URL's, to improve compatibility with bundlers and frameworks that modify URL's in CSS.
 - [dobbelina/repository.dobbelina](https://github.com/dobbelina/repository.dobbelina) - repository.dobbelina- Kodi is a registered trademark of the XBMC Foundation.We are not connected to or in any other way affiliated with Kodi
 - [xbmc/generator-kodi-addon](https://github.com/xbmc/generator-kodi-addon) - Yeoman generator for the most common Kodi addon types.
-- [privacyradius/ccpa-checklist](https://github.com/privacyradius/ccpa-checklist) - The CCPA Checklist
-- [privacyradius/gdpr-checklist](https://github.com/privacyradius/gdpr-checklist) - The GDPR Checklist
 - [jdf76/plugin.video.youtube](https://github.com/jdf76/plugin.video.youtube) - Kodi's Youtube Plugin -- Please Check the forums before submitting an issue
 - [espadrine/AsciiDocBox](https://github.com/espadrine/AsciiDocBox) - Live AsciiDoc Editor.
 - [asciidoctor/asciidoctor.org](https://github.com/asciidoctor/asciidoctor.org) - :globe_with_meridians: Asciidoctor project site. Composed in AsciiDoc. Baked with Awestruct.
@@ -5274,7 +5268,6 @@
 - [isitchristmas/web](https://github.com/isitchristmas/web) - Main site.
 - [nextdns/metadata](https://github.com/nextdns/metadata) - This repository contains the data behind our Security, Privacy and Parental Control features.
 - [brave/adblock-lists](https://github.com/brave/adblock-lists) - Maintains adblock lists that Brave uses
-- [nextdns/cname-cloaking-blocklist](https://github.com/nextdns/cname-cloaking-blocklist) - A list of domains used by tracking companies as CNAME destination when disguising third-party trackers as first-party trackers.
 - [chriswhong/plutoplus](https://github.com/chriswhong/plutoplus) - A "clip & ship" download tool for NYC PLUTO tax lot datadata
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [euske/pdfminer](https://github.com/euske/pdfminer) - Python PDF Parser (Not actively maintained). Check out pdfminer.six.
@@ -5647,7 +5640,6 @@
 - [webprofusion/apetools](https://github.com/webprofusion/apetools) - Don't Go Ape. Go Ape Tools. For when it all seems like too much work.
 - [ejci/favico.js](https://github.com/ejci/favico.js) - Make use of your favicon with badges, images or videos
 - [meganz/ffmpeg.js](https://github.com/meganz/ffmpeg.js) - Port of FFmpeg with Emscripten
-- [meganz/webclient](https://github.com/meganz/webclient) - The mega.nz web client
 - [primer/jekyll-octicons](https://github.com/primer/jekyll-octicons) - A jekyll liquid plugin that makes including svg Octicons simple.
 - [flot/flot](https://github.com/flot/flot) - Attractive JavaScript charts for jQuery
 - [joewalnes/websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
@@ -6910,7 +6902,6 @@
 - [Breefield/whatthefuckisethereum.com](https://github.com/Breefield/whatthefuckisethereum.com) - whatthefuckisethereum.com
 - [jessepollak/urlmatch](https://github.com/jessepollak/urlmatch) - 🔥 A Python library for easily pattern matching wildcard URLs
 - [jessepollak/command](https://github.com/jessepollak/command) - :black_nib: Making the web better with Slack-like slash commands.
-- [kdzwinel/web-privacy-pterodactyl](https://github.com/kdzwinel/web-privacy-pterodactyl) - Web Privacy Pterodactyl disapproves trackers
 - [mbloch/catty](https://github.com/mbloch/catty) - 
 - [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators) - Members of the United States Congress, 1789-Present, in YAML/JSON/CSV, as well as committees, presidents, and vice presidents.
 - [notanewbie/TuneIn_Media_URL_stripper](https://github.com/notanewbie/TuneIn_Media_URL_stripper) - Gets channel info from TuneIn radio stations
@@ -7631,6 +7622,41 @@
 
 - [marcosValle/awesome-windows-red-team](https://github.com/marcosValle/awesome-windows-red-team) - A curated list of awesome Windows frameworks, libraries, software and resources for Red Teams
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
+
+## privacy 
+
+- [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.
+- [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of filters to fill in the gaps
+- [hl2guide/AdGuard-Home-Whitelist](https://github.com/hl2guide/AdGuard-Home-Whitelist) - A strict curated whitelist for AdGuard Home.
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
+- [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
+- [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
+- [hl2guide/Filterlist-for-AdGuard-or-PiHole](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole) - A very aggressive filter-list that consolidates over 370 lists for use in AdGuard Home, Pi-Hole or similar.
+- [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
+- [nickspaargaren/no-amazon](https://github.com/nickspaargaren/no-amazon) - Completely block Amazon and its services
+- [nickspaargaren/no-google](https://github.com/nickspaargaren/no-google) - Completely block Google and its services
+- [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
+- [humanetech-community/awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech) - Promoting Solutions that Improve Wellbeing, Freedom and Society
+- [privacyradius/ccpa-checklist](https://github.com/privacyradius/ccpa-checklist) - The CCPA Checklist
+- [privacyradius/gdpr-tracker](https://github.com/privacyradius/gdpr-tracker) - A crowdsourced directory tracking the compliance and security practices of cloud services and their subprocessors
+- [privacyradius/gdpr-checklist](https://github.com/privacyradius/gdpr-checklist) - The GDPR Checklist
+- [nextdns/cname-cloaking-blocklist](https://github.com/nextdns/cname-cloaking-blocklist) - A list of domains used by tracking companies as CNAME destination when disguising third-party trackers as first-party trackers.
+- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block invisible trackers.
+- [meganz/webclient](https://github.com/meganz/webclient) - The mega.nz web client
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [k3b/APhotoManager](https://github.com/k3b/APhotoManager) - Manage local photos on Android: gallery, geotag with photomap, privacy, tags, find, sort, view, copy, send, ... .
+- [openwpm/OpenWPM](https://github.com/openwpm/OpenWPM) - A web privacy measurement framework
+- [akshaykmr/oorja](https://github.com/akshaykmr/oorja) - [archived] effortless video-voice chat with realtime collaborative features. extensible using react components 🙌
+- [privacypass/challenge-bypass-extension](https://github.com/privacypass/challenge-bypass-extension) - Client for Privacy Pass protocol providing unlinkable cryptographic tokens
+- [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
+- [kdzwinel/web-privacy-pterodactyl](https://github.com/kdzwinel/web-privacy-pterodactyl) - Web Privacy Pterodactyl disapproves trackers
+- [mikeal/roll-call](https://github.com/mikeal/roll-call) - 📞 Free and reliable audio calls for everyone w/ browser p2p.
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
+- [hl2guide/All-in-One-Customized-Adblock-List](https://github.com/hl2guide/All-in-One-Customized-Adblock-List) - An all-in-one adblock list that thoroughly blocks trackers, popup ads, ads, unwanted cookies, fake news, cookie warning messages, typosquatters, unwanted comment sections, crypto-coin mining, YouTube 
+- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
+- [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 
 ## programming 
 
