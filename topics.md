@@ -5822,7 +5822,7 @@
 - [oliviale/CSS-Progress-Pie](https://github.com/oliviale/CSS-Progress-Pie) - A pure CSS progress pie chart
 - [developit/stockroom](https://github.com/developit/stockroom) - 🗃 Offload your store management to a worker easily.
 - [developit/greenlet](https://github.com/developit/greenlet) - 🦎 Move an async function into its own thread.
-- [nexB/scancode-toolkit](https://github.com/nexB/scancode-toolkit) - :mag_right: ScanCode detects licenses, copyrights, dependencies by "scanning code" ... to discover and inventory open source and third-party packages used in your code. Sponsored by NLnet project http
+- [nexB/scancode-toolkit](https://github.com/nexB/scancode-toolkit) - :mag: ScanCode detects licenses, copyrights, dependencies by "scanning code" ... to discover and inventory open source and third-party packages used in your code. Sponsored by NLnet project https://nl
 - [zpnk/apex-lambda-url-shortener](https://github.com/zpnk/apex-lambda-url-shortener) - A url shortener build on top of AWS Lambda, RDS and API Gateway. Deployed with Apex.
 - [zpnk/deploy.now](https://github.com/zpnk/deploy.now) - One click deploys to △ now
 - [tefter/tefter](https://github.com/tefter/tefter) - The social bookmarking app for individuals and teams
