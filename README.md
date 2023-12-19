@@ -195,7 +195,7 @@
 - [maxmind/libmaxminddb](https://github.com/maxmind/libmaxminddb) - C library for the MaxMind DB file format
 - [MapServer/MapServer](https://github.com/MapServer/MapServer) - Source code of the MapServer project.  Please submit pull requests to the 'main' branch.
 - [mozilla/mozjpeg](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder.
-- [pyswmm/Stormwater-Management-Model](https://github.com/pyswmm/Stormwater-Management-Model) - Open Water Analytics Stormwater Management Model repository
+- [pyswmm/Stormwater-Management-Model](https://github.com/pyswmm/Stormwater-Management-Model) - PySWMM Stormwater Management Model repository
 - [USEPA/Stormwater-Management-Model](https://github.com/USEPA/Stormwater-Management-Model) - Dynamic hydrology-hydraulic water quality simulation model
 - [ArtifexSoftware/mupdf](https://github.com/ArtifexSoftware/mupdf) - mupdf mirror
 - [centricular/gstwebrtc-demos](https://github.com/centricular/gstwebrtc-demos) - Superseded by https://gitlab.freedesktop.org/gstreamer/gstreamer/-/tree/main/subprojects/gst-examples/webrtc - Demo apps for using gstreamer's webrtc implementation
@@ -462,6 +462,7 @@
 - [mattvh/jekyllthemes](https://github.com/mattvh/jekyllthemes) - A directory of the best-looking themes for Jekyll blogs
 - [samanyougarg/hanuman](https://github.com/samanyougarg/hanuman) - A responsive, lightning-fast Jekyll theme built using AMP (Accelerated Mobile Pages) to speed up your blogs and websites.
 - [ageitgey/amplify](https://github.com/ageitgey/amplify) - A Jekyll html theme in the vague style of Medium.com built using Google AMP
+- [jokecamp/FootballData](https://github.com/jokecamp/FootballData) - A hodgepodge of JSON and CSV Football/Soccer data
 - [PJijin/Stylish-Card](https://github.com/PJijin/Stylish-Card) - 🗃️ Stylish card using HTML, CSS
 - [thecaffeinedev/Real-Estate-Django-Web-App](https://github.com/thecaffeinedev/Real-Estate-Django-Web-App) - Real Estate Django Web App
 - [samuelklam/real-estate-ecommerce](https://github.com/samuelklam/real-estate-ecommerce) - Real Estate Ecommerce Store built with Angular, Express, PostgreSQL and Node.js
@@ -731,7 +732,6 @@
 - [ziplokk1/incapsula-cracker-py3](https://github.com/ziplokk1/incapsula-cracker-py3) - Python3 compatible way to bypass sites guarded with Incapsula
 - [weibell/reverse-shell-generator](https://github.com/weibell/reverse-shell-generator) - Web-based reverse shell generator
 - [troyhunt/password-purgatory](https://github.com/troyhunt/password-purgatory) - Deliberately making password creation a true hell
-- [jkingsman/Nobody.live](https://github.com/jkingsman/Nobody.live) - View twitch streamers with zero viewers at nobody.live
 - [tomgood18/Hertz-UTS-Car-Rental](https://github.com/tomgood18/Hertz-UTS-Car-Rental) - Car Rental system written in Javascript, HTML and CSS using JSON
 - [caiorss/bookmarklet-maker](https://github.com/caiorss/bookmarklet-maker) - Tool to create bookmarklet/ javascript apps to automate the web browser.
 - [mjc5/pdf417-barcode-gen](https://github.com/mjc5/pdf417-barcode-gen) - Able to generate a pdf417 barcode with aamva specifications
@@ -1016,6 +1016,7 @@
 - [TerriaJS/TerriaMap](https://github.com/TerriaJS/TerriaMap) - Catalog-based web geospatial visualisation platform.
 - [brunob/leaflet.fullscreen](https://github.com/brunob/leaflet.fullscreen) - Leaflet.Control.FullScreen for Leaflet
 - [dj0001/Leaflet.timezones](https://github.com/dj0001/Leaflet.timezones) - Overlay timezones on a Leaflet Earth map
+- [programminghistorian/jekyll](https://github.com/programminghistorian/jekyll) - Jekyll-based static site for The Programming Historian
 - [dj0001/Leaflet.mytrack](https://github.com/dj0001/Leaflet.mytrack) - track my way on a map
 - [Leaflet/Leaflet.fullscreen](https://github.com/Leaflet/Leaflet.fullscreen) - A fullscreen control for Leaflet
 - [wet-boew/wet-boew.github.io](https://github.com/wet-boew/wet-boew.github.io) - Working Examples for the Web Experience Toolkit core. It contains working examples for the latest version of each major branch as well as the latest stable release for each of those branches
@@ -1370,6 +1371,7 @@
 
 ## JavaScript 
 
+- [oldweb-today/oldweb-today](https://github.com/oldweb-today/oldweb-today) - Browse emulated browsers connected to old web sites in your browser!
 - [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [RonnyWinkler/homey.blink](https://github.com/RonnyWinkler/homey.blink) - Blink app for Homey
@@ -1405,6 +1407,7 @@
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
 - [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 - [polotno-project/polotno-studio](https://github.com/polotno-project/polotno-studio) - Free online Design Editor.
+- [jkingsman/Nobody.live](https://github.com/jkingsman/Nobody.live) - View twitch streamers with zero viewers at nobody.live
 - [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq) - WhatsApp Bot
 - [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - A chrome extension for suspending all tabs to free up memory, based on the original TGS 7.1.6, without tracking. Find more information about that on https://gioxx.org/tms
 - [gajus/gitdown](https://github.com/gajus/gitdown) - GitHub markdown preprocessor.
@@ -2007,6 +2010,7 @@
 - [jcubic/sysend.js](https://github.com/jcubic/sysend.js) - Web application synchronization between different tabs
 - [bluzi/travis-buddy](https://github.com/bluzi/travis-buddy) - :rocket: Seamless integration between TravisCI and GitHub
 - [bajcmartinez/nordvpn-status](https://github.com/bajcmartinez/nordvpn-status) - Displays the current status of your nordvpn connection
+- [googleworkspace/google-chat-samples](https://github.com/googleworkspace/google-chat-samples) - Chat Bot Samples for Google Chat.
 - [googlearchive/drive-music-player](https://github.com/googlearchive/drive-music-player) - Fully client side Music Player for Google Drive
 - [nicolasgarnier/drive-music-player](https://github.com/nicolasgarnier/drive-music-player) - Fully client side Music Player for Google Drive
 - [arve0/markdown-it-attrs](https://github.com/arve0/markdown-it-attrs) - Add classes, identifiers and attributes to your markdown with {} curly brackets, similar to pandoc's header attributes
@@ -3062,7 +3066,6 @@
 - [labnol/google-forms](https://github.com/labnol/google-forms) - Google Forms and Google Apps Script
 - [labnol/apps-script-starter](https://github.com/labnol/apps-script-starter) - Setup a local development environment inside Visual Studio Code and build Google Workspace add-ons with Google Apps Script
 - [diegovalle/new.crimenmexico](https://github.com/diegovalle/new.crimenmexico) - Website for elcri.men
-- [jokecamp/FootballData](https://github.com/jokecamp/FootballData) - A hodgepodge of JSON and CSV Football/Soccer data
 - [ramboxapp/community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [phihag/pdfform.js](https://github.com/phihag/pdfform.js) - Fill out PDF forms in pure JavaScript
 - [bahmutov/image-as-script](https://github.com/bahmutov/image-as-script) - JavaScript code recognized and executed from an image
@@ -3139,7 +3142,6 @@
 - [jashkenas/backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events
 - [cloudflarearchive/backgrid-filter](https://github.com/cloudflarearchive/backgrid-filter) - Server-side, client-side and full-text searching widgets for Backgrid.js
 - [MrLuit/EtherScamDB](https://github.com/MrLuit/EtherScamDB) - Keep track of all current ethereum scams in a large database
-- [datawrapper/datawrapper](https://github.com/datawrapper/datawrapper) - Utility functions developed for Datawrapper
 - [iranopendata/catalog](https://github.com/iranopendata/catalog) - A catalog of public datasets
 - [iranopendata/iranopendata.github.io](https://github.com/iranopendata/iranopendata.github.io) - Making Iranian Data Available to the Public
 - [cmgiven/open-election-map](https://github.com/cmgiven/open-election-map) - Election map for DC's 2014 general election
@@ -3161,7 +3163,7 @@
 - [onaci/leaflet-velocity](https://github.com/onaci/leaflet-velocity) - Visualise velocity data on a leaflet layer
 - [stefanocudini/leaflet-panel-layers](https://github.com/stefanocudini/leaflet-panel-layers) - Leaflet Control Layers extended with support groups and icons
 - [Chicago/opengrid](https://github.com/Chicago/opengrid) - A user-friendly, map-based tool to combine and explore real-time or historical data.
-- [tomchadwin/qgis2web](https://github.com/tomchadwin/qgis2web) - A QGIS plugin to export a map to an OpenLayers, Leaflet, or Mapbox GL JS webmap
+- [qgis2web/qgis2web](https://github.com/qgis2web/qgis2web) - QGIS plugin to export your project to an OpenLayers or Leaflet webmap. No server-side software required.
 - [socib/Leaflet.TimeDimension](https://github.com/socib/Leaflet.TimeDimension) - Add time dimension capabilities on a Leaflet map.
 - [Leaflet/Leaflet.VectorGrid](https://github.com/Leaflet/Leaflet.VectorGrid) - Display gridded vector data (sliced GeoJSON or protobuf vector tiles) in Leaflet 1.0.0
 - [windycom/API](https://github.com/windycom/API) - 🏄Windy API, or Windy Leaflet Plugin, let you put animated weather map into your website and enjoy rich ecosystem of Leaflet library.
@@ -3384,6 +3386,7 @@
 - [jlord/sheetsee-maps](https://github.com/jlord/sheetsee-maps) - Module for adding maps to sheetsee.js
 - [DocNow/docnow](https://github.com/DocNow/docnow) - A Twitter data collection and appraisal application.
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [bryanbraun/twitter-listbot](https://github.com/bryanbraun/twitter-listbot) - A simple twitter bot that retweets the contents of a twitter list.
 - [Noleli/isyontefearlythisyear](https://github.com/Noleli/isyontefearlythisyear) - 
 - [NUKnightLab/socialvideo-prototype](https://github.com/NUKnightLab/socialvideo-prototype) - Summer 2017 Student Project
@@ -3487,7 +3490,6 @@
 - [laconicllama/google-locations](https://github.com/laconicllama/google-locations) - This code accompanies the ShmooCon 2018 talk: "OK Google, Tell Me About Myself."  With this code, I attempt to infer information about my daily life (i.e., identify significant locations in my life su
 - [descarteslabs/tutorials](https://github.com/descarteslabs/tutorials) - Public repository for sharing tutorials. For the full client documentation, visit https://docs.descarteslabs.com/
 - [GIScience/openrouteservice-examples](https://github.com/GIScience/openrouteservice-examples) - :books: (Mostly) real-world examples and inspirations to use the full breadth of ORS services and clients
-- [programminghistorian/jekyll](https://github.com/programminghistorian/jekyll) - Jekyll-based static site for The Programming Historian
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [planetlabs/notebooks](https://github.com/planetlabs/notebooks) - interactive notebooks from Planet Engineering
 - [dbpedia/gfs](https://github.com/dbpedia/gfs) - DBpedia, which frequently crawls and analyses over 120 Wikipedia language editions has near complete information about (1) which facts are in infoboxes across all Wikipedias (2) where Wikidata is alre
@@ -4378,7 +4380,6 @@
 - [cisagov/trustymail](https://github.com/cisagov/trustymail) - Scan domains and return data based on trustworthy email best practices
 - [18F/domain-scan](https://github.com/18F/domain-scan) - A lightweight pipeline, locally or in Lambda, for scanning things like HTTPS, third party service use, and web accessibility.
 - [espressif/esptool](https://github.com/espressif/esptool) - Espressif SoC serial bootloader utility
-- [googleworkspace/google-chat-samples](https://github.com/googleworkspace/google-chat-samples) - Chat Bot Samples for Google Chat.
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 - [buriy/python-readability](https://github.com/buriy/python-readability) - fast python port of arc90's readability tool, updated to match latest readability.js!
@@ -4824,7 +4825,7 @@
 - [NYCPlanning/labs-geosearch-pad-normalize](https://github.com/NYCPlanning/labs-geosearch-pad-normalize) - R script to normalize PAD data into discrete address records
 - [abresler/realtR](https://github.com/abresler/realtR) - Real estate brokers are the....
 - [rstudio/blogdown](https://github.com/rstudio/blogdown) - Create Blogs and Websites with R Markdown
-- [geocompx/geocompr](https://github.com/geocompx/geocompr) - Open source book: Geocomputation with R
+- [geocompx/geocompr](https://github.com/geocompx/geocompr) - Geocomputation with R: an open source book
 - [mkearney/tweetbotornot](https://github.com/mkearney/tweetbotornot) - 🤖 R package for detecting Twitter bots via machine learning
 - [mkearney/presidential_election_county_results_2016](https://github.com/mkearney/presidential_election_county_results_2016) - 🏁 presidential_election_county_results_2016
 - [DOI-USGS/gage-conditions-gif](https://github.com/DOI-USGS/gage-conditions-gif) - 
@@ -5105,6 +5106,7 @@
 
 ## Shell 
 
+- [fire1ce/DDNS-Cloudflare-Bash](https://github.com/fire1ce/DDNS-Cloudflare-Bash) - Cloudflare DDNS bash Script for most Linux distributions and MacOS. Choose any source IP address to update external or internal (WAN/LAN).  Cloudflare's options proxy and TTL configurable via the para
 - [systematicat/hack-captive-portals](https://github.com/systematicat/hack-captive-portals) - Hack any Captive portal using MAC-spoofing technique
 - [ariakis/houdini](https://github.com/ariakis/houdini) - Script to bypass WiFi captive portals (e.g. at hotels, cruise ships etc.)
 - [imwally/coffeeconnect](https://github.com/imwally/coffeeconnect) - Connect to Starbucks WiFi without opening a browser.
@@ -5308,7 +5310,7 @@
 
 ## Twig 
 
-- [heroku/php-getting-started](https://github.com/heroku/php-getting-started) - Getting Started with PHP on Heroku
+- [heroku/php-getting-started](https://github.com/heroku/php-getting-started) - Getting Started with PHP on Heroku.
 
 ## TypeScript 
 
@@ -5647,6 +5649,7 @@
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 - [GoogleChrome/rendertron](https://github.com/GoogleChrome/rendertron) - A Headless Chrome rendering solution
 - [graphile/worker](https://github.com/graphile/worker) - High performance Node.js/PostgreSQL job queue (also suitable for getting jobs generated by PostgreSQL triggers/functions out into a different work queue)
+- [datawrapper/datawrapper](https://github.com/datawrapper/datawrapper) - Utility functions developed for Datawrapper
 - [SINTEF-9012/PruneCluster](https://github.com/SINTEF-9012/PruneCluster) - Fast and realtime marker clustering for Leaflet
 - [TerriaJS/terriajs](https://github.com/TerriaJS/terriajs) - A library for building rich, web-based geospatial data platforms.
 - [smeijer/leaflet-geosearch](https://github.com/smeijer/leaflet-geosearch) - A geocoding/address-lookup library supporting various api providers.
@@ -5678,7 +5681,6 @@
 - [automerge/pushpin](https://github.com/automerge/pushpin) - A collaborative corkboard app
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
 - [danvk/source-map-explorer](https://github.com/danvk/source-map-explorer) - Analyze and debug space usage through source maps
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
 - [vercel/xterm.js](https://github.com/vercel/xterm.js) - A terminal for the web
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
