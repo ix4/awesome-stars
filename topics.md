@@ -72,6 +72,7 @@
 - [elixir](#elixir)
 - [ember](#ember)
 - [emoji](#emoji)
+- [emulator](#emulator)
 - [english](#english)
 - [es6](#es6)
 - [eslint](#eslint)
@@ -1175,7 +1176,7 @@
 - [cybercase/google-forms-html-exporter](https://github.com/cybercase/google-forms-html-exporter) - Build a standard HTML &lt;form&gt; using any Google Forms
 - [PJijin/Simple-Card](https://github.com/PJijin/Simple-Card) - 📇 Simple HTML , CSS Card
 - [PJijin/Stylish-Card](https://github.com/PJijin/Stylish-Card) - 🗃️ Stylish card using HTML, CSS
-- [tomchadwin/qgis2web](https://github.com/tomchadwin/qgis2web) - A QGIS plugin to export a map to an OpenLayers, Leaflet, or Mapbox GL JS webmap
+- [qgis2web/qgis2web](https://github.com/qgis2web/qgis2web) - QGIS plugin to export your project to an OpenLayers or Leaflet webmap. No server-side software required.
 - [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
 - [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas
 - [google/WebFundamentals](https://github.com/google/WebFundamentals) - Former git repo for WebFundamentals on developers.google.com
@@ -1635,7 +1636,7 @@
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
 - [codekoch/mediakit_RaspberryPi](https://github.com/codekoch/mediakit_RaspberryPi) - 
 - [lovasoa/whitebophir](https://github.com/lovasoa/whitebophir) - Online collaborative Whiteboard that is simple, free, easy to use and  to deploy
-- [geocompx/geocompr](https://github.com/geocompx/geocompr) - Open source book: Geocomputation with R
+- [geocompx/geocompr](https://github.com/geocompx/geocompr) - Geocomputation with R: an open source book
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 
 ## electron 
@@ -1707,6 +1708,10 @@
 - [rickycodes/moonmoji](https://github.com/rickycodes/moonmoji) - :first_quarter_moon_with_face: Return an emoji representing the current moon phase.
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [producthunt/ShareMeow](https://github.com/producthunt/ShareMeow) - :heart_eyes_cat: text shots service
+
+## emulator 
+
+- [oldweb-today/oldweb-today](https://github.com/oldweb-today/oldweb-today) - Browse emulated browsers connected to old web sites in your browser!
 
 ## english 
 
@@ -2569,7 +2574,7 @@
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 - [literallycanvas/literallycanvas](https://github.com/literallycanvas/literallycanvas) - A canvas in your browser. Literally.
 - [wifiphisher/extra-phishing-pages](https://github.com/wifiphisher/extra-phishing-pages) - Community-built scenarios for Wifiphisher
-- [tomchadwin/qgis2web](https://github.com/tomchadwin/qgis2web) - A QGIS plugin to export a map to an OpenLayers, Leaflet, or Mapbox GL JS webmap
+- [qgis2web/qgis2web](https://github.com/qgis2web/qgis2web) - QGIS plugin to export your project to an OpenLayers or Leaflet webmap. No server-side software required.
 - [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
 - [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas
 - [asciidoctor/asciidoctor](https://github.com/asciidoctor/asciidoctor) - :gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
@@ -3209,7 +3214,7 @@
 - [wellflat/imageprocessing-labs](https://github.com/wellflat/imageprocessing-labs) - computer vision, image processing and machine learning on the web browser or node.
 - [webrtc/samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
 - [O1sims/USElectionMap](https://github.com/O1sims/USElectionMap) - :statue_of_liberty: Geographic statistics on the 2016 US Presidential election.
-- [tomchadwin/qgis2web](https://github.com/tomchadwin/qgis2web) - A QGIS plugin to export a map to an OpenLayers, Leaflet, or Mapbox GL JS webmap
+- [qgis2web/qgis2web](https://github.com/qgis2web/qgis2web) - QGIS plugin to export your project to an OpenLayers or Leaflet webmap. No server-side software required.
 - [socib/Leaflet.TimeDimension](https://github.com/socib/Leaflet.TimeDimension) - Add time dimension capabilities on a Leaflet map.
 - [CliffCloud/Leaflet.EasyButton](https://github.com/CliffCloud/Leaflet.EasyButton) - leaflet control buttons with icons and callbacks
 - [TerriaJS/terriajs](https://github.com/TerriaJS/terriajs) - A library for building rich, web-based geospatial data platforms.
@@ -3681,6 +3686,7 @@
 
 ## linux 
 
+- [fire1ce/DDNS-Cloudflare-Bash](https://github.com/fire1ce/DDNS-Cloudflare-Bash) - Cloudflare DDNS bash Script for most Linux distributions and MacOS. Choose any source IP address to update external or internal (WAN/LAN).  Cloudflare's options proxy and TTL configurable via the para
 - [systematicat/hack-captive-portals](https://github.com/systematicat/hack-captive-portals) - Hack any Captive portal using MAC-spoofing technique
 - [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
 - [hl2guide/AdGuard-Home-Whitelist](https://github.com/hl2guide/AdGuard-Home-Whitelist) - A strict curated whitelist for AdGuard Home.
@@ -3810,6 +3816,7 @@
 
 ## macos 
 
+- [fire1ce/DDNS-Cloudflare-Bash](https://github.com/fire1ce/DDNS-Cloudflare-Bash) - Cloudflare DDNS bash Script for most Linux distributions and MacOS. Choose any source IP address to update external or internal (WAN/LAN).  Cloudflare's options proxy and TTL configurable via the para
 - [akopytov/sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark
 - [royhills/arp-scan](https://github.com/royhills/arp-scan) - The ARP Scanner
 - [gielcobben/caption](https://github.com/gielcobben/caption) - Get Caption, start watching.
@@ -6354,7 +6361,7 @@
 - [GoogleChromeLabs/web-push-codelab](https://github.com/GoogleChromeLabs/web-push-codelab) - 
 - [speedtracker/speedtracker](https://github.com/speedtracker/speedtracker) - 📉 Visualisation layer and data store for SpeedTracker
 - [mozilla/mozjpeg](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder.
-- [pyswmm/Stormwater-Management-Model](https://github.com/pyswmm/Stormwater-Management-Model) - Open Water Analytics Stormwater Management Model repository
+- [pyswmm/Stormwater-Management-Model](https://github.com/pyswmm/Stormwater-Management-Model) - PySWMM Stormwater Management Model repository
 - [algolia/autocomplete](https://github.com/algolia/autocomplete) - 🔮 Fast and full-featured autocomplete library
 - [kristianfreeman/bytesized](https://github.com/kristianfreeman/bytesized) - 🧠 The brains of the whole operation
 - [kristianfreeman/workers-qr-code-generator](https://github.com/kristianfreeman/workers-qr-code-generator) - 
@@ -7578,7 +7585,7 @@
 - [xtrime-ru/TelegramRSS](https://github.com/xtrime-ru/TelegramRSS) - Convert telegram posts to RSS or json in amphp server
 - [compwright/opml2csv](https://github.com/compwright/opml2csv) - OPML to CSV converter
 - [ArdiArtani/Google-Drive-Player-Script](https://github.com/ArdiArtani/Google-Drive-Player-Script) - Grab google drive streaming links (redirector.googlevideo.com/videoplayback?..)
-- [heroku/php-getting-started](https://github.com/heroku/php-getting-started) - Getting Started with PHP on Heroku
+- [heroku/php-getting-started](https://github.com/heroku/php-getting-started) - Getting Started with PHP on Heroku.
 - [GravityPDF/gravity-pdf](https://github.com/GravityPDF/gravity-pdf) - Gravity PDF is a GPLv2-licensed WordPress plugin that allows you to automatically generate, email and download PDF documents using Gravity Forms.
 - [m1m1s1ku/PDFFormsFiller](https://github.com/m1m1s1ku/PDFFormsFiller) - Fill Acrobat forms easily using pure PHP ! 💪
 - [bigprof-software/online-rental-property-manager](https://github.com/bigprof-software/online-rental-property-manager) - Manage your rental properties, units, applications, leases and tenants.
@@ -8028,7 +8035,7 @@
 - [abresler/realtR](https://github.com/abresler/realtR) - Real estate brokers are the....
 - [rstudio/blogdown](https://github.com/rstudio/blogdown) - Create Blogs and Websites with R Markdown
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
-- [geocompx/geocompr](https://github.com/geocompx/geocompr) - Open source book: Geocomputation with R
+- [geocompx/geocompr](https://github.com/geocompx/geocompr) - Geocomputation with R: an open source book
 - [mkearney/tweetbotornot](https://github.com/mkearney/tweetbotornot) - 🤖 R package for detecting Twitter bots via machine learning
 
 ## rails 
@@ -8982,6 +8989,7 @@
 - [darekkay/dashboard](https://github.com/darekkay/dashboard) - Customizable personal dashboard and startpage
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [onsip/SIP.js](https://github.com/onsip/SIP.js) - A simple, intuitive, and powerful JavaScript signaling library
+- [Turfjs/turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript and TypeScript
 - [aws-samples/aws-serverless-airline-booking](https://github.com/aws-samples/aws-serverless-airline-booking) - Airline Booking is a sample web application that provides Flight Search, Flight Payment, Flight Booking and Loyalty points including end-to-end testing, GraphQL and CI/CD. This web application was the
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [cozmo/jsQR](https://github.com/cozmo/jsQR) - A pure javascript QR code reading library. This library takes in raw images and will locate, extract and parse any QR code found within.
@@ -8990,6 +8998,7 @@
 
 ## ubuntu 
 
+- [fire1ce/DDNS-Cloudflare-Bash](https://github.com/fire1ce/DDNS-Cloudflare-Bash) - Cloudflare DDNS bash Script for most Linux distributions and MacOS. Choose any source IP address to update external or internal (WAN/LAN).  Cloudflare's options proxy and TTL configurable via the para
 - [systematicat/hack-captive-portals](https://github.com/systematicat/hack-captive-portals) - Hack any Captive portal using MAC-spoofing technique
 - [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
 - [hl2guide/AdGuard-Home-Whitelist](https://github.com/hl2guide/AdGuard-Home-Whitelist) - A strict curated whitelist for AdGuard Home.
@@ -9146,6 +9155,7 @@
 
 ## web 
 
+- [oldweb-today/oldweb-today](https://github.com/oldweb-today/oldweb-today) - Browse emulated browsers connected to old web sites in your browser!
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [maldevel/PenTestKit](https://github.com/maldevel/PenTestKit) - Tools, scripts and tips useful during Penetration Testing engagements.
 - [patrickhulce/third-party-web](https://github.com/patrickhulce/third-party-web) - Data on third party entities and their impact on the web.
