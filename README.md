@@ -1092,7 +1092,7 @@
 - [aws-amplify/aws-amplify.github.io](https://github.com/aws-amplify/aws-amplify.github.io) - Amplify Framework Website
 - [us-bea/econ-visual-guide](https://github.com/us-bea/econ-visual-guide) - 
 - [spotlightpa/poor-richard](https://github.com/spotlightpa/poor-richard) - Static site for Spotlight PA
-- [GSA/digitalgov.gov](https://github.com/GSA/digitalgov.gov) - Digital.gov — Helping the government community deliver better digital services.
+- [GSA/digitalgov.gov](https://github.com/GSA/digitalgov.gov) - Digital.gov: Better websites. Better government.
 - [wavded/ogre](https://github.com/wavded/ogre) - ogr2ogr geojson-focused web client
 - [Chicago/food-inspections-evaluation](https://github.com/Chicago/food-inspections-evaluation) - This repository contains the code to generate predictions of critical violations at food establishments in Chicago. It also contains the results of an evaluation of the effectiveness of those predicti
 - [CloudCannon/justice-jekyll-template](https://github.com/CloudCannon/justice-jekyll-template) - :office: Law firm themed business template for Jekyll
@@ -1926,7 +1926,7 @@
 - [fh-salzburg/har2gnuplot](https://github.com/fh-salzburg/har2gnuplot) - Create waterfall graph from har (http archive) files using gnuplot
 - [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-stag
 - [jonschlinkert/template-helpers](https://github.com/jonschlinkert/template-helpers) - Generic JavaScript helpers that can be used with any template engine. Handlebars, Lo-Dash, Underscore, or any engine that supports helper functions.
-- [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript
+- [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
 - [helpers/handlebars-helper-prettify](https://github.com/helpers/handlebars-helper-prettify) - {{prettify}} handlebars helper, for formatting ("beautifying") HTML, CSS and JavaScript.
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
 - [tholman/elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator.
@@ -3753,7 +3753,7 @@
 - [xbmc/repo-scripts](https://github.com/xbmc/repo-scripts) - Official source repository for Kodi script add-ons
 - [xbmc/repo-plugins](https://github.com/xbmc/repo-plugins) - Official source repository for Kodi plugin add-ons
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
-- [jorgebucaran/hyperawesome](https://github.com/jorgebucaran/hyperawesome) - A curated list of awesome projects built with Hyperapp + more
+- [foldmap/hyperawesome](https://github.com/foldmap/hyperawesome) - A curated list of awesome projects built with Hyperapp + more
 - [letsvalidate/api](https://github.com/letsvalidate/api) - API that uncovers the technologies used on websites and generates thumbnail from screenshot of website
 - [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
 - [ASCIIwwdc/wwdc-session-transcripts](https://github.com/ASCIIwwdc/wwdc-session-transcripts) - WWDC Session Transcripts
@@ -4842,6 +4842,7 @@
 
 ## Ruby 
 
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [lifen-labs/covid](https://github.com/lifen-labs/covid) - Covid-19 patients' self-monitoring at home via forms sent by SMS
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
@@ -5159,7 +5160,7 @@
 - [PanJiaChen/vue-element-admin-site](https://github.com/PanJiaChen/vue-element-admin-site) - :pencil: The documentation source of vue-element-admin https://panjiachen.github.io/vue-element-admin-site
 - [whiteinge/ok.sh](https://github.com/whiteinge/ok.sh) - A Bourne shell GitHub API client library focused on interfacing with shell scripts
 - [mwarning/zerotier-openwrt](https://github.com/mwarning/zerotier-openwrt) - A OpenWrt package for ZeroTier One - Pull requests are welcome!
-- [jorgebucaran/spark.fish](https://github.com/jorgebucaran/spark.fish) - ▁▂▄▆▇█▇▆▄▂▁
+- [foldmap/spark.fish](https://github.com/foldmap/spark.fish) - ▁▂▄▆▇█▇▆▄▂▁
 - [holman/spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
 - [nielsenramon/kickster](https://github.com/nielsenramon/kickster) - Worry-free deploying to GitHub Pages using Jekyll
 - [okitavera/dotfiles](https://github.com/okitavera/dotfiles) - All of my configuration files that currently used includes zsh, urxvt, awesomewm, and others
@@ -5320,7 +5321,7 @@
 - [marcosrg9/YouTubeTV](https://github.com/marcosrg9/YouTubeTV) - Simple YouTube TV client for desktop based on electron.
 - [veelenga/rblist](https://github.com/veelenga/rblist) - Russia Ban List
 - [azu/har-extractor](https://github.com/azu/har-extractor) - A CLI that extract har file to directory.
-- [browserless/browserless](https://github.com/browserless/browserless) - The browserless service in Docker. Run on our cloud or bring your own.
+- [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [coroo/docsify-share](https://github.com/coroo/docsify-share) - A simple sharing button for Docsify. Within this plugin, we hope you can have your own sharing social media button easily e.g facebook, twitter and many more.
 - [Cherry/placeholders.dev](https://github.com/Cherry/placeholders.dev) - Generate custom placeholder images, powered by Cloudflare Workers in 200+ edge locations
 - [lachenmayer/graphql-scraper](https://github.com/lachenmayer/graphql-scraper) - Extract structured data from the web using GraphQL.
