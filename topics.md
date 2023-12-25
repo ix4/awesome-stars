@@ -573,7 +573,7 @@
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
-- [foldmap/hyperawesome](https://github.com/foldmap/hyperawesome) - A curated list of awesome projects built with Hyperapp + more
+- [jorgebucaran/hyperawesome](https://github.com/jorgebucaran/hyperawesome) - A curated list of awesome projects built with Hyperapp + more
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [croqaz/awesome-markup](https://github.com/croqaz/awesome-markup) - 🕶 Awesome list of markdown-like goodies
@@ -4801,7 +4801,7 @@
 - [COVID19Tracking/covid-tracking-dash](https://github.com/COVID19Tracking/covid-tracking-dash) - Dash app for COVID Tracking Project (https://covidtracking.com/)
 - [COVID19Tracking/website](https://github.com/COVID19Tracking/website) - The COVID Tracking Project website
 - [COVID19Tracking/covid-tracking-api](https://github.com/COVID19Tracking/covid-tracking-api) - COVID-19 Rest & GraphQL API for US data, using Cloudflare Workers
-- [foldmap/spark.fish](https://github.com/foldmap/spark.fish) - ▁▂▄▆▇█▇▆▄▂▁
+- [jorgebucaran/spark.fish](https://github.com/jorgebucaran/spark.fish) - ▁▂▄▆▇█▇▆▄▂▁
 - [holman/spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
 - [fightforthefuture/votebot-forms](https://github.com/fightforthefuture/votebot-forms) - Voter Registration form submission to states
 - [fightforthefuture/votebot-api](https://github.com/fightforthefuture/votebot-api) - Voter Registration chatbot
@@ -9106,6 +9106,7 @@
 - [CityOfNewYork/online-apps-mapper](https://github.com/CityOfNewYork/online-apps-mapper) - A desktop application for generating JSON maps between fillable PDFs and FormStack Form fields. Used by the NYC Opportunity Online Applications project.
 - [fengyuanchen/vue-countdown](https://github.com/fengyuanchen/vue-countdown) - Countdown component for Vue.js.
 - [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [harvard-lil/alter-space](https://github.com/harvard-lil/alter-space) - An immersive library experience that gives visitors control over light, color, sound, and space.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [m1guelpf/send-to-things](https://github.com/m1guelpf/send-to-things) - A PWA to add tasks to Things from pretty much anywhere
