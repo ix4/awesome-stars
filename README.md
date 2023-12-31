@@ -884,7 +884,6 @@
 - [apisyouwonthate/openapi.tools](https://github.com/apisyouwonthate/openapi.tools) - A collection of Editors, Linters, Parsers, Code Generators,  Documentation, Testing
 - [LucyBot-Inc/documentation-starter](https://github.com/LucyBot-Inc/documentation-starter) - Interactive REST API Documentation
 - [BlackrockDigital/startbootstrap](https://github.com/BlackrockDigital/startbootstrap) - A library of free and open source Bootstrap themes and templates
-- [StartBootstrap/startbootstrap-clean-blog-jekyll](https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll) - A Jekyll version of the Clean Blog theme by Start Bootstrap
 - [arkadianriver/arkadianriver.com](https://github.com/arkadianriver/arkadianriver.com) - Using the Spectral theme from HTML5UP and jekyll, this is the source for https://arkadianriver.com. Clean demo and documentation at https://arkadianriver.github.io/arkadianriver.com
 - [hamukazu/lets-get-arrested](https://github.com/hamukazu/lets-get-arrested) - This project is intended to protest against the police in Japan
 - [Chicago/cds-reference](https://github.com/Chicago/cds-reference) - A reference site to test the design-cds-bootstrap theme.
@@ -933,7 +932,6 @@
 - [foundation/foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 - [jakesgordon/javascript-tetris](https://github.com/jakesgordon/javascript-tetris) - A simple javascript tetris game
 - [amitmerchant1990/notepad](https://github.com/amitmerchant1990/notepad) - :ledger: An offline capable Notepad PWA
-- [StartBootstrap/startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
 - [hackgvl/leaflet-google-sheets-template](https://github.com/hackgvl/leaflet-google-sheets-template) - Pull data from a public Google Sheet and create a Leaflet Map and shareable GeoJSON
 - [max-barry/google-drive-cms](https://github.com/max-barry/google-drive-cms) - A content management system (CMS) built on an interface everyone understands (n.b. No longer maintained)
 - [en-wl/wordlist](https://github.com/en-wl/wordlist) - SCOWL (and friends).
@@ -1425,7 +1423,7 @@
 - [kikiklang/pomme-page](https://github.com/kikiklang/pomme-page) - Big buttons with easy click startpage for a browser.
 - [z0ccc/comet](https://github.com/z0ccc/comet) - Browser extension to replace Youtube comments with Reddit comments or view the Reddit comments of any webpage.
 - [deep5050/memes-on-issues-action](https://github.com/deep5050/memes-on-issues-action) - greet the issue raiser with a custom message and a bonus programming meme :smile:
-- [code-charity/youtube](https://github.com/code-charity/youtube) - [Top~3 YouTube & Video Extension] Enrich your experience & -choice! 🧰90 clever features📌set & forget📌Longest-standing (Please help🧩us👨‍👩‍👧‍👧) ..⋮  {playback|content discovery|player|extra buttons|dist
+- [code-charity/youtube](https://github.com/code-charity/youtube) - [Top~1 YouTube & Video Extension] Enrich your experience & -choice! 🧰90 clever features📌set & forget📌Longest-standing (Please help🧩us👨‍👩‍👧‍👧) ..⋮  {playback|content discovery|player|extra buttons|dist
 - [ubershmekel/redditp](https://github.com/ubershmekel/redditp) - Convert any reddit page to a presentation or slide show
 - [jiangts/JS-OTP](https://github.com/jiangts/JS-OTP) - 100% Javascript Implementation of HOTP and TOTP for Two-Factor Authentication.
 - [w3irdrobot/interactive-menu](https://github.com/w3irdrobot/interactive-menu) - Building an Interactive Menu in Vanilla JavaScript
@@ -2127,7 +2125,6 @@
 - [PButcher/flipdown](https://github.com/PButcher/flipdown) - ⏰ A lightweight and performant flip styled countdown clock
 - [PButcher/a-million-times](https://github.com/PButcher/a-million-times) - A digital analogue clock
 - [Yakubovich/descendant_tree](https://github.com/Yakubovich/descendant_tree) - Uses d3.js to draw a descendant family tree
-- [StartBootstrap/startbootstrap-stylish-portfolio](https://github.com/StartBootstrap/startbootstrap-stylish-portfolio) - A stylish, one page, Bootstrap portfolio theme created by Start Bootstrap
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming.
 - [GermaVinsmoke/bmi-calculator](https://github.com/GermaVinsmoke/bmi-calculator) - React Hooks app for calculating BMI
 - [KarthikeyanRanasthala/react-todo-list](https://github.com/KarthikeyanRanasthala/react-todo-list) - https://karthikeyanranasthala.github.io/react-todo-list/
@@ -4094,9 +4091,7 @@
 
 ## Pug 
 
-- [StartBootstrap/startbootstrap-landing-page](https://github.com/StartBootstrap/startbootstrap-landing-page) - A responsive, Bootstrap landing page template created by Start Bootstrap
 - [nat-davydova/password-strength](https://github.com/nat-davydova/password-strength) - Password Strength Validator UI (HTML/Bootstrap/CSS/JS)
-- [StartBootstrap/startbootstrap-sb-admin](https://github.com/StartBootstrap/startbootstrap-sb-admin) - A free, open source, Bootstrap admin theme created by Start Bootstrap
 
 ## PureScript 
 
