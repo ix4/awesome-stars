@@ -235,7 +235,7 @@
 - [nwoltman/srt-to-vtt-converter](https://github.com/nwoltman/srt-to-vtt-converter) - A simple application for quickly converting subtitle files from SubRib (.srt) format to WebVTT (.vtt) format.
 - [inkle/ink-unity-integration](https://github.com/inkle/ink-unity-integration) - Unity integration for the open source ink narrative scripting language.
 - [chrismeller/StarbucksScraper](https://github.com/chrismeller/StarbucksScraper) - A very mean, very barebones, C# Console app that hammers the Starbucks Store Locator API to extract every store in the world.
-- [Radarr/Radarr](https://github.com/Radarr/Radarr) - A fork of Sonarr to work with movies à la Couchpotato.
+- [Radarr/Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
 - [schmich/hearthstone-card-images](https://github.com/schmich/hearthstone-card-images) - (Archived, see below) Hearthstone card image repository
 
 ## C++ 
@@ -4990,7 +4990,7 @@
 - [rust-lang/crates.io](https://github.com/rust-lang/crates.io) - The Rust package registry
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [13rac1/file-vis](https://github.com/13rac1/file-vis) - Visualizing binary file formats to make deterministic art https://13rac1.github.io/file-vis/
-- [fastly/pushpin](https://github.com/fastly/pushpin) - Proxy server for adding push to your API
+- [fastly/pushpin](https://github.com/fastly/pushpin) - A proxy server for adding push to your API, used at the core of Fastly's Fanout service
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
 - [softprops/emoji-clock](https://github.com/softprops/emoji-clock) - 🕒 🐇 I'm late I'm late for a very important date
 - [rickycodes/moonmoji](https://github.com/rickycodes/moonmoji) - :first_quarter_moon_with_face: Return an emoji representing the current moon phase.
