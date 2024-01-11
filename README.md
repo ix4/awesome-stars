@@ -115,7 +115,7 @@
 
 ## Astro 
 
-- [roadmapsh/next.roadmap.sh](https://github.com/roadmapsh/next.roadmap.sh) - Next version of roadmap.sh
+- [roadmapsh/deprecated-version](https://github.com/roadmapsh/deprecated-version) - Next version of roadmap.sh
 - [CSS-Tricks/serverless](https://github.com/CSS-Tricks/serverless) - The Power of Serverless for Front-End Developers
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 
@@ -273,7 +273,7 @@
 - [google/libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
 - [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
-- [1technophile/OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - MQTT gateway for ESP8266, ESP32, Sonoff RF Bridge or Arduino with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, Bluetooth, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC,
+- [1technophile/OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - MQTT gateway for ESP8266 or ESP32 with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, Bluetooth, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC, Mi Scale, TPMS, BBQ thermo
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [crow-translate/crow-translate](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator that allows you to translate and speak text using Google, Yandex Bing, LibreTranslate and Lingva.
 - [drewish/Cityscape](https://github.com/drewish/Cityscape) - Generates simple geometric cityscapes in the style of Donald Crews
@@ -791,7 +791,6 @@
 - [google/typedoc-neo-theme](https://github.com/google/typedoc-neo-theme) - 
 - [vHanda/google-keep-exporter](https://github.com/vHanda/google-keep-exporter) - Export google keep notes to markdown
 - [NUKnightLab/soundcite](https://github.com/NUKnightLab/soundcite) - Making Inline Audio Easy and Seamless
-- [presidential-innovation-fellows/pif-website](https://github.com/presidential-innovation-fellows/pif-website) - PIF website, jekyll flavored
 - [US-CBP/cbp-style-guide](https://github.com/US-CBP/cbp-style-guide) - The CBP Style Guide to compliment the CBP Theme.  The style guide describes CBP theme components and patterns and how to use them.
 - [ocaml/v2.ocaml.org](https://github.com/ocaml/v2.ocaml.org) - Implementation of the ocaml.org website.
 - [todogroup/todogroup.org](https://github.com/todogroup/todogroup.org) - Official TODO Website that containts TODO Guides, OSPO use cases and more resources to advance in the OSPO journey
@@ -1061,6 +1060,7 @@
 - [harvard-lil/alter-space](https://github.com/harvard-lil/alter-space) - An immersive library experience that gives visitors control over light, color, sound, and space.
 - [davesantos/tumblr-boilerplate](https://github.com/davesantos/tumblr-boilerplate) - :zap: A true bare bones Tumblr theme for a quick jump-start
 - [Yale-LILY/TutorialBank](https://github.com/Yale-LILY/TutorialBank) - 
+- [kiali/kiali.io](https://github.com/kiali/kiali.io) - Source code for www.kiali.io
 - [mermaidjs/mermaidjs.github.io](https://github.com/mermaidjs/mermaidjs.github.io) - Documentation has been moved to docs in https://github.com/mermaid-js/mermaid
 - [badboy/whatrustisit](https://github.com/badboy/whatrustisit) - What Rust is it?
 - [knyg/gamepad](https://github.com/knyg/gamepad) - A low-level interface that represents gamepad devices.
@@ -1425,7 +1425,7 @@
 - [kikiklang/pomme-page](https://github.com/kikiklang/pomme-page) - Big buttons with easy click startpage for a browser.
 - [z0ccc/comet](https://github.com/z0ccc/comet) - Browser extension to replace Youtube comments with Reddit comments or view the Reddit comments of any webpage.
 - [deep5050/memes-on-issues-action](https://github.com/deep5050/memes-on-issues-action) - greet the issue raiser with a custom message and a bonus programming meme :smile:
-- [code-charity/youtube](https://github.com/code-charity/youtube) - [Top~1 YouTube & Video Extension] Enrich your experience & -choice! 🧰90 clever features📌set & forget📌Longest-standing (Please help🧩us👨‍👩‍👧‍👧) ..⋮  {playback|content discovery|player|extra buttons|dist
+- [code-charity/youtube](https://github.com/code-charity/youtube) - [Top~1 YouTube Video Web-Extension] Enrich your experience & -choice! 🧰90 clever features📌set & forget📌Longest-standing(Please help🧩us👨‍👩‍👧‍👧) ..⋮  {playback|content discovery|player|extra buttons|dis
 - [ubershmekel/redditp](https://github.com/ubershmekel/redditp) - Convert any reddit page to a presentation or slide show
 - [jiangts/JS-OTP](https://github.com/jiangts/JS-OTP) - 100% Javascript Implementation of HOTP and TOTP for Two-Factor Authentication.
 - [w3irdrobot/interactive-menu](https://github.com/w3irdrobot/interactive-menu) - Building an Interactive Menu in Vanilla JavaScript
@@ -1599,6 +1599,7 @@
 - [NUKnightLab/sql-mysteries](https://github.com/NUKnightLab/sql-mysteries) - Inspired by @veltman's command-line mystery, use SQL to research clues and find out whodunit!
 - [usnationalarchives/capstone-grs](https://github.com/usnationalarchives/capstone-grs) - Capstone GRS Website
 - [USEPA/mywaterway](https://github.com/USEPA/mywaterway) - How's My Waterway provides information about the conditions streams, lakes and other waters anywhere in the U.S.
+- [presidential-innovation-fellows/pif-website](https://github.com/presidential-innovation-fellows/pif-website) - PIF website, jekyll flavored
 - [18F/move-marines](https://github.com/18F/move-marines) - 
 - [US-CBP/cbp-theme](https://github.com/US-CBP/cbp-theme) - UI Theme for U.S. Customs and Border Protection web applications
 - [jlfwong/youtube-for-dancers](https://github.com/jlfwong/youtube-for-dancers) - Chrome extension for youtube.com offering simple controls for looping, speed, and mirroring
@@ -2704,7 +2705,6 @@
 - [linkedin/linkedin.github.com](https://github.com/linkedin/linkedin.github.com) - Listing of all our public GitHub projects.
 - [IdentityModel/oidc-client-js](https://github.com/IdentityModel/oidc-client-js) - OpenID Connect (OIDC) and OAuth2 protocol support for browser-based JavaScript applications
 - [tumblr/tumblr.js](https://github.com/tumblr/tumblr.js) - JavaScript client for the Tumblr API
-- [kiali/kiali.io](https://github.com/kiali/kiali.io) - Source code for www.kiali.io
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [ampproject/amp-readiness](https://github.com/ampproject/amp-readiness) - AMP Readiness is a chrome extension allows you to quickly see what technologies used on the page are AMP compatible.
 - [trumphat/trumphat.github.io](https://github.com/trumphat/trumphat.github.io) - 
@@ -3484,7 +3484,7 @@
 - [microsoft/CameraTraps](https://github.com/microsoft/CameraTraps) - PyTorch Wildlife: a Collaborative Deep Learning Framework for Conservation.
 - [MiteshPuthran/Speech-Emotion-Analyzer](https://github.com/MiteshPuthran/Speech-Emotion-Analyzer) - The neural network model is capable of detecting five different male/female emotions from audio speeches. (Deep Learning, NLP, Python)
 - [GoogleCloudPlatform/keras-idiomatic-programmer](https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer) - Books, Presentations, Workshops, Notebook Labs, and Model Zoo  for Software Engineers and Data Scientists wanting to learn the TF.Keras Machine Learning framework
-- [ilyankou/passport-index-dataset](https://github.com/ilyankou/passport-index-dataset) - Passport Index 2023: visa requirements for 199 countries, in .csv
+- [ilyankou/passport-index-dataset](https://github.com/ilyankou/passport-index-dataset) - Passport Index 2024: visa requirements for 199 countries, in .csv
 - [alexattia/Maps-Location-History](https://github.com/alexattia/Maps-Location-History) - Get, Concatenate and Process you location history from Google Maps TimeLine
 - [laconicllama/google-locations](https://github.com/laconicllama/google-locations) - This code accompanies the ShmooCon 2018 talk: "OK Google, Tell Me About Myself."  With this code, I attempt to infer information about my daily life (i.e., identify significant locations in my life su
 - [descarteslabs/tutorials](https://github.com/descarteslabs/tutorials) - Public repository for sharing tutorials. For the full client documentation, visit https://docs.descarteslabs.com/
