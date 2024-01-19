@@ -1170,6 +1170,7 @@
 - [timwis/jkan](https://github.com/timwis/jkan) - A lightweight, backend-free open data portal, powered by Jekyll
 - [caciviclab/odca-jekyll](https://github.com/caciviclab/odca-jekyll) - New ODCA front end
 - [geoffreybr/d3-parliament](https://github.com/geoffreybr/d3-parliament) - A parliament chart based on D3js
+- [makinacorpus/Leaflet.Spin](https://github.com/makinacorpus/Leaflet.Spin) - Show a spinner on the map using Spin.js
 - [geojson-xyz/geojson-xyz.github.io](https://github.com/geojson-xyz/geojson-xyz.github.io) - 
 - [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
 - [tangrams/bubble-wrap](https://github.com/tangrams/bubble-wrap) - Bubble Wrap basemap style
@@ -1417,7 +1418,6 @@
 - [CharlieEtienne/t2s](https://github.com/CharlieEtienne/t2s) - Google TextToSpeech 2 mp3
 - [LeaVerou/dabblet](https://github.com/LeaVerou/dabblet) - An interactive CSS playground
 - [ianperrin/MMM-NetworkScanner](https://github.com/ianperrin/MMM-NetworkScanner) - A module for MagicMirror which determines the status of devices on the network based on their MAC or IP address
-- [pawelgrzybek/snippet-generator](https://github.com/pawelgrzybek/snippet-generator) - Snippet generator for Visual Studio Code, Sublime Text and Atom
 - [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio.
 - [steelbrain/linter](https://github.com/steelbrain/linter) - A Base Linter with Cow Powers http://steelbrain.me/linter/
 - [AtomLinter/linter-shellcheck](https://github.com/AtomLinter/linter-shellcheck) - Linter plugin for Bash, using shellcheck.
@@ -1755,7 +1755,6 @@
 - [gopro/forgejs](https://github.com/gopro/forgejs) - ForgeJS is a javascript framework that unleashes immersive WebVR experiences.
 - [digitalbazaar/forge](https://github.com/digitalbazaar/forge) - A native implementation of TLS in Javascript and tools to write crypto-based and network-heavy webapps
 - [groupon/cson-parser](https://github.com/groupon/cson-parser) - Simple & safe CSON parser
-- [atomiks/moonlight-vscode-theme](https://github.com/atomiks/moonlight-vscode-theme) - A VS Code theme with bubblegum colors on a moonlit background
 - [atomiks/tippyjs](https://github.com/atomiks/tippyjs) - Tooltip, popover, dropdown, and menu library
 - [atom/markdown-preview](https://github.com/atom/markdown-preview) - 📝 Markdown preview in Atom
 - [sindresorhus/atom-editorconfig](https://github.com/sindresorhus/atom-editorconfig) - Helps developers maintain consistent coding styles between different editors
@@ -1848,7 +1847,7 @@
 - [Juris-M/legal-resource-registry](https://github.com/Juris-M/legal-resource-registry) - Jurisdiction ID and abbreviation data files for using with Jurism and other projects.
 - [sunlightlabs/spooky_sounds](https://github.com/sunlightlabs/spooky_sounds) - This is a small Flask app that uses websockets and webcam motion detection to trigger sounds using say from OSX.
 - [apertureless/vue-cookie-law](https://github.com/apertureless/vue-cookie-law) - 🍪 👮 Hackable EU Cookie Law Plugin for Vue.js
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of a complete web page in a single HTML file
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [gchq/iris-schedule-viewer](https://github.com/gchq/iris-schedule-viewer) - An IRIS component for displaying gantt-style categorised data over time.
 - [gchq/iris-timeline-viewer](https://github.com/gchq/iris-timeline-viewer) - An IRIS component for navigating and interacting with time based data.
 - [gchq/CyberChef-server](https://github.com/gchq/CyberChef-server) - A server providing RESTful access to CyberChef
@@ -3155,7 +3154,6 @@
 - [juliuste/transit-map](https://github.com/juliuste/transit-map) - Generate a schematic map (“metro map”) for a given (transit) network graph using Mixed Integer Programming.
 - [juliuste/parliament-svg](https://github.com/juliuste/parliament-svg) - Generate parliament charts as virtual-dom SVG
 - [algolia/places](https://github.com/algolia/places) - :globe_with_meridians: Turn any &lt;input&gt; into an address autocomplete
-- [makinacorpus/Leaflet.Spin](https://github.com/makinacorpus/Leaflet.Spin) - Show a spinner on the map using Spin.js
 - [timwis/leaflet-choropleth](https://github.com/timwis/leaflet-choropleth) - Choropleth plugin for Leaflet (color scale based on value)
 - [wri/gfw](https://github.com/wri/gfw) - Global Forest Watch: An online, global, near-real time forest monitoring tool
 - [onaci/leaflet-velocity](https://github.com/onaci/leaflet-velocity) - Visualise velocity data on a leaflet layer
@@ -3925,6 +3923,7 @@
 
 ## PHP 
 
+- [prasathmani/tinyfilemanager](https://github.com/prasathmani/tinyfilemanager) - Single-file PHP file manager, browser and manage your files efficiently and easily with tinyfilemanager
 - [pi-hole/web](https://github.com/pi-hole/web) - Pi-hole Dashboard for stats and more
 - [arevindh/AdminLTE](https://github.com/arevindh/AdminLTE) - Pi-hole Dashboard for stats and more
 - [mevdschee/php-crud-api](https://github.com/mevdschee/php-crud-api) - Single file PHP script that adds a REST API to a SQL database
@@ -4029,7 +4028,7 @@
 - [thephpleague/geotools](https://github.com/thephpleague/geotools) - Geo-related tools PHP 7.3+ library built atop Geocoder and React libraries
 - [mledoze/countries](https://github.com/mledoze/countries) - World countries in JSON, CSV, XML and Yaml. Any help is welcome!
 - [faisalman/simple-excel-php](https://github.com/faisalman/simple-excel-php) - Simplexcel.php - Easily read / parse / convert / write between Microsoft Excel XML / CSV / TSV / HTML / JSON / etc spreadsheet tabular file formats
-- [crazko/post-social-image](https://github.com/crazko/post-social-image) - 🖼 Creates images suitable for social sharing
+- [crazko/post-social-image](https://github.com/crazko/post-social-image) - Creates images suitable for social sharing
 - [GSA/project-open-data-dashboard](https://github.com/GSA/project-open-data-dashboard) - Project Open Data Dashboard
 - [vijinho/moon](https://github.com/vijinho/moon) - CLI script/web API to show lunar phase information
 - [davemorrissey/sunrise-sunset-map](https://github.com/davemorrissey/sunrise-sunset-map) - PHP and ReactJS sunrise/sunset calculator. Source code for sunrisesunsetmap.com.
@@ -4326,6 +4325,7 @@
 - [jwilk/mwic](https://github.com/jwilk/mwic) - Misspelled Words In Context
 - [leostera/dotfiles](https://github.com/leostera/dotfiles) - :floppy_disk: ~/.*
 - [mozilla/kitsune](https://github.com/mozilla/kitsune) - Platform for Mozilla Support
+- [atomiks/moonlight-vscode-theme](https://github.com/atomiks/moonlight-vscode-theme) - A VS Code theme with bubblegum colors on a moonlit background
 - [JoshData/pdf-redactor](https://github.com/JoshData/pdf-redactor) - A general purpose PDF text-layer redaction tool for Python 2/3.
 - [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org) - The source code that powers readthedocs.org
 - [mingrammer/awesome-finder](https://github.com/mingrammer/awesome-finder) - :sunglasses: Search the awesome curated list without browser
@@ -5328,6 +5328,7 @@
 - [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) - Google Sheets API wrapper for Javascript / Typescript
 - [Badisi/samsung-tv-remote](https://github.com/Badisi/samsung-tv-remote) - 📺 NodeJS module to remotely control Samsung SmartTV starting from 2016
 - [Keyang/node-csvtojson](https://github.com/Keyang/node-csvtojson) - Blazing fast and Comprehensive CSV Parser for Node.JS / Browser / Command Line.
+- [pawelgrzybek/snippet-generator](https://github.com/pawelgrzybek/snippet-generator) - Snippet generator for Visual Studio Code, Sublime Text and Atom
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [TommyX12/VIR](https://github.com/TommyX12/VIR) - An intelligent time manager.
 - [1inch/shieldy](https://github.com/1inch/shieldy) - @shieldy_bot Telegram bot repository
