@@ -4453,6 +4453,7 @@
 
 ## others 
 
+- [dangnelson/car-makes-icons](https://github.com/dangnelson/car-makes-icons) - SVG Icons / Font for Cars Makes to match Edmunds API
 - [GoogleChrome/ip-protection](https://github.com/GoogleChrome/ip-protection) - 
 - [DreadedLama/BaseCaller](https://github.com/DreadedLama/BaseCaller) - Use truecaller token to retrieve data
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
@@ -4745,7 +4746,6 @@
 - [vietquocnguyen/NodeMCU-ESP8266-Servo-Smart-Blinds](https://github.com/vietquocnguyen/NodeMCU-ESP8266-Servo-Smart-Blinds) - DIY Smart Blinds using NodeMCU V3/ESP8266 and an MG995 Servo
 - [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your terminal from anywhere via the web.
 - [mwarning/zerotier-openwrt](https://github.com/mwarning/zerotier-openwrt) - A OpenWrt package for ZeroTier One - Pull requests are welcome!
-- [zhaojh329/oui](https://github.com/zhaojh329/oui) - 🐛  A framework used to develop Web interface for OpenWrt. Use Lua-eco + Vue3 + Vite + Element Plus.
 - [VincentChanX/shadowsocks-over-websocket](https://github.com/VincentChanX/shadowsocks-over-websocket) - 免费使用 Heroku 部署 shadowsocks
 - [kaz-ogiwara/covid19](https://github.com/kaz-ogiwara/covid19) - 新型コロナウイルス感染症（COVID-19）の国内における状況を厚生労働省の報道発表資料からビジュアルにまとめた。
 - [someshkar/covid19india-cluster](https://github.com/someshkar/covid19india-cluster) - :microscope: Covid19 India Cluster Graph
@@ -8899,7 +8899,7 @@
 - [sdras/productive-twitter](https://github.com/sdras/productive-twitter) - Chrome extension: Minimal and friendly theme for productive twitter use
 - [MaxBittker/nyt-first-said](https://github.com/MaxBittker/nyt-first-said) - Tweets when words are published for the first time in the NYT
 - [alkihis/twitter-archive-reader](https://github.com/alkihis/twitter-archive-reader) - Full featured TypeScript Twitter archive reader and browser
-- [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
+- [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally -- DEPRECATED, SEE TIMELINIZE (link below)
 - [edsu/anon](https://github.com/edsu/anon) - tweet about anonymous Wikipedia edits from particular IP address ranges
 - [daneden/who-would-win](https://github.com/daneden/who-would-win) - 🥊 A Twitter bot that pits emoji against one another
 - [nathancy/jekyll-embed-video](https://github.com/nathancy/jekyll-embed-video) - Embed videos in Jekyll webpages without a plugin (Youtube, Vimeo, Twitch, Facebook, Instagram, Twitter, TikTok, Streamable, Google Drive clips + more)
@@ -9058,6 +9058,7 @@
 - [spatie/dashboard.spatie.be](https://github.com/spatie/dashboard.spatie.be) - The source code of dashboard.spatie.be
 - [OnsenUI/OnsenUI](https://github.com/OnsenUI/OnsenUI) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React 
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
+- [zhaojh329/oui](https://github.com/zhaojh329/oui) - 🐛  A framework used to develop Web interface for OpenWrt. Use Lua-eco + Vue3 + Vite + Element Plus.
 - [xiaokaike/vue-color](https://github.com/xiaokaike/vue-color) - :art: Vue Color Pickers for Sketch, Photoshop, Chrome & more   http://vue-color.surge.sh
 - [egoist/poi](https://github.com/egoist/poi) - ⚡A zero-config bundler for JavaScript applications.
 - [gavinr/arcgis-json-to-geojson](https://github.com/gavinr/arcgis-json-to-geojson) - ArcGIS JSON to GeoJSON
@@ -9171,6 +9172,7 @@
 - [oldweb-today/oldweb-today](https://github.com/oldweb-today/oldweb-today) - Browse emulated browsers connected to old web sites in your browser!
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [maldevel/PenTestKit](https://github.com/maldevel/PenTestKit) - Tools, scripts and tips useful during Penetration Testing engagements.
+- [zhaojh329/oui](https://github.com/zhaojh329/oui) - 🐛  A framework used to develop Web interface for OpenWrt. Use Lua-eco + Vue3 + Vite + Element Plus.
 - [patrickhulce/third-party-web](https://github.com/patrickhulce/third-party-web) - Data on third party entities and their impact on the web.
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [Shopify/web-configs](https://github.com/Shopify/web-configs) - Common configurations for building web apps at Shopify
