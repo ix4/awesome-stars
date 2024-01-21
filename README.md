@@ -665,7 +665,7 @@
 - [itsjavi/mediatidy](https://github.com/itsjavi/mediatidy) - 🗂 Command-line tool to organize large directories of media files recursively by date, detecting duplicates.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [perkeep/gphotos-cdp](https://github.com/perkeep/gphotos-cdp) - This program uses the Chrome DevTools Protocol to drive a Chrome session that downloads your photos stored in Google Photos.
-- [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
+- [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally -- DEPRECATED, SEE TIMELINIZE (link below)
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [sqlitebrowser/dbhub.io](https://github.com/sqlitebrowser/dbhub.io) - A "Cloud" for SQLite databases.  Collaborative development for your data. 😊
 - [evilsocket/xray](https://github.com/evilsocket/xray) - XRay is a tool for recon, mapping and OSINT gathering from public networks.
@@ -980,7 +980,6 @@
 - [lowtechmag/solar](https://github.com/lowtechmag/solar) - Pelican theme for solar powered version of lowtechmagazine.com
 - [rviscomi/ismyhostfastyet](https://github.com/rviscomi/ismyhostfastyet) - A leaderboard of hosting providers' TTFB performance
 - [tomayac/pwa-feature-detector](https://github.com/tomayac/pwa-feature-detector) - Progressive Web App 🕵️ Feature Detector
-- [symbl-cc/symbl-data](https://github.com/symbl-cc/symbl-data) - UNICODE Characters for SYMBL.CC
 - [spotify/coordinator](https://github.com/spotify/coordinator) - A visual interface for turning an SVG into XY coördinates.
 - [jeromeetienne/AR.js](https://github.com/jeromeetienne/AR.js) - Efficient Augmented Reality for the Web - 60fps on mobile!
 - [amiaopensource/cable-bible](https://github.com/amiaopensource/cable-bible) - A guide to cables and connectors used for audiovisual tech
@@ -1082,7 +1081,6 @@
 - [joeljogy/Display-interactive-leaflet-maps](https://github.com/joeljogy/Display-interactive-leaflet-maps) - 
 - [mrdoob/svg-editor](https://github.com/mrdoob/svg-editor) - SVG Editor
 - [una/CSSgram](https://github.com/una/CSSgram) - CSS library for Instagram filters
-- [neocities/neocities](https://github.com/neocities/neocities) - Neocities.org - the web site. The entire thing. Yep, we're completely open source.
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
 - [anthumchris/fetch-progress-indicators](https://github.com/anthumchris/fetch-progress-indicators) - Progress indicators/bars using Streams, Service Workers, and Fetch APIs
 - [annevk/live-url-viewer](https://github.com/annevk/live-url-viewer) - Live URL Viewer
@@ -2801,6 +2799,7 @@
 - [sindresorhus/get-urls](https://github.com/sindresorhus/get-urls) - Get all urls in a string
 - [moment/moment-timezone](https://github.com/moment/moment-timezone) - Timezone support for moment.js
 - [mdn/web-components-examples](https://github.com/mdn/web-components-examples) - A series of web components examples, related to the MDN web components documentation at https://developer.mozilla.org/en-US/docs/Web/Web_Components.
+- [neocities/neocities](https://github.com/neocities/neocities) - Neocities.org - the web site. The entire thing. Yep, we're completely open source.
 - [mozilla/Spoke](https://github.com/mozilla/Spoke) - Easily create custom 3D environments
 - [mozilla/hubs](https://github.com/mozilla/hubs) - Duck-themed multi-user virtual spaces in WebVR. Built with A-Frame.
 - [inolen/quakejs](https://github.com/inolen/quakejs) - 
@@ -3624,6 +3623,7 @@
 
 ## Others 
 
+- [dangnelson/car-makes-icons](https://github.com/dangnelson/car-makes-icons) - SVG Icons / Font for Cars Makes to match Edmunds API
 - [GoogleChrome/ip-protection](https://github.com/GoogleChrome/ip-protection) - 
 - [portainer/portainer-compose](https://github.com/portainer/portainer-compose) - Compose setup for Portainer
 - [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of filters to fill in the gaps
@@ -3790,6 +3790,7 @@
 - [lisacharlotterost/tool-skills-for-data-journalism](https://github.com/lisacharlotterost/tool-skills-for-data-journalism) - Cheat sheets for analyzing data and building visualizations with R, dplyr, ggplot2, mapbox, qgis, d3.js, google refine and the terminal.
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [tomayac/amp-tube](https://github.com/tomayac/amp-tube) - A simple YouTube search engine and viewer app, implemented in AMP
+- [symbl-cc/symbl-data](https://github.com/symbl-cc/symbl-data) - UNICODE Characters for SYMBL.CC
 - [nypl-spacetime/nyc-historical-streets](https://github.com/nypl-spacetime/nyc-historical-streets) - Historical street Shapefiles for New York City
 - [nypl-spacetime/qgis-trace-tutorial](https://github.com/nypl-spacetime/qgis-trace-tutorial) - Tutorial: Tracing Historical Streets with QGIS
 - [github/gov-takedowns](https://github.com/github/gov-takedowns) - Text of government takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices.
