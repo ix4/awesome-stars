@@ -471,7 +471,7 @@
 - [expresspixel/estatezilla](https://github.com/expresspixel/estatezilla) - A lightweight open-source Real Estate CMS
 - [wifiphisher/extra-phishing-pages](https://github.com/wifiphisher/extra-phishing-pages) - Community-built scenarios for Wifiphisher
 - [UndeadSec/SocialFish](https://github.com/UndeadSec/SocialFish) - Phishing Tool & Information Collector
-- [codeforatlanta/mapsforus-website](https://github.com/codeforatlanta/mapsforus-website) - Website of mapsfor.us
+- [CivicTechAtlanta/mapsforus-website](https://github.com/CivicTechAtlanta/mapsforus-website) - Website of mapsfor.us
 - [leaflet-extras/leaflet.sprite](https://github.com/leaflet-extras/leaflet.sprite) - Sprite Based Retina Icons for Leaflet
 - [alexmwalker/view3d](https://github.com/alexmwalker/view3d) - Renders any flat single-piece cover graphic into a 3d posable model.
 - [joergdietrich/Leaflet.Terminator](https://github.com/joergdietrich/Leaflet.Terminator) - Night and day regions on Earth
@@ -1339,7 +1339,6 @@
 - [oduwsdl/MobileMink](https://github.com/oduwsdl/MobileMink) - An Android Application for the viewing and creating of archived verisons of mobile and desktop pages using the Memento Framework.
 - [iipc/openwayback](https://github.com/iipc/openwayback) - The OpenWayback Development
 - [datamade/chi-councilmatic](https://github.com/datamade/chi-councilmatic) - :eyes: keep tabs on Chicago city council
-- [kristerkari/react-native-svg-example](https://github.com/kristerkari/react-native-svg-example) - A simple example app that shows how you can use SVG files in React Native
 - [oblador/react-native-keychain](https://github.com/oblador/react-native-keychain) - :key: Keychain Access for React Native
 - [zsajjad/react-native-text-detector](https://github.com/zsajjad/react-native-text-detector) - Text Detector from image for react native using firebase MLKit on android and Tesseract on iOS
 - [bitletorg/bitlet](https://github.com/bitletorg/bitlet) - A small Java bittorrent library, powering BitLet.org
@@ -2884,6 +2883,7 @@
 - [harvard-lil/h2o](https://github.com/harvard-lil/h2o) - H2O is a web app for creating and reading open educational resources, primarily in the legal field
 - [regardscitoyens/the-law-factory](https://github.com/regardscitoyens/the-law-factory) - Track the french law-making process
 - [btplat/map-data](https://github.com/btplat/map-data) - Repo for the map data, eg geojson layers
+- [kristerkari/react-native-svg-example](https://github.com/kristerkari/react-native-svg-example) - A simple example app that shows how you can use SVG files in React Native
 - [mrdoob/htmleditor](https://github.com/mrdoob/htmleditor) - Simple editor for messing around.
 - [mrdoob/texgen.js](https://github.com/mrdoob/texgen.js) - JavaScript Texture Generator
 - [mrdoob/stats.js](https://github.com/mrdoob/stats.js) - JavaScript Performance Monitor
@@ -3442,7 +3442,7 @@
 - [techcoop/json-google-docs](https://github.com/techcoop/json-google-docs) - Uses Google Apps Scripts with Google Docs to provide a document tree in JSON exposed on a GET URL for integration into anything.
 - [mgwalker/past-presidents-api](https://github.com/mgwalker/past-presidents-api) - An API for past presidents
 - [slashme/parliamentdiagram](https://github.com/slashme/parliamentdiagram) - Parliament diagram creator
-- [codeforatlanta/mapsforus](https://github.com/codeforatlanta/mapsforus) - Leaflet maps auto-generated from Google Docs!
+- [CivicTechAtlanta/mapsforus](https://github.com/CivicTechAtlanta/mapsforus) - Leaflet maps auto-generated from Google Docs!
 - [beefproject/beef](https://github.com/beefproject/beef) - The Browser Exploitation Framework Project
 - [greatsuspender/thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) - A chrome extension for suspending all tabs to free up memory
 
@@ -4953,7 +4953,7 @@
 - [etewiah/property_web_builder](https://github.com/etewiah/property_web_builder) - Create a fully featured real estate website on Rails in minutes! ⛺
 - [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) - Next generation web scanner
 - [EBWiki/EBWiki](https://github.com/EBWiki/EBWiki) - repository of police abuse cases against people of color
-- [codeforatlanta/csv_geocoder](https://github.com/codeforatlanta/csv_geocoder) - add geocode info to csv file
+- [CivicTechAtlanta/csv_geocoder](https://github.com/CivicTechAtlanta/csv_geocoder) - add geocode info to csv file
 - [transitland/transitland-datastore](https://github.com/transitland/transitland-datastore) - Transitland v1 core components. Deprecated and only maintained occasionally. See Transitland v2.
 - [benbalter/jekyll-auth](https://github.com/benbalter/jekyll-auth) - A simple way to use GitHub OAuth to serve a protected Jekyll site to your GitHub organization
 - [jekyll/github-metadata](https://github.com/jekyll/github-metadata) - Jekyll plugin to propagate the `site.github` namespace and set default values for use with GitHub Pages.
