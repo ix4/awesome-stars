@@ -7052,8 +7052,8 @@
 - [iranopendata/iranopendata.github.io](https://github.com/iranopendata/iranopendata.github.io) - Making Iranian Data Available to the Public
 - [timwis/jkan](https://github.com/timwis/jkan) - A lightweight, backend-free open data portal, powered by Jekyll
 - [cmgiven/open-election-map](https://github.com/cmgiven/open-election-map) - Election map for DC's 2014 general election
-- [codeforatlanta/csv_geocoder](https://github.com/codeforatlanta/csv_geocoder) - add geocode info to csv file
-- [codeforatlanta/mapsforus-website](https://github.com/codeforatlanta/mapsforus-website) - Website of mapsfor.us
+- [CivicTechAtlanta/csv_geocoder](https://github.com/CivicTechAtlanta/csv_geocoder) - add geocode info to csv file
+- [CivicTechAtlanta/mapsforus-website](https://github.com/CivicTechAtlanta/mapsforus-website) - Website of mapsfor.us
 - [roberto1648/presidential-elections-from-a-data-science-perspective](https://github.com/roberto1648/presidential-elections-from-a-data-science-perspective) - An exploration of historical data on US presidential elections
 - [NepalGov/ElectionPortal](https://github.com/NepalGov/ElectionPortal) - Website to publish Election Results
 - [DemocracyClub/WhoCanIVoteFor](https://github.com/DemocracyClub/WhoCanIVoteFor) - 🗳 The source for https://whocanivotefor.co.uk/
@@ -7449,7 +7449,7 @@
 - [yahoo/hecate](https://github.com/yahoo/hecate) - Automagically generate thumbnails, animated GIFs, and summaries from videos
 - [bdheath/Big-Cases](https://github.com/bdheath/Big-Cases) - The basic code behind the @big_cases Twitter bot
 - [slashme/parliamentdiagram](https://github.com/slashme/parliamentdiagram) - Parliament diagram creator
-- [codeforatlanta/mapsforus](https://github.com/codeforatlanta/mapsforus) - Leaflet maps auto-generated from Google Docs!
+- [CivicTechAtlanta/mapsforus](https://github.com/CivicTechAtlanta/mapsforus) - Leaflet maps auto-generated from Google Docs!
 - [propublica/Capitol-Words](https://github.com/propublica/Capitol-Words) - Scraping, parsing and indexing the daily Congressional Record to support phrase search over time, and by legislator and date
 - [coryetzkorn/state-svg-defs](https://github.com/coryetzkorn/state-svg-defs) - US state icons in a single ready-to-use SVG defs file
 - [beefproject/beef](https://github.com/beefproject/beef) - The Browser Exploitation Framework Project
