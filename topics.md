@@ -3275,7 +3275,7 @@
 - [spite/ccapture.js](https://github.com/spite/ccapture.js) - A library to capture canvas-based animations at a fixed framerate
 - [IMBurbank/trump-world-graph](https://github.com/IMBurbank/trump-world-graph) - TrumpWorld Associate Connections - Force Directed Graph
 - [LindseyB/cutiefinder](https://github.com/LindseyB/cutiefinder) - AI guaranteed to find cuties
-- [circlecell/jsonlint.com](https://github.com/circlecell/jsonlint.com) - Source code for jsonlint.com
+- [circlecell/jsonlint.com](https://github.com/circlecell/jsonlint.com) - [OLD] Please go to new source, link below.
 - [Milleus/tessara](https://github.com/Milleus/tessara) - records Telegram chat messages and store in Google Sheets.
 - [matteocontrini/node-bypasser](https://github.com/matteocontrini/node-bypasser) - Bypass URL shortener websites
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
@@ -3541,7 +3541,7 @@
 - [mledoze/countries](https://github.com/mledoze/countries) - World countries in JSON, CSV, XML and Yaml. Any help is welcome!
 - [mapbox/tilejson-spec](https://github.com/mapbox/tilejson-spec) - JSON format for describing map tilesets.
 - [simplepie/feed-locator](https://github.com/simplepie/feed-locator) - An ultra-liberal feed locator.
-- [circlecell/jsonlint.com](https://github.com/circlecell/jsonlint.com) - Source code for jsonlint.com
+- [circlecell/jsonlint.com](https://github.com/circlecell/jsonlint.com) - [OLD] Please go to new source, link below.
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
 
 ## julia 
@@ -4770,7 +4770,6 @@
 - [anvaka/city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
 - [googleworkspace/sheets-api-codelab](https://github.com/googleworkspace/sheets-api-codelab) - Use Google Sheets as your application's reporting tool
 - [backtrackbaba/covid-api](https://github.com/backtrackbaba/covid-api) - API's to interact with COVID19 dataset by John Hopkins University
-- [yovavsanders/govmap](https://github.com/yovavsanders/govmap) - 
 - [Maptime030/Leaflet-D3-Workshop](https://github.com/Maptime030/Leaflet-D3-Workshop) - Maptime #1. Leaflet & D3 workshop by Webmapper
 - [seattletimes/component-leaflet-map](https://github.com/seattletimes/component-leaflet-map) - A custom element for creating Leaflet maps
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
