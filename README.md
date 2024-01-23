@@ -759,7 +759,6 @@
 - [holtzy/D3-graph-gallery](https://github.com/holtzy/D3-graph-gallery) - A collection of simple graphics made with D3.js
 - [labsletemps/coronavirus-world-map-evolution](https://github.com/labsletemps/coronavirus-world-map-evolution) - Mapping the coronavirus propagation using d3.js
 - [newjersey/covid19-ask-a-scientist](https://github.com/newjersey/covid19-ask-a-scientist) - COVID-19 Ask a Scientist Project
-- [yovavsanders/govmap](https://github.com/yovavsanders/govmap) - 
 - [hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
 - [expressjs/expressjs.com](https://github.com/expressjs/expressjs.com) - 
 - [openexchangerates/javascript-sandbox-console](https://github.com/openexchangerates/javascript-sandbox-console) - a mini interactive javascript console for library/plugin demos and homepages
@@ -1230,7 +1229,7 @@
 - [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap Admin & Dashboard Template
 - [LindseyB/cutiefinder](https://github.com/LindseyB/cutiefinder) - AI guaranteed to find cuties
 - [0x263b/Otherside](https://github.com/0x263b/Otherside) - Create a Twitter List of the accounts someone follows, and see Twitter from their perspective
-- [circlecell/jsonlint.com](https://github.com/circlecell/jsonlint.com) - Source code for jsonlint.com
+- [circlecell/jsonlint.com](https://github.com/circlecell/jsonlint.com) - [OLD] Please go to new source, link below.
 - [nvkelso/natural-earth-vector](https://github.com/nvkelso/natural-earth-vector) - A global, public domain map dataset available at three scales and featuring tightly integrated vector and raster data.
 - [gka/todayspaper](https://github.com/gka/todayspaper) - Direct-link to today's NYT frontpage PDF (for bookmarking purposes)
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
