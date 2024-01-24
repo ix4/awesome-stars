@@ -1937,7 +1937,6 @@
 - [vinitkumar/gist-browser](https://github.com/vinitkumar/gist-browser) - Real time Gist monitor
 - [Wiredcraft/carte](https://github.com/Wiredcraft/carte) - Simple Jekyll-based documentation site for APIs.
 - [yishn/tikzcd-editor](https://github.com/yishn/tikzcd-editor) - A simple visual editor for creating commutative diagrams.
-- [jsplumb/jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
 - [adrai/flowchart.js](https://github.com/adrai/flowchart.js) - Draws simple SVG flow chart diagrams from textual representation of the diagram
 - [jhildenbiddle/docsify-tabs](https://github.com/jhildenbiddle/docsify-tabs) - A docsify.js plugin for rendering tabbed content from markdown
 - [nuxt/vue-meta](https://github.com/nuxt/vue-meta) - Manage HTML metadata in Vue.js components with SSR support
@@ -2261,7 +2260,6 @@
 - [Sefaria/Sefaria-Rashi-Bot](https://github.com/Sefaria/Sefaria-Rashi-Bot) - An 11th-century rabbi walks into a bar. He looks around. He frowns. He leaves.  The bartender asks: "What's bothering Rashi?"
 - [liyasthomas/colorbook](https://github.com/liyasthomas/colorbook) - 🎨 Color schemes for UI design - Optimized for foreground, background, border, etc. https://liyasthomas.github.io/colorbook
 - [chromium/permission.site](https://github.com/chromium/permission.site) - A site to test the interaction of web APIs and browser permissions.
-- [storybookjs/storybook-addon-console](https://github.com/storybookjs/storybook-addon-console) - storybook-addon. Redirects console output into action logger panel
 - [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
 - [CesiumGS/cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps :earth_americas:
 - [mvayngrib/parse-usdl](https://github.com/mvayngrib/parse-usdl) - 
@@ -2708,7 +2706,6 @@
 - [versatica/JsSIP](https://github.com/versatica/JsSIP) - JsSIP, the JavaScript SIP library
 - [youtube/spfjs](https://github.com/youtube/spfjs) - A lightweight JS framework for fast navigation and page updates from YouTube
 - [jsvine/notebookjs](https://github.com/jsvine/notebookjs) - Render Jupyter/IPython notebooks on the fly, in the browser. (Or on the command line, if you'd like.)
-- [FCC/c2hgis-web](https://github.com/FCC/c2hgis-web) - Connect2Health - Mapping Broadband Health in America
 - [FCC/contours-api-node](https://github.com/FCC/contours-api-node) - Enterprise Contours Node API
 - [FCC/pirateaction2](https://github.com/FCC/pirateaction2) - pirate action version 2
 - [cityofaustin/atd-data-and-performance](https://github.com/cityofaustin/atd-data-and-performance) - Open data and performance hub for the City of Austin Transportation Department
@@ -3740,6 +3737,7 @@
 - [the-trace-and-buzzfeed-news/introduction](https://github.com/the-trace-and-buzzfeed-news/introduction) - Unsolved Shootings — Data, Code, and Methodologies — The Trace and BuzzFeed News
 - [leemunroe/htmlemail](https://github.com/leemunroe/htmlemail) - Responsive HTML Email Templates
 - [plotly/documentation](https://github.com/plotly/documentation) - Issue tracker for Plotly's open-source documentation.
+- [jsplumb/jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
 - [yunlzheng/prometheus-book](https://github.com/yunlzheng/prometheus-book) - Prometheus操作指南
 - [BBC-Data-Unit/neighbourhood-police](https://github.com/BBC-Data-Unit/neighbourhood-police) - Neighbourhood police: One in seven officers axed were beat bobbies
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
@@ -5515,6 +5513,7 @@
 - [jquery/esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis
 - [wix-incubator/turnerjs](https://github.com/wix-incubator/turnerjs) - An angular test kit for components and directives. See:
 - [wix/stylable](https://github.com/wix/stylable) - Stylable - CSS for components
+- [storybookjs/storybook-addon-console](https://github.com/storybookjs/storybook-addon-console) - storybook-addon. Redirects console output into action logger panel
 - [Esshahn/spritemate](https://github.com/Esshahn/spritemate) - spritemate is a browser based sprite editor for the Commodore 64
 - [alfa-code/pomodoro-time](https://github.com/alfa-code/pomodoro-time) - Time management service
 - [mariusGundersen/Ekkiog](https://github.com/mariusGundersen/Ekkiog) - NAND logic
