@@ -1319,7 +1319,6 @@
 - [vasturiano/globe.gl](https://github.com/vasturiano/globe.gl) - UI component for Globe Data Visualization using ThreeJS/WebGL
 - [dreamRs/apexcharter](https://github.com/dreamRs/apexcharter) - :bar_chart: R Htmlwidget for ApexCharts.js
 - [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
-- [FCC/c2hgis-web](https://github.com/FCC/c2hgis-web) - Connect2Health - Mapping Broadband Health in America
 - [FCC/contours-api-node](https://github.com/FCC/contours-api-node) - Enterprise Contours Node API
 - [FCC/pirateaction2](https://github.com/FCC/pirateaction2) - pirate action version 2
 - [jaanga/sp500](https://github.com/jaanga/sp500) - Near real-time 3D SP500
@@ -1937,7 +1936,6 @@
 - [nypl-spacetime/qgis-trace-tutorial](https://github.com/nypl-spacetime/qgis-trace-tutorial) - Tutorial: Tracing Historical Streets with QGIS
 - [SuperMap/iClient-JavaScript](https://github.com/SuperMap/iClient-JavaScript) - Modern GIS Web Client for JavaScript, based on Leaflet\OpenLayers\MapboxGL-JS\Classic(iClient8C), enhanced with ECharts\D3\MapV etc. Contributed by SuperMap & community.
 - [nickpeihl/ags-walk](https://github.com/nickpeihl/ags-walk) - Walks an ArcGIS Server Rest API and returns all services
-- [FCC/c2hgis-web](https://github.com/FCC/c2hgis-web) - Connect2Health - Mapping Broadband Health in America
 - [FCC/contours-api-node](https://github.com/FCC/contours-api-node) - Enterprise Contours Node API
 - [FCC/pirateaction2](https://github.com/FCC/pirateaction2) - pirate action version 2
 - [pmacMaps/get-zoning-by-parcel-app](https://github.com/pmacMaps/get-zoning-by-parcel-app) - Get the zoning district information for a parcel by entering the parcel's identification number or street address.
@@ -4080,6 +4078,7 @@
 - [styled-components/styled-components-website](https://github.com/styled-components/styled-components-website) - The styled-components website and documentation
 - [stackbit/jamstackthemes](https://github.com/stackbit/jamstackthemes) - A list of themes and starters for JAMstack sites.
 - [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
+- [jsplumb/jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [GetRD/academic-file-converter](https://github.com/GetRD/academic-file-converter) - 📚 Import Bibtex publications and Jupyter Notebook blog posts into your Markdown website or book. 将Bibtex转换为Markdown网站
@@ -8153,6 +8152,7 @@
 - [convergencelabs/code-editor-demo](https://github.com/convergencelabs/code-editor-demo) - A mock up of a code editor built using React, Ace, Flux, and Convergence
 - [wojtekmaj/react-lifecycle-methods-diagram](https://github.com/wojtekmaj/react-lifecycle-methods-diagram) - Interactive React Lifecycle Methods diagram.
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
+- [jsplumb/jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
 - [FormidableLabs/prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer) - 🖌️ Renders highlighted Prism output to React (+ theming & vendored Prism)
 - [FormidableLabs/react-live](https://github.com/FormidableLabs/react-live) - A flexible playground for live editing React components
 - [react-static/react-static](https://github.com/react-static/react-static) - ⚛️ 🚀 A progressive static site generator for React.
@@ -8321,6 +8321,7 @@
 - [bcgov/range-web](https://github.com/bcgov/range-web) - The Range Mobile Pathfinder project is developing a suite of applications to support the sustainable management of cattle range on crown lands in British Columbia.
 - [tabler/tabler-react](https://github.com/tabler/tabler-react) - React components and demo for the Tabler UI theme.
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
+- [jsplumb/jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
 - [FormidableLabs/prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer) - 🖌️ Renders highlighted Prism output to React (+ theming & vendored Prism)
 - [fangpenlin/avataaars-generator](https://github.com/fangpenlin/avataaars-generator) - Simple generator React app for avataaars
 - [richardzcode/Dochameleon](https://github.com/richardzcode/Dochameleon) - Progressive Static Website Generator
@@ -8731,6 +8732,7 @@
 - [egoist/poi](https://github.com/egoist/poi) - ⚡A zero-config bundler for JavaScript applications.
 - [gavinr/stl-live-crime](https://github.com/gavinr/stl-live-crime) - A live map of crime in the city of St. Louis, MO
 - [vudash/vudash](https://github.com/vudash/vudash) - Powerful, Flexible, Open Source dashboards for anything
+- [jsplumb/jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 
@@ -9145,6 +9147,7 @@
 - [planetoftheweb/seven](https://github.com/planetoftheweb/seven) - Eleventy template using Bootstrap, Sass, Webpack, Vue.js powered search, includes lots of other features
 - [forestryio/portfolio-vuepress](https://github.com/forestryio/portfolio-vuepress) - Vuepress portfolio
 - [apertureless/vue-chartjs](https://github.com/apertureless/vue-chartjs) - 📊  Vue.js wrapper for Chart.js
+- [jsplumb/jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
 - [lusaxweb/vue-share](https://github.com/lusaxweb/vue-share) - Vuejs News Links
 - [lusaxweb/vuesax](https://github.com/lusaxweb/vuesax) - New Framework Components for Vue.js 2
 - [lusaxweb/vuenut](https://github.com/lusaxweb/vuenut) - ⚙️ Developer tools for vue js (Vuex)
