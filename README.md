@@ -784,7 +784,7 @@
 - [alphagov/gds-way](https://github.com/alphagov/gds-way) - How we build and operate products at GDS
 - [DFE-Digital/technical-guidance](https://github.com/DFE-Digital/technical-guidance) - Principles, standards and guidance for digital delivery teams
 - [bcgov/design-system](https://github.com/bcgov/design-system) - British Columbia Government Design System for Digital Services
-- [ministryofjustice/technical-guidance](https://github.com/ministryofjustice/technical-guidance) - How we build and operate products at the Ministry of Justice.
+- [ministryofjustice/technical-guidance](https://github.com/ministryofjustice/technical-guidance) - How we build and operate products at the Ministry of Justice. • This repository is defined and managed in Terraform
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
 - [google/typedoc-neo-theme](https://github.com/google/typedoc-neo-theme) - 
