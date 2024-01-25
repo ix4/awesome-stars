@@ -4921,7 +4921,7 @@
 - [ministryofjustice/opg-digideps](https://github.com/ministryofjustice/opg-digideps) - Digideps: Managed by opg-org-infra & Terraform
 - [ministryofjustice/opg-lpa](https://github.com/ministryofjustice/opg-lpa) - The Office of the Public Guardian Lasting Power of Attorney online service: Managed by opg-org-infra & Terraform
 - [ministryofjustice/laa-court-data-adaptor](https://github.com/ministryofjustice/laa-court-data-adaptor) - Acts as a single datasource for LAA systems to consume HMCTS Common Platform data.
-- [ministryofjustice/technical-guidance](https://github.com/ministryofjustice/technical-guidance) - How we build and operate products at the Ministry of Justice.
+- [ministryofjustice/technical-guidance](https://github.com/ministryofjustice/technical-guidance) - How we build and operate products at the Ministry of Justice. • This repository is defined and managed in Terraform
 - [ddo/fast](https://github.com/ddo/fast) - Minimal zero-dependency utility for testing your internet download speed from terminal
 - [foundation/inky](https://github.com/foundation/inky) - Convert a simple HTML syntax into tables compatible with Foundation for Emails.
 - [balena-io/balena-cli](https://github.com/balena-io/balena-cli) - The official balena CLI tool.
