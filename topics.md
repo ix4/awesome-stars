@@ -233,6 +233,7 @@
 - [wagtail](#wagtail)
 - [web](#web)
 - [web-components](#web-components)
+- [web-development](#web-development)
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
@@ -830,7 +831,6 @@
 - [the-crib/thread-unroll](https://github.com/the-crib/thread-unroll) - Unrolls twitter thread and sends it as a DM to anyone that mentions the bot on the thread.
 - [floschnell/flatcrawl-processors](https://github.com/floschnell/flatcrawl-processors) - A set of processors that will instantly inform users via a set of channels (ie. Telegram) of new flats that are found on different rental websites.
 - [zeshuaro/telegram-pdf-bot](https://github.com/zeshuaro/telegram-pdf-bot) - A Telegram bot that can do a lot of things related to PDF files
-- [AmanoTeam/EduuRobot](https://github.com/AmanoTeam/EduuRobot) - EduuRobot Telegram bot source code.
 - [Nukesor/archivebot](https://github.com/Nukesor/archivebot) - :floppy_disk: A telegram bot for backing up and collecting all kinds of media.
 - [phil-r/asciifacesbot](https://github.com/phil-r/asciifacesbot) - :smiley: Telegram Bot @asciifacesbot that allows you to append ascii faces to your messages ¯\_(ツ)_/¯
 - [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
@@ -2880,7 +2880,7 @@
 - [socketio/engine.io](https://github.com/socketio/engine.io) - The engine used in the Socket.IO JavaScript server, which manages the low-level transports such as HTTP long-polling and WebSocket.
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
-- [julmot/mark.js](https://github.com/julmot/mark.js) - JavaScript keyword highlighting. Mark text with with options that fit every application. Also available as jQuery plugin.
+- [julmot/mark.js](https://github.com/julmot/mark.js) - JavaScript keyword highlighting. Mark text with options that fit every application. Also available as jQuery plugin.
 - [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block invisible trackers.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [enginkizil/FeedEk](https://github.com/enginkizil/FeedEk) - FeedEk jQuery RSS/ATOM Feed Plugin
@@ -3308,7 +3308,7 @@
 - [Chicago/dev.cityofchicago.org](https://github.com/Chicago/dev.cityofchicago.org) - Developer resources provided by the City of Chicago and sister agencies and get technical updates from the developer blog.
 - [Phlow/simplicity](https://github.com/Phlow/simplicity) - A free, flexible, superfast and easily customizable Jekyll Theme with no Javascript but beautiful typography.
 - [CloudCannon/aviator-jekyll-template](https://github.com/CloudCannon/aviator-jekyll-template) - :droplet: API Documentation template for Jekyll
-- [markets/jekyll-timeago](https://github.com/markets/jekyll-timeago) - :hourglass: Ruby library to compute distance of dates in words. Originally built for Jekyll.
+- [markets/jekyll-timeago](https://github.com/markets/jekyll-timeago) - ⌛ Ruby library to compute distance of dates in words. Originally built for Jekyll.
 - [sandoche/Jekyll-webpack-boilerplate](https://github.com/sandoche/Jekyll-webpack-boilerplate) - ⚡️ A boilerplate with Jekyll and Webpack to make the most performant static websites
 - [yizeng/jekyll-theme-simple-texture](https://github.com/yizeng/jekyll-theme-simple-texture) - A gem-based responsive simple texture styled Jekyll theme.
 - [chrisanthropic/starving-artist-jekyll-theme](https://github.com/chrisanthropic/starving-artist-jekyll-theme) - A portfolio theme for Jekyll for artists to display their work - http://chrisanthropic.github.io/starving-artist-jekyll-theme/
@@ -3459,7 +3459,7 @@
 - [hydecorp/push-state](https://github.com/hydecorp/push-state) - Turn static web sites into dynamic web apps.
 - [hydecorp/drawer](https://github.com/hydecorp/drawer) - A touch-enabled drawer component for the modern web.
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
-- [julmot/mark.js](https://github.com/julmot/mark.js) - JavaScript keyword highlighting. Mark text with with options that fit every application. Also available as jQuery plugin.
+- [julmot/mark.js](https://github.com/julmot/mark.js) - JavaScript keyword highlighting. Mark text with options that fit every application. Also available as jQuery plugin.
 - [enginkizil/FeedEk](https://github.com/enginkizil/FeedEk) - FeedEk jQuery RSS/ATOM Feed Plugin
 - [fancyapps/fancybox](https://github.com/fancyapps/fancybox) - jQuery lightbox script for displaying images, videos and more. Touch enabled, responsive and fully customizable.
 - [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library.
@@ -5110,7 +5110,6 @@
 - [cfpb/api](https://github.com/cfpb/api) - Documentation to support upcoming data platform API and data sets
 - [eregs/regulations-core](https://github.com/eregs/regulations-core) - An engine that supplies the API that allows users to read regulations and their various layers.
 - [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
-- [w3c/mdn-spec-links](https://github.com/w3c/mdn-spec-links) - MDN Spec Links – Linking specs to MDN and browser-support data
 - [w3c/wcag](https://github.com/w3c/wcag) - Web Content Accessibility Guidelines
 - [sidvishnoi/respec-preview](https://github.com/sidvishnoi/respec-preview) - Preview documents using a specific ReSpec version
 - [tobie/specref](https://github.com/tobie/specref) - An open-source, community-maintained database of Web standards & related references.
@@ -6259,7 +6258,6 @@
 - [NYCPlanning/gis-lpc](https://github.com/NYCPlanning/gis-lpc) - The New York City Landmarks Preservation Commission is the New York City agency charged with administering the city's Landmarks Preservation Law. This script is used to scrape the NYC Open Data platfo
 - [clehner/nylaws](https://github.com/clehner/nylaws) - Command line tool for accessing the laws of State of New York
 - [Esri/precipitation-app](https://github.com/Esri/precipitation-app) - See the real-time precipitation forecast  for the next three days, updated hourly from the National Weather service
-- [Esri/crowdsource-polling](https://github.com/Esri/crowdsource-polling) - Provides a means for citizens to provide feedback to their governments
 - [Esri/geoportal-server](https://github.com/Esri/geoportal-server) - Geoportal Server is a standards-based, open source product that enables discovery and use of geospatial resources including data and services.
 - [codeforamerica/BEAR](https://github.com/codeforamerica/BEAR) - Desktop app to analyze CA DOJ records for convictions eligible for Prop 64 relief
 - [mapshakers/leaflet-control-window](https://github.com/mapshakers/leaflet-control-window) - Simple popup window plugin for leaflet.
@@ -6415,7 +6413,7 @@
 - [jpatokal/openflights](https://github.com/jpatokal/openflights) - Website for storing flight information, rendering paths on a zoomable world map and calculating statistics, with plenty of free airline, airport and route data.
 - [plotly/datasets](https://github.com/plotly/datasets) - Datasets used in Plotly examples and documentation
 - [d3fc/d3fc](https://github.com/d3fc/d3fc) - A collection of components that make it easy to build interactive charts with D3
-- [processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor) - p5.js Web Editor, officially launched!
+- [processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor) - The p5.js Editor is a website for creating p5.js sketches, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else! You can create, share, 
 - [bramus/freshinstall](https://github.com/bramus/freshinstall) - Automatically configure and install software onto your new Mac
 - [greencardamom/Wikiget](https://github.com/greencardamom/Wikiget) - Awk based command-line tool to access some Wikimedia API functions
 - [twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) - Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.
@@ -6452,7 +6450,7 @@
 - [mpromonet/webrtc-streamer](https://github.com/mpromonet/webrtc-streamer) - WebRTC streamer for V4L2 capture devices, RTSP sources and Screen Capture
 - [centricular/gstwebrtc-demos](https://github.com/centricular/gstwebrtc-demos) - Superseded by https://gitlab.freedesktop.org/gstreamer/gstreamer/-/tree/main/subprojects/gst-examples/webrtc - Demo apps for using gstreamer's webrtc implementation
 - [flutter-webrtc/flutter-webrtc-demo](https://github.com/flutter-webrtc/flutter-webrtc-demo) - Demo for flutter-webrtc
-- [MyPureCloud/webrtc-stats-gatherer](https://github.com/MyPureCloud/webrtc-stats-gatherer) - :chart_with_upwards_trend: :computer:  A module for collecting stats for webrtc connections
+- [MyPureCloud/webrtc-stats-gatherer](https://github.com/MyPureCloud/webrtc-stats-gatherer) - WebRTC Stats Gatherer
 - [stackpath/serverless-scripting-examples](https://github.com/stackpath/serverless-scripting-examples) - SP// Serverless Scripting Examples
 - [cretz/myscreen.live](https://github.com/cretz/myscreen.live) - P2P Screen Sharing with WebRTC
 - [opentok/insights-dashboard-sample](https://github.com/opentok/insights-dashboard-sample) - Sample React app utilizing the OpenTok Insights GraphQL API
@@ -7932,7 +7930,6 @@
 - [justmarkham/trump-lies](https://github.com/justmarkham/trump-lies) - Tutorial: Web scraping in Python with Beautiful Soup
 - [datadesk/notebooks](https://github.com/datadesk/notebooks) - All of our computational notebooks
 - [zeshuaro/telegram-pdf-bot](https://github.com/zeshuaro/telegram-pdf-bot) - A Telegram bot that can do a lot of things related to PDF files
-- [AmanoTeam/EduuRobot](https://github.com/AmanoTeam/EduuRobot) - EduuRobot Telegram bot source code.
 - [secynic/ipwhois](https://github.com/secynic/ipwhois) - Retrieve and parse whois data for IPv4 and IPv6 addresses
 - [aws-samples/aws-serverless-airline-booking](https://github.com/aws-samples/aws-serverless-airline-booking) - Airline Booking is a sample web application that provides Flight Search, Flight Payment, Flight Booking and Loyalty points including end-to-end testing, GraphQL and CI/CD. This web application was the
 - [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
@@ -7993,7 +7990,6 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [almandin/fuxploider](https://github.com/almandin/fuxploider) - File upload vulnerability scanner and exploitation tool.
 - [tkrajina/gpxpy](https://github.com/tkrajina/gpxpy) - gpx-py is a python GPX parser. GPX (GPS eXchange Format) is an XML based file format for GPS tracks.
-- [AmanoTeam/EduuRobot](https://github.com/AmanoTeam/EduuRobot) - EduuRobot Telegram bot source code.
 - [Nukesor/archivebot](https://github.com/Nukesor/archivebot) - :floppy_disk: A telegram bot for backing up and collecting all kinds of media.
 - [Nukesor/ultimate-poll-bot](https://github.com/Nukesor/ultimate-poll-bot) - :bulb: The ultimate vote and poll bot for creating, sharing and evaluating polls inside of Telegram
 - [MChambers1992/retweet-bot](https://github.com/MChambers1992/retweet-bot) - Retweets search queries utilizing JSON configurations to allow for more control over content being shared. Supports Twitter API v1.1.
@@ -8421,7 +8417,7 @@
 - [github/gemoji](https://github.com/github/gemoji) - Emoji images and names.
 - [rubygems/bundler-site](https://github.com/rubygems/bundler-site) - The Bundler documentation website
 - [rbenv/ruby-build](https://github.com/rbenv/ruby-build) - A tool to download, compile, and install Ruby on Unix-like systems.
-- [markets/jekyll-timeago](https://github.com/markets/jekyll-timeago) - :hourglass: Ruby library to compute distance of dates in words. Originally built for Jekyll.
+- [markets/jekyll-timeago](https://github.com/markets/jekyll-timeago) - ⌛ Ruby library to compute distance of dates in words. Originally built for Jekyll.
 - [souldanger/jekyll-pwa-workbox](https://github.com/souldanger/jekyll-pwa-workbox) - A Jekyll plugin using Workbox to make your PWA / Website available offline.
 - [inukshuk/jekyll-scholar](https://github.com/inukshuk/jekyll-scholar) - jekyll extensions for the blogging scholar
 - [ashmaroli/jekyll-data](https://github.com/ashmaroli/jekyll-data) - A plugin to read '_config.yml' and data files within Jekyll theme gems
@@ -8800,7 +8796,6 @@
 - [zeshuaro/telegram-pdf-bot](https://github.com/zeshuaro/telegram-pdf-bot) - A Telegram bot that can do a lot of things related to PDF files
 - [kohchihao/pdf2ppt](https://github.com/kohchihao/pdf2ppt) - PDF2PPT Telegram bot
 - [bronydell/telegram-memebot](https://github.com/bronydell/telegram-memebot) - Bot for creating memes
-- [AmanoTeam/EduuRobot](https://github.com/AmanoTeam/EduuRobot) - EduuRobot Telegram bot source code.
 - [Nukesor/ultimate-poll-bot](https://github.com/Nukesor/ultimate-poll-bot) - :bulb: The ultimate vote and poll bot for creating, sharing and evaluating polls inside of Telegram
 - [phil-r/asciifacesbot](https://github.com/phil-r/asciifacesbot) - :smiley: Telegram Bot @asciifacesbot that allows you to append ascii faces to your messages ¯\_(ツ)_/¯
 - [ebertti/awesome-telegram](https://github.com/ebertti/awesome-telegram) - Collection great groups, channels, bots and libraries for Telegram
@@ -9228,6 +9223,18 @@
 - [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
 - [github/markdown-toolbar-element](https://github.com/github/markdown-toolbar-element) - Markdown formatting buttons for text inputs.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
+
+## web-development 
+
+- [soulintzis/Google-maps-Location-Takeout-Visualizer](https://github.com/soulintzis/Google-maps-Location-Takeout-Visualizer) - Crowdsourcing application using Google Timeline Data
+- [w3c/mdn-spec-links](https://github.com/w3c/mdn-spec-links) - MDN Spec Links – Linking specs to MDN and browser-support data
+- [madeas/device](https://github.com/madeas/device) - :calling: is a tool for creating simple and beautiful devices on your website :sparkles:
+- [Esri/wind-js](https://github.com/Esri/wind-js) - An demo animation of wind on a Canvas layer in the JSAPI
+- [Esri/crowdsource-polling](https://github.com/Esri/crowdsource-polling) - Provides a means for citizens to provide feedback to their governments
+- [Esri/esri-leaflet](https://github.com/Esri/esri-leaflet) - A lightweight set of tools for working with ArcGIS services in Leaflet. :rocket:
+- [Esri/bootstrap-map-js](https://github.com/Esri/bootstrap-map-js) - A light-weight JS/CSS extension for building awesome mapping apps with Bootstrap and ArcGIS.
+- [web-platform-tests/wpt](https://github.com/web-platform-tests/wpt) - Test suites for Web platform specs — including WHATWG, W3C, and others
+- [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
 
 ## webapp 
 
