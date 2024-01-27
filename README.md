@@ -1835,7 +1835,7 @@
 - [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
 - [alexlafroscia/tldr-alfred](https://github.com/alexlafroscia/tldr-alfred) - Alfred workflow for TLDR
 - [browserslist/browserslist](https://github.com/browserslist/browserslist) - 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
-- [julmot/mark.js](https://github.com/julmot/mark.js) - JavaScript keyword highlighting. Mark text with with options that fit every application. Also available as jQuery plugin.
+- [julmot/mark.js](https://github.com/julmot/mark.js) - JavaScript keyword highlighting. Mark text with options that fit every application. Also available as jQuery plugin.
 - [brannondorsey/dns-rebind-toolkit](https://github.com/brannondorsey/dns-rebind-toolkit) - A front-end JavaScript toolkit for creating DNS rebinding attacks.
 - [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block invisible trackers.
 - [addyosmani/critical](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages
@@ -2654,7 +2654,7 @@
 - [hootsuite/microservice-graph-explorer](https://github.com/hootsuite/microservice-graph-explorer) - Navigate and explore all of the microservices in your application in real time using the real application connections.
 - [squizlabs/HTML_CodeSniffer](https://github.com/squizlabs/HTML_CodeSniffer) - HTML_CodeSniffer is a client-side JavaScript application that checks a HTML document or source code, and detects violations of a defined coding standard. Comes with standards that cover the three conf
 - [fourcube/openiban.js](https://github.com/fourcube/openiban.js) - openiban.com javascript client for node and the browser
-- [processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor) - p5.js Web Editor, officially launched!
+- [processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor) - The p5.js Editor is a website for creating p5.js sketches, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else! You can create, share, 
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
 - [spencermountain/timezone-soft](https://github.com/spencermountain/timezone-soft) - parse informal timezone names
 - [spencermountain/spacetime-ticks](https://github.com/spencermountain/spacetime-ticks) - calculate some sensible break-points between two dates
@@ -4695,7 +4695,6 @@
 - [SumitAgr/PictureofTheDay-Bot](https://github.com/SumitAgr/PictureofTheDay-Bot) - Telegram Bot that retrieves NASA's Image of the Day with a single command.
 - [zeshuaro/telegram-pdf-bot](https://github.com/zeshuaro/telegram-pdf-bot) - A Telegram bot that can do a lot of things related to PDF files
 - [bronydell/telegram-memebot](https://github.com/bronydell/telegram-memebot) - Bot for creating memes
-- [AmanoTeam/EduuRobot](https://github.com/AmanoTeam/EduuRobot) - EduuRobot Telegram bot source code.
 - [Nukesor/archivebot](https://github.com/Nukesor/archivebot) - :floppy_disk: A telegram bot for backing up and collecting all kinds of media.
 - [Nukesor/ultimate-poll-bot](https://github.com/Nukesor/ultimate-poll-bot) - :bulb: The ultimate vote and poll bot for creating, sharing and evaluating polls inside of Telegram
 - [aashutoshrathi/git-profiler-bot](https://github.com/aashutoshrathi/git-profiler-bot) - Telegram bot which fetches GitHub Profiles.
@@ -4886,7 +4885,7 @@
 - [benbalter/gman](https://github.com/benbalter/gman) - A ruby gem to check if the owner of a given email address or website is working for THE MAN (a.k.a verifies government domains).
 - [algolia/jekyll-algolia](https://github.com/algolia/jekyll-algolia) - Add fast and relevant search to your Jekyll site
 - [kurtsson/jekyll-multiple-languages-plugin](https://github.com/kurtsson/jekyll-multiple-languages-plugin) - I18n support for Jekyll and Octopress
-- [markets/jekyll-timeago](https://github.com/markets/jekyll-timeago) - :hourglass: Ruby library to compute distance of dates in words. Originally built for Jekyll.
+- [markets/jekyll-timeago](https://github.com/markets/jekyll-timeago) - ⌛ Ruby library to compute distance of dates in words. Originally built for Jekyll.
 - [sass/sassc-ruby](https://github.com/sass/sassc-ruby) - Use libsass with Ruby!
 - [mysociety/alaveteli](https://github.com/mysociety/alaveteli) - Provide a Freedom of Information request system for your jurisdiction
 - [pmarsceill/jekyll-seo-gem](https://github.com/pmarsceill/jekyll-seo-gem) - 💎 🔎 A gem version of @bhardin's SEO Jekyll tool
@@ -5583,7 +5582,7 @@
 - [fourcube/lambda-captcha](https://github.com/fourcube/lambda-captcha) - Generates captchas that can be verified decentrally.
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
-- [MyPureCloud/webrtc-stats-gatherer](https://github.com/MyPureCloud/webrtc-stats-gatherer) - :chart_with_upwards_trend: :computer:  A module for collecting stats for webrtc connections
+- [MyPureCloud/webrtc-stats-gatherer](https://github.com/MyPureCloud/webrtc-stats-gatherer) - WebRTC Stats Gatherer
 - [cretz/myscreen.live](https://github.com/cretz/myscreen.live) - P2P Screen Sharing with WebRTC
 - [xcarpentier/gifted-chat-web-demo](https://github.com/xcarpentier/gifted-chat-web-demo) - Gifted chat web demo
 - [FaridSafi/react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat) - 💬 The most complete chat UI for React Native
