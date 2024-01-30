@@ -6683,7 +6683,7 @@
 - [ustaxcourt/petition-prototype](https://github.com/ustaxcourt/petition-prototype) - Prototyping a web-based interface for filing petitions with the court.
 - [GSA/digitalgov.gov](https://github.com/GSA/digitalgov.gov) - Digital.gov: Better websites. Better government.
 - [eregs/regulations-site](https://github.com/eregs/regulations-site) - Web interface for viewing U.S. federal regulations and other regulatory information
-- [cisagov/dotgov-home](https://github.com/cisagov/dotgov-home) - Homepage for the .gov registry
+- [cisagov/dotgov-home](https://github.com/cisagov/dotgov-home) - Home of the .gov registry
 - [susielu/d3-annotation](https://github.com/susielu/d3-annotation) - Use d3-annotation with built-in annotation types, or extend it to make custom annotations. It is made for d3-v4 in SVG.
 - [amitp/mapgen2](https://github.com/amitp/mapgen2) - Map generator for games. Generates island maps with a focus on mountains, rivers, coastlines.
 - [redblobgames/mapgen2](https://github.com/redblobgames/mapgen2) - JavaScript version of mapgen2 polygon map generator algorithms
