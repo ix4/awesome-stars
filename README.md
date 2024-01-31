@@ -809,6 +809,7 @@
 - [whatwg/html](https://github.com/whatwg/html) - HTML Standard
 - [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
 - [cfpb/source-code-policy](https://github.com/cfpb/source-code-policy) - The CFPB's official Source Code Policy.
+- [alphagov/govuk-developer-docs](https://github.com/alphagov/govuk-developer-docs) - 📖 Tech docs for everyone working on GOV.UK
 - [w3c/wcag](https://github.com/w3c/wcag) - Web Content Accessibility Guidelines
 - [18F/handbook](https://github.com/18F/handbook) - The home of policies and guidelines that make up TTS.
 - [18F/development-guide](https://github.com/18F/development-guide) - A set of guidelines and best practices for an awesome software engineering team
@@ -936,6 +937,7 @@
 - [max-barry/google-drive-cms](https://github.com/max-barry/google-drive-cms) - A content management system (CMS) built on an interface everyone understands (n.b. No longer maintained)
 - [en-wl/wordlist](https://github.com/en-wl/wordlist) - SCOWL (and friends).
 - [yyx990803/build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) - Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.
+- [filiph/filiphnet](https://github.com/filiph/filiphnet) - Filip Hracek's personal homepage
 - [GoogleWebComponents/google-map](https://github.com/GoogleWebComponents/google-map) - Google Maps web components
 - [mdn/learning-area](https://github.com/mdn/learning-area) - GitHub repo for the MDN Learning Area.
 - [mdn/webaudio-examples](https://github.com/mdn/webaudio-examples) - Code examples that accompany the MDN Web Docs pages relating to Web Audio.
@@ -2151,7 +2153,6 @@
 - [matchai/build-your-own-wakatime](https://github.com/matchai/build-your-own-wakatime) - 📊 Build your own time tracking metrics dashboard using existing Wakatime plugins and Google Sheets.
 - [matchai/bird-box](https://github.com/matchai/bird-box) - 🐦💬 Update a gist to contain your latest tweet
 - [JasonEtco/todo](https://github.com/JasonEtco/todo) - 🤖✅ GitHub App that creates new issues from actionable comments in your code.
-- [filiph/filiphnet](https://github.com/filiph/filiphnet) - Filip Hracek's personal homepage
 - [daneden/ohshitbot](https://github.com/daneden/ohshitbot) - A Twitter bot that panics
 - [mccutchen/sketches](https://github.com/mccutchen/sketches) - A little collection of visual experiments.
 - [fraziern/schedule](https://github.com/fraziern/schedule) - React/Redux-based volunteer scheduling web app.
@@ -4870,7 +4871,6 @@
 - [jekyll/jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from) - :twisted_rightwards_arrows: Seamlessly specify multiple redirections URLs for your pages and posts.
 - [refinery/refinerycms](https://github.com/refinery/refinerycms) - An extendable Ruby on Rails CMS that supports Rails 6.0+
 - [rubygems/bundler](https://github.com/rubygems/bundler) - Manage your Ruby application's gem dependencies
-- [alphagov/govuk-developer-docs](https://github.com/alphagov/govuk-developer-docs) - 📖 Tech docs for everyone working on GOV.UK
 - [alphagov/govspeak](https://github.com/alphagov/govspeak) - Markdown extension library for Government editors
 - [usnationalarchives/federal_register](https://github.com/usnationalarchives/federal_register) - Ruby API Client for FederalRegister.gov that handles searching articles and getting information about agencies
 - [openc/openc-schema](https://github.com/openc/openc-schema) - JSON schemas for OpenCorporates data
