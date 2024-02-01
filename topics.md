@@ -2880,7 +2880,7 @@
 - [socketio/engine.io](https://github.com/socketio/engine.io) - The engine used in the Socket.IO JavaScript server, which manages the low-level transports such as HTTP long-polling and WebSocket.
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
-- [julmot/mark.js](https://github.com/julmot/mark.js) - JavaScript keyword highlighting. Mark text with options that fit every application. Also available as jQuery plugin.
+- [julkue/mark.js](https://github.com/julkue/mark.js) - JavaScript keyword highlighting. Mark text with options that fit every application. Also available as jQuery plugin.
 - [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block invisible trackers.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [enginkizil/FeedEk](https://github.com/enginkizil/FeedEk) - FeedEk jQuery RSS/ATOM Feed Plugin
@@ -3459,7 +3459,7 @@
 - [hydecorp/push-state](https://github.com/hydecorp/push-state) - Turn static web sites into dynamic web apps.
 - [hydecorp/drawer](https://github.com/hydecorp/drawer) - A touch-enabled drawer component for the modern web.
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
-- [julmot/mark.js](https://github.com/julmot/mark.js) - JavaScript keyword highlighting. Mark text with options that fit every application. Also available as jQuery plugin.
+- [julkue/mark.js](https://github.com/julkue/mark.js) - JavaScript keyword highlighting. Mark text with options that fit every application. Also available as jQuery plugin.
 - [enginkizil/FeedEk](https://github.com/enginkizil/FeedEk) - FeedEk jQuery RSS/ATOM Feed Plugin
 - [fancyapps/fancybox](https://github.com/fancyapps/fancybox) - jQuery lightbox script for displaying images, videos and more. Touch enabled, responsive and fully customizable.
 - [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library.
