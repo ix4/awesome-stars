@@ -875,7 +875,7 @@
 - [minicomp/wiki](https://github.com/minicomp/wiki) - where the docs live!
 - [forestryio/ubuild-jekyll](https://github.com/forestryio/ubuild-jekyll) - A Jekyll theme designed to work with Forestry Blocks
 - [posquit0/hugo-awesome-identity](https://github.com/posquit0/hugo-awesome-identity) - 😤 Awesome Identity is a single-page Hugo theme to introduce yourself.
-- [yihui/hugo-xmin](https://github.com/yihui/hugo-xmin) - eXtremely Minimal Hugo theme: about 150 lines of code in total, including HTML and CSS (with no dependencies)
+- [yihui/hugo-xmin](https://github.com/yihui/hugo-xmin) - eXtremely Minimal Hugo theme: about 140 lines of code in total, including HTML and CSS (with no dependencies)
 - [mjradwin/geonames-sqlite](https://github.com/mjradwin/geonames-sqlite) - Import GeoNames.org data into a SQLite database for full-text search and autocomplete
 - [LingDong-/shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) - Procedurally generated Chinese landscape painting.
 - [tonsky/rum](https://github.com/tonsky/rum) - Simple, decomplected, isomorphic HTML UI library for Clojure and ClojureScript
@@ -2233,7 +2233,6 @@
 - [Pixelkit/PixelKit-Bootstrap-UI-Kits](https://github.com/Pixelkit/PixelKit-Bootstrap-UI-Kits) - Free UI Kits built on Bootstrap for any developer that wants to build a cool looking and functional website. Enjoy!
 - [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [meshesha/officetohtml](https://github.com/meshesha/officetohtml) - Office To Html
-- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
 - [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash) - A beautiful web dashboard for Linux
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
@@ -3773,6 +3772,7 @@
 - [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify) - 💖 A curated list of awesome things related to docsify
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [showdownjs/cdnjs](https://github.com/showdownjs/cdnjs) - Open Source Web front-end resource CDN for free, managed by @PeterDaveHello
+- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [vectordotdev/docs](https://github.com/vectordotdev/docs) - 🌲Timber.io Documentation
 - [CocoaPods/Specs](https://github.com/CocoaPods/Specs) - The CocoaPods Master Repo
 - [tefter/tefter](https://github.com/tefter/tefter) - The social bookmarking app for individuals and teams
