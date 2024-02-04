@@ -156,7 +156,7 @@
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [seemoo-lab/nexmon](https://github.com/seemoo-lab/nexmon) - The C-based Firmware Patching Framework for Broadcom/Cypress WiFi Chips that enables Monitor Mode, Frame Injection and much more
 - [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 - [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your terminal from anywhere via the web.
 - [angt/glorytun](https://github.com/angt/glorytun) - Multipath UDP tunnel
 - [zhaojh329/oui](https://github.com/zhaojh329/oui) - 🐛  A framework used to develop Web interface for OpenWrt. Use Lua-eco + Vue3 + Vite + Element Plus.
@@ -906,7 +906,7 @@
 - [tomjoht/documentation-theme-jekyll](https://github.com/tomjoht/documentation-theme-jekyll) - A Jekyll-based theme designed for documentation and help systems. See the link for detailed instructions on setting up and configuring everything.
 - [iipc/warc-specifications](https://github.com/iipc/warc-specifications) - Centralised repository for WARC usage specifications.
 - [gayanSandamal/easy-numpad](https://github.com/gayanSandamal/easy-numpad) - jQuery based soft number pad which is developed use and customize easily
-- [lrusso/bannerGenerator](https://github.com/lrusso/bannerGenerator) - Image Merger, Image Resizer, Image Distortion, Business Card, Radio Interview, Recruiting, Sharer OG Image, MacBook, Notebook, Play Store, GitHub, App with Text, Slides for Videos, Wallpapers for Vide
+- [lrusso/bannerGenerator](https://github.com/lrusso/bannerGenerator) - Image Merger, Image Resizer, Image Distortion, Business Card, Radio Interview, Recruiting, Sharer OG Image, MacBook, Notebook, Play Store, App Store, GitHub, App with Text, Slides for Videos, Wallpape
 - [lrusso/SQLiteOnline](https://github.com/lrusso/SQLiteOnline) - SQLite Online developed in JavaScript
 - [dcurtis/markdown-mark](https://github.com/dcurtis/markdown-mark) - Use this mark to identify Markdown.
 - [yaml/www.yaml.org](https://github.com/yaml/www.yaml.org) - The yaml.org website
