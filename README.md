@@ -1423,7 +1423,7 @@
 - [kikiklang/pomme-page](https://github.com/kikiklang/pomme-page) - Big buttons with easy click startpage for a browser.
 - [z0ccc/comet](https://github.com/z0ccc/comet) - Browser extension to replace Youtube comments with Reddit comments or view the Reddit comments of any webpage.
 - [deep5050/memes-on-issues-action](https://github.com/deep5050/memes-on-issues-action) - greet the issue raiser with a custom message and a bonus programming meme :smile:
-- [code-charity/youtube](https://github.com/code-charity/youtube) - [Top~1 YouTube Video Web-Extension] Enrich your experience & -choice! 🧰90 clever features📌set & forget📌Longest-standing(Please help🧩us👨‍👩‍👧‍👧) ..⋮  {playback|content discovery|player|extra buttons|dis
+- [code-charity/youtube](https://github.com/code-charity/youtube) - [Top~1 YouTube / Video Web-Extension] Enrich your experience & choice! 🧰90 clever features📌set & forget📌Longest-standing (yet rare & tough alone. Please help/join🧩us👨‍👩‍👧‍👧) ..⋮ {playback|content disc
 - [ubershmekel/redditp](https://github.com/ubershmekel/redditp) - Convert any reddit page to a presentation or slide show
 - [jiangts/JS-OTP](https://github.com/jiangts/JS-OTP) - 100% Javascript Implementation of HOTP and TOTP for Two-Factor Authentication.
 - [w3irdrobot/interactive-menu](https://github.com/w3irdrobot/interactive-menu) - Building an Interactive Menu in Vanilla JavaScript
@@ -4696,6 +4696,7 @@
 - [SumitAgr/PictureofTheDay-Bot](https://github.com/SumitAgr/PictureofTheDay-Bot) - Telegram Bot that retrieves NASA's Image of the Day with a single command.
 - [zeshuaro/telegram-pdf-bot](https://github.com/zeshuaro/telegram-pdf-bot) - A Telegram bot that can do a lot of things related to PDF files
 - [bronydell/telegram-memebot](https://github.com/bronydell/telegram-memebot) - Bot for creating memes
+- [AmanoTeam/EduuRobot](https://github.com/AmanoTeam/EduuRobot) - EduuRobot Telegram bot source code.
 - [Nukesor/archivebot](https://github.com/Nukesor/archivebot) - :floppy_disk: A telegram bot for backing up and collecting all kinds of media.
 - [Nukesor/ultimate-poll-bot](https://github.com/Nukesor/ultimate-poll-bot) - :bulb: The ultimate vote and poll bot for creating, sharing and evaluating polls inside of Telegram
 - [aashutoshrathi/git-profiler-bot](https://github.com/aashutoshrathi/git-profiler-bot) - Telegram bot which fetches GitHub Profiles.
@@ -5444,7 +5445,7 @@
 - [fangpenlin/avataaars](https://github.com/fangpenlin/avataaars) - React component for avataaars
 - [fangpenlin/avataaars-generator](https://github.com/fangpenlin/avataaars-generator) - Simple generator React app for avataaars
 - [ivanvanderbyl/flight-aware-api](https://github.com/ivanvanderbyl/flight-aware-api) - NodeJS & Browser API for FlightAware
-- [antvis/G2](https://github.com/antvis/G2) - 📊 A concise and progressive visualization grammar.
+- [antvis/G2](https://github.com/antvis/G2) - 📊 The concise and progressive visualization grammar.
 - [rough-stuff/wired-elements](https://github.com/rough-stuff/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [airbnb/react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
