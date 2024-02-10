@@ -1873,6 +1873,7 @@
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [octobercms/october](https://github.com/octobercms/october) - Self-hosted CMS platform based on the Laravel PHP Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [Bloggify/Bloggify](https://github.com/Bloggify/Bloggify) - 📝 We make publishing easy.
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
@@ -5446,7 +5447,7 @@
 - [forestryio/ubuild-jekyll](https://github.com/forestryio/ubuild-jekyll) - A Jekyll theme designed to work with Forestry Blocks
 - [vinitkumar/gist-browser](https://github.com/vinitkumar/gist-browser) - Real time Gist monitor
 - [andrewbanchich/phantom-jekyll-theme](https://github.com/andrewbanchich/phantom-jekyll-theme) - A Jekyll version of the "Phantom" theme by HTML5 UP.
-- [Wiredcraft/carte](https://github.com/Wiredcraft/carte) - Simple Jekyll-based documentation site for APIs.
+- [hunvreus/carte](https://github.com/hunvreus/carte) - Simple Jekyll-based documentation site for APIs.
 - [Shopify/liquid](https://github.com/Shopify/liquid) - Liquid markup language. Safe, customer facing template language for flexible web apps.
 - [yihui/hugo-xmin](https://github.com/yihui/hugo-xmin) - eXtremely Minimal Hugo theme: about 140 lines of code in total, including HTML and CSS (with no dependencies)
 - [wilkelab/cowplot](https://github.com/wilkelab/cowplot) - cowplot: Streamlined Plot Theme and Plot Annotations for ggplot2
@@ -8024,7 +8025,7 @@
 
 - [darwinanddavis/gggmap](https://github.com/darwinanddavis/gggmap) - 
 - [rstudio/rmarkdown](https://github.com/rstudio/rmarkdown) - Dynamic Documents for R
-- [DOI-USGS/dataRetrieval](https://github.com/DOI-USGS/dataRetrieval) - This R package is designed to obtain USGS or EPA water quality sample data, streamflow data, and metadata directly from web services. See: https://rconnect.usgs.gov/dataRetrieval/
+- [DOI-USGS/dataRetrieval](https://github.com/DOI-USGS/dataRetrieval) - This R package is designed to obtain USGS or EPA water quality sample data, streamflow data, and metadata directly from web services.
 - [Chicago/clear-water](https://github.com/Chicago/clear-water) - Forecasting elevated levels of E. coli at Chicago beaches to provide proper warning to beach-goers.
 - [Chicago/RSocrata](https://github.com/Chicago/RSocrata) - Provides easier interaction with Socrata open data portals http://dev.socrata.com. Users can provide a 'Socrata' data set resource URL, or a 'Socrata' Open Data API (SoDA) web query, or a 'Socrata' "h
 - [rstudio/pagedown](https://github.com/rstudio/pagedown) - Paginate the HTML Output of R Markdown with CSS for Print
