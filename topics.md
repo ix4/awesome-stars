@@ -2288,7 +2288,6 @@
 - [openshift/openshift-docs](https://github.com/openshift/openshift-docs) - OpenShift 3 and 4 product and community documentation
 - [prometheus/docs](https://github.com/prometheus/docs) - Prometheus documentation: content and static site generator
 - [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
-- [midzer/tobii](https://github.com/midzer/tobii) - An accessible, open-source lightbox with no dependencies
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
 - [refinery/refinerycms](https://github.com/refinery/refinerycms) - An extendable Ruby on Rails CMS that supports Rails 6.0+
 - [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
@@ -4454,6 +4453,7 @@
 
 ## others 
 
+- [X4BNet/lists_vpn](https://github.com/X4BNet/lists_vpn) - Lists of VPN providers (atomatically updated)
 - [dangnelson/car-makes-icons](https://github.com/dangnelson/car-makes-icons) - SVG Icons / Font for Cars Makes to match Edmunds API
 - [GoogleChrome/ip-protection](https://github.com/GoogleChrome/ip-protection) - 
 - [DreadedLama/BaseCaller](https://github.com/DreadedLama/BaseCaller) - Use truecaller token to retrieve data
@@ -6800,7 +6800,6 @@
 - [NUKnightLab/studio-factcheck-flow](https://github.com/NUKnightLab/studio-factcheck-flow) - Google Docs plugin for fact checking. Knight Lab Spring studio class.
 - [NUKnightLab/oembed-server](https://github.com/NUKnightLab/oembed-server) - A system to take oembed requests for KnightLab's embeddable tools.
 - [NUKnightLab/SensorGridAPI](https://github.com/NUKnightLab/SensorGridAPI) - Web API and dashboard for SensorGrid
-- [Lagranmomia/tvmund](https://github.com/Lagranmomia/tvmund) - 
 - [allartk/jekyll-geoviewer](https://github.com/allartk/jekyll-geoviewer) - A geoviewer
 - [NieuwlandGeo/SLDReader](https://github.com/NieuwlandGeo/SLDReader) - SLD styling for online mapping libraries
 - [allartk/leaflet.offline](https://github.com/allartk/leaflet.offline) - Leaflet offline layer
