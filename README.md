@@ -1395,7 +1395,7 @@
 - [chancejs/chancejs](https://github.com/chancejs/chancejs) - Chance - Random generator helper for JavaScript
 - [freeotp/freeotp.github.io](https://github.com/freeotp/freeotp.github.io) - 
 - [maxkostinevich/Cloudflare-Favicon-Generator](https://github.com/maxkostinevich/Cloudflare-Favicon-Generator) - Serverless Favicon Generator
-- [lightpohl/podcast-dl](https://github.com/lightpohl/podcast-dl) - CLI for downloading and archiving podcasts.
+- [lightpohl/podcast-dl](https://github.com/lightpohl/podcast-dl) - A humble CLI for downloading and archiving podcasts.
 - [mattst88/gmail-gitlab-filtering](https://github.com/mattst88/gmail-gitlab-filtering) - Google Apps Script for Gmail to filter and sort email from GitLab
 - [lachenmayer/graphql-scraper-server](https://github.com/lachenmayer/graphql-scraper-server) - Instantly spin up a graphql-scraper server (with 1-click deploy!)
 - [standard/semistandard](https://github.com/standard/semistandard) - :icecream: All the goodness of `standard/standard` with semicolons sprinkled on top.
@@ -4101,6 +4101,7 @@
 
 ## Python 
 
+- [nof20/voter-warehouse](https://github.com/nof20/voter-warehouse) - A standardized data warehouse of New York political data, using Google DataFlow and BigQuery.
 - [KasRoudra/MaxPhisher](https://github.com/KasRoudra/MaxPhisher) - A python phishing script for login phishing, image phishing video phishing and many more
 - [fernzi/gedit-autosave](https://github.com/fernzi/gedit-autosave) - Gedit automatically saves as you type (and when the window is unfocused)
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
