@@ -379,6 +379,7 @@
 - [WithSecureLabs/drozer](https://github.com/WithSecureLabs/drozer) - The Leading Security Assessment Framework for Android.
 - [guardianproject/haven](https://github.com/guardianproject/haven) - Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
 - [mapzen/android](https://github.com/mapzen/android) - Where you can find everything Android from Mapzen
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [airbnb/AirMapView](https://github.com/airbnb/AirMapView) - A view abstraction to provide a map user interface with various underlying map providers
 - [mousebird-consulting-inc/WhirlyGlobe](https://github.com/mousebird-consulting-inc/WhirlyGlobe) - WhirlyGlobe Development
@@ -924,7 +925,7 @@
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [pndurette/gTTS](https://github.com/pndurette/gTTS) - Python library and CLI tool to interface with Google Translate's text-to-speech API
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
-- [lightpohl/podcast-dl](https://github.com/lightpohl/podcast-dl) - CLI for downloading and archiving podcasts.
+- [lightpohl/podcast-dl](https://github.com/lightpohl/podcast-dl) - A humble CLI for downloading and archiving podcasts.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠  Home to Wrangler v1 (deprecated)
 - [jarun/bcal](https://github.com/jarun/bcal) - :1234: Bits, bytes and address calculator
@@ -3759,6 +3760,7 @@
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [jackd248/temps](https://github.com/jackd248/temps) - Simple menubar application based on Electron with actual weather information and forecast.
 - [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [kalliope-project/kalliope](https://github.com/kalliope-project/kalliope) - Kalliope is a framework that will help you to create your own personal assistant.
 
 ## localization 
@@ -3854,6 +3856,7 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [Astranno/googlr](https://github.com/Astranno/googlr) - Googlr is a command line tool that lets you search Google from your terminal.
 - [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## markdown 
 
@@ -4453,6 +4456,7 @@
 
 ## others 
 
+- [nof20/voter-warehouse](https://github.com/nof20/voter-warehouse) - A standardized data warehouse of New York political data, using Google DataFlow and BigQuery.
 - [X4BNet/lists_vpn](https://github.com/X4BNet/lists_vpn) - Lists of VPN providers (atomatically updated)
 - [dangnelson/car-makes-icons](https://github.com/dangnelson/car-makes-icons) - SVG Icons / Font for Cars Makes to match Edmunds API
 - [GoogleChrome/ip-protection](https://github.com/GoogleChrome/ip-protection) - 
@@ -9344,6 +9348,7 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [marcosValle/awesome-windows-red-team](https://github.com/marcosValle/awesome-windows-red-team) - A curated list of awesome Windows frameworks, libraries, software and resources for Red Teams
 - [jackd248/temps](https://github.com/jackd248/temps) - Simple menubar application based on Electron with actual weather information and forecast.
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## wordpress 
 
