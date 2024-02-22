@@ -3881,6 +3881,7 @@
 - [weaming/md2png](https://github.com/weaming/md2png) - Render markdown file to PNG image. Support custom CSS URL/file.
 - [magnetikonline/markdown-toc-generate](https://github.com/magnetikonline/markdown-toc-generate) - Table of contents (TOC) generator for a given Markdown page source.
 - [dotnet/docfx](https://github.com/dotnet/docfx) - Static site generator for .NET API documentation.
+- [microsoft/tsdoc](https://github.com/microsoft/tsdoc) - A doc comment standard for TypeScript
 - [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [jamiemcg/Remarkable](https://github.com/jamiemcg/Remarkable) - Remarkable - The Markdown Editor for Linux http://remarkableapp.github.io
 - [retext-project/retext](https://github.com/retext-project/retext) - ReText: Simple but powerful editor for Markdown and reStructuredText
