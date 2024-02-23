@@ -783,7 +783,7 @@
 - [department-of-veterans-affairs/vets-design-system-documentation](https://github.com/department-of-veterans-affairs/vets-design-system-documentation) - Repository for design.va.gov website
 - [alphagov/gds-way](https://github.com/alphagov/gds-way) - How we build and operate products at GDS
 - [DFE-Digital/technical-guidance](https://github.com/DFE-Digital/technical-guidance) - Principles, standards and guidance for digital delivery teams
-- [bcgov/design-system](https://github.com/bcgov/design-system) - British Columbia Government Design System for Digital Services
+- [bcgov/design-system](https://github.com/bcgov/design-system) - The B.C. Design System helps public sector design and development teams build consistent, accessible products
 - [ministryofjustice/technical-guidance](https://github.com/ministryofjustice/technical-guidance) - How we build and operate products at the Ministry of Justice. • This repository is defined and managed in Terraform
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
@@ -4121,7 +4121,7 @@
 - [pedrovernetti/metagedit](https://github.com/pedrovernetti/metagedit) - gedit (GNOME text editor) plugin which adds multiple improvements and functionalities to it
 - [azmatt/chasing_your_tail](https://github.com/azmatt/chasing_your_tail) - Tool for using wireless signals to see if you're being followed.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [AmmeySaini/Edu-Mail-Generator](https://github.com/AmmeySaini/Edu-Mail-Generator) - Generate Free Edu Mail(s) within minutes
 - [mrh0wl/Cloudmare](https://github.com/mrh0wl/Cloudmare) - Cloudflare, Sucuri, Incapsula real IP tracker.
