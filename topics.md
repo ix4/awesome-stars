@@ -558,7 +558,7 @@
 - [jeffreytse/jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) - 🪂 A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [jnmcfly/awesome-startpage](https://github.com/jnmcfly/awesome-startpage) - This is a carefully compiled list of remarkable projects with the focus on startpages.
@@ -4917,7 +4917,7 @@
 - [ongov/Digital-Service-Standard](https://github.com/ongov/Digital-Service-Standard) - The Digital Service Standard sets out 13 points to help anyone build and deliver excellent government services.
 - [bcgov/digital-principles](https://github.com/bcgov/digital-principles) - A set of principles to guide the Province of BC's continued Digital Government evolution
 - [bcgov/castor](https://github.com/bcgov/castor) - Castor - decision support model for forest and land management
-- [bcgov/design-system](https://github.com/bcgov/design-system) - British Columbia Government Design System for Digital Services
+- [bcgov/design-system](https://github.com/bcgov/design-system) - The B.C. Design System helps public sector design and development teams build consistent, accessible products
 - [ministryofjustice/hmpps-digital-tech-radar](https://github.com/ministryofjustice/hmpps-digital-tech-radar) - Visualizing HMPPS Digital's technology choices
 - [ministryofjustice/offender-assessments-api](https://github.com/ministryofjustice/offender-assessments-api) - 
 - [ministryofjustice/hmcts-common-platform-mock-api](https://github.com/ministryofjustice/hmcts-common-platform-mock-api) - Mock for HMCTS Common Platform API
@@ -7742,7 +7742,7 @@
 - [fernzi/gedit-autosave](https://github.com/fernzi/gedit-autosave) - Gedit automatically saves as you type (and when the window is unfocused)
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [pedrovernetti/metagedit](https://github.com/pedrovernetti/metagedit) - gedit (GNOME text editor) plugin which adds multiple improvements and functionalities to it
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [AmmeySaini/Edu-Mail-Generator](https://github.com/AmmeySaini/Edu-Mail-Generator) - Generate Free Edu Mail(s) within minutes
 - [mrh0wl/Cloudmare](https://github.com/mrh0wl/Cloudmare) - Cloudflare, Sucuri, Incapsula real IP tracker.
