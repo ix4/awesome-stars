@@ -809,7 +809,6 @@
 - [whatwg/html](https://github.com/whatwg/html) - HTML Standard
 - [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
 - [cfpb/source-code-policy](https://github.com/cfpb/source-code-policy) - The CFPB's official Source Code Policy.
-- [alphagov/govuk-developer-docs](https://github.com/alphagov/govuk-developer-docs) - 📖 Tech docs for everyone working on GOV.UK
 - [w3c/wcag](https://github.com/w3c/wcag) - Web Content Accessibility Guidelines
 - [18F/handbook](https://github.com/18F/handbook) - The home of policies and guidelines that make up TTS.
 - [18F/development-guide](https://github.com/18F/development-guide) - A set of guidelines and best practices for an awesome software engineering team
@@ -1555,7 +1554,7 @@
 - [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor
 - [konklone/bit.voyage](https://github.com/konklone/bit.voyage) - Allow anyone with a modern browser to stream a 1GB, 10GB, 100GB, or 1TB file over the Internet and into a happy home.
 - [qualintitative/egoweb](https://github.com/qualintitative/egoweb) - This is a repository for EgoWeb 2.0 created and maintained by David P. Kennedy, a researcher at the non-profit RAND Corporation. The repository is also maintained by David Zhang a research programmer 
-- [IUNetSci/hoaxy-frontend](https://github.com/IUNetSci/hoaxy-frontend) - Frontend component for Hoaxy, a tool to visualize the spread of claims and fact checking
+- [osome-iu/hoaxy-frontend](https://github.com/osome-iu/hoaxy-frontend) - Frontend component for Hoaxy, a tool to visualize the spread of claims and fact checking
 - [vasanthv/jsonbox](https://github.com/vasanthv/jsonbox) - HTTP-based JSON storage.
 - [showdownjs/youtube-extension](https://github.com/showdownjs/youtube-extension) - Embed YouTube videos within showdown
 - [QuickCorp/QCObjects](https://github.com/QuickCorp/QCObjects) - Full Stack Javascript Framework for Modern Software Development
@@ -3831,7 +3830,7 @@
 - [erikflowers/weathercons.font](https://github.com/erikflowers/weathercons.font) - transformed Weather Icons
 - [machawk1/awesome-memento](https://github.com/machawk1/awesome-memento) - A list of things related to software, literature, and other content for 🕣 Memento
 - [Financial-Times/origami-website](https://github.com/Financial-Times/origami-website) - The Origami website
-- [JakeChampion/polyfill-service](https://github.com/JakeChampion/polyfill-service) - Automatic polyfill service.
+- [polyfillpolyfill/polyfill-service](https://github.com/polyfillpolyfill/polyfill-service) - Automatic polyfill service.
 - [DCCouncil/dc-law](https://github.com/DCCouncil/dc-law) - 
 - [onmyway133/awesome-machine-learning](https://github.com/onmyway133/awesome-machine-learning) - 🎰 A curated list of machine learning resources, preferably CoreML
 - [StanfordGeospatialCenter/MSA](https://github.com/StanfordGeospatialCenter/MSA) - The Mass Shootings in America Database. Maintained by The Stanford Geospatial Center
@@ -4265,8 +4264,8 @@
 - [okfde/froide](https://github.com/okfde/froide) - Freedom Of Information Portal
 - [thisisparker/ftd](https://github.com/thisisparker/ftd) - :skull: Scripts for FOIA The Dead, a morbid transparency project
 - [MuckRock/squarelet](https://github.com/MuckRock/squarelet) - MuckRock User Service
-- [IUNetSci/botometer-python](https://github.com/IUNetSci/botometer-python) - A Python API for Botometer by OSoMe
-- [IUNetSci/hoaxy-backend](https://github.com/IUNetSci/hoaxy-backend) - Backend component for Hoaxy, a tool to visualize the spread of claims and fact checking
+- [osome-iu/botometer-python](https://github.com/osome-iu/botometer-python) - A Python API for Botometer by OSoMe
+- [osome-iu/hoaxy-backend](https://github.com/osome-iu/hoaxy-backend) - Backend component for Hoaxy, a tool to visualize the spread of claims and fact checking
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [max-arnold/markdown-tweetable](https://github.com/max-arnold/markdown-tweetable) - Python-Markdown extension to embed tweetable quotes into your blog posts
 - [idealo/imagededup](https://github.com/idealo/imagededup) - 😎 Finding duplicate images made easy!
@@ -4873,6 +4872,7 @@
 - [jekyll/jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from) - :twisted_rightwards_arrows: Seamlessly specify multiple redirections URLs for your pages and posts.
 - [refinery/refinerycms](https://github.com/refinery/refinerycms) - An extendable Ruby on Rails CMS that supports Rails 6.0+
 - [rubygems/bundler](https://github.com/rubygems/bundler) - Manage your Ruby application's gem dependencies
+- [alphagov/govuk-developer-docs](https://github.com/alphagov/govuk-developer-docs) - 📖 Tech docs for everyone working on GOV.UK
 - [alphagov/govspeak](https://github.com/alphagov/govspeak) - Markdown extension library for Government editors
 - [usnationalarchives/federal_register](https://github.com/usnationalarchives/federal_register) - Ruby API Client for FederalRegister.gov that handles searching articles and getting information about agencies
 - [openc/openc-schema](https://github.com/openc/openc-schema) - JSON schemas for OpenCorporates data
@@ -5403,7 +5403,7 @@
 - [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
 - [CMSgov/design-system](https://github.com/CMSgov/design-system) - Open source design and front-end development resources for creating Section 508 compliant, responsive, and consistent websites.
 - [guess-js/guess](https://github.com/guess-js/guess) - 🔮 Libraries & tools for enabling Machine Learning driven user-experiences on the web
-- [getmoro/moro](https://github.com/getmoro/moro) - Simple CLI tool for tracking work hours. Note: Heavy changes are happening in this repository. Docs might not be up to date, and things might be broken. Only the released NPM version is stable.
+- [getmoro/moro](https://github.com/getmoro/moro) - [DEPRECATED/DON'T USE] Simple CLI tool for tracking work hours. Note: Heavy changes are happening in this repository. Docs might not be up to date, and things might be broken. Only the released NPM ve
 - [julianoappelklein/hokus](https://github.com/julianoappelklein/hokus) - A modern CMS for Hugo
 - [sass/sass-site](https://github.com/sass/sass-site) - Sass Website
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
@@ -5714,7 +5714,7 @@
 - [xiaokaike/vue-color](https://github.com/xiaokaike/vue-color) - :art: Vue Color Pickers for Sketch, Photoshop, Chrome & more   http://vue-color.surge.sh
 - [Tokyo-Metro-Gov/covid19](https://github.com/Tokyo-Metro-Gov/covid19) - 東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
 - [gavinr/arcgis-json-to-geojson](https://github.com/gavinr/arcgis-json-to-geojson) - ArcGIS JSON to GeoJSON
-- [IUNetSci/BotSlayer-CE](https://github.com/IUNetSci/BotSlayer-CE) - BotSlayer Community Edition
+- [osome-iu/BotSlayer-CE](https://github.com/osome-iu/BotSlayer-CE) - BotSlayer Community Edition
 - [bcgov/namerequest](https://github.com/bcgov/namerequest) - Public Front End for the Name Request System
 - [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - This repository is outdated and no longer maintained. A new version of massCode is available! https://github.com/massCodeIO/massCode. A free and open source code snippets manager for developers.
 - [PAIR-code/font-explorer](https://github.com/PAIR-code/font-explorer) - Font latent space explorer using tensorflow.js
