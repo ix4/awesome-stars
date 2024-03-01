@@ -15,6 +15,7 @@
 - [angular](#angular)
 - [ansible](#ansible)
 - [api](#api)
+- [archlinux](#archlinux)
 - [arduino](#arduino)
 - [artificial-intelligence](#artificial-intelligence)
 - [atom](#atom)
@@ -488,6 +489,10 @@
 - [htmlcsstoimage/docs](https://github.com/htmlcsstoimage/docs) - The API for generating high quality images from HTML/CSS.
 - [mgwalker/past-presidents-api](https://github.com/mgwalker/past-presidents-api) - An API for past presidents
 
+## archlinux 
+
+- [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
+
 ## arduino 
 
 - [ImpulseAdventure/GUIslice](https://github.com/ImpulseAdventure/GUIslice) - GUIslice drag & drop embedded GUI in C for touchscreen TFT on Arduino, Raspberry Pi, ARM, ESP8266 / ESP32 / M5stack using Adafruit-GFX / TFT_eSPI / UTFT / SDL
@@ -944,7 +949,7 @@
 - [pforret/bash-boilerplate](https://github.com/pforret/bash-boilerplate) - Bash script template // archived, please use https://github.com/pforret/bashew
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [mingrammer/awesome-finder](https://github.com/mingrammer/awesome-finder) - :sunglasses: Search the awesome curated list without browser
-- [getmoro/moro](https://github.com/getmoro/moro) - Simple CLI tool for tracking work hours. Note: Heavy changes are happening in this repository. Docs might not be up to date, and things might be broken. Only the released NPM version is stable.
+- [getmoro/moro](https://github.com/getmoro/moro) - [DEPRECATED/DON'T USE] Simple CLI tool for tracking work hours. Note: Heavy changes are happening in this repository. Docs might not be up to date, and things might be broken. Only the released NPM ve
 - [wustho/epr](https://github.com/wustho/epr) - CLI Epub Reader
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
@@ -1892,6 +1897,7 @@
 - [MarketingPipeline/Markdown-Tag](https://github.com/MarketingPipeline/Markdown-Tag) - Render Markdown to HTML on any website using a md tag
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
+- [department-of-veterans-affairs/vets-website](https://github.com/department-of-veterans-affairs/vets-website) - Frontend for VA.gov
 - [ministryofjustice/hmpps-book-secure-move-frontend](https://github.com/ministryofjustice/hmpps-book-secure-move-frontend) - Rendering layer for the Book a secure move platform
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
@@ -2816,7 +2822,6 @@
 - [codedawi/covid19-badges](https://github.com/codedawi/covid19-badges) - 🦠 SVG badges displaying cases and deaths of COVID-19
 - [expressjs/expressjs.com](https://github.com/expressjs/expressjs.com) - 
 - [patrickhulce/third-party-web](https://github.com/patrickhulce/third-party-web) - Data on third party entities and their impact on the web.
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [kriasoft/react-firebase-starter](https://github.com/kriasoft/react-firebase-starter) - Boilerplate (seed) project for creating web apps with React.js, GraphQL.js and Relay
 - [gavinr/geojson-viewer](https://github.com/gavinr/geojson-viewer) - View GeoJSON from a URL (with permalinks)
 - [gavinr/csv-to-geojson](https://github.com/gavinr/csv-to-geojson) - Convert a CSV to GeoJSON
@@ -3226,7 +3231,6 @@
 - [tyrasd/osmtogeojson](https://github.com/tyrasd/osmtogeojson) - convert osm to geojson
 - [Esri/terraformer](https://github.com/Esri/terraformer) - A geographic toolkit for dealing with geometry, geography, formats, and building geo databases
 - [Turfjs/turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript and TypeScript
-- [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
 - [Erkaman/regl-anim](https://github.com/Erkaman/regl-anim) - Some weird animations made with regl and WebGL
 - [regl-project/regl](https://github.com/regl-project/regl) - 👑 Functional WebGL
 - [Erkaman/regl-fire](https://github.com/Erkaman/regl-fire) - Fire particle system made with regl
@@ -4193,7 +4197,7 @@
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [groupon/cson-parser](https://github.com/groupon/cson-parser) - Simple & safe CSON parser
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
-- [getmoro/moro](https://github.com/getmoro/moro) - Simple CLI tool for tracking work hours. Note: Heavy changes are happening in this repository. Docs might not be up to date, and things might be broken. Only the released NPM version is stable.
+- [getmoro/moro](https://github.com/getmoro/moro) - [DEPRECATED/DON'T USE] Simple CLI tool for tracking work hours. Note: Heavy changes are happening in this repository. Docs might not be up to date, and things might be broken. Only the released NPM ve
 - [apex/up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
 - [socketio/engine.io-client](https://github.com/socketio/engine.io-client) - The engine used in the Socket.IO JavaScript client, which manages the low-level transports such as HTTP long-polling, WebSocket and WebTransport.
 - [socketio/engine.io](https://github.com/socketio/engine.io) - The engine used in the Socket.IO JavaScript server, which manages the low-level transports such as HTTP long-polling and WebSocket.
@@ -4868,10 +4872,10 @@
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
 - [IUNetSci/egoweb](https://github.com/IUNetSci/egoweb) - This is a repository for EgoWeb 2.0 developed by researchers at non-profit researcher centers and Universities led by David Kennedy (www.qualintitative.com). It is a modification of EgoNet developed b
 - [qualintitative/egoweb](https://github.com/qualintitative/egoweb) - This is a repository for EgoWeb 2.0 created and maintained by David P. Kennedy, a researcher at the non-profit RAND Corporation. The repository is also maintained by David Zhang a research programmer 
-- [IUNetSci/BotSlayer-CE](https://github.com/IUNetSci/BotSlayer-CE) - BotSlayer Community Edition
-- [IUNetSci/botometer-python](https://github.com/IUNetSci/botometer-python) - A Python API for Botometer by OSoMe
-- [IUNetSci/hoaxy-backend](https://github.com/IUNetSci/hoaxy-backend) - Backend component for Hoaxy, a tool to visualize the spread of claims and fact checking
-- [IUNetSci/hoaxy-frontend](https://github.com/IUNetSci/hoaxy-frontend) - Frontend component for Hoaxy, a tool to visualize the spread of claims and fact checking
+- [osome-iu/BotSlayer-CE](https://github.com/osome-iu/BotSlayer-CE) - BotSlayer Community Edition
+- [osome-iu/botometer-python](https://github.com/osome-iu/botometer-python) - A Python API for Botometer by OSoMe
+- [osome-iu/hoaxy-backend](https://github.com/osome-iu/hoaxy-backend) - Backend component for Hoaxy, a tool to visualize the spread of claims and fact checking
+- [osome-iu/hoaxy-frontend](https://github.com/osome-iu/hoaxy-frontend) - Frontend component for Hoaxy, a tool to visualize the spread of claims and fact checking
 - [LineageOS/hudson](https://github.com/LineageOS/hudson) - 
 - [elixir-lang/ex_doc](https://github.com/elixir-lang/ex_doc) - ExDoc produces HTML and EPUB documentation for Elixir projects
 - [showdownjs/youtube-extension](https://github.com/showdownjs/youtube-extension) - Embed YouTube videos within showdown
@@ -6705,7 +6709,7 @@
 - [Financial-Times/yield-curve-sonification](https://github.com/Financial-Times/yield-curve-sonification) - An experiment to sonify the yield curve
 - [Financial-Times/origami-website](https://github.com/Financial-Times/origami-website) - The Origami website
 - [Financial-Times/google-amp](https://github.com/Financial-Times/google-amp) - ⚡️ FT.com's implementation of the AMP project.
-- [JakeChampion/polyfill-service](https://github.com/JakeChampion/polyfill-service) - Automatic polyfill service.
+- [polyfillpolyfill/polyfill-service](https://github.com/polyfillpolyfill/polyfill-service) - Automatic polyfill service.
 - [datamade/clearstreets-web](https://github.com/datamade/clearstreets-web) - Website that tracks where Chicago plows have been during a snowstorm.
 - [datamade/chi-councilmatic](https://github.com/datamade/chi-councilmatic) - :eyes: keep tabs on Chicago city council
 - [derekeder/csv-to-html-table](https://github.com/derekeder/csv-to-html-table) - :arrow_down_small: Display any CSV (comma separated values) file as a searchable, filterable, pretty HTML table
@@ -7082,6 +7086,7 @@
 - [geojson-xyz/geojson-xyz.github.io](https://github.com/geojson-xyz/geojson-xyz.github.io) - 
 - [geojson-xyz/geojson-xyz](https://github.com/geojson-xyz/geojson-xyz) - just get the geojson
 - [Turfjs/awesome-turf](https://github.com/Turfjs/awesome-turf) - A collection of awesome projects in the turfjs ecosystem
+- [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
 - [ENT8R/blacklistr](https://github.com/ENT8R/blacklistr) - A website for visualizing country specific data
 - [streetcomplete/streetcomplete-mapstyle](https://github.com/streetcomplete/streetcomplete-mapstyle) - 🌎 Simple, minimalist yet modern map style
 - [tangrams/tangram-play](https://github.com/tangrams/tangram-play) - Text editor web app for Tangram scenes
@@ -8948,7 +8953,6 @@
 - [akveo/nebular](https://github.com/akveo/nebular) - :boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode
 - [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
 - [prisma/prisma-examples](https://github.com/prisma/prisma-examples) - 🚀 Ready-to-run Prisma example projects
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [Shopify/polaris](https://github.com/Shopify/polaris) - Shopify’s design system to help us work together to build a great experience for all of our merchants.
 - [bcgov/namerequest](https://github.com/bcgov/namerequest) - Public Front End for the Name Request System
 - [bcgov/business-create-ui](https://github.com/bcgov/business-create-ui) - BC Registry Services - Legal Entities - Create Incorporation Application
