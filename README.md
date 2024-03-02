@@ -2683,7 +2683,6 @@
 - [opentok/insights-dashboard-sample](https://github.com/opentok/insights-dashboard-sample) - Sample React app utilizing the OpenTok Insights GraphQL API
 - [opentok/opentok-rtc](https://github.com/opentok/opentok-rtc) - OpenTok demo application
 - [havfo/SipCaller](https://github.com/havfo/SipCaller) - React SIP user agent
-- [edumeet/edumeet](https://github.com/edumeet/edumeet) - edumeet - multiparty web-meetings using mediasoup and WebRTC
 - [nextcloud/spreed](https://github.com/nextcloud/spreed) - 🗨️ Nextcloud Talk – chat, video & audio calls for Nextcloud
 - [akshaykmr/emailtrail-webapp](https://github.com/akshaykmr/emailtrail-webapp) - A web application for analysing hops taken by an email to reach you
 - [akshaykmr/oorja](https://github.com/akshaykmr/oorja) - [archived] effortless video-voice chat with realtime collaborative features. extensible using react components 🙌
@@ -5225,6 +5224,7 @@
 - [bramus/freshinstall](https://github.com/bramus/freshinstall) - Automatically configure and install software onto your new Mac
 - [katspaugh/youtube-flashcards](https://github.com/katspaugh/youtube-flashcards) - Extract screenshots & audio clips from YouTube videos into Anki cards
 - [havfo/WEBRTC-to-SIP](https://github.com/havfo/WEBRTC-to-SIP) - Setup for a WEBRTC client and Kamailio server to call SIP clients
+- [edumeet/edumeet](https://github.com/edumeet/edumeet) - edumeet - multiparty web-meetings using mediasoup and WebRTC
 - [jontewks/puppeteer-heroku-buildpack](https://github.com/jontewks/puppeteer-heroku-buildpack) - Installs dependencies needed in order to run puppeteer on heroku.
 - [moderntld/.o](https://github.com/moderntld/.o) - The domain records for the ".o" TLD on @OpenNIC. Claim your domain today!
 - [cryptolok/GhostInTheNet](https://github.com/cryptolok/GhostInTheNet) - Ultimate Network Stealther that makes Linux a Ghost In The Net and protects from MITM/DOS/scan
