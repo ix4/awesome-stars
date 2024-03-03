@@ -149,6 +149,7 @@
 - [monitoring](#monitoring)
 - [music](#music)
 - [mysql](#mysql)
+- [natural-language-processing](#natural-language-processing)
 - [neovim](#neovim)
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
@@ -4070,6 +4071,22 @@
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [bigprof-software/online-rental-property-manager](https://github.com/bigprof-software/online-rental-property-manager) - Manage your rental properties, units, applications, leases and tenants.
 
+## natural-language-processing 
+
+- [instant-labs/instant-segment](https://github.com/instant-labs/instant-segment) - Fast English word segmentation in Rust
+- [hunspell/hunspell](https://github.com/hunspell/hunspell) - The most popular spellchecking library.
+- [jdkato/prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
+- [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
+- [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
+- [rowanz/swagaf](https://github.com/rowanz/swagaf) - Repository for paper "SWAG: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference"
+- [MiteshPuthran/Speech-Emotion-Analyzer](https://github.com/MiteshPuthran/Speech-Emotion-Analyzer) - The neural network model is capable of detecting five different male/female emotions from audio speeches. (Deep Learning, NLP, Python)
+- [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - CoreNLP: A Java suite of core NLP tools for tokenization, sentence segmentation, NER, parsing, coreference, sentiment analysis, etc.
+- [Yale-LILY/Awesome-NLP-Research](https://github.com/Yale-LILY/Awesome-NLP-Research) - 
+- [acl-org/acl-anthology](https://github.com/acl-org/acl-anthology) - Data and software for building the ACL Anthology.
+- [thundergolfer/Insults](https://github.com/thundergolfer/Insults) - Detect whether a social media comment is insulting or derogatory
+- [RasaHQ/rasa](https://github.com/RasaHQ/rasa) - 💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
+- [chiphuyen/stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials) - This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research.
+
 ## neovim 
 
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -4578,7 +4595,6 @@
 - [erikelisath/keep-to-markdown](https://github.com/erikelisath/keep-to-markdown) - Convert Google keep notes to markdown notes
 - [ExperienceLovelace/ha-floorplan](https://github.com/ExperienceLovelace/ha-floorplan) - Bring new life to Home Assistant. By mapping entities to a SVG-object, you're able to control devices, show states, calling services - and much more. Add custom styling on top, to visualize whatever y
 - [steelbrain/linter](https://github.com/steelbrain/linter) - A Base Linter with Cow Powers http://steelbrain.me/linter/
-- [hunspell/hunspell](https://github.com/hunspell/hunspell) - The most popular spellchecking library.
 - [AtomLinter/linter-shellcheck](https://github.com/AtomLinter/linter-shellcheck) - Linter plugin for Bash, using shellcheck.
 - [smfxfc/reddit-nickname-creator](https://github.com/smfxfc/reddit-nickname-creator) - Generate nicknames for all users of www.reddit.com/r/getnicknamed
 - [Gameye98/Lazymux](https://github.com/Gameye98/Lazymux) - termux tool installer
@@ -5183,7 +5199,6 @@
 - [AtomLinter/linter-jshint](https://github.com/AtomLinter/linter-jshint) - Atom linter plugin for JavaScript, using jshint.
 - [AtomLinter/linter-proselint](https://github.com/AtomLinter/linter-proselint) - A plugin for Atom Linter providing an interface to proselint.
 - [jwilk/mwic](https://github.com/jwilk/mwic) - Misspelled Words In Context
-- [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 - [eslint/espree](https://github.com/eslint/espree) - An Esprima-compatible JavaScript parser
 - [opencensus-beam/opencensus_zipkin](https://github.com/opencensus-beam/opencensus_zipkin) - OpenCensus reporter for Zipkin
 - [ocaml/odoc](https://github.com/ocaml/odoc) - Documentation compiler for OCaml and Reason
@@ -5887,7 +5902,6 @@
 - [umap-project/Leaflet.Storage](https://github.com/umap-project/Leaflet.Storage) - Manage map and features with Leaflet and expose them for backend storage through an API.
 - [mapbox/geojsonhint](https://github.com/mapbox/geojsonhint) - IMPORTANT: development of this project has been paused, see the README (Validate GeoJSON against the specification)
 - [allenai/winogrande](https://github.com/allenai/winogrande) - WinoGrande: An Adversarial Winograd Schema Challenge at Scale
-- [rowanz/swagaf](https://github.com/rowanz/swagaf) - Repository for paper "SWAG: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference"
 - [rowanz/grover](https://github.com/rowanz/grover) - Code for Defending Against Neural Fake News, https://rowanzellers.com/grover/
 - [rowanz/hellaswag](https://github.com/rowanz/hellaswag) - HellaSwag: Can a Machine _Really_ Finish Your Sentence?
 - [robotastic/trunk-recorder](https://github.com/robotastic/trunk-recorder) - Records calls from a Trunked Radio System (P25 & SmartNet)
@@ -6485,7 +6499,6 @@
 - [davesantos/tumblr-boilerplate](https://github.com/davesantos/tumblr-boilerplate) - :zap: A true bare bones Tumblr theme for a quick jump-start
 - [tumblr/tumblr.js](https://github.com/tumblr/tumblr.js) - JavaScript client for the Tumblr API
 - [BVLC/raptor](https://github.com/BVLC/raptor) - Code basis for the Realtime adAPtative detecTOR (first published and referred to at IEEE ICRA 2014)
-- [Yale-LILY/Awesome-NLP-Research](https://github.com/Yale-LILY/Awesome-NLP-Research) - 
 - [kiali/kiali.io](https://github.com/kiali/kiali.io) - Source code for www.kiali.io
 - [hershic/ee445m-labs](https://github.com/hershic/ee445m-labs) - EE445M Labs
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
