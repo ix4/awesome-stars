@@ -1746,7 +1746,7 @@
 - [primer/doctocat](https://github.com/primer/doctocat) - A Gatsby theme for building Primer documentation sites
 - [jquery/sizzle](https://github.com/jquery/sizzle) - A sizzlin' hot selector engine.
 - [ernestii/vuelibs.org](https://github.com/ernestii/vuelibs.org) - A list of Vue.js libraries and plugins based on the Awesome-Vue repo
-- [ecomfe/vue-echarts](https://github.com/ecomfe/vue-echarts) - Apache ECharts™ component for Vue.js.
+- [ecomfe/vue-echarts](https://github.com/ecomfe/vue-echarts) - Vue.js component for Apache ECharts™.
 - [vuejs/v2.vuejs.org](https://github.com/vuejs/v2.vuejs.org) - 📄 Documentation for Vue 2
 - [gopro/forgejs](https://github.com/gopro/forgejs) - ForgeJS is a javascript framework that unleashes immersive WebVR experiences.
 - [digitalbazaar/forge](https://github.com/digitalbazaar/forge) - A native implementation of TLS in Javascript and tools to write crypto-based and network-heavy webapps
