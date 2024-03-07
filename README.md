@@ -783,7 +783,6 @@
 - [department-of-veterans-affairs/vets-design-system-documentation](https://github.com/department-of-veterans-affairs/vets-design-system-documentation) - Repository for design.va.gov website
 - [alphagov/gds-way](https://github.com/alphagov/gds-way) - How we build and operate products at GDS
 - [DFE-Digital/technical-guidance](https://github.com/DFE-Digital/technical-guidance) - Principles, standards and guidance for digital delivery teams
-- [bcgov/design-system](https://github.com/bcgov/design-system) - The B.C. Design System helps public sector design and development teams build consistent, accessible products
 - [ministryofjustice/technical-guidance](https://github.com/ministryofjustice/technical-guidance) - How we build and operate products at the Ministry of Justice. • This repository is defined and managed in Terraform
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
@@ -2227,7 +2226,7 @@
 - [aweary/react-copy-write](https://github.com/aweary/react-copy-write) - ✍️ Immutable state with a mutable API
 - [ianstormtaylor/immer](https://github.com/ianstormtaylor/immer) - Create the next immutable state by mutating the current one
 - [segmentio/myth](https://github.com/segmentio/myth) - A CSS preprocessor that acts like a polyfill for future versions of the spec.
-- [metalsmith/metalsmith](https://github.com/metalsmith/metalsmith) - An extremely simple, pluggable static site generator.
+- [metalsmith/metalsmith](https://github.com/metalsmith/metalsmith) - An extremely simple, pluggable static site generator for Node.js
 - [Pixelkit/PixelKit-Bootstrap-UI-Kits](https://github.com/Pixelkit/PixelKit-Bootstrap-UI-Kits) - Free UI Kits built on Bootstrap for any developer that wants to build a cool looking and functional website. Enjoy!
 - [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [meshesha/officetohtml](https://github.com/meshesha/officetohtml) - Office To Html
@@ -5309,6 +5308,7 @@
 
 ## TypeScript 
 
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGP
 - [sumithemmadi/truecallerjs](https://github.com/sumithemmadi/truecallerjs) - TruecallerJS: This is a library for retrieving phone number details using the Truecaller API.
 - [DotJoshJohnson/vscode-xml](https://github.com/DotJoshJohnson/vscode-xml) - XML Tools for Visual Studio Code
 - [googlemaps/openapi-specification](https://github.com/googlemaps/openapi-specification) - OpenAPI specification for Google Maps Platform API
@@ -5373,6 +5373,7 @@
 - [mattermost/desktop](https://github.com/mattermost/desktop) - Mattermost Desktop application for Windows, Mac and Linux
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [bcgov/business-create-ui](https://github.com/bcgov/business-create-ui) - BC Registry Services - Legal Entities - Create Incorporation Application
+- [bcgov/design-system](https://github.com/bcgov/design-system) - The B.C. Design System helps public sector design and development teams build consistent, accessible products
 - [balena-io/balena-cli](https://github.com/balena-io/balena-cli) - The official balena CLI tool.
 - [Dellos7/github-emoji-list](https://github.com/Dellos7/github-emoji-list) - Github Emoji List
 - [google/ground-platform](https://github.com/google/ground-platform) - Ground hosted components: Web console, Cloud Functions, db config
