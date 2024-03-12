@@ -3161,7 +3161,7 @@
 - [noncomputable/AgentMaps](https://github.com/noncomputable/AgentMaps) - Make social simulations on real maps! Agent-based modeling for the web.
 - [Leaflet/Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster) - Marker Clustering plugin for Leaflet
 - [tannerjt/AGStoShapefile](https://github.com/tannerjt/AGStoShapefile) - Convert ArcGIS Server Dynamic Map Service to GeoJSON and Shapefile
-- [geosolutions-it/MapStore2](https://github.com/geosolutions-it/MapStore2) - Modern webmapping with OpenLayers, Leaflet, Cesium and React
+- [geosolutions-it/MapStore2](https://github.com/geosolutions-it/MapStore2) - The solution to create and share maps, dashboards, geostories with 3D support on the web. And it is open-source too!
 - [hallahan/LeafletPlayback](https://github.com/hallahan/LeafletPlayback) - This is a Leaflet plug-in that plays back points that have a time stamp synchronized to a clock.
 - [perliedman/leaflet-realtime](https://github.com/perliedman/leaflet-realtime) - Put realtime data on a Leaflet map
 - [tyrasd/osmtogeojson](https://github.com/tyrasd/osmtogeojson) - convert osm to geojson
