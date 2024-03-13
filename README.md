@@ -898,7 +898,6 @@
 - [chinchang/kalu](https://github.com/chinchang/kalu) - Calculation at speed
 - [chinchang/web-vim](https://github.com/chinchang/web-vim) - Vim like text based editor for prototyping web pages with speed!
 - [yui/yuidoc](https://github.com/yui/yuidoc) - YUI Javascript Documentation Tool
-- [neoascetic/rawgithack](https://github.com/neoascetic/rawgithack) - Serves files from github, bitbucket and gitlab, but with the correct content types
 - [docker/docs](https://github.com/docker/docs) - Source repo for Docker's Documentation
 - [broccolini/swiss](https://github.com/broccolini/swiss) - Jekyll theme inspired by Swiss design
 - [tomjoht/documentation-theme-jekyll](https://github.com/tomjoht/documentation-theme-jekyll) - A Jekyll-based theme designed for documentation and help systems. See the link for detailed instructions on setting up and configuring everything.
@@ -1306,6 +1305,7 @@
 - [tillnagel/unfolding](https://github.com/tillnagel/unfolding) - A library to create interactive maps and geovisualizations in Processing and Java
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
 - [square/auto-value-redacted](https://github.com/square/auto-value-redacted) - An extension for Google's AutoValue that omits redacted fields from toString().
+- [neoascetic/rawgithack](https://github.com/neoascetic/rawgithack) - Serves files from github, bitbucket and gitlab, but with the correct content types
 - [meefik/linuxdeploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 - [openhab/openhab-addons](https://github.com/openhab/openhab-addons) - Add-ons for openHAB
@@ -4097,7 +4097,6 @@
 ## Python 
 
 - [nof20/voter-warehouse](https://github.com/nof20/voter-warehouse) - A standardized data warehouse of New York political data, using Google DataFlow and BigQuery.
-- [KasRoudra/MaxPhisher](https://github.com/KasRoudra/MaxPhisher) - A python phishing script for login phishing, image phishing video phishing and many more
 - [fernzi/gedit-autosave](https://github.com/fernzi/gedit-autosave) - Gedit automatically saves as you type (and when the window is unfocused)
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
 - [MattTW/BlinkMonitorProtocol](https://github.com/MattTW/BlinkMonitorProtocol) - Unofficial documentation for the Blink Wire-Free HD Home Monitoring & Alert System
