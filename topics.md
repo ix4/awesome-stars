@@ -1826,6 +1826,7 @@
 
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
+- [geometalab/OSMTagFinder](https://github.com/geometalab/OSMTagFinder) - Web search engine for OpenStreetMap tags similar to taginfo but simpler.
 - [hack4impact-upenn/maps4all](https://github.com/hack4impact-upenn/maps4all) - Generalized application for displaying location-based resources on a map
 - [hotosm/tasking-manager](https://github.com/hotosm/tasking-manager) - Tasking Manager - The tool to team up for mapping in OpenStreetMap
 - [oduwsdl/MementoEmbed](https://github.com/oduwsdl/MementoEmbed) - A service that provides archive-aware oEmbed-compatible embeddable surrogates (social cards, thumbnails, etc.) for archived web pages (mementos).
@@ -6052,7 +6053,6 @@
 - [ilyankou/transporthartford](https://github.com/ilyankou/transporthartford) - TransportHartford Data Work
 - [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
 - [github/gov-takedowns](https://github.com/github/gov-takedowns) - Text of government takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices.
-- [geometalab/OSMTagFinder](https://github.com/geometalab/OSMTagFinder) - Web search engine for OpenStreetMap tags similar to taginfo but simpler.
 - [geometalab/Vector-Tiles-Reader-QGIS-Plugin](https://github.com/geometalab/Vector-Tiles-Reader-QGIS-Plugin) - Vector Tiles Reader QGIS-Plugin - QGIS Python plugin which reads Mapbox Vector Tiles from a server, a local MBTiles file or a directory
 - [theopolisme/hangouts-analyzer](https://github.com/theopolisme/hangouts-analyzer) - Analyze and visualize your Google Hangouts chat history
 - [theopolisme/location-history-visualizer](https://github.com/theopolisme/location-history-visualizer) - Visualize your Google Location History using an interactive heatmap
@@ -7759,7 +7759,6 @@
 
 ## python 
 
-- [KasRoudra/MaxPhisher](https://github.com/KasRoudra/MaxPhisher) - A python phishing script for login phishing, image phishing video phishing and many more
 - [fernzi/gedit-autosave](https://github.com/fernzi/gedit-autosave) - Gedit automatically saves as you type (and when the window is unfocused)
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [pedrovernetti/metagedit](https://github.com/pedrovernetti/metagedit) - gedit (GNOME text editor) plugin which adds multiple improvements and functionalities to it
@@ -7866,6 +7865,7 @@
 - [mozilla-services/autopush](https://github.com/mozilla-services/autopush) - Python Web Push Server used by Mozilla
 - [JeeveshN/Face-Detect](https://github.com/JeeveshN/Face-Detect) - A Python based tool to extract faces from any picture.
 - [MaxBittker/nyt-first-said](https://github.com/MaxBittker/nyt-first-said) - Tweets when words are published for the first time in the NYT
+- [geometalab/OSMTagFinder](https://github.com/geometalab/OSMTagFinder) - Web search engine for OpenStreetMap tags similar to taginfo but simpler.
 - [alexattia/Maps-Location-History](https://github.com/alexattia/Maps-Location-History) - Get, Concatenate and Process you location history from Google Maps TimeLine
 - [luka1199/geo-heatmap](https://github.com/luka1199/geo-heatmap) - :world_map: Generate an interactive geo heatmap from your Google location data
 - [thp/urlwatch](https://github.com/thp/urlwatch) - Watch (parts of) webpages and get notified when something changes via e-mail, on your phone or via other means. Highly configurable.
