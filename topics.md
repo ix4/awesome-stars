@@ -2469,7 +2469,7 @@
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [MapStory/mapstory](https://github.com/MapStory/mapstory) - MapStory is the free atlas of change that everyone can edit
 - [select2/select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
-- [openaddresses/openaddresses](https://github.com/openaddresses/openaddresses) - A global repository of open address data.
+- [openaddresses/openaddresses](https://github.com/openaddresses/openaddresses) - A global repository of open address, building, and parcel data.
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [MarcosEllys/awesome-newman-html-template](https://github.com/MarcosEllys/awesome-newman-html-template) - :sunglasses: A newman html report very detailed
@@ -3386,7 +3386,7 @@
 - [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
 - [mmistakes/so-simple-theme](https://github.com/mmistakes/so-simple-theme) - A simple Jekyll theme for words and pictures.
 - [Gaohaoyang/gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io) - blog & blog theme🤘
-- [TaylanTatli/Moon](https://github.com/TaylanTatli/Moon) - 🌓 Moon is a minimal, one column jekyll theme.
+- [TolgaTatli/Moon](https://github.com/TolgaTatli/Moon) - 🌓 Moon is a minimal, one column jekyll theme.
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [wowthemesnet/affiliates-jekyll-theme](https://github.com/wowthemesnet/affiliates-jekyll-theme) - Affiliates - Jekyll Blogging Theme for Affiliate Marketers
 - [wowthemesnet/mediumish-theme-jekyll](https://github.com/wowthemesnet/mediumish-theme-jekyll) - Jekyll Template - Mediumish
@@ -3453,7 +3453,7 @@
 - [mmistakes/so-simple-theme](https://github.com/mmistakes/so-simple-theme) - A simple Jekyll theme for words and pictures.
 - [Gaohaoyang/gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io) - blog & blog theme🤘
 - [qiubaiying/qiubaiying.github.io](https://github.com/qiubaiying/qiubaiying.github.io) - BY Blog -&gt;
-- [TaylanTatli/Moon](https://github.com/TaylanTatli/Moon) - 🌓 Moon is a minimal, one column jekyll theme.
+- [TolgaTatli/Moon](https://github.com/TolgaTatli/Moon) - 🌓 Moon is a minimal, one column jekyll theme.
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [wowthemesnet/affiliates-jekyll-theme](https://github.com/wowthemesnet/affiliates-jekyll-theme) - Affiliates - Jekyll Blogging Theme for Affiliate Marketers
 - [wowthemesnet/mediumish-theme-jekyll](https://github.com/wowthemesnet/mediumish-theme-jekyll) - Jekyll Template - Mediumish
