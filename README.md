@@ -1125,7 +1125,7 @@
 - [lukas-h/jekyll-timeline](https://github.com/lukas-h/jekyll-timeline) - Timeline / Résumé Theme with Jekyll
 - [jekyllt/jasper2](https://github.com/jekyllt/jasper2) - Full-featured Jekyll port of Ghost's default theme Casper v2 👻
 - [qiubaiying/qiubaiying.github.io](https://github.com/qiubaiying/qiubaiying.github.io) - BY Blog -&gt;
-- [TaylanTatli/Moon](https://github.com/TaylanTatli/Moon) - 🌓 Moon is a minimal, one column jekyll theme.
+- [TolgaTatli/Moon](https://github.com/TolgaTatli/Moon) - 🌓 Moon is a minimal, one column jekyll theme.
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [wowthemesnet/affiliates-jekyll-theme](https://github.com/wowthemesnet/affiliates-jekyll-theme) - Affiliates - Jekyll Blogging Theme for Affiliate Marketers
 - [dschoerk/profile-page-jekyll](https://github.com/dschoerk/profile-page-jekyll) - Stylish, minimalistic theme for jekyll.
@@ -3328,7 +3328,7 @@
 - [square/crossfilter](https://github.com/square/crossfilter) - Fast n-dimensional filtering and grouping of records.
 - [andrewharvey/geojson-mesh](https://github.com/andrewharvey/geojson-mesh) - Command line tool to extract borders of GeoJSON Polygons into a non-overlapping set of LineString's
 - [andrewharvey/geojson-polygon-labels](https://github.com/andrewharvey/geojson-polygon-labels) - Command line tool to generate point labels from GeoJSON polygons
-- [openaddresses/openaddresses](https://github.com/openaddresses/openaddresses) - A global repository of open address data.
+- [openaddresses/openaddresses](https://github.com/openaddresses/openaddresses) - A global repository of open address, building, and parcel data.
 - [mlevans/leaflet-hash](https://github.com/mlevans/leaflet-hash) - Add URL hashes to web pages with Leaflet maps.
 - [stamen/bluegreenway](https://github.com/stamen/bluegreenway) - Maps and events along SF's Blue Greenway
 - [stamen/open-redistricting](https://github.com/stamen/open-redistricting) - A collaborative, open legislative redistricting tool, built atop GitHub.
