@@ -2619,7 +2619,6 @@
 - [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library.
 - [brunnolou/streaming-room](https://github.com/brunnolou/streaming-room) - Streaming room in Node.js, rtmp, hsl, html5 videojs player
 - [bobboteck/JoyStick](https://github.com/bobboteck/JoyStick) - A simple JoyStick that use HTML5, Canvas and Vanilla JavaScript, for touch and mouse interfaces (no JQuery required), preview at:
-- [lrusso/tinyDOC](https://github.com/lrusso/tinyDOC) - TinyDOC Editor is a HTML5 Rich Text Editor
 - [lrusso/SQLiteOnline](https://github.com/lrusso/SQLiteOnline) - SQLite Online developed in JavaScript
 - [microsoft/ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
 - [crossbario/autobahn-js](https://github.com/crossbario/autobahn-js) - WAMP in JavaScript for Browsers and NodeJS
@@ -2940,7 +2939,6 @@
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [richardzcode/bootstrap-4-react](https://github.com/richardzcode/bootstrap-4-react) - Bootstrap 4 React components
 - [bobboteck/JoyStick](https://github.com/bobboteck/JoyStick) - A simple JoyStick that use HTML5, Canvas and Vanilla JavaScript, for touch and mouse interfaces (no JQuery required), preview at:
-- [lrusso/tinyDOC](https://github.com/lrusso/tinyDOC) - TinyDOC Editor is a HTML5 Rich Text Editor
 - [lrusso/SQLiteOnline](https://github.com/lrusso/SQLiteOnline) - SQLite Online developed in JavaScript
 - [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
 - [browserify/browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
@@ -5605,7 +5603,6 @@
 - [facebookarchive/house](https://github.com/facebookarchive/house) - 
 - [gayanSandamal/good-time](https://github.com/gayanSandamal/good-time) - good-time.js will reduce your development time in getting time differences between two standard times.
 - [gayanSandamal/easy-numpad](https://github.com/gayanSandamal/easy-numpad) - jQuery based soft number pad which is developed use and customize easily
-- [lrusso/tinyDiagramEditor](https://github.com/lrusso/tinyDiagramEditor) - Tiny Diagram Editor in HTML5 based on the work of https://github.com/alexgheorghiu/diagramo
 - [TryGhost/node-sqlite3](https://github.com/TryGhost/node-sqlite3) - SQLite3 bindings for Node.js
 - [zirill/sqliteonline.com.dif](https://github.com/zirill/sqliteonline.com.dif) - Modification of libraries
 - [glslify/glslify-loader](https://github.com/glslify/glslify-loader) - :floppy_disk: glslify loader module for webpack
