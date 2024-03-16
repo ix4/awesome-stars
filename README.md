@@ -2020,8 +2020,6 @@
 - [richardzcode/bootstrap-4-react](https://github.com/richardzcode/bootstrap-4-react) - Bootstrap 4 React components
 - [gayanSandamal/good-time](https://github.com/gayanSandamal/good-time) - good-time.js will reduce your development time in getting time differences between two standard times.
 - [bobboteck/JoyStick](https://github.com/bobboteck/JoyStick) - A simple JoyStick that use HTML5, Canvas and Vanilla JavaScript, for touch and mouse interfaces (no JQuery required), preview at:
-- [lrusso/tinyDOC](https://github.com/lrusso/tinyDOC) - TinyDOC Editor is a HTML5 Rich Text Editor
-- [lrusso/tinyDiagramEditor](https://github.com/lrusso/tinyDiagramEditor) - Tiny Diagram Editor in HTML5 based on the work of https://github.com/alexgheorghiu/diagramo
 - [zirill/sqliteonline.com.dif](https://github.com/zirill/sqliteonline.com.dif) - Modification of libraries
 - [glslify/glslify-loader](https://github.com/glslify/glslify-loader) - :floppy_disk: glslify loader module for webpack
 - [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
