@@ -338,7 +338,6 @@
 - [leny/kouto-swiss](https://github.com/leny/kouto-swiss) - A complete CSS framework for Stylus
 - [OpusVL/govstrap.io](https://github.com/OpusVL/govstrap.io) - Govstrap.io is a port of the GOV.UK standard web theme to the Bootstrap framework
 - [faisalman/docklr-css](https://github.com/faisalman/docklr-css) - Give your site a macOS-like Dock menu & stacks using pure CSS3 (no JS needed!)
-- [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code
 - [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation) - Mattermost developer documentation.
 - [tabler/tabler-react](https://github.com/tabler/tabler-react) - React components and demo for the Tabler UI theme.
 - [18F/pulse](https://github.com/18F/pulse) - How the federal .gov domain space is doing at best practices and policies.
@@ -373,7 +372,6 @@
 - [rachelandrew/grid-by-example](https://github.com/rachelandrew/grid-by-example) - CSS3 Grid Layout examples
 - [tastejs/todomvc-app-css](https://github.com/tastejs/todomvc-app-css) - CSS for TodoMVC apps
 - [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
-- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
 - [drvy/minimal-block](https://github.com/drvy/minimal-block) - A minimalistic, responsive and friendly Jekyllrb theme.
 - [poole/lanyon](https://github.com/poole/lanyon) - A content-first, sliding sidebar theme for Jekyll.
@@ -898,7 +896,6 @@
 - [chinchang/kalu](https://github.com/chinchang/kalu) - Calculation at speed
 - [chinchang/web-vim](https://github.com/chinchang/web-vim) - Vim like text based editor for prototyping web pages with speed!
 - [yui/yuidoc](https://github.com/yui/yuidoc) - YUI Javascript Documentation Tool
-- [docker/docs](https://github.com/docker/docs) - Source repo for Docker's Documentation
 - [broccolini/swiss](https://github.com/broccolini/swiss) - Jekyll theme inspired by Swiss design
 - [tomjoht/documentation-theme-jekyll](https://github.com/tomjoht/documentation-theme-jekyll) - A Jekyll-based theme designed for documentation and help systems. See the link for detailed instructions on setting up and configuring everything.
 - [iipc/warc-specifications](https://github.com/iipc/warc-specifications) - Centralised repository for WARC usage specifications.
@@ -3583,7 +3580,9 @@
 ## Markdown 
 
 - [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs) - Open source documentation of Microsoft Azure
+- [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
+- [docker/docs](https://github.com/docker/docs) - Source repo for Docker's Documentation
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Mustache 
@@ -4142,7 +4141,7 @@
 - [cisasteelersfan/quantum_gateway](https://github.com/cisasteelersfan/quantum_gateway) - Verizon Fios Quantum Gateway querying library for use with Home Assistant
 - [anishathalye/seashells](https://github.com/anishathalye/seashells) - The official client for seashells.io 🐚
 - [hhatto/autopep8](https://github.com/hhatto/autopep8) - A tool that automatically formats Python code to conform to the PEP 8 style guide.
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [symerio/pgeocode](https://github.com/symerio/pgeocode) - Postal code geocoding and distance calculation
 - [wireservice/csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
 - [Sujal-7/WikiSummarizerBot](https://github.com/Sujal-7/WikiSummarizerBot) - 
@@ -5018,6 +5017,7 @@
 - [DmitrySharabin/flashcards-app-v.2](https://github.com/DmitrySharabin/flashcards-app-v.2) - Flashcards App made with Mavo
 - [planetoftheweb/rayveal](https://github.com/planetoftheweb/rayveal) - A markdown first presentation framework. Based on reveal.js with preinstalled plugins, light Bootstrap and sweet extras.
 - [thomaspark/pubcss](https://github.com/thomaspark/pubcss) - Format academic publications in HTML & CSS
+- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [allejo/jekyll-docs-theme](https://github.com/allejo/jekyll-docs-theme) - A mediocre Jekyll theme for writing documentation websites based Bootstrap's old website design
 - [jekyllup/jekyll-theme-massively](https://github.com/jekyllup/jekyll-theme-massively) - Preview
 - [zerostaticthemes/jekyll-serif-theme](https://github.com/zerostaticthemes/jekyll-serif-theme) - Serif is a multi page business theme for Jekyll.
