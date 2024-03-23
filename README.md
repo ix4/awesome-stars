@@ -1570,7 +1570,7 @@
 - [jsonresume/theme-manager](https://github.com/jsonresume/theme-manager) - Theme server for JSON Resume
 - [jsonresume/resume-schema](https://github.com/jsonresume/resume-schema) - JSON-Schema is used here to define and validate our proposed resume json
 - [manuels/hpdf.js](https://github.com/manuels/hpdf.js) - Create PDFs in your browser or nodejs (javascript port of libharu)
-- [department-of-veterans-affairs/vets-json-schema](https://github.com/department-of-veterans-affairs/vets-json-schema) - JSON Schema for all Vets.gov projects
+- [department-of-veterans-affairs/vets-json-schema](https://github.com/department-of-veterans-affairs/vets-json-schema) - JSON Schema for all VA.gov projects
 - [department-of-veterans-affairs/vets-website](https://github.com/department-of-veterans-affairs/vets-website) - Frontend for VA.gov
 - [alphagov/govuk-prototype-kit](https://github.com/alphagov/govuk-prototype-kit) - Rapidly create HTML prototypes of GOV.UK services
 - [alphagov/fourth-wall](https://github.com/alphagov/fourth-wall) - Retired pull request and build status monitor
@@ -2839,7 +2839,7 @@
 - [peermaps/mixmap](https://github.com/peermaps/mixmap) - interactive webgl mapping library emphasizing direct access to the rendering pipeline
 - [Polymer/pwa-starter-kit](https://github.com/Polymer/pwa-starter-kit) - Starter templates for building full-featured Progressive Web Apps from web components.
 - [spritejs/spritejs](https://github.com/spritejs/spritejs) - A cross platform high-performance graphics system.
-- [privacypass/challenge-bypass-extension](https://github.com/privacypass/challenge-bypass-extension) - Client for Privacy Pass protocol providing unlinkable cryptographic tokens
+- [privacypass/challenge-bypass-extension](https://github.com/privacypass/challenge-bypass-extension) - DEPRECATED - Client for Privacy Pass protocol providing unlinkable cryptographic tokens
 - [opendocsg/opendoc-theme](https://github.com/opendocsg/opendoc-theme) - 
 - [opendocsg/editor](https://github.com/opendocsg/editor) - Opendoc Markdown Editor
 - [mwilliamson/mammoth.js](https://github.com/mwilliamson/mammoth.js) - Convert Word documents (.docx files) to HTML
