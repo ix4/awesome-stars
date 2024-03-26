@@ -1938,7 +1938,6 @@
 - [nuxt/vue-meta](https://github.com/nuxt/vue-meta) - Manage HTML metadata in Vue.js components with SSR support
 - [dylantientcheu/manifesto-cli](https://github.com/dylantientcheu/manifesto-cli) - A CLI app that helps generate a manifest file for your PWA.
 - [angular/angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
-- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
 - [react-static/react-static](https://github.com/react-static/react-static) - ⚛️ 🚀 A progressive static site generator for React.
 - [lusaxweb/Kursor](https://github.com/lusaxweb/Kursor) - Cursor style with javascript and css
@@ -4069,6 +4068,7 @@
 
 - [mgeeky/Penetration-Testing-Tools](https://github.com/mgeeky/Penetration-Testing-Tools) - A collection of more than 170+ tools, scripts, cheatsheets and other loots that I've developed over years for Red Teaming/Pentesting/IT Security audits purposes.
 - [hak5/bashbunny-payloads](https://github.com/hak5/bashbunny-payloads) - The Official Bash Bunny Payload Repository
+- [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [peewpw/Invoke-PSImage](https://github.com/peewpw/Invoke-PSImage) - Encodes a PowerShell script in the pixels of a PNG file and generates a oneliner to execute
 - [nsacyber/CodeGov](https://github.com/nsacyber/CodeGov) - Creates a code.gov code inventory JSON file based on GitHub repository information. #nsacyber
 
@@ -5197,7 +5197,6 @@
 - [heroku/heroku-buildpack-nodejs](https://github.com/heroku/heroku-buildpack-nodejs) - Heroku's buildpack for Node.js applications.
 - [keeferrourke/la-capitaine-icon-theme](https://github.com/keeferrourke/la-capitaine-icon-theme) - La Capitaine is an icon pack designed to integrate with most desktop environments. The set of icons takes inspiration from the latest iterations of macOS and Google's Material Design.
 - [temptemp3/linuxhint.com](https://github.com/temptemp3/linuxhint.com) - Scripts used in https://linuxhint.com bash programming examples
-- [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [lowtechmag/materialserver](https://github.com/lowtechmag/materialserver) - a bash script exposing "AXP209" and "INA219" power metrics, temperature and machine load as a JSON API. For Armbian Allwinner A20 boards
 - [mathiasbynens/evil.sh](https://github.com/mathiasbynens/evil.sh) - :speak_no_evil: Subtle and not-so-subtle shell tweaks that will slowly drive people insane.
 - [amiaopensource/audiorecorder](https://github.com/amiaopensource/audiorecorder) - tool for calibration and recording of analog audio sources
@@ -5434,6 +5433,7 @@
 - [joeferner/node-http-mitm-proxy](https://github.com/joeferner/node-http-mitm-proxy) - HTTP Man In The Middle (MITM) Proxy
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [FormidableLabs/react-live](https://github.com/FormidableLabs/react-live) - A flexible playground for live editing React components
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [zhongsp/TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org
 - [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ Libraries for building performant and instant search experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
