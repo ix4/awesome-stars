@@ -1329,7 +1329,6 @@
 - [PDF417/pdf417-android](https://github.com/PDF417/pdf417-android) - PDF417 and QR code scanning SDK for Android
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
-- [android/tv-samples](https://github.com/android/tv-samples) - Multiple samples showing best practices in app development on Android TV.
 - [google-ar/sceneform-android-sdk](https://github.com/google-ar/sceneform-android-sdk) - Sceneform SDK for Android
 - [googlesamples/sceneform-samples](https://github.com/googlesamples/sceneform-samples) - Sceneform samples for 3D rendering for ARCore in Java.
 - [oduwsdl/MobileMink](https://github.com/oduwsdl/MobileMink) - An Android Application for the viewing and creating of archived verisons of mobile and desktop pages using the Memento Framework.
@@ -1418,7 +1417,7 @@
 - [kikiklang/pomme-page](https://github.com/kikiklang/pomme-page) - Big buttons with easy click startpage for a browser.
 - [z0ccc/comet](https://github.com/z0ccc/comet) - Browser extension to replace Youtube comments with Reddit comments or view the Reddit comments of any webpage.
 - [deep5050/memes-on-issues-action](https://github.com/deep5050/memes-on-issues-action) - greet the issue raiser with a custom message and a bonus programming meme :smile:
-- [code-charity/youtube](https://github.com/code-charity/youtube) - [Top~1 YouTube / Video Web-Extension] Enrich your experience & choice! 🧰100+ clever features📌set & forget📌Longest-standing (yet rare & tough alone. Please help/join🧩us👨‍👩‍👧‍👧) ..⋮ {playback|content di
+- [code-charity/youtube](https://github.com/code-charity/youtube) - [Top~1 open YouTube / Video Web-Extension] Enrich your experience & choice! 🧰100+ clever features📌set & forget📌Longest-standing (yet rare & tough alone. Please help/join🧩us👨‍👩‍👧‍👧) ..⋮ {playback|conte
 - [ubershmekel/redditp](https://github.com/ubershmekel/redditp) - Convert any reddit page to a presentation or slide show
 - [jiangts/JS-OTP](https://github.com/jiangts/JS-OTP) - 100% Javascript Implementation of HOTP and TOTP for Two-Factor Authentication.
 - [w3irdrobot/interactive-menu](https://github.com/w3irdrobot/interactive-menu) - Building an Interactive Menu in Vanilla JavaScript
@@ -2996,7 +2995,6 @@
 - [albertoxamin/unimeal-bot](https://github.com/albertoxamin/unimeal-bot) - Telegram bot with overkill technologies to give you an idea about what you'll be eating today at the university canteen.
 - [sdepold/jquery-rss](https://github.com/sdepold/jquery-rss) - An easy-to-use rss plugin for jquery with templating.
 - [falling-sky/source](https://github.com/falling-sky/source) - Main source for falling-sky.  Mostly  HTML, JavaScript.
-- [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
 - [scripting/electricPork](https://github.com/scripting/electricPork) - An Electron app that helps you write and publish threads on Twitter.
 - [the-crib/thread-unroll](https://github.com/the-crib/thread-unroll) - Unrolls twitter thread and sends it as a DM to anyone that mentions the bot on the thread.
 - [gdad-s-river/create-twitter-thread](https://github.com/gdad-s-river/create-twitter-thread) - Turn a long string into twitter thread with tweets' length (&lt;= 280 chars) stored in an array of strings 🎉🎊
@@ -3516,6 +3514,7 @@
 - [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android
 - [mozilla-mobile/firefox-tv](https://github.com/mozilla-mobile/firefox-tv) - Firefox for Amazon's Fire TV
 - [badboy/firefox-tv](https://github.com/badboy/firefox-tv) - Firefox for Amazon's Fire TV
+- [android/tv-samples](https://github.com/android/tv-samples) - Multiple samples showing best practices in app development on Android TV.
 - [square/picasso](https://github.com/square/picasso) - A powerful image downloading and caching library for Android
 
 ## Less 
@@ -5628,6 +5627,7 @@
 - [telegraf/telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node.js
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
+- [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [mozmorris/react-webcam](https://github.com/mozmorris/react-webcam) - Webcam component
