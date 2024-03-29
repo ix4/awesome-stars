@@ -6858,7 +6858,7 @@
 - [ourresearch/unpaywall-extension](https://github.com/ourresearch/unpaywall-extension) - Firefox/Chrome extension that gives you a link to a free PDF when you view scholarly articles
 - [ourresearch/oadoi](https://github.com/ourresearch/oadoi) - The backend code that powers Unpaywall. support@unpaywall.org
 - [expo/snack-web](https://github.com/expo/snack-web) - 
-- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
+- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [zusorio/GoodTwitterChrome](https://github.com/zusorio/GoodTwitterChrome) - 
 - [WebBluetoothCG/demos](https://github.com/WebBluetoothCG/demos) - Demo applications showing off Web Bluetooth
 - [WebBluetoothCG/web-bluetooth](https://github.com/WebBluetoothCG/web-bluetooth) - Bluetooth support for the Web.
