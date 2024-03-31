@@ -824,7 +824,6 @@
 - [w3c/developers](https://github.com/w3c/developers) - The one-stop place to find the information and tools you need  to help you learn, build, and move the web forward.
 - [gopro/forgejs-samples](https://github.com/gopro/forgejs-samples) - Samples for the ForgeJS javascript framework.
 - [css-pkg/css-pkg.github.io](https://github.com/css-pkg/css-pkg.github.io) - directory for css packages
-- [Chicago/design.chicago.gov](https://github.com/Chicago/design.chicago.gov) - The Chicago Design System is a guide for producing delightful technology products and services for the residents of the City of Chicago.
 - [wildhaber/gohugo-amp](https://github.com/wildhaber/gohugo-amp) - ⚡ AMP starter theme for gohugo https://gohugo-amp.gohugohq.com
 - [gjtorikian/markdowntutorial.com](https://github.com/gjtorikian/markdowntutorial.com) - Lessons to help guide new writers into Markdown!
 - [Python-Markdown/Python-Markdown.github.io](https://github.com/Python-Markdown/Python-Markdown.github.io) - Python-Markdown documentation hosted on GitHub Pages
