@@ -5241,7 +5241,6 @@
 - [pablooliveira/bibjekyll](https://github.com/pablooliveira/bibjekyll) - A bibtex plugin for Jekyll (based on bibtex2html)
 - [fauno/jekyll-pandoc-multiple-formats](https://github.com/fauno/jekyll-pandoc-multiple-formats) - Use pandoc on jekyll to generate posts in multiple formats. Development has moved to https://0xacab.org/edsl/jekyll-pandoc-multiple-formats
 - [Chicago/design-projects](https://github.com/Chicago/design-projects) - A repository listing new & current design projects.
-- [Chicago/design.chicago.gov](https://github.com/Chicago/design.chicago.gov) - The Chicago Design System is a guide for producing delightful technology products and services for the residents of the City of Chicago.
 - [govau/design-system-starter](https://github.com/govau/design-system-starter) - 🚀 The Australian Government Design System - Starter
 - [goinvo/Visual-Town-Budget](https://github.com/goinvo/Visual-Town-Budget) - Open-source budget visualization framework.
 - [benbalter/gman](https://github.com/benbalter/gman) - A ruby gem to check if the owner of a given email address or website is working for THE MAN (a.k.a verifies government domains).
