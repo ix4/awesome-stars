@@ -3973,7 +3973,7 @@
 - [laravel/cashier-stripe](https://github.com/laravel/cashier-stripe) - Laravel Cashier provides an expressive, fluent interface to Stripe's subscription billing services.
 - [GoogleCloudPlatform/getting-started-php](https://github.com/GoogleCloudPlatform/getting-started-php) - A tutorial for creating a complete application using PHP on Google Cloud Platform
 - [berrnd/locory](https://github.com/berrnd/locory) - A private / self-hosted location history solution
-- [pandorafms/pandorafms](https://github.com/pandorafms/pandorafms) - Pandora FMS is a flexible and highly scalable monitoring system ready for big environments. It uses agents (Linux, Windows, AIX, HP-UX, Solaris and BSD systems) and can do both local and remote networ
+- [pandorafms/pandorafms](https://github.com/pandorafms/pandorafms) - Pandora FMS is an open source monitoring application whose origin dates back to 2004. It integrates in the same application the monitoring of different infrastructure elements: networks, applications,
 - [MIT-Mobile/MIT-Mobile-Web](https://github.com/MIT-Mobile/MIT-Mobile-Web) - The web portion of the MIT Mobile Framework
 - [dagd/dagd](https://github.com/dagd/dagd) - A URL shortener with various other utilities, backed by a custom lightweight framework.
 - [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
