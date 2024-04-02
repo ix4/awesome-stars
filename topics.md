@@ -2331,7 +2331,6 @@
 - [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
 - [obsproject/obs-websocket](https://github.com/obsproject/obs-websocket) - Remote-control of OBS Studio through WebSocket
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-- [OpenArchive/Save-app-android](https://github.com/OpenArchive/Save-app-android) - This is the Save app for Android
 - [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :koala: - PouchDB is a pocket-sized database.
 - [chinchang/web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend playground
 - [xbmc/repo-scripts](https://github.com/xbmc/repo-scripts) - Official source repository for Kodi script add-ons
@@ -3754,7 +3753,7 @@
 - [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash) - A beautiful web dashboard for Linux
 - [adgellida/ubunsys](https://github.com/adgellida/ubunsys) - STATUS: DEVELOPMENT PAUSED ⏸️ - Configure dark and deep aspects in your Ubuntu
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
-- [pandorafms/pandorafms](https://github.com/pandorafms/pandorafms) - Pandora FMS is a flexible and highly scalable monitoring system ready for big environments. It uses agents (Linux, Windows, AIX, HP-UX, Solaris and BSD systems) and can do both local and remote networ
+- [pandorafms/pandorafms](https://github.com/pandorafms/pandorafms) - Pandora FMS is an open source monitoring application whose origin dates back to 2004. It integrates in the same application the monitoring of different infrastructure elements: networks, applications,
 - [OSGeo/OSGeoLive](https://github.com/OSGeo/OSGeoLive) - OSGeo-Live is a self-contained bootable DVD, USB thumb drive or Virtual Machine based on LUbuntu, that allows you to try a wide variety of open source geospatial software without installing anything. 
 - [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger) - Small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface.
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
@@ -4042,7 +4041,7 @@
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
-- [pandorafms/pandorafms](https://github.com/pandorafms/pandorafms) - Pandora FMS is a flexible and highly scalable monitoring system ready for big environments. It uses agents (Linux, Windows, AIX, HP-UX, Solaris and BSD systems) and can do both local and remote networ
+- [pandorafms/pandorafms](https://github.com/pandorafms/pandorafms) - Pandora FMS is an open source monitoring application whose origin dates back to 2004. It integrates in the same application the monitoring of different infrastructure elements: networks, applications,
 - [hootsuite/healthchecks](https://github.com/hootsuite/healthchecks) - A go implementation of the Health Checks API used for microservice exploration, documentation and monitoring.
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
@@ -5523,6 +5522,7 @@
 - [google/libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
 - [signalapp/libsignal-protocol-javascript](https://github.com/signalapp/libsignal-protocol-javascript) - This library is no longer maintained. libsignal-protocol-javascript was an implementation of the Signal Protocol, written in JavaScript. It has been replaced by libsignal-client’s typesafe TypeScript 
 - [arkadianriver/spectral](https://github.com/arkadianriver/spectral) - A jekyll theme for the spectral template by html5up.net (@ajlkn). Demo: http://arkadianriver.github.io/spectral. How to jekyll: http://jekyllrb.com/docs/home/. If you intend to use this theme as a blo
+- [OpenArchive/Save-app-android](https://github.com/OpenArchive/Save-app-android) - This is the Save app for Android
 - [hamukazu/lets-get-arrested](https://github.com/hamukazu/lets-get-arrested) - This project is intended to protest against the police in Japan
 - [BBC-Data-Unit/neighbourhood-police](https://github.com/BBC-Data-Unit/neighbourhood-police) - Neighbourhood police: One in seven officers axed were beat bobbies
 - [lucyparsons/cpdsearchwarrants](https://github.com/lucyparsons/cpdsearchwarrants) - Five years of executed search warrants by Chicago Police (2012-2017)
@@ -9360,7 +9360,7 @@
 - [crow-translate/crow-translate](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator that allows you to translate and speak text using Google, Yandex Bing, LibreTranslate and Lingva.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
-- [pandorafms/pandorafms](https://github.com/pandorafms/pandorafms) - Pandora FMS is a flexible and highly scalable monitoring system ready for big environments. It uses agents (Linux, Windows, AIX, HP-UX, Solaris and BSD systems) and can do both local and remote networ
+- [pandorafms/pandorafms](https://github.com/pandorafms/pandorafms) - Pandora FMS is an open source monitoring application whose origin dates back to 2004. It integrates in the same application the monitoring of different infrastructure elements: networks, applications,
 - [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy) - A full fledged GUI integration for the award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [ramboxapp/community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
