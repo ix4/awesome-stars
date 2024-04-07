@@ -5255,7 +5255,7 @@
 
 ## Stylus 
 
-- [hexojs/site](https://github.com/hexojs/site) - The website for Hexo.
+- [hexojs/site](https://github.com/hexojs/site) - The website for Hexo. https://hexo.io/
 
 ## Svelte 
 
