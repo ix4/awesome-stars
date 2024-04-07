@@ -5220,7 +5220,7 @@
 - [primer/doctocat](https://github.com/primer/doctocat) - A Gatsby theme for building Primer documentation sites
 - [jquery/sizzle](https://github.com/jquery/sizzle) - A sizzlin' hot selector engine.
 - [w3c/developers](https://github.com/w3c/developers) - The one-stop place to find the information and tools you need  to help you learn, build, and move the web forward.
-- [hexojs/site](https://github.com/hexojs/site) - The website for Hexo.
+- [hexojs/site](https://github.com/hexojs/site) - The website for Hexo. https://hexo.io/
 - [mozilla/kitsune](https://github.com/mozilla/kitsune) - Platform for Mozilla Support
 - [vuejs/v2.vuejs.org](https://github.com/vuejs/v2.vuejs.org) - 📄 Documentation for Vue 2
 - [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
@@ -8984,6 +8984,7 @@
 - [microsoft/tsdoc](https://github.com/microsoft/tsdoc) - A doc comment standard for TypeScript
 - [compodoc/compodoc](https://github.com/compodoc/compodoc) - :notebook_with_decorative_cover: The missing documentation tool for your Angular, Nest & Stencil application
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+- [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [microsoft/TypeScript-Handbook](https://github.com/microsoft/TypeScript-Handbook) - Deprecated, please use the TypeScript-Website repo instead
