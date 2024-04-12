@@ -416,7 +416,7 @@
 - [mapshakers/leaflet-mapkey-icon](https://github.com/mapshakers/leaflet-mapkey-icon) - New dimension of markers for Leaflet. Based on MapkeyIcons
 - [jamalhassouni/pwa-news-Application](https://github.com/jamalhassouni/pwa-news-Application) - Simple Progressive Web App (PWA)  written in JavaScript
 - [pan-unit42/playbook_viewer](https://github.com/pan-unit42/playbook_viewer) - 
-- [EhsaanIqbal/tensorchat](https://github.com/EhsaanIqbal/tensorchat) - A p2p chat application built with webrtc
+- [ehsaaniqbal/tensorchat](https://github.com/ehsaaniqbal/tensorchat) - A p2p chat application built with webrtc
 - [TrustTheVote-Project/horatio-client](https://github.com/TrustTheVote-Project/horatio-client) - A client for an absentee ballot request form.
 - [hack4impact-upenn/cls](https://github.com/hack4impact-upenn/cls) - (Community Legal Services Fall 2016): Processing millions of Google Location Data points into court admissible legal documents...all on the frontend
 - [michaelravedoni/jekyll-book-framework](https://github.com/michaelravedoni/jekyll-book-framework) - A Jekyll framework for publishing book in multiple format (HTML, PDF, epub)
@@ -3882,7 +3882,7 @@
 - [lirantal/awesome-opensource-israel](https://github.com/lirantal/awesome-opensource-israel) - A curated list of Israeli-made projects, events, and individuals
 - [softwareunderground/awesome-open-geoscience](https://github.com/softwareunderground/awesome-open-geoscience) - Curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome
 - [hackerkid/bots](https://github.com/hackerkid/bots) - :zap: Tools for building bots
-- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
+- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [DopplerHQ/awesome-bots](https://github.com/DopplerHQ/awesome-bots) - The most awesome list about bots ⭐️🤖
 - [edgi-govdata-archiving/awesome-website-change-monitoring](https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring) - A curated list of awesome tools for website diffing and change monitoring.
 - [edgi-govdata-archiving/edgi-website](https://github.com/edgi-govdata-archiving/edgi-website) - 💻 Public repo for issues and project management for EDGI's website
