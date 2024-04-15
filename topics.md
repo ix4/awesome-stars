@@ -3588,6 +3588,7 @@
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 - [hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
 - [bcgov/business-create-ui](https://github.com/bcgov/business-create-ui) - BC Registry Services - Legal Entities - Create Incorporation Application
+- [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
 - [openshift/origin](https://github.com/openshift/origin) - Conformance test suite for OpenShift
 - [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 - [yunlzheng/prometheus-book](https://github.com/yunlzheng/prometheus-book) - Prometheus操作指南
@@ -5052,7 +5053,6 @@
 - [huridocs/OpenEvSys](https://github.com/huridocs/OpenEvSys) - OpenEvSys is free open source software designed for use by organisations who need a software tool to manage information on human rights violations
 - [gitpod-io/retired-gatsby-website](https://github.com/gitpod-io/retired-gatsby-website) - Gitpod website and documentation
 - [nisrulz/javadoc-themer](https://github.com/nisrulz/javadoc-themer) - [Javadoc Tool] Give your boooring javadocs a splash of colors!
-- [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
 - [github/balanced-employee-ip-agreement](https://github.com/github/balanced-employee-ip-agreement) - GitHub's employee intellectual property agreement, open sourced and reusable
 - [Sigil-Ebook/PageEdit](https://github.com/Sigil-Ebook/PageEdit) - ePub XHTML Visual Editor
 - [Sigil-Ebook/sigil-user-guide](https://github.com/Sigil-Ebook/sigil-user-guide) - 
@@ -8570,6 +8570,7 @@
 - [SkypLabs/probequest](https://github.com/SkypLabs/probequest) - Toolkit for Playing with Wi-Fi Probe Requests
 - [duo-labs/webauthn.io](https://github.com/duo-labs/webauthn.io) - The source code for webauthn.io, a demonstration of WebAuthn.
 - [ministryofjustice/security-guidance](https://github.com/ministryofjustice/security-guidance) - Security guidance from the MOJ Digital & Technology Cybersecurity team
+- [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
 - [privacyradius/gdpr-tracker](https://github.com/privacyradius/gdpr-tracker) - A crowdsourced directory tracking the compliance and security practices of cloud services and their subprocessors
 - [aircrack-ng/aircrack-ng](https://github.com/aircrack-ng/aircrack-ng) - WiFi security auditing tools suite
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
@@ -9361,6 +9362,7 @@
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
+- [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - This repository is outdated and no longer maintained. A new version of massCode is available! https://github.com/massCodeIO/massCode. A free and open source code snippets manager for developers.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
