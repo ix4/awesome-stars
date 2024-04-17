@@ -260,11 +260,12 @@
 - [pissang/claygl](https://github.com/pissang/claygl) - A WebGL graphic library for building scalable Web3D applications
 - [spritejs/spritejs](https://github.com/spritejs/spritejs) - A cross platform high-performance graphics system.
 - [archilogic-com/3dio-js](https://github.com/archilogic-com/3dio-js) - JavaScript toolkit for interior apps
+- [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 
 ## ai 
 
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGP
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, Ch
 - [aichaos/rivescript-js](https://github.com/aichaos/rivescript-js) - A RiveScript interpreter for JavaScript. RiveScript is a scripting language for chatterbots.
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [microsoft/ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
@@ -685,7 +686,7 @@
 
 ## azure 
 
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGP
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, Ch
 - [microsoft/demo-first-response-online](https://github.com/microsoft/demo-first-response-online) - First Response Online is a communication and collaboration platform built to support first responders. It lets police officers, fire fighters, and paramedics share critical data with each other in nea
 - [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
 - [microsoft/Application-Insights-Workbooks](https://github.com/microsoft/Application-Insights-Workbooks) - Templates for Azure Monitor Workbooks
@@ -874,7 +875,7 @@
 
 ## chatgpt 
 
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGP
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, Ch
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 
@@ -2137,7 +2138,7 @@
 
 ## google 
 
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGP
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, Ch
 - [sumithemmadi/truecallerjs](https://github.com/sumithemmadi/truecallerjs) - TruecallerJS: This is a library for retrieving phone number details using the Truecaller API.
 - [googlemaps/openapi-specification](https://github.com/googlemaps/openapi-specification) - OpenAPI specification for Google Maps Platform API
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
@@ -2797,6 +2798,7 @@
 
 ## javascript 
 
+- [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget) - Utility for mass-downloading LRC synced lyrics for your offline music library.
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [sumithemmadi/truecallerjs](https://github.com/sumithemmadi/truecallerjs) - TruecallerJS: This is a library for retrieving phone number details using the Truecaller API.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
@@ -3244,6 +3246,7 @@
 - [tyrasd/osmtogeojson](https://github.com/tyrasd/osmtogeojson) - convert osm to geojson
 - [Esri/terraformer](https://github.com/Esri/terraformer) - A geographic toolkit for dealing with geometry, geography, formats, and building geo databases
 - [Turfjs/turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript and TypeScript
+- [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
 - [Erkaman/regl-anim](https://github.com/Erkaman/regl-anim) - Some weird animations made with regl and WebGL
 - [regl-project/regl](https://github.com/regl-project/regl) - 👑 Functional WebGL
 - [Erkaman/regl-fire](https://github.com/Erkaman/regl-fire) - Fire particle system made with regl
@@ -3480,7 +3483,6 @@
 - [julkue/mark.js](https://github.com/julkue/mark.js) - JavaScript keyword highlighting. Mark text with options that fit every application. Also available as jQuery plugin.
 - [enginkizil/FeedEk](https://github.com/enginkizil/FeedEk) - FeedEk jQuery RSS/ATOM Feed Plugin
 - [fancyapps/fancybox](https://github.com/fancyapps/fancybox) - jQuery lightbox script for displaying images, videos and more. Touch enabled, responsive and fully customizable.
-- [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library.
 - [marlenesco/material-cards](https://github.com/marlenesco/material-cards) - Card style based on Google Material color palette
 - [amitmerchant1990/markdownify-web](https://github.com/amitmerchant1990/markdownify-web) - :orange_book: Web version of Markdownify app. (Not actively maintaining)
 - [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify) - :closed_book: A minimal Markdown editor desktop app
@@ -3707,6 +3709,7 @@
 
 ## linux 
 
+- [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget) - Utility for mass-downloading LRC synced lyrics for your offline music library.
 - [fire1ce/DDNS-Cloudflare-Bash](https://github.com/fire1ce/DDNS-Cloudflare-Bash) - Cloudflare DDNS bash Script for most Linux distributions and MacOS. Choose any source IP address to update external or internal (WAN/LAN).  Cloudflare's options proxy and TTL configurable via the para
 - [systematicat/hack-captive-portals](https://github.com/systematicat/hack-captive-portals) - Hack any Captive portal using MAC-spoofing technique
 - [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
@@ -4060,6 +4063,7 @@
 
 ## music 
 
+- [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget) - Utility for mass-downloading LRC synced lyrics for your offline music library.
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [wooorm/write-music](https://github.com/wooorm/write-music) - visualise sentence length
 - [hypermodules/hyperamp](https://github.com/hypermodules/hyperamp) - 🎛 Humble music player
@@ -7108,7 +7112,6 @@
 - [geojson-xyz/geojson-xyz.github.io](https://github.com/geojson-xyz/geojson-xyz.github.io) - 
 - [geojson-xyz/geojson-xyz](https://github.com/geojson-xyz/geojson-xyz) - just get the geojson
 - [Turfjs/awesome-turf](https://github.com/Turfjs/awesome-turf) - A collection of awesome projects in the turfjs ecosystem
-- [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
 - [ENT8R/blacklistr](https://github.com/ENT8R/blacklistr) - A website for visualizing country specific data
 - [streetcomplete/streetcomplete-mapstyle](https://github.com/streetcomplete/streetcomplete-mapstyle) - 🌎 Simple, minimalist yet modern map style
 - [tangrams/tangram-play](https://github.com/tangrams/tangram-play) - Text editor web app for Tangram scenes
@@ -8501,6 +8504,7 @@
 
 ## rust 
 
+- [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget) - Utility for mass-downloading LRC synced lyrics for your offline music library.
 - [urschrei/pypolyline](https://github.com/urschrei/pypolyline) - Fast Google Polyline encoding and decoding using a Rust binary
 - [instant-labs/instant-segment](https://github.com/instant-labs/instant-segment) - Fast English word segmentation in Rust
 - [instant-labs/instant-distance](https://github.com/instant-labs/instant-distance) - Fast approximate nearest neighbor searching in Rust, based on HNSW index
@@ -9089,6 +9093,7 @@
 
 ## vue 
 
+- [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget) - Utility for mass-downloading LRC synced lyrics for your offline music library.
 - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 - [epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Free and Beautiful Vue 3 Admin Template
 - [spatie/dashboard.spatie.be](https://github.com/spatie/dashboard.spatie.be) - The source code of dashboard.spatie.be
@@ -9356,6 +9361,7 @@
 
 ## windows 
 
+- [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget) - Utility for mass-downloading LRC synced lyrics for your offline music library.
 - [hl2guide/AdGuard-Home-Whitelist](https://github.com/hl2guide/AdGuard-Home-Whitelist) - A strict curated whitelist for AdGuard Home.
 - [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB) - A Microsoft Windows® USB installation media preparer for GNU+Linux
 - [WADComs/WADComs.github.io](https://github.com/WADComs/WADComs.github.io) - WADComs is an interactive cheat sheet, containing a curated list of offensive security tools and their respective commands, to be used against Windows/AD environments.
