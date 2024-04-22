@@ -1961,7 +1961,7 @@
 - [summerstyle/summer](https://github.com/summerstyle/summer) - Html image map editor based on javascript, html5, inline SVG (modern FF, Chrome, Opera and IE10+)
 - [summerstyle/jsonTreeViewer](https://github.com/summerstyle/jsonTreeViewer) - json formatter/viewer/pretty-printer (with jsonTree javascript-library)
 - [feimosi/baguetteBox.js](https://github.com/feimosi/baguetteBox.js) - :zap: Simple and easy to use lightbox script written in pure JavaScript
-- [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library.
+- [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop page builder library written in vanilla javascript without dependencies or build tools.
 - [brunnolou/streaming-room](https://github.com/brunnolou/streaming-room) - Streaming room in Node.js, rtmp, hsl, html5 videojs player
 - [netdata/dashboard](https://github.com/netdata/dashboard) - Netdata Agent v1 Dashboard (deprecated)
 - [LingDong-/PoseOSC](https://github.com/LingDong-/PoseOSC) - 📹🤸‍♂️🤾‍♀️🤺 PoseNet + OSC: send realtime human pose estimation data to your apps
@@ -3385,7 +3385,7 @@
 - [davidgilbertson/trump-tweets](https://github.com/davidgilbertson/trump-tweets) - Two lies and a truth
 - [texastribune/data-visuals-create](https://github.com/texastribune/data-visuals-create) - A tool for generating the scaffolding needed to create a project the Data Visuals way.
 - [Quartz/presidents-economy](https://github.com/Quartz/presidents-economy) - Tracking Trump's economic promises
-- [twitterdev/postman-twitter-ads-api](https://github.com/twitterdev/postman-twitter-ads-api) - Postman collection for the Twitter Ads API
+- [xdevplatform/postman-twitter-ads-api](https://github.com/xdevplatform/postman-twitter-ads-api) - Postman collection for the Twitter Ads API
 - [hhsnopek/tomify](https://github.com/hhsnopek/tomify) - Replace faces in image(s) with Tom wiggle or your own Gif!
 - [ghosh/awesome-podcasts](https://github.com/ghosh/awesome-podcasts) - 🎙 Curated podcasts for designers, developers, product managers, entrepreneurs and hustlers
 - [ghosh/cssFilters](https://github.com/ghosh/cssFilters) - 🌄 Custom and Instagram like photo filter playground for CSS built with React
