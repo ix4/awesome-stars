@@ -3617,7 +3617,7 @@
 - [dangnelson/car-makes-icons](https://github.com/dangnelson/car-makes-icons) - SVG Icons / Font for Cars Makes to match Edmunds API
 - [GoogleChrome/ip-protection](https://github.com/GoogleChrome/ip-protection) - 
 - [portainer/portainer-compose](https://github.com/portainer/portainer-compose) - Compose setup for Portainer
-- [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of filters to fill in the gaps
+- [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of blocklists to fill in the gaps
 - [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - articles
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [clarketm/proxy-list](https://github.com/clarketm/proxy-list) - A list of free, public, forward proxy servers. UPDATED DAILY!
