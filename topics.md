@@ -71,6 +71,7 @@
 - [education](#education)
 - [electron](#electron)
 - [elixir](#elixir)
+- [embedded](#embedded)
 - [ember](#ember)
 - [emoji](#emoji)
 - [emulator](#emulator)
@@ -1698,6 +1699,14 @@
 - [dwyl/phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example) - 💬 The Step-by-Step Beginners Tutorial for Building, Testing & Deploying a Chat app in Phoenix 1.7 [Latest] 🚀
 - [nicoespeon/my-spotify-groomer](https://github.com/nicoespeon/my-spotify-groomer) - 💤 [Not maintained] Clean my Spotify playlists from tracks I don't like anymore.
 - [DFilipeS/rent-bot](https://github.com/DFilipeS/rent-bot) - My personal Facebook Messenger chat bot that helped find an apartment to rent.
+
+## embedded 
+
+- [ImpulseAdventure/GUIslice](https://github.com/ImpulseAdventure/GUIslice) - GUIslice drag & drop embedded GUI in C for touchscreen TFT on Arduino, Raspberry Pi, ARM, ESP8266 / ESP32 / M5stack using Adafruit-GFX / TFT_eSPI / UTFT / SDL
+- [LibreELEC/LibreELEC.tv](https://github.com/LibreELEC/LibreELEC.tv) - Just enough OS for KODI
+- [bblanchon/ArduinoJson](https://github.com/bblanchon/ArduinoJson) - 📟 JSON library for Arduino and embedded C++. Simple and efficient.
+- [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
+- [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 
 ## ember 
 
@@ -7681,7 +7690,7 @@
 ## privacy 
 
 - [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.
-- [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of filters to fill in the gaps
+- [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of blocklists to fill in the gaps
 - [hl2guide/AdGuard-Home-Whitelist](https://github.com/hl2guide/AdGuard-Home-Whitelist) - A strict curated whitelist for AdGuard Home.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
@@ -8559,7 +8568,7 @@
 
 ## security 
 
-- [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of filters to fill in the gaps
+- [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of blocklists to fill in the gaps
 - [hl2guide/AdGuard-Home-Whitelist](https://github.com/hl2guide/AdGuard-Home-Whitelist) - A strict curated whitelist for AdGuard Home.
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [ikarus23/MifareClassicTool](https://github.com/ikarus23/MifareClassicTool) - An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags.
