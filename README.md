@@ -719,7 +719,7 @@
 - [helm/charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [googlemaps/nyc-subway-station-locator](https://github.com/googlemaps/nyc-subway-station-locator) - NYC Subway Station Locator Solution
-- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [xyproto/png2svg](https://github.com/xyproto/png2svg) - :twisted_rightwards_arrows: Convert small PNG images to SVG Tiny 1.2
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 
@@ -891,6 +891,7 @@
 - [Chicago/climatechangeisreal](https://github.com/Chicago/climatechangeisreal) - Republish the climate change websites removed by the EPA onto your own site. Amplify the dangers of climate change.
 - [DataSF/housing-data-hub](https://github.com/DataSF/housing-data-hub) - A website to put data in the context of housing policies and programs.
 - [18F/foia-recommendations](https://github.com/18F/foia-recommendations) - National FOIA Project: Research and Recommendations
+- [travis-ci/docs-travis-ci-com](https://github.com/travis-ci/docs-travis-ci-com) - The Travis CI Documentation
 - [madeas/device](https://github.com/madeas/device) - :calling: is a tool for creating simple and beautiful devices on your website :sparkles:
 - [whatwg/url](https://github.com/whatwg/url) - URL Standard
 - [dbtek/bootstrap-vertical-tabs](https://github.com/dbtek/bootstrap-vertical-tabs) - Missing vertical tabs component for bootstrap.
@@ -2182,7 +2183,6 @@
 - [d3/d3-delaunay](https://github.com/d3/d3-delaunay) - Compute the Voronoi diagram of a set of two-dimensional points.
 - [mapbox/polyline](https://github.com/mapbox/polyline) - polyline encoding and decoding in javascript
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
-- [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [aclap-dev/vdhcoapp](https://github.com/aclap-dev/vdhcoapp) - Companion application for Video DownloadHelper browser add-on
 - [eduardoboucas/staticman](https://github.com/eduardoboucas/staticman) - 💪  User-generated content for Git-powered websites
 - [c3js/c3](https://github.com/c3js/c3) - :bar_chart: A D3-based reusable chart library
@@ -3586,6 +3586,7 @@
 - [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [docker/docs](https://github.com/docker/docs) - Source repo for Docker's Documentation
+- [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Mustache 
@@ -5034,7 +5035,6 @@
 - [jhildenbiddle/docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE11+).
 - [kaiiiz/hexo-theme-book](https://github.com/kaiiiz/hexo-theme-book) - [No Longer Maintained] A simple, elegant, book-like hexo theme with some useful features.
 - [mdo/code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
-- [travis-ci/docs-travis-ci-com](https://github.com/travis-ci/docs-travis-ci-com) - The Travis CI Documentation
 - [madeas/box-shadows.css](https://github.com/madeas/box-shadows.css) - :pisces: A cross-browser collection of CSS box-shadows
 - [bennettfeely/csscreatures](https://github.com/bennettfeely/csscreatures) - Make a creature by tweeting to @csscreatures
 - [okfn/opendatahandbook](https://github.com/okfn/opendatahandbook) - Open Data Handbook v2
@@ -5325,7 +5325,7 @@
 - [Badisi/samsung-tv-remote](https://github.com/Badisi/samsung-tv-remote) - 📺 NodeJS module to remotely control Samsung SmartTV starting from 2016
 - [Keyang/node-csvtojson](https://github.com/Keyang/node-csvtojson) - Blazing fast and Comprehensive CSV Parser for Node.JS / Browser / Command Line.
 - [pawelgrzybek/snippet-generator](https://github.com/pawelgrzybek/snippet-generator) - Snippet generator for Visual Studio Code, Sublime Text and Atom
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [TommyX12/VIR](https://github.com/TommyX12/VIR) - An intelligent time manager.
 - [1inch/shieldy](https://github.com/1inch/shieldy) - @shieldy_bot Telegram bot repository
 - [ExperienceLovelace/ha-floorplan](https://github.com/ExperienceLovelace/ha-floorplan) - Bring new life to Home Assistant. By mapping entities to a SVG-object, you're able to control devices, show states, calling services - and much more. Add custom styling on top, to visualize whatever y
