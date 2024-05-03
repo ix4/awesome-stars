@@ -373,6 +373,7 @@
 - [rachelandrew/grid-by-example](https://github.com/rachelandrew/grid-by-example) - CSS3 Grid Layout examples
 - [tastejs/todomvc-app-css](https://github.com/tastejs/todomvc-app-css) - CSS for TodoMVC apps
 - [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
+- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
 - [drvy/minimal-block](https://github.com/drvy/minimal-block) - A minimalistic, responsive and friendly Jekyllrb theme.
 - [poole/lanyon](https://github.com/poole/lanyon) - A content-first, sliding sidebar theme for Jekyll.
@@ -1324,7 +1325,7 @@
 - [google/gitiles](https://github.com/google/gitiles) - A simple browser for Git repositories.
 - [osmandapp/osmand-api-demo](https://github.com/osmandapp/osmand-api-demo) - Example of usage OsmAnd API
 - [geonetwork/core-geonetwork](https://github.com/geonetwork/core-geonetwork) - GeoNetwork is a catalog application to manage spatially referenced resources. It provides powerful metadata editing and search functions as well as an interactive web map viewer. It is currently used 
-- [modesty/pdf2json](https://github.com/modesty/pdf2json) - A PDF file parser that converts PDF binaries to text based JSON, powered by a fork of PDF.JS
+- [modesty/pdf2json](https://github.com/modesty/pdf2json) - converts binary PDF to JSON and text, for server-side PDF processing and command-line use.
 - [ddssingsong/webrtc_android](https://github.com/ddssingsong/webrtc_android) - webrtc VideoCall VideoConference  视频通话 视频会议
 - [ShailuJain/DeskViewer](https://github.com/ShailuJain/DeskViewer) - A Java Project for screen sharing based on TCP protocol. Like TeamViewer
 - [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - CoreNLP: A Java suite of core NLP tools for tokenization, sentence segmentation, NER, parsing, coreference, sentiment analysis, etc.
@@ -3761,7 +3762,7 @@
 - [supercomputra/SF-Mono-Font](https://github.com/supercomputra/SF-Mono-Font) - SF Mono Font
 - [croqaz/awesome-markup](https://github.com/croqaz/awesome-markup) - 🕶 Awesome list of markdown-like goodies
 - [usecue/fork-me-on-github-svg-ribbons](https://github.com/usecue/fork-me-on-github-svg-ribbons) - SVG versions of the ‘Fork me on GitHub’ ribbons
-- [newTendermint/awesome-bigdata](https://github.com/newTendermint/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
+- [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 - [oasis-open/legaldocml-akomantoso](https://github.com/oasis-open/legaldocml-akomantoso) - OASIS TC Open Repository: Schema files, examples, exemplificative implementations and libraries, and documentation related to the LegalDocML TC and Akoma Ntoso schema
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
@@ -4474,7 +4475,7 @@
 - [Scarygami/location-history-json-converter](https://github.com/Scarygami/location-history-json-converter) - Convert the Location History JSON File from Google Takeout into a useable format
 - [ahawker/krustofsky](https://github.com/ahawker/krustofsky) - Convert social security popular baby names dataset to SQLite
 - [OWASP/owasp-mastg](https://github.com/OWASP/owasp-mastg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
-- [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
+- [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library.
 - [mapio/GraphvizAnim](https://github.com/mapio/GraphvizAnim) - A tool to create animated graph visualizations, based on graphviz.
 - [cc-archive/cccatalog-api](https://github.com/cc-archive/cccatalog-api) - [PROJECT TRANSFERRED] The Creative Commons Catalog API allows programmatic access to search for CC-licensed and public domain digital media.
 - [tbicr/onliner_rss](https://github.com/tbicr/onliner_rss) - onliner.by forum feed
@@ -5022,7 +5023,6 @@
 - [DmitrySharabin/flashcards-app-v.2](https://github.com/DmitrySharabin/flashcards-app-v.2) - Flashcards App made with Mavo
 - [planetoftheweb/rayveal](https://github.com/planetoftheweb/rayveal) - A markdown first presentation framework. Based on reveal.js with preinstalled plugins, light Bootstrap and sweet extras.
 - [thomaspark/pubcss](https://github.com/thomaspark/pubcss) - Format academic publications in HTML & CSS
-- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [allejo/jekyll-docs-theme](https://github.com/allejo/jekyll-docs-theme) - A mediocre Jekyll theme for writing documentation websites based Bootstrap's old website design
 - [jekyllup/jekyll-theme-massively](https://github.com/jekyllup/jekyll-theme-massively) - Preview
 - [zerostaticthemes/jekyll-serif-theme](https://github.com/zerostaticthemes/jekyll-serif-theme) - Serif is a multi page business theme for Jekyll.
@@ -5429,7 +5429,7 @@
 - [intel/ui-widget-toolkit](https://github.com/intel/ui-widget-toolkit) - 
 - [jakearchibald/idb-keyval](https://github.com/jakearchibald/idb-keyval) - A super-simple-small promise-based keyval store implemented with IndexedDB
 - [chartist-js/chartist](https://github.com/chartist-js/chartist) - Simple responsive charts
-- [typedoc-plugin-markdown/typedoc-plugin-markdown](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown) - A plugin for TypeDoc that enables TypeScript API documentation to be generated in Markdown.
+- [typedoc2md/typedoc-plugin-markdown](https://github.com/typedoc2md/typedoc-plugin-markdown) - A plugin for TypeDoc that enables TypeScript API documentation to be generated in Markdown.
 - [wojtekmaj/react-lifecycle-methods-diagram](https://github.com/wojtekmaj/react-lifecycle-methods-diagram) - Interactive React Lifecycle Methods diagram.
 - [apertureless/vue-chartjs](https://github.com/apertureless/vue-chartjs) - 📊  Vue.js wrapper for Chart.js
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
