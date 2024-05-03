@@ -328,6 +328,7 @@
 
 ## android 
 
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [RandomCoderOrg/ubuntu-on-android](https://github.com/RandomCoderOrg/ubuntu-on-android) - Run Ubuntu with pre-installed Desktop Environments in android/termux with ease! Everything is preinstalled so just download install and done🚀🚀
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
@@ -460,6 +461,7 @@
 - [maddox/mac-api](https://github.com/maddox/mac-api) - Command your Mac from afar
 - [phalt/swapi](https://github.com/phalt/swapi) - *NOT MAINTAINED - NO GUARENTEE TO BE UP*
 - [cdnjs/atom-extension](https://github.com/cdnjs/atom-extension) - ⚛   Atom extension for easily inserting scripts
+- [typedoc2md/typedoc-plugin-markdown](https://github.com/typedoc2md/typedoc-plugin-markdown) - A plugin for TypeDoc that enables TypeScript API documentation to be generated in Markdown.
 - [rapi-doc/RapiDoc](https://github.com/rapi-doc/RapiDoc) - RapiDoc -WebComponent for OpenAPI Spec
 - [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
 - [letsvalidate/api](https://github.com/letsvalidate/api) - API that uncovers the technologies used on websites and generates thumbnail from screenshot of website
@@ -593,7 +595,7 @@
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [croqaz/awesome-markup](https://github.com/croqaz/awesome-markup) - 🕶 Awesome list of markdown-like goodies
-- [newTendermint/awesome-bigdata](https://github.com/newTendermint/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
+- [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify) - 💖 A curated list of awesome things related to docsify
 - [jagracey/Awesome-Unicode](https://github.com/jagracey/Awesome-Unicode) - :joy: :ok_hand: A curated list of delightful Unicode tidbits, packages and resources.
@@ -642,7 +644,7 @@
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
-- [newTendermint/awesome-bigdata](https://github.com/newTendermint/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
+- [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify) - 💖 A curated list of awesome things related to docsify
@@ -1238,7 +1240,7 @@
 - [mdn/data](https://github.com/mdn/data) - This repository contains general data for Web technologies
 - [jhildenbiddle/class-change](https://github.com/jhildenbiddle/class-change) - A micro-library for manipulating CSS class names, triggering change events using HTML data attributes, and creating declarative class-related event listeners
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
-- [newTendermint/awesome-bigdata](https://github.com/newTendermint/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
+- [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [javierbyte/canvas-image-utils](https://github.com/javierbyte/canvas-image-utils) - Utils for image data.
@@ -1285,7 +1287,7 @@
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [benjaminmbrown/real-time-data-viz-d3-crossfilter-websocket-tutorial](https://github.com/benjaminmbrown/real-time-data-viz-d3-crossfilter-websocket-tutorial) - Tutorial on real-time data visualization. Python websocket server & d3.js + crossfilter.js frontend
 - [csaladenes/csaladenes.github.io](https://github.com/csaladenes/csaladenes.github.io) - Code behind my personal website (Dénes Csala)
-- [newTendermint/awesome-bigdata](https://github.com/newTendermint/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
+- [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 - [MiteshPuthran/Speech-Emotion-Analyzer](https://github.com/MiteshPuthran/Speech-Emotion-Analyzer) - The neural network model is capable of detecting five different male/female emotions from audio speeches. (Deep Learning, NLP, Python)
@@ -1316,7 +1318,7 @@
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [benjaminmbrown/real-time-data-viz-d3-crossfilter-websocket-tutorial](https://github.com/benjaminmbrown/real-time-data-viz-d3-crossfilter-websocket-tutorial) - Tutorial on real-time data visualization. Python websocket server & d3.js + crossfilter.js frontend
 - [csaladenes/csaladenes.github.io](https://github.com/csaladenes/csaladenes.github.io) - Code behind my personal website (Dénes Csala)
-- [newTendermint/awesome-bigdata](https://github.com/newTendermint/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
+- [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [c3js/c3](https://github.com/c3js/c3) - :bar_chart: A D3-based reusable chart library
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
@@ -1363,7 +1365,7 @@
 - [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :koala: - PouchDB is a pocket-sized database.
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [croqaz/a-extractor](https://github.com/croqaz/a-extractor) - Article content extraction database
-- [newTendermint/awesome-bigdata](https://github.com/newTendermint/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
+- [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [vulnersCom/api](https://github.com/vulnersCom/api) - Vulners Python API wrapper
@@ -1596,7 +1598,7 @@
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
-- [tgreyuk/typedoc-plugin-markdown](https://github.com/tgreyuk/typedoc-plugin-markdown) - A plugin for TypeDoc that enables TypeScript API documentation to be generated in Markdown.
+- [typedoc2md/typedoc-plugin-markdown](https://github.com/typedoc2md/typedoc-plugin-markdown) - A plugin for TypeDoc that enables TypeScript API documentation to be generated in Markdown.
 - [plotly/documentation](https://github.com/plotly/documentation) - Issue tracker for Plotly's open-source documentation.
 - [jhildenbiddle/docsify-tabs](https://github.com/jhildenbiddle/docsify-tabs) - A docsify.js plugin for rendering tabbed content from markdown
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
@@ -2267,6 +2269,7 @@
 
 ## hacktoberfest 
 
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
 - [fronzbot/blinkpy](https://github.com/fronzbot/blinkpy) - A Python library for the Blink Camera system
@@ -2415,7 +2418,7 @@
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [nextcloud/maps](https://github.com/nextcloud/maps) - 🌍🌏🌎 The whole world fits inside your cloud!
-- [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
+- [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library.
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [openstenoproject/plover](https://github.com/openstenoproject/plover) - Open source stenotype engine
 - [osmlab/name-suggestion-index](https://github.com/osmlab/name-suggestion-index) - Canonical common brand names, operators, transit and flags for OpenStreetMap.
@@ -3558,6 +3561,7 @@
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [yourtion/vue-json-ui-editor](https://github.com/yourtion/vue-json-ui-editor) - Edit JSON in UI form with JSON Schema and Vue.js
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
+- [modesty/pdf2json](https://github.com/modesty/pdf2json) - converts binary PDF to JSON and text, for server-side PDF processing and command-line use.
 - [bauripalash/fossurl](https://github.com/bauripalash/fossurl) - Your Own Url Shortner Without any fancy server side processing and support for custom url , which can even be hosted on GitHub Pages
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [okfn/dataportals.org](https://github.com/okfn/dataportals.org) - Open Data Portals and Sites around the world
@@ -3724,6 +3728,7 @@
 
 ## linux 
 
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget) - Utility for mass-downloading LRC synced lyrics for your offline music library.
 - [fire1ce/DDNS-Cloudflare-Bash](https://github.com/fire1ce/DDNS-Cloudflare-Bash) - Cloudflare DDNS bash Script for most Linux distributions and MacOS. Choose any source IP address to update external or internal (WAN/LAN).  Cloudflare's options proxy and TTL configurable via the para
 - [systematicat/hack-captive-portals](https://github.com/systematicat/hack-captive-portals) - Hack any Captive portal using MAC-spoofing technique
@@ -3948,7 +3953,7 @@
 - [aaronwolen/pandoc-letter](https://github.com/aaronwolen/pandoc-letter) - Pandoc template for writing letters in markdown
 - [planetoftheweb/rayveal](https://github.com/planetoftheweb/rayveal) - A markdown first presentation framework. Based on reveal.js with preinstalled plugins, light Bootstrap and sweet extras.
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
-- [tgreyuk/typedoc-plugin-markdown](https://github.com/tgreyuk/typedoc-plugin-markdown) - A plugin for TypeDoc that enables TypeScript API documentation to be generated in Markdown.
+- [typedoc2md/typedoc-plugin-markdown](https://github.com/typedoc2md/typedoc-plugin-markdown) - A plugin for TypeDoc that enables TypeScript API documentation to be generated in Markdown.
 - [jhildenbiddle/docsify-tabs](https://github.com/jhildenbiddle/docsify-tabs) - A docsify.js plugin for rendering tabbed content from markdown
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [docpress/docpress](https://github.com/docpress/docpress) - Documentation website generator
@@ -6346,7 +6351,6 @@
 - [nasa-gibs/gifshot](https://github.com/nasa-gibs/gifshot) - JavaScript library that can create animated GIFs from media streams, videos, or images
 - [Esri/esri-leaflet-doc](https://github.com/Esri/esri-leaflet-doc) - Documentation, API Reference and Samples
 - [qgis/QGIS](https://github.com/qgis/QGIS) - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
-- [modesty/pdf2json](https://github.com/modesty/pdf2json) - A PDF file parser that converts PDF binaries to text based JSON, powered by a fork of PDF.JS
 - [ComputeHole/twitterBots](https://github.com/ComputeHole/twitterBots) - all the Twitter Bots used by @ComputeHole on Twitter. All of them can be seen in action at -&gt; https://compute-hole.woolweaver.site
 - [CityOfNewYork/nyc-planimetrics](https://github.com/CityOfNewYork/nyc-planimetrics) - New York City Planimetrics Data
 - [eduolalo/moment-business-days](https://github.com/eduolalo/moment-business-days) - This is a momentJS plugin that allows you to use only business days (Monday to Friday)
@@ -7895,7 +7899,7 @@
 - [thp/urlwatch](https://github.com/thp/urlwatch) - Watch (parts of) webpages and get notified when something changes via e-mail, on your phone or via other means. Highly configurable.
 - [hack4impact-upenn/maps4all](https://github.com/hack4impact-upenn/maps4all) - Generalized application for displaying location-based resources on a map
 - [ahawker/krustofsky](https://github.com/ahawker/krustofsky) - Convert social security popular baby names dataset to SQLite
-- [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
+- [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library.
 - [cc-archive/cccatalog-api](https://github.com/cc-archive/cccatalog-api) - [PROJECT TRANSFERRED] The Creative Commons Catalog API allows programmatic access to search for CC-licensed and public domain digital media.
 - [novnc/websockify](https://github.com/novnc/websockify) - Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service.
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
@@ -8030,7 +8034,6 @@
 - [MiteshPuthran/Speech-Emotion-Analyzer](https://github.com/MiteshPuthran/Speech-Emotion-Analyzer) - The neural network model is capable of detecting five different male/female emotions from audio speeches. (Deep Learning, NLP, Python)
 - [DavidMetcalfe/Google-Maps-Location-History-Parser](https://github.com/DavidMetcalfe/Google-Maps-Location-History-Parser) - Parse the extracted data from Google Maps' Location History into a list of unique lat/long coordinates.
 - [ahawker/krustofsky](https://github.com/ahawker/krustofsky) - Convert social security popular baby names dataset to SQLite
-- [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
 - [openwpm/OpenWPM](https://github.com/openwpm/OpenWPM) - A web privacy measurement framework
 - [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger) - Small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface.
 - [ThoughtfulDev/SupergirlOnCrypt](https://github.com/ThoughtfulDev/SupergirlOnCrypt) - CryptoTrojan in Python (For educational purpose ONLY)
@@ -8603,7 +8606,7 @@
 - [chromium/hstspreload.org](https://github.com/chromium/hstspreload.org) - :lock: Chromium's HSTS preload list submission website.
 - [chromium/badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
+- [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library.
 - [arkime/arkime](https://github.com/arkime/arkime) - Arkime is an open source, large scale, full packet capturing, indexing, and database system.
 - [securityfirst/Umbrella_content](https://github.com/securityfirst/Umbrella_content) - Open source Android, iOS and Web app for learning about and managing digital and physical security. From how to send a secure message to dealing with a kidnap. Umbrella has best practice guides in ove
 - [securityfirst/Umbrella_android](https://github.com/securityfirst/Umbrella_android) - Open source Android, iOS and Web app for learning about and managing digital and physical security. From how to send a secure message to dealing with a kidnap. Umbrella has best practice guides in ove
@@ -8883,6 +8886,7 @@
 
 ## terminal 
 
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [htr-tech/nexphisher](https://github.com/htr-tech/nexphisher) - Advanced Phishing tool
 - [jarun/bcal](https://github.com/jarun/bcal) - :1234: Bits, bytes and address calculator
@@ -8914,6 +8918,7 @@
 
 ## termux 
 
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [RandomCoderOrg/ubuntu-on-android](https://github.com/RandomCoderOrg/ubuntu-on-android) - Run Ubuntu with pre-installed Desktop Environments in android/termux with ease! Everything is preinstalled so just download install and done🚀🚀
 - [htr-tech/nexphisher](https://github.com/htr-tech/nexphisher) - Advanced Phishing tool
 - [termux/termux-api](https://github.com/termux/termux-api) - Termux add-on app which exposes device functionality as API to command line programs.
@@ -9013,7 +9018,7 @@
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [microsoft/TypeScript-Handbook](https://github.com/microsoft/TypeScript-Handbook) - Deprecated, please use the TypeScript-Website repo instead
 - [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
-- [tgreyuk/typedoc-plugin-markdown](https://github.com/tgreyuk/typedoc-plugin-markdown) - A plugin for TypeDoc that enables TypeScript API documentation to be generated in Markdown.
+- [typedoc2md/typedoc-plugin-markdown](https://github.com/typedoc2md/typedoc-plugin-markdown) - A plugin for TypeDoc that enables TypeScript API documentation to be generated in Markdown.
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
 - [CJex/regulex](https://github.com/CJex/regulex) - :construction: Regular Expression Excited!
 - [zhongsp/TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org
