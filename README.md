@@ -1423,7 +1423,7 @@
 - [kikiklang/pomme-page](https://github.com/kikiklang/pomme-page) - Big buttons with easy click startpage for a browser.
 - [z0ccc/comet](https://github.com/z0ccc/comet) - Browser extension to replace Youtube comments with Reddit comments or view the Reddit comments of any webpage.
 - [deep5050/memes-on-issues-action](https://github.com/deep5050/memes-on-issues-action) - greet the issue raiser with a custom message and a bonus programming meme :smile:
-- [code-charity/youtube](https://github.com/code-charity/youtube) - [Top~1 open YouTube / Video Web-Extension] Enrich your experience & choice! 🧰100+ clever features📌set & forget📌Longest-standing (yet rare & tough alone. Please help/join🧩us👨‍👩‍👧‍👧) ..⋮ {playback|conte
+- [code-charity/youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video web-extension] Enrich your experience & choice! 🧰100+clever features📌set&forget📌Longest-standing(yet rare&tough alone. Please help/join🧩us👨‍👩‍👧‍👧) ..⋮ {playback|content dis
 - [ubershmekel/redditp](https://github.com/ubershmekel/redditp) - Convert any reddit page to a presentation or slide show
 - [jiangts/JS-OTP](https://github.com/jiangts/JS-OTP) - 100% Javascript Implementation of HOTP and TOTP for Two-Factor Authentication.
 - [w3irdrobot/interactive-menu](https://github.com/w3irdrobot/interactive-menu) - Building an Interactive Menu in Vanilla JavaScript
@@ -2197,7 +2197,6 @@
 - [jkphl/node-iconizr](https://github.com/jkphl/node-iconizr) - SVG + PNG icon kit generator — A low-level Node.js module that creates a CSS icon kit from a bunch of SVG files, serving them as SVG / PNG sprites or embedded data URIs along with suitable CSS / Sass 
 - [svg-sprite/svg-sprite](https://github.com/svg-sprite/svg-sprite) - SVG sprites & stacks galore — A low-level Node.js module that takes a bunch of SVG files, optimizes them and bakes them into SVG sprites of several types along with suitable stylesheet resources (e.g.
 - [sean-mcclure/book_searcher](https://github.com/sean-mcclure/book_searcher) - Example embedding of D3 Observable Visuals into Web Application
-- [kunukn/dfds-news-ssr](https://github.com/kunukn/dfds-news-ssr) - SSR Prototyping in NextJS
 - [kunukn/dfds-ships-on-map](https://github.com/kunukn/dfds-ships-on-map) - DFDS ships on a map, real-time updated
 - [FormidableLabs/victory-docs](https://github.com/FormidableLabs/victory-docs) - Documentation for Victory: A collection of composable React components for building interactive data visualizations
 - [kenwheeler/slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
@@ -2790,7 +2789,7 @@
 - [sindresorhus/get-urls](https://github.com/sindresorhus/get-urls) - Get all urls in a string
 - [moment/moment-timezone](https://github.com/moment/moment-timezone) - Timezone support for moment.js
 - [mdn/web-components-examples](https://github.com/mdn/web-components-examples) - A series of web components examples, related to the MDN web components documentation at https://developer.mozilla.org/en-US/docs/Web/Web_Components.
-- [neocities/neocities](https://github.com/neocities/neocities) - Neocities.org - the web site. The entire thing. Yep, we're completely open source.
+- [neocities/neocities](https://github.com/neocities/neocities) - Neocities.org - the web site. Yep, the backend is open source!
 - [mozilla/Spoke](https://github.com/mozilla/Spoke) - Easily create custom 3D environments
 - [mozilla/hubs](https://github.com/mozilla/hubs) - Duck-themed multi-user virtual spaces in WebVR. Built with A-Frame.
 - [inolen/quakejs](https://github.com/inolen/quakejs) - 
@@ -3027,7 +3026,6 @@
 - [micnews/story-json-to-video](https://github.com/micnews/story-json-to-video) - Compile story-json documents into videos
 - [micnews/html-to-amp](https://github.com/micnews/html-to-amp) - 
 - [micnews/story-json](https://github.com/micnews/story-json) - Story JSON document format
-- [leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter) - Convert email newsletters into Atom feeds
 - [redsolution/xabber-web](https://github.com/redsolution/xabber-web) - Open source XMPP client for Web
 - [compwright/exif-geojson](https://github.com/compwright/exif-geojson) - Generate a GeoJSON Point from EXIF GPS data
 - [mermaidjs/mermaid-live-editor](https://github.com/mermaidjs/mermaid-live-editor) - Location has moved to https://github.com/mermaid-js/mermaid-live-editor
@@ -5633,6 +5631,7 @@
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 - [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
+- [leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter) - Convert email newsletters into Atom feeds
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [mozmorris/react-webcam](https://github.com/mozmorris/react-webcam) - Webcam component
 - [swyxio/react-static-podcast-hosting](https://github.com/swyxio/react-static-podcast-hosting) - react-static-podcast-hosting
