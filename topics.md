@@ -920,7 +920,7 @@
 
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
 - [z0ccc/comet](https://github.com/z0ccc/comet) - Browser extension to replace Youtube comments with Reddit comments or view the Reddit comments of any webpage.
-- [code-charity/youtube](https://github.com/code-charity/youtube) - [Top~1 open YouTube / Video Web-Extension] Enrich your experience & choice! 🧰100+ clever features📌set & forget📌Longest-standing (yet rare & tough alone. Please help/join🧩us👨‍👩‍👧‍👧) ..⋮ {playback|conte
+- [code-charity/youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video web-extension] Enrich your experience & choice! 🧰100+clever features📌set&forget📌Longest-standing(yet rare&tough alone. Please help/join🧩us👨‍👩‍👧‍👧) ..⋮ {playback|content dis
 - [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
 - [VerifiedJoseph/Save-to-the-Wayback-Machine](https://github.com/VerifiedJoseph/Save-to-the-Wayback-Machine) - Browser extension for quickly saving web pages to the Internet Archive's Wayback Machine.
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
@@ -5851,7 +5851,6 @@
 - [forestryio/forestry.io](https://github.com/forestryio/forestry.io) - Forestry.io website
 - [sean-mcclure/book_searcher](https://github.com/sean-mcclure/book_searcher) - Example embedding of D3 Observable Visuals into Web Application
 - [sean-mcclure/azle_d3](https://github.com/sean-mcclure/azle_d3) - Combining Azle with D3.js to bind data visualizations to UI elements.
-- [kunukn/dfds-news-ssr](https://github.com/kunukn/dfds-news-ssr) - SSR Prototyping in NextJS
 - [kunukn/dfds-ships-on-map](https://github.com/kunukn/dfds-ships-on-map) - DFDS ships on a map, real-time updated
 - [FormidableLabs/victory-docs](https://github.com/FormidableLabs/victory-docs) - Documentation for Victory: A collection of composable React components for building interactive data visualizations
 - [kenwheeler/slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
@@ -6654,7 +6653,7 @@
 - [mdn/web-components-examples](https://github.com/mdn/web-components-examples) - A series of web components examples, related to the MDN web components documentation at https://developer.mozilla.org/en-US/docs/Web/Web_Components.
 - [una/CSSgram](https://github.com/una/CSSgram) - CSS library for Instagram filters
 - [picturepan2/instagram.css](https://github.com/picturepan2/instagram.css) - Instagram.css - Complete set of Instagram filters in pure CSS
-- [neocities/neocities](https://github.com/neocities/neocities) - Neocities.org - the web site. The entire thing. Yep, we're completely open source.
+- [neocities/neocities](https://github.com/neocities/neocities) - Neocities.org - the web site. Yep, the backend is open source!
 - [mozilla/Spoke](https://github.com/mozilla/Spoke) - Easily create custom 3D environments
 - [mozilla/hubs](https://github.com/mozilla/hubs) - Duck-themed multi-user virtual spaces in WebVR. Built with A-Frame.
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
