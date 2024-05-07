@@ -2306,7 +2306,7 @@
 - [ansman/validate.js](https://github.com/ansman/validate.js) - A declarative validation library written javascript
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [soulwire/sketch.js](https://github.com/soulwire/sketch.js) - Cross-Platform JavaScript Creative Coding Framework
-- [mozilla/fxa](https://github.com/mozilla/fxa) - Monorepo for Firefox Accounts
+- [mozilla/fxa](https://github.com/mozilla/fxa) - Monorepo for Mozilla Accounts (formerly Firefox Accounts)
 - [markdown-it/linkify-it](https://github.com/markdown-it/linkify-it) - Links recognition library with full unicode support
 - [markdown-it/markdown-it.github.io](https://github.com/markdown-it/markdown-it.github.io) - markdown-it demo
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
