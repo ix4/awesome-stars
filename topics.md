@@ -139,6 +139,7 @@
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
+- [llm](#llm)
 - [localization](#localization)
 - [lua](#lua)
 - [mac](#mac)
@@ -3804,6 +3805,11 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [kalliope-project/kalliope](https://github.com/kalliope-project/kalliope) - Kalliope is a framework that will help you to create your own personal assistant.
 
+## llm 
+
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
+- [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
+
 ## localization 
 
 - [MihaiValentin/lunr-languages](https://github.com/MihaiValentin/lunr-languages) - A collection of languages stemmers and stopwords for Lunr Javascript library
@@ -5975,7 +5981,7 @@
 - [soulwire/Makisu](https://github.com/soulwire/Makisu) - CSS 3D Dropdown Concept
 - [soulwire/sketch.js](https://github.com/soulwire/sketch.js) - Cross-Platform JavaScript Creative Coding Framework
 - [TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace) - OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.
-- [mozilla/fxa](https://github.com/mozilla/fxa) - Monorepo for Firefox Accounts
+- [mozilla/fxa](https://github.com/mozilla/fxa) - Monorepo for Mozilla Accounts (formerly Firefox Accounts)
 - [markdown-it/linkify-it](https://github.com/markdown-it/linkify-it) - Links recognition library with full unicode support
 - [markdown-it/markdown-it.github.io](https://github.com/markdown-it/markdown-it.github.io) - markdown-it demo
 - [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
