@@ -275,7 +275,7 @@
 - [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 - [1technophile/OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - MQTT gateway for ESP8266 or ESP32 with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, Bluetooth, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC, Mi Scale, TPMS, BBQ thermo
-- [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
+- [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [crow-translate/crow-translate](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator that allows you to translate and speak text using Google, Yandex Bing, LibreTranslate and Lingva.
 - [drewish/Cityscape](https://github.com/drewish/Cityscape) - Generates simple geometric cityscapes in the style of Donald Crews
 - [atom/node-spellchecker](https://github.com/atom/node-spellchecker) - SpellChecker Node Module
@@ -550,6 +550,7 @@
 
 - [PeterDaveHello/ipinfo.tw](https://github.com/PeterDaveHello/ipinfo.tw) - 🐳 A self-host  🙅 non-tracking, AD-🆓 ➕ 🍪-🆓 solution to show your IP ℹ️ Super small (🤏10MB)
 - [eirslett/chrome-karma-docker](https://github.com/eirslett/chrome-karma-docker) - Boilerplate project for running karma with Google Chrome inside a Docker container
+- [ngageoint/opensphere-yarn-workspace](https://github.com/ngageoint/opensphere-yarn-workspace) - opensphere-yarn-workspace
 - [Urigo/angular-meteor](https://github.com/Urigo/angular-meteor) - Angular and Meteor - The perfect stack
 - [linuxserver/docker-radarr](https://github.com/linuxserver/docker-radarr) - 
 
@@ -727,7 +728,6 @@
 ## HTML 
 
 - [FluxionNetwork/fluxion](https://github.com/FluxionNetwork/fluxion) - Fluxion is a remake of linset by vk496 with enhanced functionality.
-- [yushulx/javascript-driver-license](https://github.com/yushulx/javascript-driver-license) - 
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [knrdl/bicimon](https://github.com/knrdl/bicimon) - Bike Speedometer
 - [jgamblin/nmaptable](https://github.com/jgamblin/nmaptable) - Transform NMap Scans to an D3.js HTML Table
@@ -1404,7 +1404,6 @@
 - [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
-- [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 - [polotno-project/polotno-studio](https://github.com/polotno-project/polotno-studio) - Free online Design Editor.
 - [jkingsman/Nobody.live](https://github.com/jkingsman/Nobody.live) - View twitch streamers with zero viewers at nobody.live
 - [Nurutomo/wabot-aq](https://github.com/Nurutomo/wabot-aq) - WhatsApp Bot
@@ -1657,7 +1656,6 @@
 - [gskinner/regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
 - [konklone/oversight.garden](https://github.com/konklone/oversight.garden) - Bringing together the oversight community's work.
 - [ngageoint/hootenanny](https://github.com/ngageoint/hootenanny) - Hootenanny conflates multiple maps into a single seamless map.
-- [ngageoint/opensphere-yarn-workspace](https://github.com/ngageoint/opensphere-yarn-workspace) - opensphere-yarn-workspace
 - [ngageoint/opensphere](https://github.com/ngageoint/opensphere) - OpenSphere
 - [jpeg-js/jpeg-js](https://github.com/jpeg-js/jpeg-js) - A pure javascript JPEG encoder and decoder for node.js
 - [joshghent/rescue-box](https://github.com/joshghent/rescue-box) - ⏰ Update a pinned gist to contain your Daily RescueTime Stats
@@ -5321,6 +5319,7 @@
 - [anbuksv/avantation](https://github.com/anbuksv/avantation) - Build OpenAPI3.0 specification from HAR.
 - [kevinschaich/mintable](https://github.com/kevinschaich/mintable) - 🍃 Automate your personal finances – for free, with no ads, and no data collection.
 - [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) - Google Sheets API wrapper for Javascript / Typescript
+- [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 - [Badisi/samsung-tv-remote](https://github.com/Badisi/samsung-tv-remote) - 📺 NodeJS module to remotely control Samsung SmartTV starting from 2016
 - [Keyang/node-csvtojson](https://github.com/Keyang/node-csvtojson) - Blazing fast and Comprehensive CSV Parser for Node.JS / Browser / Command Line.
 - [pawelgrzybek/snippet-generator](https://github.com/pawelgrzybek/snippet-generator) - Snippet generator for Visual Studio Code, Sublime Text and Atom
