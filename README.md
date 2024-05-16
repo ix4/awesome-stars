@@ -4725,6 +4725,7 @@
 - [kalliope-project/kalliope](https://github.com/kalliope-project/kalliope) - Kalliope is a framework that will help you to create your own personal assistant.
 - [keithito/tacotron](https://github.com/keithito/tacotron) - A TensorFlow implementation of Google's Tacotron speech synthesis with pre-trained model (unofficial)
 - [tensorflow/lingvo](https://github.com/tensorflow/lingvo) - Lingvo
+- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [realpython/python-speech-recognition](https://github.com/realpython/python-speech-recognition) - Speech Recognition with Python examples
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [realpython/image-fingerprinting](https://github.com/realpython/image-fingerprinting) - 
@@ -5350,7 +5351,7 @@
 - [vercel/static-fun](https://github.com/vercel/static-fun) - A fun demo for wildcard domains
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [googleapis/google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client) - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
-- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [egoist/snackbar](https://github.com/egoist/snackbar) - A tiny browser library for showing a brief message at the bottom of the screen (1kB gzipped).
@@ -5676,7 +5677,6 @@
 - [probot/smee-client](https://github.com/probot/smee-client) - 🔴 Receives payloads then sends them to your local server
 - [auth0-blog/angular-d3-socketio](https://github.com/auth0-blog/angular-d3-socketio) - 
 - [cozmo/jsQR](https://github.com/cozmo/jsQR) - A pure javascript QR code reading library. This library takes in raw images and will locate, extract and parse any QR code found within.
-- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [danm/image-hash](https://github.com/danm/image-hash) - Create a hash from an image
 - [automerge/hypermerge](https://github.com/automerge/hypermerge) - Build p2p collaborative applications without any server infrastructure in Node.js
 - [pladaria/reconnecting-websocket](https://github.com/pladaria/reconnecting-websocket) - Reconnecting WebSocket. For Web, React Native, cli (Node.js)
