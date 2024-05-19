@@ -2350,7 +2350,6 @@
 - [nypl-spacetime/Leaflet.GeotagPhoto](https://github.com/nypl-spacetime/Leaflet.GeotagPhoto) - Leaflet plugin for photo geotagging
 - [nypl-spacetime/surveyor](https://github.com/nypl-spacetime/surveyor) - Help The New York Public Library put New York City’s history on the map!
 - [ireade/botsofcode](https://github.com/ireade/botsofcode) - A twitter bot for bitsofco.de
-- [pinterest/gestalt](https://github.com/pinterest/gestalt) - A set of React UI components that supports Pinterest’s design language
 - [ireade/caniuse-embed](https://github.com/ireade/caniuse-embed) - 📊 Embed realtime data from caniuse.com
 - [browserslist/browsersl.ist](https://github.com/browserslist/browsersl.ist) - This website uses Browserslist and Can I Use to display the compatible browsers for a browsers query.
 - [postcss/autoprefixer](https://github.com/postcss/autoprefixer) - Parse CSS and add vendor prefixes to rules by Can I Use
@@ -5536,6 +5535,7 @@
 - [ycw/Babylon.Font](https://github.com/ycw/Babylon.Font) - Generate text mesh for BabylonJS using WASM, written in AssemblyScript.
 - [blakeembrey/change-case](https://github.com/blakeembrey/change-case) - Convert strings between camelCase, PascalCase, Capital Case, snake_case and more
 - [GoogleCloudPlatform/policy-library](https://github.com/GoogleCloudPlatform/policy-library) - A library of constraint templates and sample constraints for Constraint Framework tools
+- [pinterest/gestalt](https://github.com/pinterest/gestalt) - A set of React UI components that supports Pinterest’s design language
 - [zakjan/leaflet-lasso](https://github.com/zakjan/leaflet-lasso) - Lasso selection plugin for Leaflet
 - [alkihis/twitter-archive-reader](https://github.com/alkihis/twitter-archive-reader) - Full featured TypeScript Twitter archive reader and browser
 - [camjc/keep-to-markdown](https://github.com/camjc/keep-to-markdown) - Google Keep Takeout files to markdown (.md) file exporter
