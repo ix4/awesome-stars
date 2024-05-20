@@ -409,7 +409,6 @@
 - [oliviale/CSS-Progress-Pie](https://github.com/oliviale/CSS-Progress-Pie) - A pure CSS progress pie chart
 - [zenorocha/browser-diet](https://github.com/zenorocha/browser-diet) - :fries: The definitive front-end performance guide
 - [CMPUT401W17Words/WordsOverTime](https://github.com/CMPUT401W17Words/WordsOverTime) - 
-- [codyogden/press-css](https://github.com/codyogden/press-css) - A flat, material, no bullshit, highly extensible CSS button library.
 - [soulwire/Makisu](https://github.com/soulwire/Makisu) - CSS 3D Dropdown Concept
 - [markhillard/DIFF](https://github.com/markhillard/DIFF) - :heavy_check_mark: A good looking and easy to use diff tool
 - [bullgit/hub](https://github.com/bullgit/hub) - A kind of website referencing the gitches, the bullgit repos, and more. Using Algolia and some other cool stuff.
@@ -1048,7 +1047,7 @@
 - [propublica/facebook-political-ads](https://github.com/propublica/facebook-political-ads) - Monitoring Facebook Political Ads
 - [curran/data](https://github.com/curran/data) - A collection of public data sets
 - [usnistgov/pfhub](https://github.com/usnistgov/pfhub) - The CHiMaD Phase Field Community Website
-- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
+- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 🚨 GROW YOUR AUDIENCE WITH HUGOBLOX! 🚀 HugoBlox is an easy, fast no-code website builder for researchers, entrepreneurs, data scientists, and developers. Build stunning sites in minutes. 适合研究人员、企业家、数据科
 - [srfdata/srfdata.github.io](https://github.com/srfdata/srfdata.github.io) - GitHub Page of SRF Data
 - [naver/egjs-visible](https://github.com/naver/egjs-visible) - A class that checks if an element is visible in the base element or viewport.
 - [hammerjs/hammerjs.github.io](https://github.com/hammerjs/hammerjs.github.io) - Website
