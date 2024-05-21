@@ -1177,7 +1177,6 @@
 - [javierbyte/img2css](https://github.com/javierbyte/img2css) - Convert any image to pure CSS. Recreates images using only box-shadows.
 - [noeldelgado/values.js](https://github.com/noeldelgado/values.js) - :grapes: Get the tints and shades of a color
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
-- [codyogden/press-css](https://github.com/codyogden/press-css) - A flat, material, no bullshit, highly extensible CSS button library.
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
@@ -1296,7 +1295,7 @@
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
-- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
+- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 🚨 GROW YOUR AUDIENCE WITH HUGOBLOX! 🚀 HugoBlox is an easy, fast no-code website builder for researchers, entrepreneurs, data scientists, and developers. Build stunning sites in minutes. 适合研究人员、企业家、数据科
 - [Chicago/food-inspections-evaluation](https://github.com/Chicago/food-inspections-evaluation) - This repository contains the code to generate predictions of critical violations at food establishments in Chicago. It also contains the results of an evaluation of the effectiveness of those predicti
 - [plotly/dash-oil-and-gas-demo](https://github.com/plotly/dash-oil-and-gas-demo) - Dash Demo App - New York Oil and Gas
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
@@ -8099,7 +8098,7 @@
 - [rte-antares-rpackage/leaflet.minicharts](https://github.com/rte-antares-rpackage/leaflet.minicharts) - Minicharts for dynamic leaflet maps
 - [daattali/shinyjs](https://github.com/daattali/shinyjs) - 💡 Easily improve the user experience of your Shiny apps in seconds
 - [datamapio/story](https://github.com/datamapio/story) - Cheatsheets, Tutorials, Articles etc.
-- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
+- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 🚨 GROW YOUR AUDIENCE WITH HUGOBLOX! 🚀 HugoBlox is an easy, fast no-code website builder for researchers, entrepreneurs, data scientists, and developers. Build stunning sites in minutes. 适合研究人员、企业家、数据科
 - [jbkunst/highcharter](https://github.com/jbkunst/highcharter) - R wrapper for highcharts
 - [dreamRs/apexcharter](https://github.com/dreamRs/apexcharter) - :bar_chart: R Htmlwidget for ApexCharts.js
 - [evanodell/parlitools](https://github.com/evanodell/parlitools) - A collection of useful tools for UK politics
@@ -8568,7 +8567,6 @@
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [nicoespeon/sass-graph-viz](https://github.com/nicoespeon/sass-graph-viz) - Draw a visual graph of Sass dependencies
 - [svg-sprite/svg-sprite](https://github.com/svg-sprite/svg-sprite) - SVG sprites & stacks galore — A low-level Node.js module that takes a bunch of SVG files, optimizes them and bakes them into SVG sprites of several types along with suitable stylesheet resources (e.g.
-- [codyogden/press-css](https://github.com/codyogden/press-css) - A flat, material, no bullshit, highly extensible CSS button library.
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
 - [Esri/calcite-maps](https://github.com/Esri/calcite-maps) - A Bootstrap theme for designing, styling and creating modern map apps.
 - [brianmaierjr/long-haul](https://github.com/brianmaierjr/long-haul) - A minimal, type-focused Jekyll theme.
