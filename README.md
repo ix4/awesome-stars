@@ -1097,7 +1097,7 @@
 - [bmcbride/mhlc](https://github.com/bmcbride/mhlc) - Mohawk Hudson Land Conservancy Mapping App
 - [bmcbride/nys-park-maps](https://github.com/bmcbride/nys-park-maps) - New York State Park Maps
 - [uswds/uswds-site](https://github.com/uswds/uswds-site) - USWDS website and documentation
-- [18F/18f.gsa.gov](https://github.com/18F/18f.gsa.gov) - This repository contains 18F's website.
+- [18F/18f.gsa.gov](https://github.com/18F/18f.gsa.gov) - The 18F website
 - [usnistgov/mobile-threat-catalogue](https://github.com/usnistgov/mobile-threat-catalogue) - NIST/NCCoE Mobile Threat Catalogue
 - [github/government.github.com](https://github.com/github/government.github.com) - Gather, curate, and feature stories of public servants and civic hackers using GitHub as part of their open government innovations
 - [martgnz/journocoders-geogrid](https://github.com/martgnz/journocoders-geogrid) - Making hexagonal grids with R and mapping with D3
@@ -5094,7 +5094,7 @@
 
 ## Shell 
 
-- [X4BNet/lists_vpn](https://github.com/X4BNet/lists_vpn) - Lists of VPN providers (atomatically updated)
+- [X4BNet/lists_vpn](https://github.com/X4BNet/lists_vpn) - Lists of VPN providers (automatically updated)
 - [fire1ce/DDNS-Cloudflare-Bash](https://github.com/fire1ce/DDNS-Cloudflare-Bash) - Cloudflare DDNS bash Script for most Linux distributions and MacOS. Choose any source IP address to update external or internal (WAN/LAN).  Cloudflare's options proxy and TTL configurable via the para
 - [systematicat/hack-captive-portals](https://github.com/systematicat/hack-captive-portals) - Hack any Captive portal using MAC-spoofing technique
 - [ariakis/houdini](https://github.com/ariakis/houdini) - Script to bypass WiFi captive portals (e.g. at hotels, cruise ships etc.)
@@ -5436,7 +5436,7 @@
 - [FormidableLabs/react-live](https://github.com/FormidableLabs/react-live) - A flexible playground for live editing React components
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [zhongsp/TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org
-- [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ Libraries for building performant and instant search experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
+- [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ Libraries for building performant and instant search and recommend experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [obs-websocket-community-projects/obs-websocket-js](https://github.com/obs-websocket-community-projects/obs-websocket-js) - Consumes https://github.com/obsproject/obs-websocket
 - [google/emoji-scavenger-hunt](https://github.com/google/emoji-scavenger-hunt) - Emoji Scavenger Hunt is an experiment that leverages the power of neural networks and your phone’s camera to identify the real world versions of the emojis we use every day.
