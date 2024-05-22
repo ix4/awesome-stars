@@ -4531,7 +4531,7 @@
 ## others 
 
 - [nof20/voter-warehouse](https://github.com/nof20/voter-warehouse) - A standardized data warehouse of New York political data, using Google DataFlow and BigQuery.
-- [X4BNet/lists_vpn](https://github.com/X4BNet/lists_vpn) - Lists of VPN providers (atomatically updated)
+- [X4BNet/lists_vpn](https://github.com/X4BNet/lists_vpn) - Lists of VPN providers (automatically updated)
 - [dangnelson/car-makes-icons](https://github.com/dangnelson/car-makes-icons) - SVG Icons / Font for Cars Makes to match Edmunds API
 - [GoogleChrome/ip-protection](https://github.com/GoogleChrome/ip-protection) - 
 - [DreadedLama/BaseCaller](https://github.com/DreadedLama/BaseCaller) - Use truecaller token to retrieve data
@@ -6800,7 +6800,7 @@
 - [bmcbride/nys-park-maps](https://github.com/bmcbride/nys-park-maps) - New York State Park Maps
 - [datamade/ny-budget](https://github.com/datamade/ny-budget) - :bar_chart: an explorable budget vizualization for New York state
 - [GSA/plainlanguage.gov](https://github.com/GSA/plainlanguage.gov) - A resource to help federal employees write in plain language and comply with the Plain Writing Act of 2010
-- [18F/18f.gsa.gov](https://github.com/18F/18f.gsa.gov) - This repository contains 18F's website.
+- [18F/18f.gsa.gov](https://github.com/18F/18f.gsa.gov) - The 18F website
 - [fecgov/fec-eregs](https://github.com/fecgov/fec-eregs) - The Federal Election Commission's web-based application that makes regulations easier to find, read and understand.
 - [usnistgov/psc-ns3](https://github.com/usnistgov/psc-ns3) - Public Safety Communication modeling tools based on ns-3
 - [serratus/quaggaJS](https://github.com/serratus/quaggaJS) - An advanced barcode-scanner written in JavaScript
@@ -8222,7 +8222,7 @@
 - [FormidableLabs/react-live](https://github.com/FormidableLabs/react-live) - A flexible playground for live editing React components
 - [react-static/react-static](https://github.com/react-static/react-static) - ⚛️ 🚀 A progressive static site generator for React.
 - [zhongsp/TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org
-- [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ Libraries for building performant and instant search experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
+- [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ Libraries for building performant and instant search and recommend experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
 - [fangpenlin/avataaars](https://github.com/fangpenlin/avataaars) - React component for avataaars
 - [fangpenlin/avataaars-generator](https://github.com/fangpenlin/avataaars-generator) - Simple generator React app for avataaars
 - [react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - :fire: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
@@ -9157,7 +9157,7 @@
 - [lusaxweb/vuenut](https://github.com/lusaxweb/vuenut) - ⚙️ Developer tools for vue js (Vuex)
 - [egoist/docute](https://github.com/egoist/docute) - 📚 Effortless documentation, done right.
 - [njleonzhang/vue-data-tables](https://github.com/njleonzhang/vue-data-tables) - A simple, customizable and pageable table with SSR support, based on vue2 and element-ui
-- [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ Libraries for building performant and instant search experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
+- [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ Libraries for building performant and instant search and recommend experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
 - [zce/dashboard](https://github.com/zce/dashboard) - A dashboard scaffolding based on Vue.js 3.0 created by Vite.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [MetinSeylan/Vue-Socket.io](https://github.com/MetinSeylan/Vue-Socket.io) - 😻 Socket.io implementation for Vuejs and Vuex
