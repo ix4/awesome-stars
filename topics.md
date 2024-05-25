@@ -483,7 +483,7 @@
 - [harvard-lil/cap-examples](https://github.com/harvard-lil/cap-examples) - Examples for getting started using https://case.law
 - [fastly/pushpin](https://github.com/fastly/pushpin) - A proxy server for adding push to your API, used at the core of Fastly's Fanout service
 - [lmangani/gunstore.io](https://github.com/lmangani/gunstore.io) - Store your data in Gun DB by sending simple HTTP requests - based on jsonstore.io :floppy_disk: :rocket:
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [palewire/savepagenow](https://github.com/palewire/savepagenow) - A simple Python wrapper and command-line interface for archive.org’s "Save Page Now" capturing service
 - [palewire/archiveis](https://github.com/palewire/archiveis) - A simple Python wrapper for the archive.is capturing service
 - [maxisoft/Freenom-dns-updater](https://github.com/maxisoft/Freenom-dns-updater) - A tool to update freenom's dns records
@@ -987,7 +987,7 @@
 - [maxisoft/Freenom-dns-updater](https://github.com/maxisoft/Freenom-dns-updater) - A tool to update freenom's dns records
 - [summera/retscli](https://github.com/summera/retscli) - CLI for querying RETS servers and searching metadata.
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [juliuste/transit-map](https://github.com/juliuste/transit-map) - Generate a schematic map (“metro map”) for a given (transit) network graph using Mixed Integer Programming.
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
@@ -2220,7 +2220,7 @@
 - [graphql/graphql.github.io](https://github.com/graphql/graphql.github.io) - GraphQL Documentation at graphql.org
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [aws-amplify/docs](https://github.com/aws-amplify/docs) - AWS Amplify Framework Documentation
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [aws-samples/aws-serverless-airline-booking](https://github.com/aws-samples/aws-serverless-airline-booking) - Airline Booking is a sample web application that provides Flight Search, Flight Payment, Flight Booking and Loyalty points including end-to-end testing, GraphQL and CI/CD. This web application was the
 
 ## gulp 
@@ -2465,7 +2465,7 @@
 - [PJijin/Cover-Image-Generator](https://github.com/PJijin/Cover-Image-Generator) - 📕 Generate a cover image for your blog post 📝 https://blogcover.now.sh/
 - [kevinzg/facebook-scraper](https://github.com/kevinzg/facebook-scraper) - Scrape Facebook public pages without an API key
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [telegraf/telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node.js
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
@@ -2481,7 +2481,7 @@
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [GoogleChrome/rendertron](https://github.com/GoogleChrome/rendertron) - A Headless Chrome rendering solution
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, collect and analyse network intelligenc
 - [juliuste/parliament-svg](https://github.com/juliuste/parliament-svg) - Generate parliament charts as virtual-dom SVG
 - [smeijer/leaflet-geosearch](https://github.com/smeijer/leaflet-geosearch) - A geocoding/address-lookup library supporting various api providers.
@@ -2696,7 +2696,7 @@
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [gajus/global-agent](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent configurable using environment variables.
 - [kevva/url-regex](https://github.com/kevva/url-regex) - Regular expression for matching URLs
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [francescotarantino/httpresponsebot](https://github.com/francescotarantino/httpresponsebot) - Telegram Bot for get the HTTP status code and the redirects instantly for any website.
 - [ninenines/cowboy](https://github.com/ninenines/cowboy) - Small, fast, modern HTTP server for Erlang/OTP.
@@ -3803,7 +3803,7 @@
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [ramboxapp/community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) - This is a multi-use bash script for Linux systems to audit wireless networks.
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
@@ -3906,7 +3906,7 @@
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [ramboxapp/community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [Astranno/googlr](https://github.com/Astranno/googlr) - Googlr is a command line tool that lets you search Google from your terminal.
 - [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
@@ -4519,7 +4519,7 @@
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [michenriksen/gitrob](https://github.com/michenriksen/gitrob) - Reconnaissance tool for GitHub organizations
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
 - [t4d/StalkPhish](https://github.com/t4d/StalkPhish) - StalkPhish - The Phishing kits stalker, harvesting phishing kits for investigations.
@@ -7794,7 +7794,7 @@
 - [nextapps-de/xone](https://github.com/nextapps-de/xone) - Mobile Application Development Kit / MVC Framework
 - [maciejtreder/ng-toolkit](https://github.com/maciejtreder/ng-toolkit) - :star: Angular tool-box! Start your PWA in two steps! Add Serverless support for existing projects and much more
 - [flysteur-dev/pager](https://github.com/flysteur-dev/pager) - Minimalist serverless RSS reader (PWA, React, CouchDB, Web worker, Offline persistance, Docker)
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 
 ## python 
 
@@ -7973,7 +7973,7 @@
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [bl4de/security-tools](https://github.com/bl4de/security-tools) - My collection of various security tools created mostly in Python and Bash. For CTFs and Bug Bounty.
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
 - [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
@@ -8053,7 +8053,7 @@
 - [uvipen/Photomosaic-generator](https://github.com/uvipen/Photomosaic-generator) - photomosaic generator (image to image, video to video)
 - [archivesunleashed/aut](https://github.com/archivesunleashed/aut) - The Archives Unleashed Toolkit is an open-source toolkit for analyzing web archives.
 - [m0rtem/CloudFail](https://github.com/m0rtem/CloudFail) - Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [almandin/fuxploider](https://github.com/almandin/fuxploider) - File upload vulnerability scanner and exploitation tool.
 - [tkrajina/gpxpy](https://github.com/tkrajina/gpxpy) - gpx-py is a python GPX parser. GPX (GPS eXchange Format) is an XML based file format for GPS tracks.
 - [AmanoTeam/EduuRobot](https://github.com/AmanoTeam/EduuRobot) - EduuRobot Telegram bot source code.
@@ -8446,7 +8446,7 @@
 - [letsvalidate/api](https://github.com/letsvalidate/api) - API that uncovers the technologies used on websites and generates thumbnail from screenshot of website
 - [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [apilayer/restcountries](https://github.com/apilayer/restcountries) - Get information about countries via a RESTful API
 - [heremaps/postman-collections](https://github.com/heremaps/postman-collections) - Postman collections for HERE REST APIs.
 - [esri-es/ArcGIS-REST-API](https://github.com/esri-es/ArcGIS-REST-API) - Postman collections for ArcGIS REST APIs || Introductory guide to Hosted Feature Services || Hosted Feature Services - Service Definition
@@ -8957,7 +8957,7 @@
 - [chromium/badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
 - [fuzzitdev/jsfuzz](https://github.com/fuzzitdev/jsfuzz) - coverage guided fuzz testing for javascript
 - [Netflix/pollyjs](https://github.com/Netflix/pollyjs) - Record, Replay, and Stub HTTP Interactions.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 - [web-platform-tests/wpt](https://github.com/web-platform-tests/wpt) - Test suites for Web platform specs — including WHATWG, W3C, and others
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
@@ -9190,7 +9190,7 @@
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [m1guelpf/send-to-things](https://github.com/m1guelpf/send-to-things) - A PWA to add tasks to Things from pretty much anywhere
 - [sakihet/textrator](https://github.com/sakihet/textrator) - ✏️ Text image generator on HTML canvas
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
 - [LucasLeandro1204/vue-content-loading](https://github.com/LucasLeandro1204/vue-content-loading) - Vue component to easily build (or use presets) SVG loading cards Facebook like.
 - [CityOfPhiladelphia/phila-vue-mapping](https://github.com/CityOfPhiladelphia/phila-vue-mapping) - a library of vue components used by mapping applications
@@ -9229,7 +9229,7 @@
 - [sdras/page-transitions-travelapp](https://github.com/sdras/page-transitions-travelapp) - Travel App, Native-like Page Transitions
 - [sdras/vue-directory-tree](https://github.com/sdras/vue-directory-tree) - A visualization of relevant files for vue repo, along with notes
 - [soal/vue-mapbox](https://github.com/soal/vue-mapbox) - Vuejs 2 components for interacting with mapbox-gl-js
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [LucasLeandro1204/vue-content-loading](https://github.com/LucasLeandro1204/vue-content-loading) - Vue component to easily build (or use presets) SVG loading cards Facebook like.
 - [etewiah/pwb-admin-vuetify](https://github.com/etewiah/pwb-admin-vuetify) - New admin interface for PropertyWebBuilder
@@ -9416,7 +9416,7 @@
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [ramboxapp/community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [marcosValle/awesome-windows-red-team](https://github.com/marcosValle/awesome-windows-red-team) - A curated list of awesome Windows frameworks, libraries, software and resources for Red Teams
 - [jackd248/temps](https://github.com/jackd248/temps) - Simple menubar application based on Electron with actual weather information and forecast.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
