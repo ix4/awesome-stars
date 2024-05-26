@@ -720,7 +720,6 @@
 
 ## bash 
 
-- [systematicat/hack-captive-portals](https://github.com/systematicat/hack-captive-portals) - Hack any Captive portal using MAC-spoofing technique
 - [eficode/wait-for](https://github.com/eficode/wait-for) - ./wait-for is a script to wait for another service to become available.
 - [pforret/bashew](https://github.com/pforret/bashew) - bash script micro-framework - from small stand-alone script to complex projects with CI/CD and testing
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
@@ -3058,7 +3057,7 @@
 - [alyssaxuu/flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
 - [Stuk/jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
-- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript (& TypeScript).
+- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript & TypeScript.
 - [javierbyte/control-user-cursor](https://github.com/javierbyte/control-user-cursor) - Small experiment to 'control' the user cursor with JavaScript and CSS.
 - [javierbyte/clashjs](https://github.com/javierbyte/clashjs) - Javascript AI battle game. Play by creating a javascript function to command your battleship.
 - [javierbyte/canvas-image-utils](https://github.com/javierbyte/canvas-image-utils) - Utils for image data.
@@ -3739,7 +3738,6 @@
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget) - Utility for mass-downloading LRC synced lyrics for your offline music library.
 - [fire1ce/DDNS-Cloudflare-Bash](https://github.com/fire1ce/DDNS-Cloudflare-Bash) - Cloudflare DDNS bash Script for most Linux distributions and MacOS. Choose any source IP address to update external or internal (WAN/LAN).  Cloudflare's options proxy and TTL configurable via the para
-- [systematicat/hack-captive-portals](https://github.com/systematicat/hack-captive-portals) - Hack any Captive portal using MAC-spoofing technique
 - [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
 - [hl2guide/AdGuard-Home-Whitelist](https://github.com/hl2guide/AdGuard-Home-Whitelist) - A strict curated whitelist for AdGuard Home.
 - [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB) - A Microsoft Windows® USB installation media preparer for GNU+Linux
@@ -8707,7 +8705,6 @@
 
 ## shell 
 
-- [systematicat/hack-captive-portals](https://github.com/systematicat/hack-captive-portals) - Hack any Captive portal using MAC-spoofing technique
 - [imwally/coffeeconnect](https://github.com/imwally/coffeeconnect) - Connect to Starbucks WiFi without opening a browser.
 - [weibell/reverse-shell-generator](https://github.com/weibell/reverse-shell-generator) - Web-based reverse shell generator
 - [Rasukarusan/shellnium](https://github.com/Rasukarusan/shellnium) - :dizzy: Selenium Webdriver for Bash (or Zsh).
@@ -9045,7 +9042,7 @@
 - [ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
 - [teambit/envs](https://github.com/teambit/envs) - Component development environments for the Bit community
 - [karanlyons/murmurHash3.js](https://github.com/karanlyons/murmurHash3.js) - MurmurHash3, in JavaScript.
-- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript (& TypeScript).
+- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript & TypeScript.
 - [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
@@ -9082,7 +9079,6 @@
 ## ubuntu 
 
 - [fire1ce/DDNS-Cloudflare-Bash](https://github.com/fire1ce/DDNS-Cloudflare-Bash) - Cloudflare DDNS bash Script for most Linux distributions and MacOS. Choose any source IP address to update external or internal (WAN/LAN).  Cloudflare's options proxy and TTL configurable via the para
-- [systematicat/hack-captive-portals](https://github.com/systematicat/hack-captive-portals) - Hack any Captive portal using MAC-spoofing technique
 - [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
 - [hl2guide/AdGuard-Home-Whitelist](https://github.com/hl2guide/AdGuard-Home-Whitelist) - A strict curated whitelist for AdGuard Home.
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
