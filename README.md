@@ -2243,7 +2243,6 @@
 - [withspectrum/draft-js-markdown-plugin](https://github.com/withspectrum/draft-js-markdown-plugin) - An opinionated DraftJS plugin for supporting Markdown syntax shortcuts
 - [glitch-tools/sync-glitch-cli](https://github.com/glitch-tools/sync-glitch-cli) - :flags: Sync changes in your GitHub repository to glitch.com
 - [Mermade/shins](https://github.com/Mermade/shins) - Shins development continues at
-- [Hacker0x01/react-datepicker](https://github.com/Hacker0x01/react-datepicker) - A simple and reusable datepicker component for React
 - [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
 - [mozilla/publish.webmaker.org](https://github.com/mozilla/publish.webmaker.org) - The teach.org publishing service for goggles and thimble
 - [mozilla/thimble.mozilla.org](https://github.com/mozilla/thimble.mozilla.org) - UPDATE: This project is no longer maintained. Please check out Glitch.com instead.
@@ -5507,6 +5506,7 @@
 - [danger/danger-js](https://github.com/danger/danger-js) - ⚠️ Stop saying "you forgot to …" in code review
 - [gitname/react-gh-pages](https://github.com/gitname/react-gh-pages) - Deploying a React App (created using create-react-app) to GitHub Pages
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
+- [Hacker0x01/react-datepicker](https://github.com/Hacker0x01/react-datepicker) - A simple and reusable datepicker component for React
 - [jquery/esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis
 - [wix-incubator/turnerjs](https://github.com/wix-incubator/turnerjs) - An angular test kit for components and directives. See:
 - [wix/stylable](https://github.com/wix/stylable) - Stylable - CSS for components
