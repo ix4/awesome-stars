@@ -2261,7 +2261,7 @@
 - [aslushnikov/ispuppeteerfirefoxready](https://github.com/aslushnikov/ispuppeteerfirefoxready) - Is Puppeteer-Firefox ready?
 - [brendankenny/libtess.js](https://github.com/brendankenny/libtess.js) - Polygon tesselation library, ported from SGI's GLU implementation to JavaScript.
 - [umap-project/Leaflet.Storage](https://github.com/umap-project/Leaflet.Storage) - Manage map and features with Leaflet and expose them for backend storage through an API.
-- [mapbox/geojsonhint](https://github.com/mapbox/geojsonhint) - IMPORTANT: development of this project has been paused, see the README (Validate GeoJSON against the specification)
+- [mapbox/geojsonhint](https://github.com/mapbox/geojsonhint) - IMPORTANT: development of this project has been paused. Use @placemarkio/check-geojson instead
 - [Hydrock/hydrock-web-tools](https://github.com/Hydrock/hydrock-web-tools) - Web tools for work
 - [One-com/livestyle](https://github.com/One-com/livestyle) - NodeJS middleware and binary for setting up a webserver that notifies the browser of CSS updates.
 - [NV/CSSOM](https://github.com/NV/CSSOM) - Unmaintained! ⚠️ CSS Object Model implemented in pure JavaScript. Also, a CSS parser.
