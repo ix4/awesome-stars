@@ -5944,7 +5944,7 @@
 - [aslushnikov/ispuppeteerfirefoxready](https://github.com/aslushnikov/ispuppeteerfirefoxready) - Is Puppeteer-Firefox ready?
 - [brendankenny/libtess.js](https://github.com/brendankenny/libtess.js) - Polygon tesselation library, ported from SGI's GLU implementation to JavaScript.
 - [umap-project/Leaflet.Storage](https://github.com/umap-project/Leaflet.Storage) - Manage map and features with Leaflet and expose them for backend storage through an API.
-- [mapbox/geojsonhint](https://github.com/mapbox/geojsonhint) - IMPORTANT: development of this project has been paused, see the README (Validate GeoJSON against the specification)
+- [mapbox/geojsonhint](https://github.com/mapbox/geojsonhint) - IMPORTANT: development of this project has been paused. Use @placemarkio/check-geojson instead
 - [allenai/winogrande](https://github.com/allenai/winogrande) - WinoGrande: An Adversarial Winograd Schema Challenge at Scale
 - [rowanz/grover](https://github.com/rowanz/grover) - Code for Defending Against Neural Fake News, https://rowanzellers.com/grover/
 - [rowanz/hellaswag](https://github.com/rowanz/hellaswag) - HellaSwag: Can a Machine _Really_ Finish Your Sentence?
