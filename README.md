@@ -900,6 +900,7 @@
 - [dbtek/dbyll](https://github.com/dbtek/dbyll) - Stylish, minimalistic theme for jekyll.
 - [chinchang/kalu](https://github.com/chinchang/kalu) - Calculation at speed
 - [chinchang/web-vim](https://github.com/chinchang/web-vim) - Vim like text based editor for prototyping web pages with speed!
+- [chinchang/cta.js](https://github.com/chinchang/cta.js) - Animate your 'action-to-effect' paths
 - [yui/yuidoc](https://github.com/yui/yuidoc) - YUI Javascript Documentation Tool
 - [broccolini/swiss](https://github.com/broccolini/swiss) - Jekyll theme inspired by Swiss design
 - [tomjoht/documentation-theme-jekyll](https://github.com/tomjoht/documentation-theme-jekyll) - A Jekyll-based theme designed for documentation and help systems. See the link for detailed instructions on setting up and configuring everything.
@@ -923,7 +924,6 @@
 - [mixu/markdown-styles](https://github.com/mixu/markdown-styles) - Markdown to static HTML generator and multiple CSS themes for Markdown
 - [jamaps/blueprint_maps](https://github.com/jamaps/blueprint_maps) - An alternate cartography for Google Maps
 - [benjaminmbrown/real-time-data-viz-d3-crossfilter-websocket-tutorial](https://github.com/benjaminmbrown/real-time-data-viz-d3-crossfilter-websocket-tutorial) - Tutorial on real-time data visualization. Python websocket server & d3.js + crossfilter.js frontend
-- [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Get unified metadata from websites using Open Graph, Microdata, RDFa, Twitter Cards, JSON-LD, HTML, and more.
 - [okfn/opendefinition](https://github.com/okfn/opendefinition) - Open Definition source
 - [mburakerman/clap-emoji-generator](https://github.com/mburakerman/clap-emoji-generator) - Don't 👏 stop 👏🏻 emphasizing 👏🏼 your 👏🏽 point 👏🏾 by 👏🏿 putting 👏 clap 👏🏻 emojis 👏🏼 after 👏🏽 every 👏🏾 word
@@ -1987,7 +1987,6 @@
 - [chinchang/screenlog.js](https://github.com/chinchang/screenlog.js) - Bring console.log on the screen
 - [chinchang/a11y-for-managers](https://github.com/chinchang/a11y-for-managers) - Translate Accessibility issues on a website into actual understandable feedback from dummy users.
 - [chinchang/introduction-to-accessibility](https://github.com/chinchang/introduction-to-accessibility) - Interactive and practical introduction to Web Accessibility for everyone
-- [chinchang/cta.js](https://github.com/chinchang/cta.js) - Animate your 'action-to-effect' paths
 - [chinchang/superplaceholder.js](https://github.com/chinchang/superplaceholder.js) - ⚡Super charge your input placeholders
 - [chinchang/web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend playground
 - [chinchang/super-search](https://github.com/chinchang/super-search) - Easy to add search for your blog
@@ -2068,6 +2067,7 @@
 - [verekia/js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
 - [Laverna/laverna](https://github.com/Laverna/laverna) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
 - [samdutton/transcripter](https://github.com/samdutton/transcripter) - Create readable transcripts from YouTube caption files
+- [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [sockjs/sockjs-client](https://github.com/sockjs/sockjs-client) - WebSocket emulation - Javascript client
 - [facebookarchive/instant-articles-builder](https://github.com/facebookarchive/instant-articles-builder) - Instant Articles Rules Editor
 - [withspectrum/micro-open-graph](https://github.com/withspectrum/micro-open-graph) - A tiny Node.js microservice to scrape open graph data with joy.
@@ -2261,7 +2261,7 @@
 - [aslushnikov/ispuppeteerfirefoxready](https://github.com/aslushnikov/ispuppeteerfirefoxready) - Is Puppeteer-Firefox ready?
 - [brendankenny/libtess.js](https://github.com/brendankenny/libtess.js) - Polygon tesselation library, ported from SGI's GLU implementation to JavaScript.
 - [umap-project/Leaflet.Storage](https://github.com/umap-project/Leaflet.Storage) - Manage map and features with Leaflet and expose them for backend storage through an API.
-- [mapbox/geojsonhint](https://github.com/mapbox/geojsonhint) - IMPORTANT: development of this project has been paused. Use @placemarkio/check-geojson instead
+- [mapbox/geojsonhint](https://github.com/mapbox/geojsonhint) - IMPORTANT: This repo will be archived. Use @placemarkio/check-geojson instead
 - [Hydrock/hydrock-web-tools](https://github.com/Hydrock/hydrock-web-tools) - Web tools for work
 - [One-com/livestyle](https://github.com/One-com/livestyle) - NodeJS middleware and binary for setting up a webserver that notifies the browser of CSS updates.
 - [NV/CSSOM](https://github.com/NV/CSSOM) - Unmaintained! ⚠️ CSS Object Model implemented in pure JavaScript. Also, a CSS parser.
@@ -3506,7 +3506,7 @@
 - [egorovandreyrm/pcap-remote](https://github.com/egorovandreyrm/pcap-remote) - Non-root network sniffer app that features supporting Wireshark sshdump tool
 - [PortSwigger/turbo-intruder](https://github.com/PortSwigger/turbo-intruder) - Turbo Intruder is a Burp Suite extension for sending large numbers of HTTP requests and analyzing the results.
 - [google/ground-android](https://github.com/google/ground-android) - Ground mobile data collection app for Android
-- [OpenArchive/Save-app-android](https://github.com/OpenArchive/Save-app-android) - This is the Save app for Android
+- [OpenArchive/Save-app-android-old](https://github.com/OpenArchive/Save-app-android-old) - This is the Save app for Android
 - [lottie-react-native/lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) - Lottie wrapper for React Native.
 - [ranmocy/rCaltrain](https://github.com/ranmocy/rCaltrain) - Better Caltrain Scheduler
 - [securityfirst/Umbrella_android](https://github.com/securityfirst/Umbrella_android) - Open source Android, iOS and Web app for learning about and managing digital and physical security. From how to send a secure message to dealing with a kidnap. Umbrella has best practice guides in ove
