@@ -5565,7 +5565,7 @@
 - [google/libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
 - [signalapp/libsignal-protocol-javascript](https://github.com/signalapp/libsignal-protocol-javascript) - This library is no longer maintained. libsignal-protocol-javascript was an implementation of the Signal Protocol, written in JavaScript. It has been replaced by libsignal-client’s typesafe TypeScript 
 - [arkadianriver/spectral](https://github.com/arkadianriver/spectral) - A jekyll theme for the spectral template by html5up.net (@ajlkn). Demo: http://arkadianriver.github.io/spectral. How to jekyll: http://jekyllrb.com/docs/home/. If you intend to use this theme as a blo
-- [OpenArchive/Save-app-android](https://github.com/OpenArchive/Save-app-android) - This is the Save app for Android
+- [OpenArchive/Save-app-android-old](https://github.com/OpenArchive/Save-app-android-old) - This is the Save app for Android
 - [hamukazu/lets-get-arrested](https://github.com/hamukazu/lets-get-arrested) - This project is intended to protest against the police in Japan
 - [BBC-Data-Unit/neighbourhood-police](https://github.com/BBC-Data-Unit/neighbourhood-police) - Neighbourhood police: One in seven officers axed were beat bobbies
 - [lucyparsons/cpdsearchwarrants](https://github.com/lucyparsons/cpdsearchwarrants) - Five years of executed search warrants by Chicago Police (2012-2017)
@@ -5944,7 +5944,7 @@
 - [aslushnikov/ispuppeteerfirefoxready](https://github.com/aslushnikov/ispuppeteerfirefoxready) - Is Puppeteer-Firefox ready?
 - [brendankenny/libtess.js](https://github.com/brendankenny/libtess.js) - Polygon tesselation library, ported from SGI's GLU implementation to JavaScript.
 - [umap-project/Leaflet.Storage](https://github.com/umap-project/Leaflet.Storage) - Manage map and features with Leaflet and expose them for backend storage through an API.
-- [mapbox/geojsonhint](https://github.com/mapbox/geojsonhint) - IMPORTANT: development of this project has been paused. Use @placemarkio/check-geojson instead
+- [mapbox/geojsonhint](https://github.com/mapbox/geojsonhint) - IMPORTANT: This repo will be archived. Use @placemarkio/check-geojson instead
 - [allenai/winogrande](https://github.com/allenai/winogrande) - WinoGrande: An Adversarial Winograd Schema Challenge at Scale
 - [rowanz/grover](https://github.com/rowanz/grover) - Code for Defending Against Neural Fake News, https://rowanzellers.com/grover/
 - [rowanz/hellaswag](https://github.com/rowanz/hellaswag) - HellaSwag: Can a Machine _Really_ Finish Your Sentence?
