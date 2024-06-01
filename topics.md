@@ -6664,8 +6664,8 @@
 - [una/CSSgram](https://github.com/una/CSSgram) - CSS library for Instagram filters
 - [picturepan2/instagram.css](https://github.com/picturepan2/instagram.css) - Instagram.css - Complete set of Instagram filters in pure CSS
 - [neocities/neocities](https://github.com/neocities/neocities) - Neocities.org - the web site. Yep, the backend is open source!
-- [mozilla/Spoke](https://github.com/mozilla/Spoke) - Easily create custom 3D environments
-- [mozilla/hubs](https://github.com/mozilla/hubs) - Duck-themed multi-user virtual spaces in WebVR. Built with A-Frame.
+- [Hubs-Foundation/Spoke](https://github.com/Hubs-Foundation/Spoke) - Easily create custom 3D environments
+- [Hubs-Foundation/hubs](https://github.com/Hubs-Foundation/hubs) - Duck-themed multi-user virtual spaces in WebVR. Built with A-Frame.
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
 - [inolen/quakejs](https://github.com/inolen/quakejs) - 
 - [ReallyGood/js-motion-detection](https://github.com/ReallyGood/js-motion-detection) - A basic starting point for motion-detection apps using WebRTC & Canvas, refactored out of the Magic Xylophone by @soundstep
