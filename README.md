@@ -2785,8 +2785,8 @@
 - [moment/moment-timezone](https://github.com/moment/moment-timezone) - Timezone support for moment.js
 - [mdn/web-components-examples](https://github.com/mdn/web-components-examples) - A series of web components examples, related to the MDN web components documentation at https://developer.mozilla.org/en-US/docs/Web/Web_Components.
 - [neocities/neocities](https://github.com/neocities/neocities) - Neocities.org - the web site. Yep, the backend is open source!
-- [mozilla/Spoke](https://github.com/mozilla/Spoke) - Easily create custom 3D environments
-- [mozilla/hubs](https://github.com/mozilla/hubs) - Duck-themed multi-user virtual spaces in WebVR. Built with A-Frame.
+- [Hubs-Foundation/Spoke](https://github.com/Hubs-Foundation/Spoke) - Easily create custom 3D environments
+- [Hubs-Foundation/hubs](https://github.com/Hubs-Foundation/hubs) - Duck-themed multi-user virtual spaces in WebVR. Built with A-Frame.
 - [inolen/quakejs](https://github.com/inolen/quakejs) - 
 - [mdn/dom-examples](https://github.com/mdn/dom-examples) - Code examples that accompany various MDN DOM and Web API documentation pages
 - [NekR/offline-plugin](https://github.com/NekR/offline-plugin) - Offline plugin  (ServiceWorker, AppCache) for webpack (https://webpack.js.org/)
