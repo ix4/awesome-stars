@@ -2003,7 +2003,6 @@
 - [bajcmartinez/nordvpn-status](https://github.com/bajcmartinez/nordvpn-status) - Displays the current status of your nordvpn connection
 - [googleworkspace/google-chat-samples](https://github.com/googleworkspace/google-chat-samples) - Chat Bot Samples for Google Chat.
 - [googlearchive/drive-music-player](https://github.com/googlearchive/drive-music-player) - Fully client side Music Player for Google Drive
-- [nicolasgarnier/drive-music-player](https://github.com/nicolasgarnier/drive-music-player) - Fully client side Music Player for Google Drive
 - [arve0/markdown-it-attrs](https://github.com/arve0/markdown-it-attrs) - Add classes, identifiers and attributes to your markdown with {} curly brackets, similar to pandoc's header attributes
 - [zotero/zotero-google-docs-integration](https://github.com/zotero/zotero-google-docs-integration) - 
 - [interactivethings/catalog](https://github.com/interactivethings/catalog) - Create living style guides using Markdown or React
