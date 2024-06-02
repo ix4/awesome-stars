@@ -5621,7 +5621,6 @@
 - [bajcmartinez/nordvpn-status](https://github.com/bajcmartinez/nordvpn-status) - Displays the current status of your nordvpn connection
 - [blechschmidt/massdns](https://github.com/blechschmidt/massdns) - A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
 - [googlearchive/drive-music-player](https://github.com/googlearchive/drive-music-player) - Fully client side Music Player for Google Drive
-- [nicolasgarnier/drive-music-player](https://github.com/nicolasgarnier/drive-music-player) - Fully client side Music Player for Google Drive
 - [arve0/markdown-it-attrs](https://github.com/arve0/markdown-it-attrs) - Add classes, identifiers and attributes to your markdown with {} curly brackets, similar to pandoc's header attributes
 - [zotero/zotero-google-docs-integration](https://github.com/zotero/zotero-google-docs-integration) - 
 - [Juris-M/bluebook-signals-for-zotero](https://github.com/Juris-M/bluebook-signals-for-zotero) - A simple plugin that adds a menu of standard Bluebook signals to the Prefix field of the Zotero/MLZ work procesor plugins.
