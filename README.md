@@ -3272,7 +3272,7 @@
 - [BolajiAyodeji/image-search-app](https://github.com/BolajiAyodeji/image-search-app) - A simple image search app
 - [BolajiAyodeji/js-code-snippets](https://github.com/BolajiAyodeji/js-code-snippets) - Learn basic JavaScript concepts in action. :zap:
 - [tiagoalvesdulce/dcrtimestamptweet](https://github.com/tiagoalvesdulce/dcrtimestamptweet) - Example of a simple twitter bot to timestamp a twitter thread using dcrtimejs and ipfs
-- [Udokah/tweet-threader](https://github.com/Udokah/tweet-threader) - Create threads on Twitter easily.
+- [dokasto/tweet-threader](https://github.com/dokasto/tweet-threader) - Create threads on Twitter easily.
 - [mwichary/twitter-thread-list](https://github.com/mwichary/twitter-thread-list) - A tool to grab all your Twitter threads and list them all on a nice page ranked by popularity.
 - [kossnocorp/chirrapp](https://github.com/kossnocorp/chirrapp) - Chirr App splits text into tweets and posts it as a thread
 - [jimmywarting/StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - StreamSaver writes stream to the filesystem directly asynchronous
