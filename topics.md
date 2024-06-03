@@ -8983,7 +8983,7 @@
 - [alexlitel/congresstweets](https://github.com/alexlitel/congresstweets) - Datasets of the daily Twitter output of Congress.
 - [erikras/audiocard](https://github.com/erikras/audiocard) - ⏯️ AudioCard - Opinionated, responsive, audio player compatible with Twitter Cards
 - [mkearney/tweetbotornot](https://github.com/mkearney/tweetbotornot) - 🤖 R package for detecting Twitter bots via machine learning
-- [Udokah/tweet-threader](https://github.com/Udokah/tweet-threader) - Create threads on Twitter easily.
+- [dokasto/tweet-threader](https://github.com/dokasto/tweet-threader) - Create threads on Twitter easily.
 - [BrianMitchL/weatherBot](https://github.com/BrianMitchL/weatherBot) - ⛈ A Twitter bot for weather
 - [kossnocorp/chirrapp](https://github.com/kossnocorp/chirrapp) - Chirr App splits text into tweets and posts it as a thread
 - [weimer-coders/is-this-true-bot](https://github.com/weimer-coders/is-this-true-bot) - A simple bot that responds to Tweets with potential fact checks.
