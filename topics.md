@@ -427,7 +427,6 @@
 - [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [maciejtreder/ng-toolkit](https://github.com/maciejtreder/ng-toolkit) - :star: Angular tool-box! Start your PWA in two steps! Add Serverless support for existing projects and much more
-- [samuelklam/real-estate-ecommerce](https://github.com/samuelklam/real-estate-ecommerce) - Real Estate Ecommerce Store built with Angular, Express, PostgreSQL and Node.js
 - [angular-ui/ui-leaflet](https://github.com/angular-ui/ui-leaflet) - AngularJS directive to embed an interact with maps managed by Leaflet library
 - [sachinchoolur/lightGallery](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
@@ -1801,7 +1800,6 @@
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [newtelco/CompanyVacations](https://github.com/newtelco/CompanyVacations) - ⛱️ Node App for managing Company Vacations
 - [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is the best self-hosted JavaScript and Node.js logging service.  Made for @forwardemail.
-- [samuelklam/real-estate-ecommerce](https://github.com/samuelklam/real-estate-ecommerce) - Real Estate Ecommerce Store built with Angular, Express, PostgreSQL and Node.js
 
 ## finance 
 
@@ -4350,7 +4348,6 @@
 - [the-crib/thread-unroll](https://github.com/the-crib/thread-unroll) - Unrolls twitter thread and sends it as a DM to anyone that mentions the bot on the thread.
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [alexlitel/congresstweets-automator](https://github.com/alexlitel/congresstweets-automator) - Self-updating Node app collecting Congress' daily Twitter output and compiling into publicly accessible form.
-- [samuelklam/real-estate-ecommerce](https://github.com/samuelklam/real-estate-ecommerce) - Real Estate Ecommerce Store built with Angular, Express, PostgreSQL and Node.js
 - [camelaissani/loca](https://github.com/camelaissani/loca) - Open source real estate management
 - [devansvd/whiteboard-socketio](https://github.com/devansvd/whiteboard-socketio) - A Collaborative Whiteboard using Socket.IO
 - [bibhuticoder/realtimeBoard](https://github.com/bibhuticoder/realtimeBoard) - 🙌 Collaborative Whiteboard (Socket.IO + Vanilla JS Frontend)
