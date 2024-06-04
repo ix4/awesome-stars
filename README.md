@@ -464,7 +464,6 @@
 - [jokecamp/FootballData](https://github.com/jokecamp/FootballData) - A hodgepodge of JSON and CSV Football/Soccer data
 - [PJijin/Stylish-Card](https://github.com/PJijin/Stylish-Card) - 🗃️ Stylish card using HTML, CSS
 - [thecaffeinedev/Real-Estate-Django-Web-App](https://github.com/thecaffeinedev/Real-Estate-Django-Web-App) - Real Estate Django Web App
-- [samuelklam/real-estate-ecommerce](https://github.com/samuelklam/real-estate-ecommerce) - Real Estate Ecommerce Store built with Angular, Express, PostgreSQL and Node.js
 - [arm5077/atlantic-share-image-generator](https://github.com/arm5077/atlantic-share-image-generator) - Makes text-only cards for stories that don't have ready imagery.
 - [cosmicjs/cosmicapp-real-estate](https://github.com/cosmicjs/cosmicapp-real-estate) - A basic real estate website powered by Cosmic JS
 - [expresspixel/estatezilla](https://github.com/expresspixel/estatezilla) - A lightweight open-source Real Estate CMS
