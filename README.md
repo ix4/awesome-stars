@@ -1691,7 +1691,7 @@
 - [SSAgov/ANDI](https://github.com/SSAgov/ANDI) - A tool to test web content for accessibility and 508 compliance.
 - [sidvishnoi/respec-preview](https://github.com/sidvishnoi/respec-preview) - Preview documents using a specific ReSpec version
 - [tobie/specref](https://github.com/tobie/specref) - An open-source, community-maintained database of Web standards & related references.
-- [w3c/respec](https://github.com/w3c/respec) - A tool for creating technical documents and web standards
+- [speced/respec](https://github.com/speced/respec) - A tool for creating technical documents and web standards
 - [cloud-gov/pages-uswds-gatsby](https://github.com/cloud-gov/pages-uswds-gatsby) - A template for Federalist that uses Gatsby and USWDS 2.0
 - [countxyz/nyc_code_browser](https://github.com/countxyz/nyc_code_browser) - Browser for the New York City Administrative Code.
 - [amsul/pickadate.js](https://github.com/amsul/pickadate.js) - The mobile-friendly, responsive, and lightweight jQuery date & time input picker.
