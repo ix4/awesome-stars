@@ -2340,7 +2340,7 @@
 - [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [cfpb/consumerfinance.gov](https://github.com/cfpb/consumerfinance.gov) - Django project protecting American consumers
 - [cfpb/design-system](https://github.com/cfpb/design-system) - CFPB's work-in-progress design system
-- [w3c/respec](https://github.com/w3c/respec) - A tool for creating technical documents and web standards
+- [speced/respec](https://github.com/speced/respec) - A tool for creating technical documents and web standards
 - [vsoch/docsy-jekyll](https://github.com/vsoch/docsy-jekyll) - A Jekyll version of the beautiful Docsy!
 - [rubygems/bundler-site](https://github.com/rubygems/bundler-site) - The Bundler documentation website
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
@@ -2895,7 +2895,7 @@
 - [Hypercontext/linkifyjs](https://github.com/Hypercontext/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
 - [britecharts/britecharts](https://github.com/britecharts/britecharts) - Composable Charting Library based on reusable D3.js components.
 - [SSAgov/ANDI](https://github.com/SSAgov/ANDI) - A tool to test web content for accessibility and 508 compliance.
-- [w3c/respec](https://github.com/w3c/respec) - A tool for creating technical documents and web standards
+- [speced/respec](https://github.com/speced/respec) - A tool for creating technical documents and web standards
 - [laws-africa/indigo](https://github.com/laws-africa/indigo) - Indigo Platform for publishing beautiful legislation.
 - [retextjs/retext](https://github.com/retextjs/retext) - natural language processor powered by plugins part of the @unifiedjs collective
 - [esdoc/esdoc](https://github.com/esdoc/esdoc) - ESDoc - Good Documentation for JavaScript
