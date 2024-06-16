@@ -953,6 +953,7 @@
 - [tariqbuilds/personal-finance-checkup](https://github.com/tariqbuilds/personal-finance-checkup) - A personal finance checkup webapp based on /r/personalfinance.
 - [vjeantet/hugo-theme-casper](https://github.com/vjeantet/hugo-theme-casper) - Casper theme ported to Hugo
 - [offlinefirst/offlinefirst.org](https://github.com/offlinefirst/offlinefirst.org) - website code
+- [Sefaria/Sefaria-Data](https://github.com/Sefaria/Sefaria-Data) - Source files, scripts and data imported to Sefaria.
 - [chromium/badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
 - [liyasthomas/lvr](https://github.com/liyasthomas/lvr) - 👓 Augmented Reality for everyone - Out of the world experiences
 - [liyasthomas/parkinglot](https://github.com/liyasthomas/parkinglot) - 🅿 Parking lot registration system built with pure JavaScript, HTML, CSS. https://liyasthomas.github.io/parkinglot
@@ -1534,7 +1535,7 @@
 - [fightforthefuture/votebot-api](https://github.com/fightforthefuture/votebot-api) - Voter Registration chatbot
 - [cdrini/wikidata-timeline](https://github.com/cdrini/wikidata-timeline) - web app for visualizing Wikidata items on a timeline
 - [kazysmaster/gnome-shell-extension-lockkeys](https://github.com/kazysmaster/gnome-shell-extension-lockkeys) - Numlock and Capslock indicator for gnome-shell
-- [TarikHuber/react-most-wanted](https://github.com/TarikHuber/react-most-wanted) - React starter kit with "Most Wanted" application features
+- [ecronix/react-most-wanted](https://github.com/ecronix/react-most-wanted) - React starter kit with "Most Wanted" application features
 - [kriasoft/react-firebase-starter](https://github.com/kriasoft/react-firebase-starter) - Boilerplate (seed) project for creating web apps with React.js, GraphQL.js and Relay
 - [johnkorzhuk/grabient](https://github.com/johnkorzhuk/grabient) - UI to generate linear-gradients
 - [windycom/leaflet-kml](https://github.com/windycom/leaflet-kml) - 🌎Leaflet KML layer plugin
@@ -2536,7 +2537,6 @@
 - [Leaflet/Leaflet.heat](https://github.com/Leaflet/Leaflet.heat) - A tiny, simple and fast heatmap plugin for Leaflet.
 - [Leaflet/Leaflet.draw](https://github.com/Leaflet/Leaflet.draw) - Vector drawing and editing plugin for Leaflet
 - [NYCPlanning/labs-waterfront-access](https://github.com/NYCPlanning/labs-waterfront-access) - 
-- [Esri/precipitation-app](https://github.com/Esri/precipitation-app) - See the real-time precipitation forecast  for the next three days, updated hourly from the National Weather service
 - [Esri/crowdsource-polling](https://github.com/Esri/crowdsource-polling) - Provides a means for citizens to provide feedback to their governments
 - [codeforamerica/BEAR](https://github.com/codeforamerica/BEAR) - Desktop app to analyze CA DOJ records for convictions eligible for Prop 64 relief
 - [mapshakers/leaflet-control-window](https://github.com/mapshakers/leaflet-control-window) - Simple popup window plugin for leaflet.
@@ -3361,7 +3361,6 @@
 - [jlord/sheetsee-maps](https://github.com/jlord/sheetsee-maps) - Module for adding maps to sheetsee.js
 - [DocNow/docnow](https://github.com/DocNow/docnow) - A Twitter data collection and appraisal application.
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [bryanbraun/twitter-listbot](https://github.com/bryanbraun/twitter-listbot) - A simple twitter bot that retweets the contents of a twitter list.
 - [Noleli/isyontefearlythisyear](https://github.com/Noleli/isyontefearlythisyear) - 
 - [NUKnightLab/socialvideo-prototype](https://github.com/NUKnightLab/socialvideo-prototype) - Summer 2017 Student Project
@@ -3428,7 +3427,6 @@
 
 ## Jinja 
 
-- [okfde/fragdenstaat.de-ansible](https://github.com/okfde/fragdenstaat.de-ansible) - Ansible Deployment for fragdenstaat.de
 - [jcalazan/ansible-django-stack](https://github.com/jcalazan/ansible-django-stack) - Ansible Playbook for setting up a Django app with Nginx, Gunicorn, PostgreSQL, Celery, RabbitMQ, Supervisor, Virtualenv, and Memcached. A Vagrantfile for provisioning a VirtualBox virtual machine is i
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 
@@ -3768,7 +3766,6 @@
 - [tefter/tefter](https://github.com/tefter/tefter) - The social bookmarking app for individuals and teams
 - [Hacker0x01/wallpapers](https://github.com/Hacker0x01/wallpapers) - HackerOne Wallpapers
 - [superfly/fly](https://github.com/superfly/fly) - Deploy app servers close to your users. Package your app as a Docker image, and launch it in 17 cities with one simple CLI.
-- [Sefaria/Sefaria-Data](https://github.com/Sefaria/Sefaria-Data) - Source files, scripts and data imported to Sefaria.
 - [Sefaria/Sefaria-Export](https://github.com/Sefaria/Sefaria-Export) - Structured Jewish texts and metadata exported from Sefaria's database.
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [zenorocha/alfred-workflows](https://github.com/zenorocha/alfred-workflows) - :metal: A collection of Alfred 3 and 4 workflows that will rock your world
@@ -4047,6 +4044,7 @@
 
 ## Perl 
 
+- [okfde/fragdenstaat.de-ansible](https://github.com/okfde/fragdenstaat.de-ansible) - Ansible Deployment for fragdenstaat.de
 - [powerman/asciidoc-cheatsheet](https://github.com/powerman/asciidoc-cheatsheet) - Asciidoc cheatsheet for GitHub
 - [moose1089/epoch2iso](https://github.com/moose1089/epoch2iso) - Converts UNIX Epoch time to ISO8601 date times.
 - [Moham3dRiahi/Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) - Th3Inspector 🕵️ Best Tool For Information Gathering 🔎
@@ -5680,6 +5678,7 @@
 - [automerge/pushpin](https://github.com/automerge/pushpin) - A collaborative corkboard app
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
 - [danvk/source-map-explorer](https://github.com/danvk/source-map-explorer) - Analyze and debug space usage through source maps
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
 - [vercel/xterm.js](https://github.com/vercel/xterm.js) - A terminal for the web
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
