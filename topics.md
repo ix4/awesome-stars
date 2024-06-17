@@ -49,6 +49,7 @@
 - [covid-19](#covid-19)
 - [cpp](#cpp)
 - [cryptocurrency](#cryptocurrency)
+- [cryptography](#cryptography)
 - [csharp](#csharp)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
@@ -1102,6 +1103,15 @@
 - [SuperuserLabs/thankful](https://github.com/SuperuserLabs/thankful) - Support free culture by automatically sending cryptocurrency to the creators of the content you love.
 - [vergecurrency/vergecurrency.com](https://github.com/vergecurrency/vergecurrency.com) - https://VergeCurrency.com - Official Site of Verge Currency ($XVG) :globe_with_meridians:
 - [hl2guide/All-in-One-Customized-Adblock-List](https://github.com/hl2guide/All-in-One-Customized-Adblock-List) - An all-in-one adblock list that thoroughly blocks trackers, popup ads, ads, unwanted cookies, fake news, cookie warning messages, typosquatters, unwanted comment sections, crypto-coin mining, YouTube 
+
+## cryptography 
+
+- [hacl-star/hacl-star](https://github.com/hacl-star/hacl-star) - HACL*, a formally verified cryptographic library written in F*
+- [digitalbazaar/forge](https://github.com/digitalbazaar/forge) - A native implementation of TLS in Javascript and tools to write crypto-based and network-heavy webapps
+- [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
+- [ThoughtfulDev/SupergirlOnCrypt](https://github.com/ThoughtfulDev/SupergirlOnCrypt) - CryptoTrojan in Python (For educational purpose ONLY)
+- [privacypass/challenge-bypass-extension](https://github.com/privacypass/challenge-bypass-extension) - DEPRECATED - Client for Privacy Pass protocol providing unlinkable cryptographic tokens
+- [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 
 ## csharp 
 
@@ -4624,7 +4634,7 @@
 - [adamschwartz/web.scraper.workers.dev](https://github.com/adamschwartz/web.scraper.workers.dev) - Scrape websites for text by CSS selector.
 - [wireservice/csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
 - [tomgood18/Hertz-UTS-Car-Rental](https://github.com/tomgood18/Hertz-UTS-Car-Rental) - Car Rental system written in Javascript, HTML and CSS using JSON
-- [Sujal-7/WikiSummarizerBot](https://github.com/Sujal-7/WikiSummarizerBot) - 
+- [sujalvaidya/WikiSummarizerBot](https://github.com/sujalvaidya/WikiSummarizerBot) - 
 - [CharlieEtienne/t2s](https://github.com/CharlieEtienne/t2s) - Google TextToSpeech 2 mp3
 - [nshores/my_usps_notifications](https://github.com/nshores/my_usps_notifications) - Notifications module built around the MyUsps python Library
 - [LeaVerou/dabblet](https://github.com/LeaVerou/dabblet) - An interactive CSS playground
