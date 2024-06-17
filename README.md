@@ -1437,6 +1437,7 @@
 - [sbidolach/mobile-gamepad](https://github.com/sbidolach/mobile-gamepad) - Mobile wifi gamepad for RetroPie
 - [cloudflare/cloudflare-docs-engine](https://github.com/cloudflare/cloudflare-docs-engine) - A documentation engine built on Gatsby, powering Cloudflare’s docs https://github.com/cloudflare/cloudflare-docs
 - [3oheme/uxbullshit](https://github.com/3oheme/uxbullshit) - UX bullshit generator
+- [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [google/lipsync](https://github.com/google/lipsync) - 
 - [Syncthetic/MorseCode](https://github.com/Syncthetic/MorseCode) - JavaScript Library to encode and decode morse code.
 - [cowlicks/privacypossum](https://github.com/cowlicks/privacypossum) - Privacy Possum makes tracking you less profitable
@@ -4140,7 +4141,7 @@
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [symerio/pgeocode](https://github.com/symerio/pgeocode) - Postal code geocoding and distance calculation
 - [wireservice/csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
-- [Sujal-7/WikiSummarizerBot](https://github.com/Sujal-7/WikiSummarizerBot) - 
+- [sujalvaidya/WikiSummarizerBot](https://github.com/sujalvaidya/WikiSummarizerBot) - 
 - [nshores/my_usps_notifications](https://github.com/nshores/my_usps_notifications) - Notifications module built around the MyUsps python Library
 - [maldevel/intelspy](https://github.com/maldevel/intelspy) - Perform automated network reconnaissance scans
 - [Kylmakalle/heroku-telegram-bot](https://github.com/Kylmakalle/heroku-telegram-bot) - Starter pack to host your Python Telegram Bot on Heroku for free.
@@ -4829,7 +4830,6 @@
 ## Ruby 
 
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
-- [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [lifen-labs/covid](https://github.com/lifen-labs/covid) - Covid-19 patients' self-monitoring at home via forms sent by SMS
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [foodcoops/foodsoft](https://github.com/foodcoops/foodsoft) - Web-based software to manage a non-profit food coop (product catalog, ordering, accounting, job scheduling).
