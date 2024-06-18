@@ -941,6 +941,7 @@
 - [mdn/kumascript](https://github.com/mdn/kumascript) - Bringing scripting to the wiki bears.
 - [kristoferjoseph/flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid) - Grid based on CSS3 flexbox
 - [fontforge/designwithfontforge.com](https://github.com/fontforge/designwithfontforge.com) - A book about how to design new typefaces with FontForge
+- [whatwg/whatwg.org](https://github.com/whatwg/whatwg.org) - The WHATWG website and other static resources
 - [whatwg/fetch](https://github.com/whatwg/fetch) - Fetch Standard
 - [ananyaneogi/harry-potter-ipsum](https://github.com/ananyaneogi/harry-potter-ipsum) - Harry Potter Lorem Ipsum
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
@@ -3749,7 +3750,6 @@
 - [dielduarte/awesome-microfronts](https://github.com/dielduarte/awesome-microfronts) - A curated list about Micro Fronts architecture and its implementations.
 - [marcoagpinto/aoo-mozilla-en-dict](https://github.com/marcoagpinto/aoo-mozilla-en-dict) - English Dictionaries Project (AOO+Mozilla+others)
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
-- [whatwg/whatwg.org](https://github.com/whatwg/whatwg.org) - The WHATWG website and other static resources
 - [supercomputra/SF-Mono-Font](https://github.com/supercomputra/SF-Mono-Font) - SF Mono Font
 - [croqaz/awesome-markup](https://github.com/croqaz/awesome-markup) - 🕶 Awesome list of markdown-like goodies
 - [usecue/fork-me-on-github-svg-ribbons](https://github.com/usecue/fork-me-on-github-svg-ribbons) - SVG versions of the ‘Fork me on GitHub’ ribbons
