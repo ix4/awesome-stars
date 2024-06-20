@@ -3164,7 +3164,6 @@
 - [node-geojson/openflights-geojson](https://github.com/node-geojson/openflights-geojson) - Download and reformat OpenFlights.org data into GeoJSON.
 - [geojson-xyz/geojson-xyz](https://github.com/geojson-xyz/geojson-xyz) - just get the geojson
 - [mbloch/mapshaper](https://github.com/mbloch/mapshaper) - Tools for editing Shapefile, GeoJSON, TopoJSON and CSV files
-- [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
 - [ENT8R/blacklistr](https://github.com/ENT8R/blacklistr) - A website for visualizing country specific data
 - [generalpiston/react-autosuggest-geocoder](https://github.com/generalpiston/react-autosuggest-geocoder) - react-autosuggest with suggestions from pelias services, such as geocode.earth.
 - [tangrams/tangram-play](https://github.com/tangrams/tangram-play) - Text editor web app for Tangram scenes
@@ -5653,6 +5652,7 @@
 - [smeijer/leaflet-geosearch](https://github.com/smeijer/leaflet-geosearch) - A geocoding/address-lookup library supporting various api providers.
 - [skeate/Leaflet.timeline](https://github.com/skeate/Leaflet.timeline) - Display arbitrary GeoJSON on a map with a timeline slider and play button
 - [Turfjs/turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript and TypeScript
+- [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
 - [vega/voyager](https://github.com/vega/voyager) - Visualization Tool for Data Exploration
 - [vega/editor](https://github.com/vega/editor) - Editor/IDE for Vega and Vega-Lite
