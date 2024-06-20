@@ -6471,7 +6471,7 @@
 - [gka/chroma.js](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations
 - [EthicalSource/contributor_covenant](https://github.com/EthicalSource/contributor_covenant) - Pledge your respect and appreciation for contributors of all kinds to your open source project.
 - [odyniec/imgareaselect](https://github.com/odyniec/imgareaselect) - ImgAreaSelect is a jQuery plugin for selecting a rectangular area of an image. It allows web developers to easily implement image cropping functionality, as well as other user interface features, such
-- [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) - Sphinx theme for readthedocs.org
+- [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) - Sphinx theme from Read the Docs
 - [OTRS/otrs](https://github.com/OTRS/otrs) - ((OTRS)) Community Edition is one of the most flexible web-based ticketing systems used for Customer Service, Help Desk, IT Service Management. Please note that ((OTRS)) Community Edition offers limit
 - [microsoft/vscode-recipes](https://github.com/microsoft/vscode-recipes) - 
 - [odyniec/POD-Web-View](https://github.com/odyniec/POD-Web-View) - Web application for previewing POD files
