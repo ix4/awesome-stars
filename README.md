@@ -1012,6 +1012,7 @@
 - [cloudfour/pwastats](https://github.com/cloudfour/pwastats) - A directory of Progressive Web App case studies.
 - [cofounders/legal](https://github.com/cofounders/legal) - Boilerplate legal templates for startups in Singapore
 - [TerriaJS/TerriaMap](https://github.com/TerriaJS/TerriaMap) - Catalog-based web geospatial visualisation platform.
+- [GSA/resources.data.gov](https://github.com/GSA/resources.data.gov) - Resources for open data and enterprise data inventory management
 - [brunob/leaflet.fullscreen](https://github.com/brunob/leaflet.fullscreen) - Leaflet.Control.FullScreen for Leaflet
 - [dj0001/Leaflet.timezones](https://github.com/dj0001/Leaflet.timezones) - Overlay timezones on a Leaflet Earth map
 - [programminghistorian/jekyll](https://github.com/programminghistorian/jekyll) - Jekyll-based static site for The Programming Historian
@@ -1370,6 +1371,7 @@
 
 ## JavaScript 
 
+- [jspreadsheet/ce](https://github.com/jspreadsheet/ce) - Jspreadsheet is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with other spreadsheet software.
 - [oldweb-today/oldweb-today](https://github.com/oldweb-today/oldweb-today) - Browse emulated browsers connected to old web sites in your browser!
 - [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -5035,7 +5037,6 @@
 - [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 - [codyogden/style-guide](https://github.com/codyogden/style-guide) - A little living style guide doc for my own use. 👍
 - [bullgit/bullgit.github.io](https://github.com/bullgit/bullgit.github.io) - The amazing bullgit homepage
-- [GSA/resources.data.gov](https://github.com/GSA/resources.data.gov) - Resources for open data and enterprise data inventory management
 - [mmistakes/jekyll-theme-basically-basic](https://github.com/mmistakes/jekyll-theme-basically-basic) - Your new Jekyll default theme.
 - [MehediH/Tweeten](https://github.com/MehediH/Tweeten) - An intuitive and powerful Twitter experience built for those who get real work done.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
