@@ -3213,7 +3213,7 @@
 - [ivanseidel/Is-Now-Illegal](https://github.com/ivanseidel/Is-Now-Illegal) - 🚫 A NERD protest against Trump's Immigration ban
 - [mooz/node-pdf-image](https://github.com/mooz/node-pdf-image) - Provides an interface to convert PDF's pages to png files in Node.js by using ImageMagick
 - [kohchihao/pdf2ppt](https://github.com/kohchihao/pdf2ppt) - PDF2PPT Telegram bot
-- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - Free & open-source JavaScript library to detect user's Browser, Engine, OS, CPU, and Device type/model. Runs either in browser (client-side) or node.js (server-side).
+- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - The Essential Tool for User-Agent Detection in JavaScript & Web Development.
 - [dotenorio/freeloader-of-data](https://github.com/dotenorio/freeloader-of-data) - A simple crawler or scraper to get open graph and other meta data from any website.
 - [beeman/micro-unfurl](https://github.com/beeman/micro-unfurl) - Small microservice that unfurls a URL and returns the OpenGraph meta data
 - [yfxie/jekpack](https://github.com/yfxie/jekpack) - Jekyll + Webpack = Jekpack 🛠
