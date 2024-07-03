@@ -785,6 +785,7 @@
 - [department-of-veterans-affairs/vets-design-system-documentation](https://github.com/department-of-veterans-affairs/vets-design-system-documentation) - Repository for design.va.gov website
 - [alphagov/gds-way](https://github.com/alphagov/gds-way) - How we build and operate products at GDS
 - [DFE-Digital/technical-guidance](https://github.com/DFE-Digital/technical-guidance) - Principles, standards and guidance for digital delivery teams
+- [ministryofjustice/fala](https://github.com/ministryofjustice/fala) - Find a Legal Adviser
 - [ministryofjustice/technical-guidance](https://github.com/ministryofjustice/technical-guidance) - How we build and operate products at the Ministry of Justice. • This repository is defined and managed in Terraform
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
@@ -4989,7 +4990,6 @@
 - [nytimes/library-customization-example](https://github.com/nytimes/library-customization-example) - An example repo that customizes Library behavior
 - [OssamaRafique/Covid-19-Statistics-Dashboard-Angular-9](https://github.com/OssamaRafique/Covid-19-Statistics-Dashboard-Angular-9) - 🦠Corona Virus / Covid 19 Tracker Dashboard With Awesome UI + PWA + NodeJS Scraper
 - [nasa/api-docs](https://github.com/nasa/api-docs) - api.nasa.gov
-- [ministryofjustice/fala](https://github.com/ministryofjustice/fala) - Find a Legal Adviser
 - [ministryofjustice/security-guidance](https://github.com/ministryofjustice/security-guidance) - Security guidance from the MOJ Digital & Technology Cybersecurity team
 - [cisagov/cyber.dhs.gov](https://github.com/cisagov/cyber.dhs.gov) - A site for CISA directives
 - [18F/brand](https://github.com/18F/brand) - 18F Brand
