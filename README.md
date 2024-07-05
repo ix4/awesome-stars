@@ -1425,7 +1425,7 @@
 - [kikiklang/pomme-page](https://github.com/kikiklang/pomme-page) - Big buttons with easy click startpage for a browser.
 - [z0ccc/comet](https://github.com/z0ccc/comet) - Browser extension to replace Youtube comments with Reddit comments or view the Reddit comments of any webpage.
 - [deep5050/memes-on-issues-action](https://github.com/deep5050/memes-on-issues-action) - greet the issue raiser with a custom message and a bonus programming meme :smile:
-- [code-charity/youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video web-extension] Enrich your experience & choice! 🧰100+clever features📌set&forget📌Longest-standing(yet rare&tough alone. Please help/join🧩us👨‍👩‍👧‍👧) ..⋮ {playback|content dis
+- [code-charity/youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video web-extension] Enrich your experience & choice! 🧰180+ options & clever features📌set+forget📌Longest-standing(yet rare&tough alone. Please help/join🧩us👨‍👩‍👧‍👧) ..⋮ {playback|
 - [ubershmekel/redditp](https://github.com/ubershmekel/redditp) - Convert any reddit page to a presentation or slide show
 - [jiangts/JS-OTP](https://github.com/jiangts/JS-OTP) - 100% Javascript Implementation of HOTP and TOTP for Two-Factor Authentication.
 - [w3irdrobot/interactive-menu](https://github.com/w3irdrobot/interactive-menu) - Building an Interactive Menu in Vanilla JavaScript
@@ -4723,7 +4723,6 @@
 - [kalliope-project/kalliope](https://github.com/kalliope-project/kalliope) - Kalliope is a framework that will help you to create your own personal assistant.
 - [keithito/tacotron](https://github.com/keithito/tacotron) - A TensorFlow implementation of Google's Tacotron speech synthesis with pre-trained model (unofficial)
 - [tensorflow/lingvo](https://github.com/tensorflow/lingvo) - Lingvo
-- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [realpython/python-speech-recognition](https://github.com/realpython/python-speech-recognition) - Speech Recognition with Python examples
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [realpython/image-fingerprinting](https://github.com/realpython/image-fingerprinting) - 
@@ -5309,7 +5308,7 @@
 - [azu/har-extractor](https://github.com/azu/har-extractor) - A CLI that extract har file to directory.
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [coroo/docsify-share](https://github.com/coroo/docsify-share) - A simple sharing button for Docsify. Within this plugin, we hope you can have your own sharing social media button easily e.g facebook, twitter and many more.
-- [Cherry/placeholders.dev](https://github.com/Cherry/placeholders.dev) - Generate custom placeholder images, powered by Cloudflare Workers in 200+ edge locations
+- [Cherry/placeholders.dev](https://github.com/Cherry/placeholders.dev) - Generate custom placeholder images, powered by Cloudflare Workers in 300+ edge locations
 - [lachenmayer/graphql-scraper](https://github.com/lachenmayer/graphql-scraper) - Extract structured data from the web using GraphQL.
 - [anbuksv/avantation](https://github.com/anbuksv/avantation) - Build OpenAPI3.0 specification from HAR.
 - [kevinschaich/mintable](https://github.com/kevinschaich/mintable) - 🍃 Automate your personal finances – for free, with no ads, and no data collection.
@@ -5668,12 +5667,13 @@
 - [jacktuck/unfurl](https://github.com/jacktuck/unfurl) - Metadata scraper with support for oEmbed, Twitter Cards and Open Graph Protocol for Node.js :zap:
 - [callumlocke/json-formatter](https://github.com/callumlocke/json-formatter) - Makes JSON easy to read.
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [muuvmuuv/vscode-sundial](https://github.com/muuvmuuv/vscode-sundial) - Changes your VS Code theme based on your sunset and sunrise
 - [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [probot/smee-client](https://github.com/probot/smee-client) - 🔴 Receives payloads then sends them to your local server
 - [auth0-blog/angular-d3-socketio](https://github.com/auth0-blog/angular-d3-socketio) - 
 - [cozmo/jsQR](https://github.com/cozmo/jsQR) - A pure javascript QR code reading library. This library takes in raw images and will locate, extract and parse any QR code found within.
+- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [danm/image-hash](https://github.com/danm/image-hash) - Create a hash from an image
 - [automerge/hypermerge](https://github.com/automerge/hypermerge) - Build p2p collaborative applications without any server infrastructure in Node.js
 - [pladaria/reconnecting-websocket](https://github.com/pladaria/reconnecting-websocket) - Reconnecting WebSocket. For Web, React Native, cli (Node.js)
