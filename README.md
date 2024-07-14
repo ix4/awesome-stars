@@ -5481,7 +5481,7 @@
 - [nicoespeon/sass-graph-viz](https://github.com/nicoespeon/sass-graph-viz) - Draw a visual graph of Sass dependencies
 - [nicoespeon/vscode-slides](https://github.com/nicoespeon/vscode-slides) - 👩‍🏫 VS Code as a presentation tool
 - [nicoespeon/abracadabra](https://github.com/nicoespeon/abracadabra) - Automated refactorings for VS Code (JS & TS) ✨ It's magic ✨
-- [nicoespeon/gitgraph.js](https://github.com/nicoespeon/gitgraph.js) - 👋 [Looking for maintainers] - A JavaScript library to draw pretty git graphs in the browser
+- [nicoespeon/gitgraph.js](https://github.com/nicoespeon/gitgraph.js) - [ARCHIVED] A JavaScript library to draw pretty git graphs in the browser
 - [tamino-martinius/ui-snippets-ascii-generator](https://github.com/tamino-martinius/ui-snippets-ascii-generator) - Create ASCII Art from any Image and play around with the different settings
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
