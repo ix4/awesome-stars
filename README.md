@@ -1744,7 +1744,7 @@
 - [AtomLinter/linter-jshint](https://github.com/AtomLinter/linter-jshint) - Atom linter plugin for JavaScript, using jshint.
 - [AtomLinter/linter-proselint](https://github.com/AtomLinter/linter-proselint) - A plugin for Atom Linter providing an interface to proselint.
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
-- [eslint/espree](https://github.com/eslint/espree) - An Esprima-compatible JavaScript parser
+- [eslint/espree](https://github.com/eslint/espree) - Monorepo for the JS language tools.
 - [nbluis/static-server](https://github.com/nbluis/static-server) - A simple static server written in node.js
 - [primer/doctocat](https://github.com/primer/doctocat) - A Gatsby theme for building Primer documentation sites
 - [jquery/sizzle](https://github.com/jquery/sizzle) - A sizzlin' hot selector engine.
@@ -3365,6 +3365,7 @@
 - [jlord/sheetsee-maps](https://github.com/jlord/sheetsee-maps) - Module for adding maps to sheetsee.js
 - [DocNow/docnow](https://github.com/DocNow/docnow) - A Twitter data collection and appraisal application.
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [bryanbraun/twitter-listbot](https://github.com/bryanbraun/twitter-listbot) - A simple twitter bot that retweets the contents of a twitter list.
 - [Noleli/isyontefearlythisyear](https://github.com/Noleli/isyontefearlythisyear) - 
 - [NUKnightLab/socialvideo-prototype](https://github.com/NUKnightLab/socialvideo-prototype) - Summer 2017 Student Project
@@ -5680,7 +5681,6 @@
 - [automerge/pushpin](https://github.com/automerge/pushpin) - A collaborative corkboard app
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
 - [danvk/source-map-explorer](https://github.com/danvk/source-map-explorer) - Analyze and debug space usage through source maps
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
 - [vercel/xterm.js](https://github.com/vercel/xterm.js) - A terminal for the web
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
