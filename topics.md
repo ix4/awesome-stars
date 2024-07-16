@@ -5273,7 +5273,7 @@
 - [AtomLinter/linter-jshint](https://github.com/AtomLinter/linter-jshint) - Atom linter plugin for JavaScript, using jshint.
 - [AtomLinter/linter-proselint](https://github.com/AtomLinter/linter-proselint) - A plugin for Atom Linter providing an interface to proselint.
 - [jwilk/mwic](https://github.com/jwilk/mwic) - Misspelled Words In Context
-- [eslint/espree](https://github.com/eslint/espree) - An Esprima-compatible JavaScript parser
+- [eslint/espree](https://github.com/eslint/espree) - Monorepo for the JS language tools.
 - [opencensus-beam/opencensus_zipkin](https://github.com/opencensus-beam/opencensus_zipkin) - OpenCensus reporter for Zipkin
 - [ocaml/odoc](https://github.com/ocaml/odoc) - Documentation compiler for OCaml and Reason
 - [nbluis/static-server](https://github.com/nbluis/static-server) - A simple static server written in node.js
