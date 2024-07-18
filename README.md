@@ -281,6 +281,7 @@
 - [atom/node-spellchecker](https://github.com/atom/node-spellchecker) - SpellChecker Node Module
 - [osmcode/osm-gis-export](https://github.com/osmcode/osm-gis-export) - Export OSM data to GIS formats like Shapefiles, Spatialite or PostGIS.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [gartnera/headunit](https://github.com/gartnera/headunit) - Headunit for Android Auto
 - [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework
 - [f1xpl/openauto](https://github.com/f1xpl/openauto) - AndroidAuto headunit emulator
@@ -3774,7 +3775,6 @@
 - [Hacker0x01/wallpapers](https://github.com/Hacker0x01/wallpapers) - HackerOne Wallpapers
 - [superfly/fly](https://github.com/superfly/fly) - Deploy app servers close to your users. Package your app as a Docker image, and launch it in 17 cities with one simple CLI.
 - [Sefaria/Sefaria-Export](https://github.com/Sefaria/Sefaria-Export) - Structured Jewish texts and metadata exported from Sefaria's database.
-- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [zenorocha/alfred-workflows](https://github.com/zenorocha/alfred-workflows) - :metal: A collection of Alfred 3 and 4 workflows that will rock your world
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [christiannaths/redacted-font](https://github.com/christiannaths/redacted-font) - Keep your wireframes free of distracting Lorem Ipsum.
