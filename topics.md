@@ -3255,7 +3255,7 @@
 - [forwardemail/free-email-forwarding](https://github.com/forwardemail/free-email-forwarding) - The best free email forwarding for custom domains.  Visit our website to get started (SMTP server)
 - [chrisdiana/cms.js](https://github.com/chrisdiana/cms.js) - Client-Side JavaScript Site Generator
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
-- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
+- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 - [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
 - [the-crib/thread-unroll](https://github.com/the-crib/thread-unroll) - Unrolls twitter thread and sends it as a DM to anyone that mentions the bot on the thread.
 - [gdad-s-river/create-twitter-thread](https://github.com/gdad-s-river/create-twitter-thread) - Turn a long string into twitter thread with tweets' length (&lt;= 280 chars) stored in an array of strings 🎉🎊
@@ -3564,7 +3564,7 @@
 - [javierbyte/control-user-cursor](https://github.com/javierbyte/control-user-cursor) - Small experiment to 'control' the user cursor with JavaScript and CSS.
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [PJijin/Cover-Image-Generator](https://github.com/PJijin/Cover-Image-Generator) - 📕 Generate a cover image for your blog post 📝 https://blogcover.now.sh/
-- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
+- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 - [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 - [kroitor/asciichart](https://github.com/kroitor/asciichart) - Nice-looking lightweight console ASCII line charts ╭┈╯ for NodeJS, browsers and terminal, no dependencies
 - [fregante/object-fit-images](https://github.com/fregante/object-fit-images) - 🗻 Polyfill object-fit/object-position on &lt;img&gt;: IE9, IE10, IE11, Edge, Safari, ...
@@ -3606,7 +3606,7 @@
 - [mholt/json-to-go](https://github.com/mholt/json-to-go) - Translates JSON into a Go type in your browser instantly (original)
 - [gherardovarando/leaflet-map-builder](https://github.com/gherardovarando/leaflet-map-builder) - 
 - [rbren/rss-parser](https://github.com/rbren/rss-parser) - A lightweight RSS parser, for Node and the browser
-- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
+- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 - [georgemandis/jekyll-json-feeds](https://github.com/georgemandis/jekyll-json-feeds) - Templates for rendering JSON feeds for your Jekyll blog
 - [xtrime-ru/TelegramRSS](https://github.com/xtrime-ru/TelegramRSS) - Convert telegram posts to RSS or json in amphp server
 - [schmich/hearthstone-card-images](https://github.com/schmich/hearthstone-card-images) - (Archived, see below) Hearthstone card image repository
