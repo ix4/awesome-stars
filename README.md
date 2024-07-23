@@ -2673,7 +2673,6 @@
 - [opentok/accelerator-screen-sharing-js](https://github.com/opentok/accelerator-screen-sharing-js) - Accelerator Screen Sharing JS provides an easy way to get started in implementing interoperable screen sharing using the OpenTok platform.
 - [semreg/hightly-legacy](https://github.com/semreg/hightly-legacy) - WebRTC-based screen share web app
 - [opentok/accelerator-core-js](https://github.com/opentok/accelerator-core-js) - Accelerator Core provides a simple way to integrate real-time audio/video into your web application using the OpenTok Platform
-- [stackpath/serverless-scripting-examples](https://github.com/stackpath/serverless-scripting-examples) - SP// Serverless Scripting Examples
 - [opentok/insights-dashboard-sample](https://github.com/opentok/insights-dashboard-sample) - Sample React app utilizing the OpenTok Insights GraphQL API
 - [opentok/opentok-rtc](https://github.com/opentok/opentok-rtc) - OpenTok demo application
 - [havfo/SipCaller](https://github.com/havfo/SipCaller) - React SIP user agent
