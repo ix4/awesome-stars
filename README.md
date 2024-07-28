@@ -3231,7 +3231,6 @@
 - [voxmedia/meme](https://github.com/voxmedia/meme) - Meme generator
 - [simplegeo/polymaps](https://github.com/simplegeo/polymaps) - Polymaps is a free JavaScript library for making dynamic, interactive maps in modern web browsers.
 - [remotestorage/myfavoritedrinks](https://github.com/remotestorage/myfavoritedrinks) - Example of a simple remoteStorage-enabled app using a custom data module
-- [remotestorage/remotestorage.js](https://github.com/remotestorage/remotestorage.js) - ⬡ JavaScript client library for integrating remoteStorage in apps
 - [pia-foss/extension-chrome](https://github.com/pia-foss/extension-chrome) - Private Internet Access - Chrome Extension
 - [asciidoctor/asciidoctor.js](https://github.com/asciidoctor/asciidoctor.js) - :scroll: A JavaScript port of Asciidoctor, a modern implementation of AsciiDoc
 - [bluzi/name-db](https://github.com/bluzi/name-db) - :rocket: A multilingual collection of names from around the world
@@ -4146,7 +4145,7 @@
 - [nshores/my_usps_notifications](https://github.com/nshores/my_usps_notifications) - Notifications module built around the MyUsps python Library
 - [maldevel/intelspy](https://github.com/maldevel/intelspy) - Perform automated network reconnaissance scans
 - [Kylmakalle/heroku-telegram-bot](https://github.com/Kylmakalle/heroku-telegram-bot) - Starter pack to host your Python Telegram Bot on Heroku for free.
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.
 - [localhoct/Video-Downloader-Telegram-Bot](https://github.com/localhoct/Video-Downloader-Telegram-Bot) - This bot use youtube-dl to download video from URLs which you can't download from for example Youtube Videos
 - [Juhannuspukki/gatekeeper-bot](https://github.com/Juhannuspukki/gatekeeper-bot) - This Telegram bot automatically restricts every user, and provides a button with which they can redeem themselves.
 - [beothorn/botline](https://github.com/beothorn/botline) - Telegram bot that can run some commands
@@ -5667,6 +5666,7 @@
 - [jacktuck/unfurl](https://github.com/jacktuck/unfurl) - Metadata scraper with support for oEmbed, Twitter Cards and Open Graph Protocol for Node.js :zap:
 - [callumlocke/json-formatter](https://github.com/callumlocke/json-formatter) - Makes JSON easy to read.
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
+- [remotestorage/remotestorage.js](https://github.com/remotestorage/remotestorage.js) - ⬡ JavaScript client library for integrating remoteStorage in apps
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [muuvmuuv/vscode-sundial](https://github.com/muuvmuuv/vscode-sundial) - Changes your VS Code theme based on your sunset and sunrise
 - [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
