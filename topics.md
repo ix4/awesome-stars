@@ -4658,7 +4658,6 @@
 - [bhdresh/Whatsapp-IP-leak](https://github.com/bhdresh/Whatsapp-IP-leak) - Leak the IP address and Geolocation of target whatsapp user
 - [Sea-n/tgpe](https://github.com/Sea-n/tgpe) - Shortest URL Shortener for Telegram Bot
 - [waveshare/LCD-show](https://github.com/waveshare/LCD-show) - 
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
 - [Juhannuspukki/gatekeeper-bot](https://github.com/Juhannuspukki/gatekeeper-bot) - This Telegram bot automatically restricts every user, and provides a button with which they can redeem themselves.
 - [beothorn/botline](https://github.com/beothorn/botline) - Telegram bot that can run some commands
 - [grantjenks/python-wordsegment](https://github.com/grantjenks/python-wordsegment) - English word segmentation, written in pure-Python, and based on a trillion-word corpus.
@@ -5008,7 +5007,6 @@
 - [ongov/Digital-Service-Standard](https://github.com/ongov/Digital-Service-Standard) - The Digital Service Standard sets out 13 points to help anyone build and deliver excellent government services.
 - [bcgov/digital-principles](https://github.com/bcgov/digital-principles) - A set of principles to guide the Province of BC's continued Digital Government evolution
 - [bcgov/castor](https://github.com/bcgov/castor) - Castor - decision support model for forest and land management
-- [bcgov/design-system](https://github.com/bcgov/design-system) - The B.C. Design System helps public sector design and development teams build consistent, accessible products
 - [ministryofjustice/hmpps-digital-tech-radar](https://github.com/ministryofjustice/hmpps-digital-tech-radar) - Visualizing HMPPS Digital's technology choices
 - [ministryofjustice/offender-assessments-api](https://github.com/ministryofjustice/offender-assessments-api) - 
 - [ministryofjustice/hmcts-common-platform-mock-api](https://github.com/ministryofjustice/hmcts-common-platform-mock-api) - Mock for HMCTS Common Platform API
@@ -8207,6 +8205,7 @@
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [bcgov/range-web](https://github.com/bcgov/range-web) - The Range Mobile Pathfinder project is developing a suite of applications to support the sustainable management of cattle range on crown lands in British Columbia.
 - [bcgov/jag-ecrc](https://github.com/bcgov/jag-ecrc) - Ministry of Attorney General - eCRC
+- [bcgov/design-system](https://github.com/bcgov/design-system) - The B.C. Design System helps public sector design and development teams build consistent, accessible products
 - [tabler/tabler-react](https://github.com/tabler/tabler-react) - React components and demo for the Tabler UI theme.
 - [Shopify/web-configs](https://github.com/Shopify/web-configs) - Common configurations for building web apps at Shopify
 - [formio/formio.js](https://github.com/formio/formio.js) - JavaScript powered Forms with JSON Form Builder
@@ -8480,6 +8479,7 @@
 
 ## robotics 
 
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.
 - [cbfinn/gps](https://github.com/cbfinn/gps) - Guided Policy Search
 - [hybridgroup/gobot](https://github.com/hybridgroup/gobot) - Golang framework for robotics, drones, and the Internet of Things (IoT)
 - [rwaldron/johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework, developed at Bocoup.
