@@ -5323,7 +5323,6 @@
 - [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup) - Git-integrated backup tool for macOS and Linux devs.
 - [kurtsson/jekyll-multiple-languages-plugin](https://github.com/kurtsson/jekyll-multiple-languages-plugin) - I18n support for Jekyll and Octopress
 - [bramstein/fontfaceobserver](https://github.com/bramstein/fontfaceobserver) - Webfont loading. Simple, small, and efficient.
-- [wildhaber/gohugo-amp](https://github.com/wildhaber/gohugo-amp) - ⚡ AMP starter theme for gohugo https://gohugo-amp.gohugohq.com
 - [linode/agreements](https://github.com/linode/agreements) - Linode's Legal Agreements
 - [linode/docs](https://github.com/linode/docs) - Linode guides and tutorials.
 - [decaporg/one-click-hugo-cms](https://github.com/decaporg/one-click-hugo-cms) - Hugo template with Decap CMS
