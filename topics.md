@@ -3455,7 +3455,7 @@
 - [georgemandis/jekyll-json-feeds](https://github.com/georgemandis/jekyll-json-feeds) - Templates for rendering JSON feeds for your Jekyll blog
 - [nielsenramon/chalk](https://github.com/nielsenramon/chalk) - Chalk is a high quality, completely customizable, performant and 100% free Jekyll blog theme.
 - [christian-fei/Simple-Jekyll-Search](https://github.com/christian-fei/Simple-Jekyll-Search) - A JavaScript library to add search functionality to any Jekyll blog.
-- [murraco/jekyll-theme-minimal-resume](https://github.com/murraco/jekyll-theme-minimal-resume) - Simple Jekyll theme for a minimal resume website: https://jekyll-theme-minimal-resume.netlify.com
+- [murraco/jekyll-theme-minimal-resume](https://github.com/murraco/jekyll-theme-minimal-resume) - Simple Jekyll theme for a minimal resume website: https://jekyll-theme-minimal-resume.netlify.app
 - [gustavoquinalha/jekyll-help-center-theme](https://github.com/gustavoquinalha/jekyll-help-center-theme) - Simple and responsive Jekyll theme for help center.
 - [samanyougarg/hanuman](https://github.com/samanyougarg/hanuman) - A responsive, lightning-fast Jekyll theme built using AMP (Accelerated Mobile Pages) to speed up your blogs and websites.
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
@@ -3519,7 +3519,7 @@
 - [wowthemesnet/affiliates-jekyll-theme](https://github.com/wowthemesnet/affiliates-jekyll-theme) - Affiliates - Jekyll Blogging Theme for Affiliate Marketers
 - [wowthemesnet/mediumish-theme-jekyll](https://github.com/wowthemesnet/mediumish-theme-jekyll) - Jekyll Template - Mediumish
 - [nielsenramon/chalk](https://github.com/nielsenramon/chalk) - Chalk is a high quality, completely customizable, performant and 100% free Jekyll blog theme.
-- [murraco/jekyll-theme-minimal-resume](https://github.com/murraco/jekyll-theme-minimal-resume) - Simple Jekyll theme for a minimal resume website: https://jekyll-theme-minimal-resume.netlify.com
+- [murraco/jekyll-theme-minimal-resume](https://github.com/murraco/jekyll-theme-minimal-resume) - Simple Jekyll theme for a minimal resume website: https://jekyll-theme-minimal-resume.netlify.app
 - [Huxpro/huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) - My Blog / Jekyll Themes / PWA
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 - [github/pages-gem](https://github.com/github/pages-gem) - A simple Ruby Gem to bootstrap dependencies for setting up and maintaining a local Jekyll environment in sync with GitHub Pages
