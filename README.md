@@ -5057,7 +5057,7 @@
 - [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
 - [mmistakes/so-simple-theme](https://github.com/mmistakes/so-simple-theme) - A simple Jekyll theme for words and pictures.
 - [Gaohaoyang/gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io) - blog & blog theme🤘
-- [murraco/jekyll-theme-minimal-resume](https://github.com/murraco/jekyll-theme-minimal-resume) - Simple Jekyll theme for a minimal resume website: https://jekyll-theme-minimal-resume.netlify.com
+- [murraco/jekyll-theme-minimal-resume](https://github.com/murraco/jekyll-theme-minimal-resume) - Simple Jekyll theme for a minimal resume website: https://jekyll-theme-minimal-resume.netlify.app
 - [jekyll/minima](https://github.com/jekyll/minima) - Minima is a one-size-fits-all Jekyll theme for writers.
 - [jessepollak/card](https://github.com/jessepollak/card) - :credit_card: make your credit card form better in one line of code
 - [alexlitel/congresstweets](https://github.com/alexlitel/congresstweets) - Datasets of the daily Twitter output of Congress.
