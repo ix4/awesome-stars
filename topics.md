@@ -2517,7 +2517,7 @@
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [traccar/traccar](https://github.com/traccar/traccar) - Traccar GPS Tracking System
 - [Nukesor/ultimate-poll-bot](https://github.com/Nukesor/ultimate-poll-bot) - :bulb: The ultimate vote and poll bot for creating, sharing and evaluating polls inside of Telegram
-- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - The Essential Tool for User-Agent Detection in JavaScript & Web Development.
+- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - The Essential Web Development Tool for User-Agent Detection.
 - [dotenorio/freeloader-of-data](https://github.com/dotenorio/freeloader-of-data) - A simple crawler or scraper to get open graph and other meta data from any website.
 - [IonicaBizau/hebrew-date](https://github.com/IonicaBizau/hebrew-date) - :calendar: Convert the date objects into the Hebrew calendar correspondant.
 - [asciidoctor/asciidoctor.js](https://github.com/asciidoctor/asciidoctor.js) - :scroll: A JavaScript port of Asciidoctor, a modern implementation of AsciiDoc
