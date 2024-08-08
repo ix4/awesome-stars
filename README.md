@@ -3361,6 +3361,7 @@
 - [jlord/sheetsee-maps](https://github.com/jlord/sheetsee-maps) - Module for adding maps to sheetsee.js
 - [DocNow/docnow](https://github.com/DocNow/docnow) - A Twitter data collection and appraisal application.
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [bryanbraun/twitter-listbot](https://github.com/bryanbraun/twitter-listbot) - A simple twitter bot that retweets the contents of a twitter list.
 - [Noleli/isyontefearlythisyear](https://github.com/Noleli/isyontefearlythisyear) - 
 - [NUKnightLab/socialvideo-prototype](https://github.com/NUKnightLab/socialvideo-prototype) - Summer 2017 Student Project
@@ -4210,7 +4211,6 @@
 - [Mascobot/pandemic-ventilator-2.0](https://github.com/Mascobot/pandemic-ventilator-2.0) - Open Source Pandemic Ventilator with Raspberry Pi and Arduino
 - [eliddell1/FistBump](https://github.com/eliddell1/FistBump) - ProtoType for a handheld device used to grab WPA four way handshakes
 - [cisagov/check-your-pulse](https://github.com/cisagov/check-your-pulse) - This utility can help determine if indicators of compromise (IOCs) exist in the log files of a Pulse Secure VPN Appliance for CVE-2019-11510.
-- [kwsp/COVID-LCD](https://github.com/kwsp/COVID-LCD) - Display live Covid 19 data on a LCD display with a Raspberry Pi
 - [hkm/whoishere.py](https://github.com/hkm/whoishere.py) - WIFI Client Detection - Identify people by assigning a name to a device performing a wireless probe request.
 - [wlanslovenija/tunneldigger](https://github.com/wlanslovenija/tunneldigger) - L2TPv3 VPN tunneling solution
 - [SkypLabs/probequest](https://github.com/SkypLabs/probequest) - Toolkit for Playing with Wi-Fi Probe Requests
@@ -5679,7 +5679,6 @@
 - [automerge/pushpin](https://github.com/automerge/pushpin) - A collaborative corkboard app
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
 - [danvk/source-map-explorer](https://github.com/danvk/source-map-explorer) - Analyze and debug space usage through source maps
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
 - [vercel/xterm.js](https://github.com/vercel/xterm.js) - A terminal for the web
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
